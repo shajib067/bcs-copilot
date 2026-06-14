@@ -1,0 +1,376 @@
+export const QUESTIONS = [
+  // ============ বাংলা ভাষা ও সাহিত্য ============
+  {
+    id: 'bn-1',
+    categoryId: 'bangla',
+    question: '"অগ্নিবীণা" কাব্যগ্রন্থের রচয়িতা কে?',
+    options: ['রবীন্দ্রনাথ ঠাকুর', 'কাজী নজরুল ইসলাম', 'জসীম উদ্‌দীন', 'সুকান্ত ভট্টাচার্য'],
+    answerIndex: 1,
+    explanation: '"অগ্নিবীণা" কাজী নজরুল ইসলামের প্রথম কাব্যগ্রন্থ, প্রকাশিত হয় ১৯২২ সালে।',
+  },
+  {
+    id: 'bn-2',
+    categoryId: 'bangla',
+    question: '"পদ্মা নদীর মাঝি" উপন্যাসের রচয়িতা কে?',
+    options: [
+      'মানিক বন্দ্যোপাধ্যায়',
+      'তারাশঙ্কর বন্দ্যোপাধ্যায়',
+      'বিভূতিভূষণ বন্দ্যোপাধ্যায়',
+      'শরৎচন্দ্র চট্টোপাধ্যায়',
+    ],
+    answerIndex: 0,
+    explanation: '"পদ্মা নদীর মাঝি" মানিক বন্দ্যোপাধ্যায়ের রচিত একটি বিখ্যাত উপন্যাস, প্রকাশিত হয় ১৯৩৬ সালে।',
+  },
+  {
+    id: 'bn-3',
+    categoryId: 'bangla',
+    question: '"সঞ্চয়িতা" কাব্যগ্রন্থের রচয়িতা কে?',
+    options: ['রবীন্দ্রনাথ ঠাকুর', 'কাজী নজরুল ইসলাম', 'জীবনানন্দ দাশ', 'সত্যেন্দ্রনাথ দত্ত'],
+    answerIndex: 0,
+    explanation: '"সঞ্চয়িতা" রবীন্দ্রনাথ ঠাকুরের কবিতার সংকলন।',
+  },
+  {
+    id: 'bn-4',
+    categoryId: 'bangla',
+    question: 'বাংলা ভাষায় প্রথম মুসলিম কবি কে?',
+    options: ['শাহ মুহাম্মদ সগীর', 'আলাওল', 'দৌলত কাজী', 'সৈয়দ সুলতান'],
+    answerIndex: 0,
+    explanation: 'শাহ মুহাম্মদ সগীর বাংলা ভাষার প্রথম মুসলিম কবি; তাঁর রচিত কাব্য "ইউসুফ-জুলেখা"।',
+  },
+  {
+    id: 'bn-5',
+    categoryId: 'bangla',
+    question: '"কপালকুণ্ডলা" কোন ধরনের রচনা?',
+    options: ['উপন্যাস', 'নাটক', 'কাব্যগ্রন্থ', 'প্রবন্ধ'],
+    answerIndex: 0,
+    explanation: '"কপালকুণ্ডলা" বঙ্কিমচন্দ্র চট্টোপাধ্যায় রচিত একটি রোমান্টিক উপন্যাস (১৮৬৬)।',
+  },
+  {
+    id: 'bn-6',
+    categoryId: 'bangla',
+    question: '"চর্যাপদ" আবিষ্কার করেন কে?',
+    options: ['হরপ্রসাদ শাস্ত্রী', 'সুনীতিকুমার চট্টোপাধ্যায়', 'মুহম্মদ শহীদুল্লাহ', 'দীনেশচন্দ্র সেন'],
+    answerIndex: 0,
+    explanation: 'মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রাজদরবার থেকে চর্যাপদ আবিষ্কার করেন।',
+  },
+
+  // ============ English Language & Literature ============
+  {
+    id: 'en-1',
+    categoryId: 'english',
+    question: 'Who is the author of "Hamlet"?',
+    options: ['William Shakespeare', 'Christopher Marlowe', 'John Milton', 'Geoffrey Chaucer'],
+    answerIndex: 0,
+    explanation: '"Hamlet" is a tragedy written by William Shakespeare around 1599-1601.',
+  },
+  {
+    id: 'en-2',
+    categoryId: 'english',
+    question: 'Choose the correct spelling:',
+    options: ['Accommodation', 'Acommodation', 'Accomodation', 'Acomodation'],
+    answerIndex: 0,
+    explanation: 'The correct spelling is "Accommodation" — with double "c" and double "m".',
+  },
+  {
+    id: 'en-3',
+    categoryId: 'english',
+    question: 'The synonym of "Benevolent" is:',
+    options: ['Malicious', 'Kind', 'Cruel', 'Selfish'],
+    answerIndex: 1,
+    explanation: '"Benevolent" means well-meaning and kindly. Its closest synonym is "Kind".',
+  },
+  {
+    id: 'en-4',
+    categoryId: 'english',
+    question: 'Identify the part of speech of the underlined word: "She runs *quickly*."',
+    options: ['Noun', 'Verb', 'Adverb', 'Adjective'],
+    answerIndex: 2,
+    explanation: '"Quickly" modifies the verb "runs" and is therefore an adverb.',
+  },
+  {
+    id: 'en-5',
+    categoryId: 'english',
+    question: 'Who wrote "Paradise Lost"?',
+    options: ['William Wordsworth', 'John Milton', 'John Keats', 'Lord Byron'],
+    answerIndex: 1,
+    explanation: '"Paradise Lost" is an epic poem in blank verse by John Milton, published in 1667.',
+  },
+  {
+    id: 'en-6',
+    categoryId: 'english',
+    question: 'Choose the correct passive: "They built this house in 1990."',
+    options: [
+      'This house was built in 1990.',
+      'This house is built in 1990.',
+      'This house has been built in 1990.',
+      'This house had built in 1990.',
+    ],
+    answerIndex: 0,
+    explanation: 'Simple past active becomes "was/were + past participle" in passive: "This house was built in 1990."',
+  },
+
+  // ============ বাংলাদেশ বিষয়াবলী ============
+  {
+    id: 'bd-1',
+    categoryId: 'bd_affairs',
+    question: 'বাংলাদেশের সংবিধান কত সালে গৃহীত হয়?',
+    options: ['১৯৭১', '১৯৭২', '১৯৭৩', '১৯৭৪'],
+    answerIndex: 1,
+    explanation: 'বাংলাদেশের সংবিধান গণপরিষদে গৃহীত হয় ৪ নভেম্বর ১৯৭২ এবং কার্যকর হয় ১৬ ডিসেম্বর ১৯৭২।',
+  },
+  {
+    id: 'bd-2',
+    categoryId: 'bd_affairs',
+    question: 'বাংলাদেশের জাতীয় ফুল কোনটি?',
+    options: ['গোলাপ', 'শাপলা', 'পদ্ম', 'বেলি'],
+    answerIndex: 1,
+    explanation: 'শাপলা (Nymphaea nouchali) বাংলাদেশের জাতীয় ফুল।',
+  },
+  {
+    id: 'bd-3',
+    categoryId: 'bd_affairs',
+    question: 'মুক্তিযুদ্ধের সময় বাংলাদেশকে কয়টি সেক্টরে বিভক্ত করা হয়েছিল?',
+    options: ['৯', '১০', '১১', '১২'],
+    answerIndex: 2,
+    explanation: '১৯৭১ সালের মুক্তিযুদ্ধে বাংলাদেশকে ১১টি সেক্টরে বিভক্ত করা হয়।',
+  },
+  {
+    id: 'bd-4',
+    categoryId: 'bd_affairs',
+    question: 'ঐতিহাসিক ৬ দফা কত সালে ঘোষিত হয়?',
+    options: ['১৯৬৪', '১৯৬৬', '১৯৬৮', '১৯৭০'],
+    answerIndex: 1,
+    explanation: 'বঙ্গবন্ধু শেখ মুজিবুর রহমান ১৯৬৬ সালের ৫-৬ ফেব্রুয়ারি লাহোরে ঐতিহাসিক ৬ দফা ঘোষণা করেন।',
+  },
+  {
+    id: 'bd-5',
+    categoryId: 'bd_affairs',
+    question: 'বাংলাদেশের বৃহত্তম জেলা কোনটি (আয়তনে)?',
+    options: ['ঢাকা', 'রাঙ্গামাটি', 'বরিশাল', 'চট্টগ্রাম'],
+    answerIndex: 1,
+    explanation: 'রাঙ্গামাটি বাংলাদেশের আয়তনে বৃহত্তম জেলা (প্রায় ৬,১১৬ বর্গ কিমি)।',
+  },
+
+  // ============ আন্তর্জাতিক বিষয়াবলী ============
+  {
+    id: 'int-1',
+    categoryId: 'intl_affairs',
+    question: 'জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?',
+    options: ['প্যারিস', 'লন্ডন', 'নিউইয়র্ক', 'জেনেভা'],
+    answerIndex: 2,
+    explanation: 'জাতিসংঘের সদর দপ্তর মার্কিন যুক্তরাষ্ট্রের নিউইয়র্ক শহরে অবস্থিত।',
+  },
+  {
+    id: 'int-2',
+    categoryId: 'intl_affairs',
+    question: 'বিশ্ব বাণিজ্য সংস্থা (WTO) কত সালে প্রতিষ্ঠিত হয়?',
+    options: ['১৯৯৩', '১৯৯৪', '১৯৯৫', '১৯৯৬'],
+    answerIndex: 2,
+    explanation: 'WTO ১ জানুয়ারি ১৯৯৫ সালে প্রতিষ্ঠিত হয় (GATT-এর উত্তরসূরি হিসেবে)।',
+  },
+  {
+    id: 'int-3',
+    categoryId: 'intl_affairs',
+    question: 'SAARC প্রতিষ্ঠিত হয় কত সালে?',
+    options: ['১৯৮৩', '১৯৮৫', '১৯৮৭', '১৯৮৯'],
+    answerIndex: 1,
+    explanation: 'SAARC (South Asian Association for Regional Cooperation) ৮ ডিসেম্বর ১৯৮৫ সালে ঢাকায় প্রতিষ্ঠিত হয়।',
+  },
+  {
+    id: 'int-4',
+    categoryId: 'intl_affairs',
+    question: 'আন্তর্জাতিক আদালত (ICJ) কোথায় অবস্থিত?',
+    options: ['দ্য হেগ', 'জেনেভা', 'নিউইয়র্ক', 'ভিয়েনা'],
+    answerIndex: 0,
+    explanation: 'আন্তর্জাতিক বিচার আদালত (ICJ) নেদারল্যান্ডসের দ্য হেগ শহরে অবস্থিত।',
+  },
+
+  // ============ ভূগোল ============
+  {
+    id: 'geo-1',
+    categoryId: 'geography',
+    question: 'বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?',
+    options: ['কেওক্রাডং', 'তাজিনডং', 'মোদক মুয়াল', 'সাকা হাফং'],
+    answerIndex: 3,
+    explanation: 'সাকা হাফং (১,০৬৪ মিটার) বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ, যা বান্দরবান জেলায় অবস্থিত।',
+  },
+  {
+    id: 'geo-2',
+    categoryId: 'geography',
+    question: 'সুন্দরবন কোন দুটি দেশে বিস্তৃত?',
+    options: ['বাংলাদেশ-ভারত', 'বাংলাদেশ-মায়ানমার', 'বাংলাদেশ-নেপাল', 'ভারত-মায়ানমার'],
+    answerIndex: 0,
+    explanation: 'সুন্দরবন বাংলাদেশ ও ভারতের পশ্চিমবঙ্গে বিস্তৃত পৃথিবীর বৃহত্তম ম্যানগ্রোভ বন।',
+  },
+  {
+    id: 'geo-3',
+    categoryId: 'geography',
+    question: 'বাংলাদেশের জলবায়ু কেমন?',
+    options: ['ক্রান্তীয় মৌসুমি', 'নাতিশীতোষ্ণ', 'মরু', 'মেরু'],
+    answerIndex: 0,
+    explanation: 'বাংলাদেশের জলবায়ু ক্রান্তীয় মৌসুমি প্রকৃতির; ঋতুভেদে বৃষ্টিপাত ও তাপমাত্রার তারতম্য ঘটে।',
+  },
+
+  // ============ সাধারণ বিজ্ঞান ============
+  {
+    id: 'sc-1',
+    categoryId: 'science',
+    question: 'মানবদেহে মোট হাড়ের সংখ্যা কত?',
+    options: ['২০৬', '২০৮', '২১০', '২১২'],
+    answerIndex: 0,
+    explanation: 'প্রাপ্তবয়স্ক মানবদেহে মোট ২০৬টি হাড় থাকে।',
+  },
+  {
+    id: 'sc-2',
+    categoryId: 'science',
+    question: 'পানির রাসায়নিক সংকেত কী?',
+    options: ['H2O', 'HO2', 'H3O', 'HO'],
+    answerIndex: 0,
+    explanation: 'পানি দুটি হাইড্রোজেন ও একটি অক্সিজেন পরমাণু দিয়ে গঠিত — সংকেত H₂O।',
+  },
+  {
+    id: 'sc-3',
+    categoryId: 'science',
+    question: 'ভিটামিন "সি" এর রাসায়নিক নাম কী?',
+    options: ['অ্যাসকরবিক এসিড', 'সাইট্রিক এসিড', 'অক্সালিক এসিড', 'ল্যাকটিক এসিড'],
+    answerIndex: 0,
+    explanation: 'ভিটামিন C-এর রাসায়নিক নাম অ্যাসকরবিক এসিড (Ascorbic Acid)।',
+  },
+  {
+    id: 'sc-4',
+    categoryId: 'science',
+    question: 'আলোর গতি প্রতি সেকেন্ডে প্রায় কত?',
+    options: ['৩ লক্ষ কিমি', '৩০ লক্ষ কিমি', '৩ কোটি কিমি', '৩ হাজার কিমি'],
+    answerIndex: 0,
+    explanation: 'শূন্যস্থানে আলোর গতি প্রায় ৩ × ১০⁸ মিটার/সেকেন্ড অর্থাৎ ৩ লক্ষ কিলোমিটার/সেকেন্ড।',
+  },
+
+  // ============ কম্পিউটার ও তথ্য প্রযুক্তি ============
+  {
+    id: 'ict-1',
+    categoryId: 'ict',
+    question: 'WWW এর জনক কে?',
+    options: ['চার্লস ব্যাবেজ', 'টিম বার্নার্স-লি', 'বিল গেটস', 'স্টিভ জবস'],
+    answerIndex: 1,
+    explanation: 'টিম বার্নার্স-লি ১৯৮৯ সালে World Wide Web উদ্ভাবন করেন।',
+  },
+  {
+    id: 'ict-2',
+    categoryId: 'ict',
+    question: 'RAM এর পূর্ণরূপ কী?',
+    options: ['Random Access Memory', 'Read Access Memory', 'Run Access Memory', 'Read Allow Memory'],
+    answerIndex: 0,
+    explanation: 'RAM = Random Access Memory; এটি একটি অস্থায়ী (volatile) মেমরি।',
+  },
+  {
+    id: 'ict-3',
+    categoryId: 'ict',
+    question: 'নিচের কোনটি ইনপুট ডিভাইস নয়?',
+    options: ['কী-বোর্ড', 'মাউস', 'মনিটর', 'স্ক্যানার'],
+    answerIndex: 2,
+    explanation: 'মনিটর একটি আউটপুট ডিভাইস; কী-বোর্ড, মাউস ও স্ক্যানার ইনপুট ডিভাইস।',
+  },
+  {
+    id: 'ict-4',
+    categoryId: 'ict',
+    question: 'IP এর পূর্ণরূপ কী?',
+    options: ['Internet Provider', 'Internet Protocol', 'Internal Protocol', 'Inter Process'],
+    answerIndex: 1,
+    explanation: 'IP = Internet Protocol; এটি নেটওয়ার্কে ডেটা প্যাকেট প্রেরণের নিয়ম নির্ধারণ করে।',
+  },
+
+  // ============ গাণিতিক যুক্তি ============
+  {
+    id: 'math-1',
+    categoryId: 'math',
+    question: 'একটি সংখ্যার ৩০% যদি ৬০ হয়, তবে সংখ্যাটি কত?',
+    options: ['১৮০', '২০০', '২২০', '২৪০'],
+    answerIndex: 1,
+    explanation: '৩০% × x = ৬০ ⇒ x = ৬০ ÷ ০.৩০ = ২০০।',
+  },
+  {
+    id: 'math-2',
+    categoryId: 'math',
+    question: 'ধারা: ২, ৪, ৮, ১৬, ? — পরবর্তী সংখ্যাটি কত?',
+    options: ['২৪', '৩০', '৩২', '৩৬'],
+    answerIndex: 2,
+    explanation: 'প্রতিটি সংখ্যা পূর্ববর্তীর দ্বিগুণ (×২), তাই ১৬ × ২ = ৩২।',
+  },
+  {
+    id: 'math-3',
+    categoryId: 'math',
+    question: '৫, ৭, ৯ এর গড় কত?',
+    options: ['৬', '৭', '৮', '৯'],
+    answerIndex: 1,
+    explanation: 'গড় = (৫ + ৭ + ৯) ÷ ৩ = ২১ ÷ ৩ = ৭।',
+  },
+  {
+    id: 'math-4',
+    categoryId: 'math',
+    question: 'একটি ত্রিভুজের তিনটি কোণের সমষ্টি কত?',
+    options: ['৯০°', '১৮০°', '২৭০°', '৩৬০°'],
+    answerIndex: 1,
+    explanation: 'যেকোনো ত্রিভুজের অভ্যন্তরীণ তিনটি কোণের সমষ্টি সর্বদা ১৮০°।',
+  },
+
+  // ============ মানসিক দক্ষতা ============
+  {
+    id: 'men-1',
+    categoryId: 'mental',
+    question: 'CAT : KITTEN :: DOG : ?',
+    options: ['PUPPY', 'BONE', 'BARK', 'CUB'],
+    answerIndex: 0,
+    explanation: 'বিড়ালের বাচ্চা = KITTEN, তাহলে কুকুরের বাচ্চা = PUPPY।',
+  },
+  {
+    id: 'men-2',
+    categoryId: 'mental',
+    question: 'যদি আজ সোমবার হয়, তবে ১০০ দিন পরে কী বার হবে?',
+    options: ['বুধবার', 'বৃহস্পতিবার', 'শুক্রবার', 'শনিবার'],
+    answerIndex: 0,
+    explanation: '১০০ ÷ ৭ = ১৪ ভাগশেষ ২। সোমবার + ২ দিন = বুধবার।',
+  },
+  {
+    id: 'men-3',
+    categoryId: 'mental',
+    question: 'একটি ঘড়িতে ৩:১৫ মিনিটের সময় ঘণ্টা ও মিনিটের কাঁটার মধ্যে কোণ কত?',
+    options: ['০°', '৭.৫°', '১৫°', '৩০°'],
+    answerIndex: 1,
+    explanation: 'ঘণ্টার কাঁটা ৩-এর ঘরের ৭.৫° আগে; মিনিটের কাঁটা ঠিক ৩-এর ঘরে। পার্থক্য ৭.৫°।',
+  },
+
+  // ============ নৈতিকতা, মূল্যবোধ ও সুশাসন ============
+  {
+    id: 'eth-1',
+    categoryId: 'ethics',
+    question: '"সুশাসন" (Good Governance) ধারণাটি প্রথম প্রবর্তন করে কোন সংস্থা?',
+    options: ['UNO', 'IMF', 'World Bank', 'ADB'],
+    answerIndex: 2,
+    explanation: 'বিশ্বব্যাংক ১৯৮৯ সালে প্রকাশিত প্রতিবেদনে প্রথম "Good Governance" ধারণা ব্যবহার করে।',
+  },
+  {
+    id: 'eth-2',
+    categoryId: 'ethics',
+    question: 'মূল্যবোধের প্রধান উৎস কোনটি?',
+    options: ['পরিবার', 'সমাজ', 'ধর্ম', 'উপরের সবগুলো'],
+    answerIndex: 3,
+    explanation: 'পরিবার, সমাজ, ধর্ম, শিক্ষা — সব মিলিয়েই মূল্যবোধ গড়ে ওঠে।',
+  },
+  {
+    id: 'eth-3',
+    categoryId: 'ethics',
+    question: 'সুশাসনের প্রধান বৈশিষ্ট্য কোনটি নয়?',
+    options: ['স্বচ্ছতা', 'জবাবদিহিতা', 'আইনের শাসন', 'একনায়কত্ব'],
+    answerIndex: 3,
+    explanation: 'সুশাসনের বৈশিষ্ট্যের মধ্যে রয়েছে স্বচ্ছতা, জবাবদিহিতা, আইনের শাসন, অংশগ্রহণ ইত্যাদি — একনায়কত্ব এর বিপরীত।',
+  },
+];
+
+export function getQuestionsByCategory(categoryId) {
+  return QUESTIONS.filter((q) => q.categoryId === categoryId);
+}
+
+export function getRandomQuestions(count) {
+  const shuffled = [...QUESTIONS].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
+}

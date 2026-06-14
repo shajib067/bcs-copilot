@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx expo *)",
+      "Bash(npx expo-doctor *)",
+      "Bash([ -d \"node_modules/$pkg\" ])",
+      "Bash(node /tmp/genpng.js 1024 1024 assets/icon.png \"#006A4E\")",
+      "Bash(node /tmp/genpng.js 1024 1024 assets/adaptive-icon.png \"#006A4E\")",
+      "Bash(node /tmp/genpng.js 1284 2778 assets/splash.png \"#006A4E\")",
+      "Bash(node /tmp/genpng.js 48 48 assets/favicon.png \"#006A4E\")",
+      "Bash(file assets/*.png)",
+      "Bash(yes)",
+      "Bash(pkill -f \"expo start\")",
+      "Bash(pkill -f \"Google Chrome.*headless\")",
+      "Bash(mv /Users/mokhan/Workspace/react/bcs-prep-app /Users/mokhan/Workspace/react/bcs-copilot)",
+      "Read(//Users/mokhan/Workspace/react/**)"
+    ]
+  }
+}
