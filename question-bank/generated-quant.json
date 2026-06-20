@@ -1,0 +1,2672 @@
+[
+  {
+    "id": "gq-1",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৪০-এর ৪০% কত?",
+    "options": [
+      "১৬",
+      "২১",
+      "২৪",
+      "৩২"
+    ],
+    "answerIndex": 0,
+    "explanation": "৪০ × ৪০/১০০ = ১৬।"
+  },
+  {
+    "id": "gq-2",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩৮০-এর ৪০% কত?",
+    "options": [
+      "১৪৭",
+      "২২৮",
+      "৩০৪",
+      "১৫২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩৮০ × ৪০/১০০ = ১৫২।"
+  },
+  {
+    "id": "gq-3",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২০০-এর ২০% কত?",
+    "options": [
+      "৫০",
+      "৪০",
+      "৮০",
+      "৪৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "২০০ × ২০/১০০ = ৪০।"
+  },
+  {
+    "id": "gq-4",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩৪০-এর ৫০% কত?",
+    "options": [
+      "২৫৫",
+      "১৭০",
+      "১৬৫",
+      "১৭৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩৪০ × ৫০/১০০ = ১৭০।"
+  },
+  {
+    "id": "gq-5",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৪০০-এর ৫% কত?",
+    "options": [
+      "২০",
+      "৪০",
+      "৩০",
+      "১৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "৪০০ × ৫/১০০ = ২০।"
+  },
+  {
+    "id": "gq-6",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২২০-এর ৪০% কত?",
+    "options": [
+      "১৩২",
+      "৯৮",
+      "১৭৬",
+      "৮৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "২২০ × ৪০/১০০ = ৮৮।"
+  },
+  {
+    "id": "gq-7",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২২০-এর ১০% কত?",
+    "options": [
+      "১৭",
+      "২৭",
+      "৩৩",
+      "২২"
+    ],
+    "answerIndex": 3,
+    "explanation": "২২০ × ১০/১০০ = ২২।"
+  },
+  {
+    "id": "gq-8",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩২০-এর ২০% কত?",
+    "options": [
+      "৬৯",
+      "৬৪",
+      "৭৪",
+      "১২৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩২০ × ২০/১০০ = ৬৪।"
+  },
+  {
+    "id": "gq-9",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩৬০-এর ৫০% কত?",
+    "options": [
+      "১৮০",
+      "১৮৫",
+      "৩৬০",
+      "২৭০"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩৬০ × ৫০/১০০ = ১৮০।"
+  },
+  {
+    "id": "gq-10",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২৮০-এর ১৫% কত?",
+    "options": [
+      "৮৪",
+      "৩৭",
+      "৬৩",
+      "৪২"
+    ],
+    "answerIndex": 3,
+    "explanation": "২৮০ × ১৫/১০০ = ৪২।"
+  },
+  {
+    "id": "gq-11",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১২০-এর ২৫% কত?",
+    "options": [
+      "৩০",
+      "৬০",
+      "২৫",
+      "৪০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১২০ × ২৫/১০০ = ৩০।"
+  },
+  {
+    "id": "gq-12",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৪০০-এর ৫০% কত?",
+    "options": [
+      "২১০",
+      "২০০",
+      "৪০০",
+      "২০৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "৪০০ × ৫০/১০০ = ২০০।"
+  },
+  {
+    "id": "gq-13",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩২০-এর ৫০% কত?",
+    "options": [
+      "১৭০",
+      "২৪০",
+      "১৬০",
+      "৩২০"
+    ],
+    "answerIndex": 2,
+    "explanation": "৩২০ × ৫০/১০০ = ১৬০।"
+  },
+  {
+    "id": "gq-14",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২৮০-এর ২০% কত?",
+    "options": [
+      "১১২",
+      "৫৬",
+      "৮৪",
+      "৬১"
+    ],
+    "answerIndex": 1,
+    "explanation": "২৮০ × ২০/১০০ = ৫৬।"
+  },
+  {
+    "id": "gq-15",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৪০-এর ১৫% কত?",
+    "options": [
+      "১",
+      "৯",
+      "৬",
+      "১১"
+    ],
+    "answerIndex": 2,
+    "explanation": "৪০ × ১৫/১০০ = ৬।"
+  },
+  {
+    "id": "gq-16",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৪০-এর ৫% কত?",
+    "options": [
+      "৩",
+      "১২",
+      "৭",
+      "২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৪০ × ৫/১০০ = ২।"
+  },
+  {
+    "id": "gq-17",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৫০% যদি ৮৫ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৮৫",
+      "১৮০",
+      "৩৪০",
+      "১৭০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ৮৫ ÷ ৫০% = ১৭০।"
+  },
+  {
+    "id": "gq-18",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২০% যদি ২৮ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৬০",
+      "৭০",
+      "১৩০",
+      "১৪০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ২৮ ÷ ২০% = ১৪০।"
+  },
+  {
+    "id": "gq-19",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২৫% যদি ৩২.৫ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৪০",
+      "১২০",
+      "১৩০",
+      "১৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সংখ্যা = ৩২.৫ ÷ ২৫% = ১৩০।"
+  },
+  {
+    "id": "gq-20",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ১০% যদি ৭ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৭০",
+      "৮০",
+      "১৪০",
+      "৬০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সংখ্যা = ৭ ÷ ১০% = ৭০।"
+  },
+  {
+    "id": "gq-21",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২০% যদি ২৬ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৩০",
+      "১৪০",
+      "১২০",
+      "১৫০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সংখ্যা = ২৬ ÷ ২০% = ১৩০।"
+  },
+  {
+    "id": "gq-22",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ১০% যদি ৩ হয়, সংখ্যাটি কত?",
+    "options": [
+      "২০",
+      "৬০",
+      "১৫",
+      "৩০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ৩ ÷ ১০% = ৩০।"
+  },
+  {
+    "id": "gq-23",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৪০% যদি ৬৪ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৫০",
+      "৩২০",
+      "১৬০",
+      "১৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সংখ্যা = ৬৪ ÷ ৪০% = ১৬০।"
+  },
+  {
+    "id": "gq-24",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৪০% যদি ৩৬ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৯০",
+      "৮০",
+      "৪৫",
+      "১৮০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সংখ্যা = ৩৬ ÷ ৪০% = ৯০।"
+  },
+  {
+    "id": "gq-25",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৫০% যদি ৯৫ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৯৫",
+      "২১০",
+      "১৯০",
+      "৩৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সংখ্যা = ৯৫ ÷ ৫০% = ১৯০।"
+  },
+  {
+    "id": "gq-26",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৪০% যদি ৫৬ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৭০",
+      "১৪০",
+      "২৮০",
+      "১৬০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংখ্যা = ৫৬ ÷ ৪০% = ১৪০।"
+  },
+  {
+    "id": "gq-27",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২০% যদি ২৪ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৪০",
+      "১৩০",
+      "৬০",
+      "১২০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ২৪ ÷ ২০% = ১২০।"
+  },
+  {
+    "id": "gq-28",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২৫% যদি ৩০ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১২০",
+      "১৪০",
+      "৬০",
+      "২৪০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সংখ্যা = ৩০ ÷ ২৫% = ১২০।"
+  },
+  {
+    "id": "gq-29",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৪০% যদি ৬০ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৭০",
+      "১৫০",
+      "৭৫",
+      "৩০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংখ্যা = ৬০ ÷ ৪০% = ১৫০।"
+  },
+  {
+    "id": "gq-30",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ৪০% যদি ২৮ হয়, সংখ্যাটি কত?",
+    "options": [
+      "৮০",
+      "৬০",
+      "৯০",
+      "৭০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ২৮ ÷ ৪০% = ৭০।"
+  },
+  {
+    "id": "gq-31",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ১০% যদি ১৭ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৯০",
+      "১৬০",
+      "১৭০",
+      "৮৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "সংখ্যা = ১৭ ÷ ১০% = ১৭০।"
+  },
+  {
+    "id": "gq-32",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার ২৫% যদি ৩৭.৫ হয়, সংখ্যাটি কত?",
+    "options": [
+      "১৭০",
+      "১৪০",
+      "৩০০",
+      "১৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংখ্যা = ৩৭.৫ ÷ ২৫% = ১৫০।"
+  },
+  {
+    "id": "gq-33",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "২০, ১০, ২০, ২১, ১৯ — এই সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২০",
+      "৯০",
+      "১৮",
+      "১৯"
+    ],
+    "answerIndex": 2,
+    "explanation": "গড় = (২০ + ১০ + ২০ + ২১ + ১৯) ÷ ৫ = ৯০ ÷ ৫ = ১৮।"
+  },
+  {
+    "id": "gq-34",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৩৫, ২৮, ৩৬ — এই সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৯৯",
+      "৩২",
+      "৩৩",
+      "৩১"
+    ],
+    "answerIndex": 2,
+    "explanation": "গড় = (৩৫ + ২৮ + ৩৬) ÷ ৩ = ৯৯ ÷ ৩ = ৩৩।"
+  },
+  {
+    "id": "gq-35",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৭, ৬, ৯, ১০, ১৩ — এই সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১১",
+      "৭",
+      "৯",
+      "৮"
+    ],
+    "answerIndex": 2,
+    "explanation": "গড় = (৭ + ৬ + ৯ + ১০ + ১৩) ÷ ৫ = ৪৫ ÷ ৫ = ৯।"
+  },
+  {
+    "id": "gq-36",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৩০০ টাকা ৫ : ৪ : ১ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩০",
+      "১৮০",
+      "১২০",
+      "১৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৩০০ = ১৫০।"
+  },
+  {
+    "id": "gq-37",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৪৫০ টাকা ৩ : ১ : ৫ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩০০",
+      "২০০",
+      "২৫০",
+      "৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট অংশ ৯; বৃহত্তম ভাগ = ৫/৯ × ৪৫০ = ২৫০।"
+  },
+  {
+    "id": "gq-38",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৬৩০ টাকা ১ : ২ : ৪ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "২৭০",
+      "৩৬০",
+      "৪৫০",
+      "৯০"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট অংশ ৭; বৃহত্তম ভাগ = ৪/৭ × ৬৩০ = ৩৬০।"
+  },
+  {
+    "id": "gq-39",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৮০০ টাকা ৩ : ৫ : ২ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৪০০",
+      "৪৮০",
+      "১৬০",
+      "৩২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৮০০ = ৪০০।"
+  },
+  {
+    "id": "gq-40",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৬৪০ টাকা ১ : ৪ : ৩ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৮০",
+      "৪০০",
+      "৩২০",
+      "২৪০"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট অংশ ৮; বৃহত্তম ভাগ = ৪/৮ × ৬৪০ = ৩২০।"
+  },
+  {
+    "id": "gq-41",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "২৮০ টাকা ১ : ২ : ৪ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "১৬০",
+      "১২০",
+      "৪০",
+      "২০০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ৭; বৃহত্তম ভাগ = ৪/৭ × ২৮০ = ১৬০।"
+  },
+  {
+    "id": "gq-42",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৪০০ টাকা ৫ : ৩ : ২ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৮০",
+      "২০০",
+      "১৬০",
+      "২৪০"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৪০০ = ২০০।"
+  },
+  {
+    "id": "gq-43",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "১০০০ টাকা ১ : ৫ : ৪ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৬০০",
+      "৫০০",
+      "১০০",
+      "৪০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ১০০০ = ৫০০।"
+  },
+  {
+    "id": "gq-44",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৫৫০ টাকা ৪ : ২ : ৫ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩০০",
+      "২০০",
+      "১০০",
+      "২৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "মোট অংশ ১১; বৃহত্তম ভাগ = ৫/১১ × ৫৫০ = ২৫০।"
+  },
+  {
+    "id": "gq-45",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৬০০ টাকা ২ : ৫ : ৩ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩৬০",
+      "২৪০",
+      "১২০",
+      "৩০০"
+    ],
+    "answerIndex": 3,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৬০০ = ৩০০।"
+  },
+  {
+    "id": "gq-46",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৩০০ টাকা ২ : ৫ : ৩ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৬০",
+      "১২০",
+      "১৫০",
+      "১৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৩০০ = ১৫০।"
+  },
+  {
+    "id": "gq-47",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৬৬০ টাকা ২ : ৩ : ১ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩৩০",
+      "৪৪০",
+      "২২০",
+      "১১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ৬; বৃহত্তম ভাগ = ৩/৬ × ৬৬০ = ৩৩০।"
+  },
+  {
+    "id": "gq-48",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৯৯০ টাকা ৩ : ২ : ৪ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "২২০",
+      "৪৪০",
+      "৩৩০",
+      "৫৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট অংশ ৯; বৃহত্তম ভাগ = ৪/৯ × ৯৯০ = ৪৪০।"
+  },
+  {
+    "id": "gq-49",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৯০০ টাকা ৫ : ৩ : ২ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩৬০",
+      "৪৫০",
+      "৫৪০",
+      "১৮০"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট অংশ ১০; বৃহত্তম ভাগ = ৫/১০ × ৯০০ = ৪৫০।"
+  },
+  {
+    "id": "gq-50",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৭৭০ টাকা ২ : ৫ : ৪ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "৩৫০",
+      "২৮০",
+      "১৪০",
+      "৪২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ১১; বৃহত্তম ভাগ = ৫/১১ × ৭৭০ = ৩৫০।"
+  },
+  {
+    "id": "gq-51",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "৩৬০ টাকা ৩ : ২ : ১ অনুপাতে ভাগ করলে বৃহত্তম ভাগ কত?",
+    "options": [
+      "১৮০",
+      "৬০",
+      "২৪০",
+      "১২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ৬; বৃহত্তম ভাগ = ৩/৬ × ৩৬০ = ১৮০।"
+  },
+  {
+    "id": "gq-52",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৭৫০ টাকায় কেনা একটি দ্রব্য ৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৭৫০",
+      "৭৩৭.৫",
+      "৮৩৭.৫",
+      "৭৮৭.৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৭৫০ × (১ + ৫/১০০) = ৭৮৭.৫ টাকা।"
+  },
+  {
+    "id": "gq-53",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৬৫০ টাকায় কেনা একটি দ্রব্য ১০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৬৫০",
+      "৭৬৫",
+      "৭১৫",
+      "৫৮৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৬৫০ × (১ + ১০/১০০) = ৭১৫ টাকা।"
+  },
+  {
+    "id": "gq-54",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৭৫০ টাকায় কেনা একটি দ্রব্য ২০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৯০০",
+      "৬০০",
+      "৯৫০",
+      "৭৫০"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিক্রয়মূল্য = ৭৫০ × (১ + ২০/১০০) = ৯০০ টাকা।"
+  },
+  {
+    "id": "gq-55",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৬০০ টাকায় কেনা একটি দ্রব্য ৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৬০০",
+      "৬৩০",
+      "৫৮০",
+      "৫৭০"
+    ],
+    "answerIndex": 1,
+    "explanation": "বিক্রয়মূল্য = ৬০০ × (১ + ৫/১০০) = ৬৩০ টাকা।"
+  },
+  {
+    "id": "gq-56",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১০০০ টাকায় কেনা একটি দ্রব্য ৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "১০০০",
+      "১১০০",
+      "৯৫০",
+      "১০৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ১০০০ × (১ + ৫/১০০) = ১০৫০ টাকা।"
+  },
+  {
+    "id": "gq-57",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১৫০ টাকায় কেনা একটি দ্রব্য ২৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "১৩৭.৫",
+      "২৩৭.৫",
+      "১৮৭.৫",
+      "১৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ১৫০ × (১ + ২৫/১০০) = ১৮৭.৫ টাকা।"
+  },
+  {
+    "id": "gq-58",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৩০০ টাকায় কেনা একটি দ্রব্য ৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৩৬৫",
+      "২৮৫",
+      "৩১৫",
+      "৩০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৩০০ × (১ + ৫/১০০) = ৩১৫ টাকা।"
+  },
+  {
+    "id": "gq-59",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৭০০ টাকায় কেনা একটি দ্রব্য ৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৭৮৫",
+      "৭০০",
+      "৬৮৫",
+      "৭৩৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৭০০ × (১ + ৫/১০০) = ৭৩৫ টাকা।"
+  },
+  {
+    "id": "gq-60",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১০০ টাকায় কেনা একটি দ্রব্য ২৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৭৫",
+      "১০০",
+      "১২৫",
+      "১৭৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ১০০ × (১ + ২৫/১০০) = ১২৫ টাকা।"
+  },
+  {
+    "id": "gq-61",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "২০০ টাকায় কেনা একটি দ্রব্য ১০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "২২০",
+      "১৭০",
+      "২৭০",
+      "১৮০"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিক্রয়মূল্য = ২০০ × (১ + ১০/১০০) = ২২০ টাকা।"
+  },
+  {
+    "id": "gq-62",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৩৫০ টাকায় কেনা একটি দ্রব্য ২৫% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৩৫০",
+      "৪৮৭.৫",
+      "৩৮৭.৫",
+      "৪৩৭.৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৩৫০ × (১ + ২৫/১০০) = ৪৩৭.৫ টাকা।"
+  },
+  {
+    "id": "gq-63",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "২৫০ টাকায় কেনা একটি দ্রব্য ২০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৩৫০",
+      "৩০০",
+      "২০০",
+      "২৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "বিক্রয়মূল্য = ২৫০ × (১ + ২০/১০০) = ৩০০ টাকা।"
+  },
+  {
+    "id": "gq-64",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১৫০ টাকায় কেনা একটি দ্রব্য ১০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "১৫০",
+      "১১৫",
+      "২১৫",
+      "১৬৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ১৫০ × (১ + ১০/১০০) = ১৬৫ টাকা।"
+  },
+  {
+    "id": "gq-65",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৮০০ টাকায় কেনা একটি দ্রব্য ১০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+    "options": [
+      "৯৩০",
+      "৭২০",
+      "৮৩০",
+      "৮৮০"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৮০০ × (১ + ১০/১০০) = ৮৮০ টাকা।"
+  },
+  {
+    "id": "gq-66",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৫০০ টাকার ৮% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৫০০",
+      "১০০",
+      "৩০০",
+      "২০০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সরল সুদ = (৫০০ × ৮ × ৫) ÷ ১০০ = ২০০ টাকা।"
+  },
+  {
+    "id": "gq-67",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৩০০ টাকার ৫% হারে ২ বছরের সরল সুদ কত?",
+    "options": [
+      "১৩০",
+      "২৬০",
+      "৩০",
+      "২৩০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সরল সুদ = (১৩০০ × ৫ × ২) ÷ ১০০ = ১৩০ টাকা।"
+  },
+  {
+    "id": "gq-68",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৭০০ টাকার ৮% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৫৮০",
+      "৬৮০",
+      "৭৮০",
+      "১৭০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (১৭০০ × ৮ × ৫) ÷ ১০০ = ৬৮০ টাকা।"
+  },
+  {
+    "id": "gq-69",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৬০০ টাকার ১০% হারে ৩ বছরের সরল সুদ কত?",
+    "options": [
+      "৯৬০",
+      "১৬০০",
+      "৩৮০",
+      "৪৮০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সরল সুদ = (১৬০০ × ১০ × ৩) ÷ ১০০ = ৪৮০ টাকা।"
+  },
+  {
+    "id": "gq-70",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৯০০ টাকার ৫% হারে ৪ বছরের সরল সুদ কত?",
+    "options": [
+      "২৮০",
+      "১৮০",
+      "৮০",
+      "৯০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (৯০০ × ৫ × ৪) ÷ ১০০ = ১৮০ টাকা।"
+  },
+  {
+    "id": "gq-71",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৭০০ টাকার ৪% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৪০",
+      "১৪০",
+      "২৮০",
+      "৭০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (৭০০ × ৪ × ৫) ÷ ১০০ = ১৪০ টাকা।"
+  },
+  {
+    "id": "gq-72",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৫০০ টাকার ১০% হারে ৩ বছরের সরল সুদ কত?",
+    "options": [
+      "৩৫০",
+      "৪৫০",
+      "৯০০",
+      "৫৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (১৫০০ × ১০ × ৩) ÷ ১০০ = ৪৫০ টাকা।"
+  },
+  {
+    "id": "gq-73",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৬০০ টাকার ৬% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৯৬০",
+      "৩৮০",
+      "৪৮০",
+      "৫৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সরল সুদ = (১৬০০ × ৬ × ৫) ÷ ১০০ = ৪৮০ টাকা।"
+  },
+  {
+    "id": "gq-74",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "২০০০ টাকার ৮% হারে ৪ বছরের সরল সুদ কত?",
+    "options": [
+      "২০০০",
+      "৬৪০",
+      "৫৪০",
+      "৭৪০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (২০০০ × ৮ × ৪) ÷ ১০০ = ৬৪০ টাকা।"
+  },
+  {
+    "id": "gq-75",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৯০০ টাকার ৮% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৬৬০",
+      "১৯০০",
+      "৭৬০",
+      "৮৬০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সরল সুদ = (১৯০০ × ৮ × ৫) ÷ ১০০ = ৭৬০ টাকা।"
+  },
+  {
+    "id": "gq-76",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৪০০ টাকার ৪% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "২৮০",
+      "১৪০০",
+      "৩৮০",
+      "১৮০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সরল সুদ = (১৪০০ × ৪ × ৫) ÷ ১০০ = ২৮০ টাকা।"
+  },
+  {
+    "id": "gq-77",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১২০০ টাকার ৪% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "৪৮০",
+      "২৪০",
+      "৩৪০",
+      "১৪০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (১২০০ × ৪ × ৫) ÷ ১০০ = ২৪০ টাকা।"
+  },
+  {
+    "id": "gq-78",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১২০০ টাকার ৫% হারে ৪ বছরের সরল সুদ কত?",
+    "options": [
+      "৪৮০",
+      "১২০০",
+      "৩৪০",
+      "২৪০"
+    ],
+    "answerIndex": 3,
+    "explanation": "সরল সুদ = (১২০০ × ৫ × ৪) ÷ ১০০ = ২৪০ টাকা।"
+  },
+  {
+    "id": "gq-79",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৪০০ টাকার ৫% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "২৫০",
+      "৩৫০",
+      "৭০০",
+      "১৪০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (১৪০০ × ৫ × ৫) ÷ ১০০ = ৩৫০ টাকা।"
+  },
+  {
+    "id": "gq-80",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৩০০ টাকার ১০% হারে ৫ বছরের সরল সুদ কত?",
+    "options": [
+      "২৫০",
+      "১৫০",
+      "৩০০",
+      "৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সরল সুদ = (৩০০ × ১০ × ৫) ÷ ১০০ = ১৫০ টাকা।"
+  },
+  {
+    "id": "gq-81",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৭০০ টাকার ৮% হারে ২ বছরের সরল সুদ কত?",
+    "options": [
+      "১২",
+      "২১২",
+      "১১২",
+      "৭০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সরল সুদ = (৭০০ × ৮ × ২) ÷ ১০০ = ১১২ টাকা।"
+  },
+  {
+    "id": "gq-82",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৯, ১৪, ১৯, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৪",
+      "১৯",
+      "২৫",
+      "২৯"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ৫; পরবর্তী পদ = ১৯ + ৫ = ২৪।"
+  },
+  {
+    "id": "gq-83",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ১৩, ২২, ৩১, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৩১",
+      "৪০",
+      "৪৯",
+      "৪১"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ৯; পরবর্তী পদ = ৩১ + ৯ = ৪০।"
+  },
+  {
+    "id": "gq-84",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ১০, ১৬, ২২, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৮",
+      "২২",
+      "২৯",
+      "২৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ৬; পরবর্তী পদ = ২২ + ৬ = ২৮।"
+  },
+  {
+    "id": "gq-85",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৯, ১৮, ২৭, ৩৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৪৩",
+      "৪৫",
+      "৩৬",
+      "৫৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ৯; পরবর্তী পদ = ৩৬ + ৯ = ৪৫।"
+  },
+  {
+    "id": "gq-86",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১০, ১৬, ২২, ২৮, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৩৪",
+      "৩৫",
+      "৩২",
+      "৪০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ৬; পরবর্তী পদ = ২৮ + ৬ = ৩৪।"
+  },
+  {
+    "id": "gq-87",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১০, ১২, ১৪, ১৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৯",
+      "১৮",
+      "১৬",
+      "২০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ২; পরবর্তী পদ = ১৬ + ২ = ১৮।"
+  },
+  {
+    "id": "gq-88",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৭, ১০, ১৩, ১৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৯",
+      "১৭",
+      "১৬",
+      "২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ৩; পরবর্তী পদ = ১৬ + ৩ = ১৯।"
+  },
+  {
+    "id": "gq-89",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৯, ১৩, ১৭, ২১, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৫",
+      "২৩",
+      "২৬",
+      "২৯"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ৪; পরবর্তী পদ = ২১ + ৪ = ২৫।"
+  },
+  {
+    "id": "gq-90",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৮, ১৩, ১৮, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৮",
+      "২৩",
+      "২৪",
+      "১৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ৫; পরবর্তী পদ = ১৮ + ৫ = ২৩।"
+  },
+  {
+    "id": "gq-91",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৬, ৮, ১০, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৩",
+      "১২",
+      "১০",
+      "১৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ২; পরবর্তী পদ = ১০ + ২ = ১২।"
+  },
+  {
+    "id": "gq-92",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৮, ১২, ১৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৪",
+      "২০",
+      "২১",
+      "১৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ৪; পরবর্তী পদ = ১৬ + ৪ = ২০।"
+  },
+  {
+    "id": "gq-93",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৯, ১১, ১৩, ১৫, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৭",
+      "১৯",
+      "১৫",
+      "১৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ২; পরবর্তী পদ = ১৫ + ২ = ১৭।"
+  },
+  {
+    "id": "gq-94",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৬, ১৪, ২২, ৩০, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৩০",
+      "৩৮",
+      "৩৯",
+      "৪৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ৮; পরবর্তী পদ = ৩০ + ৮ = ৩৮।"
+  },
+  {
+    "id": "gq-95",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৫, ৭, ৯, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১১",
+      "১২",
+      "৯",
+      "১৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "ধারাটির সাধারণ অন্তর ২; পরবর্তী পদ = ৯ + ২ = ১১।"
+  },
+  {
+    "id": "gq-96",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১২, ১৪, ১৬, ১৮, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৮",
+      "২০",
+      "২১",
+      "২২"
+    ],
+    "answerIndex": 1,
+    "explanation": "ধারাটির সাধারণ অন্তর ২; পরবর্তী পদ = ১৮ + ২ = ২০।"
+  },
+  {
+    "id": "gq-97",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৬, ১২, ২৪, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৫০",
+      "২৪",
+      "৭২",
+      "৪৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ২ গুণ; পরবর্তী পদ = ২৪ × ২ = ৪৮।"
+  },
+  {
+    "id": "gq-98",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৫, ১০, ২০, ৪০, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৪০",
+      "১২০",
+      "৮২",
+      "৮০"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ২ গুণ; পরবর্তী পদ = ৪০ × ২ = ৮০।"
+  },
+  {
+    "id": "gq-99",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৯, ২৭, ৮১, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৪৬",
+      "২৪৩",
+      "১৬২",
+      "৩২৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ৩ গুণ; পরবর্তী পদ = ৮১ × ৩ = ২৪৩।"
+  },
+  {
+    "id": "gq-100",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১, ২, ৪, ৮, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৬",
+      "২৪",
+      "১৮",
+      "৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ২ গুণ; পরবর্তী পদ = ৮ × ২ = ১৬।"
+  },
+  {
+    "id": "gq-101",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৮, ১৬, ৩২, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৬৪",
+      "৩২",
+      "৯৬",
+      "৬৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ২ গুণ; পরবর্তী পদ = ৩২ × ২ = ৬৪।"
+  },
+  {
+    "id": "gq-102",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ২, ৬, ১৮, ৫৪, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৬২",
+      "১৬৫",
+      "১০৮",
+      "২১৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ৩ গুণ; পরবর্তী পদ = ৫৪ × ৩ = ১৬২।"
+  },
+  {
+    "id": "gq-103",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৫, ১৫, ৪৫, ১৩৫, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৭০",
+      "৪০৫",
+      "৪০৮",
+      "৫৪০"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ৩ গুণ; পরবর্তী পদ = ১৩৫ × ৩ = ৪০৫।"
+  },
+  {
+    "id": "gq-104",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ১২, ৩৬, ১০৮, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৪৩২",
+      "৩২৪",
+      "২১৬",
+      "৩২৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি পদ পূর্ববর্তীর ৩ গুণ; পরবর্তী পদ = ১০৮ × ৩ = ৩২৪।"
+  },
+  {
+    "id": "gq-105",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ২৫, ৩৬, ৪৯, ৬৪, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১৮",
+      "৮২",
+      "৮১",
+      "৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ৯² = ৮১।"
+  },
+  {
+    "id": "gq-106",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৯, ১৬, ২৫, ৩৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৫০",
+      "৪৮",
+      "১৪",
+      "৪৯"
+    ],
+    "answerIndex": 3,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ৭² = ৪৯।"
+  },
+  {
+    "id": "gq-107",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১৬, ২৫, ৩৬, ৪৯, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৭২",
+      "৬৫",
+      "১৬",
+      "৬৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ৮² = ৬৪।"
+  },
+  {
+    "id": "gq-108",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৯, ১৬, ২৫, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "৩৫",
+      "৩৬",
+      "৩৭",
+      "১২"
+    ],
+    "answerIndex": 1,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ৬² = ৩৬।"
+  },
+  {
+    "id": "gq-109",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১, ৪, ৯, ১৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "২৫",
+      "২৪",
+      "৩০",
+      "১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ৫² = ২৫।"
+  },
+  {
+    "id": "gq-110",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩৬, ৪৯, ৬৪, ৮১, ? — পরবর্তী সংখ্যা কত?",
+    "options": [
+      "১০০",
+      "৯৯",
+      "২০",
+      "১১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "এগুলো পূর্ণবর্গ; পরবর্তী পদ = ১০² = ১০০।"
+  },
+  {
+    "id": "gq-111",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৫ জন লোক একটি কাজ ১৩ দিনে করতে পারে। ৬৫ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১৩",
+      "২",
+      "১",
+      "৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৫ × ১৩ = ৬৫ লোক-দিন; ৬৫ ÷ ৬৫ = ১ দিন।"
+  },
+  {
+    "id": "gq-112",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৯ জন লোক একটি কাজ ১৯ দিনে করতে পারে। ১৭১ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১৯",
+      "৩",
+      "১",
+      "২"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৯ × ১৯ = ১৭১ লোক-দিন; ১৭১ ÷ ১৭১ = ১ দিন।"
+  },
+  {
+    "id": "gq-113",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "১০ জন লোক একটি কাজ ১৫ দিনে করতে পারে। ২৫ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১৫",
+      "৭",
+      "৪",
+      "৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "মোট কাজ = ১০ × ১৫ = ১৫০ লোক-দিন; ১৫০ ÷ ২৫ = ৬ দিন।"
+  },
+  {
+    "id": "gq-114",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "১১ জন লোক একটি কাজ ১৪ দিনে করতে পারে। ১৪ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১৩",
+      "১১",
+      "৯",
+      "১৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট কাজ = ১১ × ১৪ = ১৫৪ লোক-দিন; ১৫৪ ÷ ১৪ = ১১ দিন।"
+  },
+  {
+    "id": "gq-115",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৬ জন লোক একটি কাজ ৮ দিনে করতে পারে। ৪ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১০",
+      "১২",
+      "১৩",
+      "১৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট কাজ = ৬ × ৮ = ৪৮ লোক-দিন; ৪৮ ÷ ৪ = ১২ দিন।"
+  },
+  {
+    "id": "gq-116",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৮ জন লোক একটি কাজ ১০ দিনে করতে পারে। ৪০ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "৩",
+      "১০",
+      "২",
+      "৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৮ × ১০ = ৮০ লোক-দিন; ৮০ ÷ ৪০ = ২ দিন।"
+  },
+  {
+    "id": "gq-117",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৫ জন লোক একটি কাজ ৭ দিনে করতে পারে। ৩৫ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "৩",
+      "২",
+      "১",
+      "৭"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৫ × ৭ = ৩৫ লোক-দিন; ৩৫ ÷ ৩৫ = ১ দিন।"
+  },
+  {
+    "id": "gq-118",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৭ জন লোক একটি কাজ ৬ দিনে করতে পারে। ১৪ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১",
+      "৪",
+      "৩",
+      "৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৭ × ৬ = ৪২ লোক-দিন; ৪২ ÷ ১৪ = ৩ দিন।"
+  },
+  {
+    "id": "gq-119",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৭ জন লোক একটি কাজ ৭ দিনে করতে পারে। ৪৯ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "৩",
+      "১",
+      "২",
+      "৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "মোট কাজ = ৭ × ৭ = ৪৯ লোক-দিন; ৪৯ ÷ ৪৯ = ১ দিন।"
+  },
+  {
+    "id": "gq-120",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৪ জন লোক একটি কাজ ১১ দিনে করতে পারে। ২২ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "২",
+      "৪",
+      "১১",
+      "৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৪ × ১১ = ৪৪ লোক-দিন; ৪৪ ÷ ২২ = ২ দিন।"
+  },
+  {
+    "id": "gq-121",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৬ জন লোক একটি কাজ ৯ দিনে করতে পারে। ২ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "২৯",
+      "২৫",
+      "২৭",
+      "২৮"
+    ],
+    "answerIndex": 2,
+    "explanation": "মোট কাজ = ৬ × ৯ = ৫৪ লোক-দিন; ৫৪ ÷ ২ = ২৭ দিন।"
+  },
+  {
+    "id": "gq-122",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৭ জন লোক একটি কাজ ৮ দিনে করতে পারে। ৮ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "৯",
+      "৮",
+      "৫",
+      "৭"
+    ],
+    "answerIndex": 3,
+    "explanation": "মোট কাজ = ৭ × ৮ = ৫৬ লোক-দিন; ৫৬ ÷ ৮ = ৭ দিন।"
+  },
+  {
+    "id": "gq-123",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৭ জন লোক একটি কাজ ২০ দিনে করতে পারে। ৭০ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "২",
+      "৪",
+      "৩",
+      "২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৭ × ২০ = ১৪০ লোক-দিন; ১৪০ ÷ ৭০ = ২ দিন।"
+  },
+  {
+    "id": "gq-124",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৫ জন লোক একটি কাজ ১১ দিনে করতে পারে। ৫৫ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১",
+      "৩",
+      "১১",
+      "২"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৫ × ১১ = ৫৫ লোক-দিন; ৫৫ ÷ ৫৫ = ১ দিন।"
+  },
+  {
+    "id": "gq-125",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৯ জন লোক একটি কাজ ১০ দিনে করতে পারে। ১০ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "৯",
+      "৭",
+      "১০",
+      "১১"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৯ × ১০ = ৯০ লোক-দিন; ৯০ ÷ ১০ = ৯ দিন।"
+  },
+  {
+    "id": "gq-126",
+    "categoryId": "math",
+    "subTopic": "work",
+    "difficulty": "medium",
+    "question": "৪ জন লোক একটি কাজ ১৮ দিনে করতে পারে। ৬ জন লোক একই কাজ কত দিনে করবে?",
+    "options": [
+      "১২",
+      "১৮",
+      "১৪",
+      "১৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৪ × ১৮ = ৭২ লোক-দিন; ৭২ ÷ ৬ = ১২ দিন।"
+  },
+  {
+    "id": "gq-127",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৪০ কিমি বেগে ৪ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১৭০",
+      "২০০",
+      "১৬০",
+      "১২০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = বেগ × সময় = ৪০ × ৪ = ১৬০ কিমি।"
+  },
+  {
+    "id": "gq-128",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ১৫ কিমি বেগে ৫ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "৯০",
+      "৮৫",
+      "৬০",
+      "৭৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = বেগ × সময় = ১৫ × ৫ = ৭৫ কিমি।"
+  },
+  {
+    "id": "gq-129",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৫৫ কিমি বেগে ৬ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "৩৮৫",
+      "২৭৫",
+      "৩৪০",
+      "৩৩০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = বেগ × সময় = ৫৫ × ৬ = ৩৩০ কিমি।"
+  },
+  {
+    "id": "gq-130",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৪৫ কিমি বেগে ৪ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "২২৫",
+      "১৯০",
+      "৪৫",
+      "১৮০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = বেগ × সময় = ৪৫ × ৪ = ১৮০ কিমি।"
+  },
+  {
+    "id": "gq-131",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ২৫ কিমি বেগে ২ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "২৫",
+      "৫০",
+      "৭৫",
+      "৬০"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = বেগ × সময় = ২৫ × ২ = ৫০ কিমি।"
+  },
+  {
+    "id": "gq-132",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৪৫ কিমি বেগে ৬ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "২২৫",
+      "২৭০",
+      "৩১৫",
+      "৪৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = বেগ × সময় = ৪৫ × ৬ = ২৭০ কিমি।"
+  },
+  {
+    "id": "gq-133",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ২০ কিমি বেগে ৫ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১০০",
+      "১১০",
+      "৮০",
+      "১২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "দূরত্ব = বেগ × সময় = ২০ × ৫ = ১০০ কিমি।"
+  },
+  {
+    "id": "gq-134",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৫০ কিমি বেগে ৩ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১৬০",
+      "২০০",
+      "১৫০",
+      "১০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = বেগ × সময় = ৫০ × ৩ = ১৫০ কিমি।"
+  },
+  {
+    "id": "gq-135",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৩০ কিমি বেগে ৫ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১৬০",
+      "১৫০",
+      "৩০",
+      "১৮০"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = বেগ × সময় = ৩০ × ৫ = ১৫০ কিমি।"
+  },
+  {
+    "id": "gq-136",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৫০ কিমি বেগে ২ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১১০",
+      "৫০",
+      "১৫০",
+      "১০০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = বেগ × সময় = ৫০ × ২ = ১০০ কিমি।"
+  },
+  {
+    "id": "gq-137",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ২০ কিমি বেগে ৬ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১০০",
+      "১২০",
+      "২০",
+      "১৩০"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = বেগ × সময় = ২০ × ৬ = ১২০ কিমি।"
+  },
+  {
+    "id": "gq-138",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৪৫ কিমি বেগে ২ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "১৩৫",
+      "৪৫",
+      "১০০",
+      "৯০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = বেগ × সময় = ৪৫ × ২ = ৯০ কিমি।"
+  },
+  {
+    "id": "gq-139",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ৪০ কিমি বেগে ২ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "৯০",
+      "৪০",
+      "৮০",
+      "১২০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = বেগ × সময় = ৪০ × ২ = ৮০ কিমি।"
+  },
+  {
+    "id": "gq-140",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একটি গাড়ি ঘণ্টায় ১৫ কিমি বেগে ৪ ঘণ্টা চললে কত কিমি পথ অতিক্রম করবে?",
+    "options": [
+      "৭০",
+      "১৫",
+      "৬০",
+      "৭৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = বেগ × সময় = ১৫ × ৪ = ৬০ কিমি।"
+  },
+  {
+    "id": "gq-141",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ১০ ও ২৪ হলে অতিভুজ কত?",
+    "options": [
+      "২৬",
+      "২৭",
+      "২৮",
+      "৩৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "অতিভুজ = √(১০² + ২৪²) = √৬৭৬ = ২৬।"
+  },
+  {
+    "id": "gq-142",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৩ ও ৪ হলে অতিভুজ কত?",
+    "options": [
+      "৭",
+      "৬",
+      "৪",
+      "৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "অতিভুজ = √(৩² + ৪²) = √২৫ = ৫।"
+  },
+  {
+    "id": "gq-143",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৮ ও ১৫ হলে অতিভুজ কত?",
+    "options": [
+      "১৮",
+      "১৭",
+      "২৩",
+      "১৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "অতিভুজ = √(৮² + ১৫²) = √২৮৯ = ১৭।"
+  },
+  {
+    "id": "gq-144",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৬ ও ৮ হলে অতিভুজ কত?",
+    "options": [
+      "১০",
+      "১৪",
+      "৯",
+      "১২"
+    ],
+    "answerIndex": 0,
+    "explanation": "অতিভুজ = √(৬² + ৮²) = √১০০ = ১০।"
+  },
+  {
+    "id": "gq-145",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৭ ও ২৪ হলে অতিভুজ কত?",
+    "options": [
+      "৩১",
+      "২৫",
+      "২৬",
+      "২৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "অতিভুজ = √(৭² + ২৪²) = √৬২৫ = ২৫।"
+  },
+  {
+    "id": "gq-146",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ২০ ও ২১ হলে অতিভুজ কত?",
+    "options": [
+      "৩১",
+      "৩০",
+      "২৮",
+      "২৯"
+    ],
+    "answerIndex": 3,
+    "explanation": "অতিভুজ = √(২০² + ২১²) = √৮৪১ = ২৯।"
+  },
+  {
+    "id": "gq-147",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৯ ও ১২ হলে অতিভুজ কত?",
+    "options": [
+      "১৫",
+      "১৪",
+      "১৬",
+      "২১"
+    ],
+    "answerIndex": 0,
+    "explanation": "অতিভুজ = √(৯² + ১২²) = √২২৫ = ১৫।"
+  },
+  {
+    "id": "gq-148",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ রবিবার হলে ১৩৩ দিন পরে কী বার হবে?",
+    "options": [
+      "মঙ্গলবার",
+      "শুক্রবার",
+      "রবিবার",
+      "সোমবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৩৩ ÷ ৭ = ভাগশেষ ০; রবিবার থেকে ০ দিন পরে রবিবার।"
+  },
+  {
+    "id": "gq-149",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বৃহস্পতিবার হলে ১২৪ দিন পরে কী বার হবে?",
+    "options": [
+      "বুধবার",
+      "বৃহস্পতিবার",
+      "মঙ্গলবার",
+      "রবিবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "১২৪ ÷ ৭ = ভাগশেষ ৫; বৃহস্পতিবার থেকে ৫ দিন পরে মঙ্গলবার।"
+  },
+  {
+    "id": "gq-150",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ মঙ্গলবার হলে ১২১ দিন পরে কী বার হবে?",
+    "options": [
+      "মঙ্গলবার",
+      "শুক্রবার",
+      "শনিবার",
+      "বৃহস্পতিবার"
+    ],
+    "answerIndex": 3,
+    "explanation": "১২১ ÷ ৭ = ভাগশেষ ২; মঙ্গলবার থেকে ২ দিন পরে বৃহস্পতিবার।"
+  },
+  {
+    "id": "gq-151",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বৃহস্পতিবার হলে ২৪ দিন পরে কী বার হবে?",
+    "options": [
+      "মঙ্গলবার",
+      "সোমবার",
+      "শুক্রবার",
+      "রবিবার"
+    ],
+    "answerIndex": 3,
+    "explanation": "২৪ ÷ ৭ = ভাগশেষ ৩; বৃহস্পতিবার থেকে ৩ দিন পরে রবিবার।"
+  },
+  {
+    "id": "gq-152",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ রবিবার হলে ১৮৩ দিন পরে কী বার হবে?",
+    "options": [
+      "মঙ্গলবার",
+      "শনিবার",
+      "সোমবার",
+      "বুধবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৮৩ ÷ ৭ = ভাগশেষ ১; রবিবার থেকে ১ দিন পরে সোমবার।"
+  },
+  {
+    "id": "gq-153",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ শনিবার হলে ১৪৬ দিন পরে কী বার হবে?",
+    "options": [
+      "শনিবার",
+      "রবিবার",
+      "বুধবার",
+      "শুক্রবার"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৪৬ ÷ ৭ = ভাগশেষ ৬; শনিবার থেকে ৬ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-154",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ শুক্রবার হলে ২৬ দিন পরে কী বার হবে?",
+    "options": [
+      "শুক্রবার",
+      "বুধবার",
+      "সোমবার",
+      "বৃহস্পতিবার"
+    ],
+    "answerIndex": 1,
+    "explanation": "২৬ ÷ ৭ = ভাগশেষ ৫; শুক্রবার থেকে ৫ দিন পরে বুধবার।"
+  },
+  {
+    "id": "gq-155",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বুধবার হলে ১০০ দিন পরে কী বার হবে?",
+    "options": [
+      "রবিবার",
+      "শুক্রবার",
+      "শনিবার",
+      "বুধবার"
+    ],
+    "answerIndex": 1,
+    "explanation": "১০০ ÷ ৭ = ভাগশেষ ২; বুধবার থেকে ২ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-156",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ শুক্রবার হলে ২৯ দিন পরে কী বার হবে?",
+    "options": [
+      "বৃহস্পতিবার",
+      "রবিবার",
+      "শনিবার",
+      "সোমবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "২৯ ÷ ৭ = ভাগশেষ ১; শুক্রবার থেকে ১ দিন পরে শনিবার।"
+  },
+  {
+    "id": "gq-157",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বৃহস্পতিবার হলে ৩৫ দিন পরে কী বার হবে?",
+    "options": [
+      "শুক্রবার",
+      "মঙ্গলবার",
+      "শনিবার",
+      "বৃহস্পতিবার"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩৫ ÷ ৭ = ভাগশেষ ০; বৃহস্পতিবার থেকে ০ দিন পরে বৃহস্পতিবার।"
+  },
+  {
+    "id": "gq-158",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বৃহস্পতিবার হলে ৩৩ দিন পরে কী বার হবে?",
+    "options": [
+      "মঙ্গলবার",
+      "রবিবার",
+      "বৃহস্পতিবার",
+      "বুধবার"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩৩ ÷ ৭ = ভাগশেষ ৫; বৃহস্পতিবার থেকে ৫ দিন পরে মঙ্গলবার।"
+  },
+  {
+    "id": "gq-159",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বৃহস্পতিবার হলে ১১৩ দিন পরে কী বার হবে?",
+    "options": [
+      "রবিবার",
+      "বুধবার",
+      "শুক্রবার",
+      "শনিবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "১১৩ ÷ ৭ = ভাগশেষ ১; বৃহস্পতিবার থেকে ১ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-160",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ সোমবার হলে ৯৫ দিন পরে কী বার হবে?",
+    "options": [
+      "শুক্রবার",
+      "বুধবার",
+      "রবিবার",
+      "শনিবার"
+    ],
+    "answerIndex": 0,
+    "explanation": "৯৫ ÷ ৭ = ভাগশেষ ৪; সোমবার থেকে ৪ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-161",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ সোমবার হলে ১০৯ দিন পরে কী বার হবে?",
+    "options": [
+      "শনিবার",
+      "শুক্রবার",
+      "রবিবার",
+      "বুধবার"
+    ],
+    "answerIndex": 1,
+    "explanation": "১০৯ ÷ ৭ = ভাগশেষ ৪; সোমবার থেকে ৪ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-162",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বুধবার হলে ১১৪ দিন পরে কী বার হবে?",
+    "options": [
+      "রবিবার",
+      "শুক্রবার",
+      "বুধবার",
+      "শনিবার"
+    ],
+    "answerIndex": 1,
+    "explanation": "১১৪ ÷ ৭ = ভাগশেষ ২; বুধবার থেকে ২ দিন পরে শুক্রবার।"
+  },
+  {
+    "id": "gq-163",
+    "categoryId": "mental",
+    "subTopic": "calendar",
+    "difficulty": "medium",
+    "question": "আজ বুধবার হলে ১২২ দিন পরে কী বার হবে?",
+    "options": [
+      "বৃহস্পতিবার",
+      "সোমবার",
+      "শনিবার",
+      "রবিবার"
+    ],
+    "answerIndex": 2,
+    "explanation": "১২২ ÷ ৭ = ভাগশেষ ৩; বুধবার থেকে ৩ দিন পরে শনিবার।"
+  },
+  {
+    "id": "gq-164",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: L, O, R, U, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "Y",
+      "U",
+      "Z",
+      "X"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিবার ৩ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর X।"
+  },
+  {
+    "id": "gq-165",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: A, D, G, J, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "J",
+      "O",
+      "M",
+      "N"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতিবার ৩ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর M।"
+  },
+  {
+    "id": "gq-166",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: F, G, H, I, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "K",
+      "I",
+      "J",
+      "L"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর J।"
+  },
+  {
+    "id": "gq-167",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: H, I, J, K, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "L",
+      "K",
+      "N",
+      "M"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর L।"
+  },
+  {
+    "id": "gq-168",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: M, O, Q, S, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "V",
+      "U",
+      "S",
+      "W"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিবার ২ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর U।"
+  },
+  {
+    "id": "gq-169",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: H, J, L, N, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "Q",
+      "P",
+      "N",
+      "R"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিবার ২ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর P।"
+  },
+  {
+    "id": "gq-170",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: D, E, F, G, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "J",
+      "H",
+      "I",
+      "G"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর H।"
+  },
+  {
+    "id": "gq-171",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: J, M, P, S, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "S",
+      "V",
+      "W",
+      "X"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিবার ৩ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর V।"
+  },
+  {
+    "id": "gq-172",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: B, E, H, K, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "K",
+      "O",
+      "N",
+      "P"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতিবার ৩ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর N।"
+  },
+  {
+    "id": "gq-173",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: M, P, S, V, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "V",
+      "A",
+      "Z",
+      "Y"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিবার ৩ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর Y।"
+  },
+  {
+    "id": "gq-174",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: I, J, K, L, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "O",
+      "N",
+      "M",
+      "L"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর M।"
+  },
+  {
+    "id": "gq-175",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: B, D, F, H, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "H",
+      "K",
+      "L",
+      "J"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিবার ২ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর J।"
+  },
+  {
+    "id": "gq-176",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: L, M, N, O, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "P",
+      "Q",
+      "O",
+      "R"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর P।"
+  },
+  {
+    "id": "gq-177",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: E, F, G, H, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "J",
+      "H",
+      "K",
+      "I"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর I।"
+  },
+  {
+    "id": "gq-178",
+    "categoryId": "mental",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: C, D, E, F, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": [
+      "F",
+      "H",
+      "I",
+      "G"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর G।"
+  }
+]

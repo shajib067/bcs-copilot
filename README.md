@@ -26,7 +26,7 @@ At runtime `src/data/questions.js` inflates that blob in memory. Two things fall
 - **Not visible to users.** Only the encoded blob ships in the APK, so the readable
   question/answer JSON is never in the bundle — the answer key can't be casually
   extracted. (This is obfuscation + compression, not strong encryption.)
-- **Minimal space.** The current bank is ~108 KB of JSON → ~28 KB encoded (~74% smaller).
+- **Minimal space.** The bank compresses well — e.g. ~190 KB of JSON → ~42 KB encoded (~78% smaller).
 
 Edit questions in `/question-bank/`, re-run `npm run build:bank`, and commit the
 regenerated `bank.generated.js`. The build validates every question (4 distinct options,
@@ -36,6 +36,31 @@ valid answer index, known category, unique ids) and fails loudly on mistakes.
 > geography, science, math, grammar). Volatile current-affairs (latest office-holders,
 > figures, recent events) are intentionally excluded — top those up separately and
 > review the bank for accuracy before release.
+
+## Scaling to book-size volume
+
+Two helper scripts make it practical to go well beyond the hand-written set without
+sacrificing correctness:
+
+**Computed questions (`npm run gen:quant`)** — generates math & reasoning questions
+whose answers are *calculated in code* (percentages, averages, ratios, profit/loss,
+interest, series, work-rate, speed, geometry, calendar, letter series). Because the
+answer is derived, not recalled, these are correct by construction. Output is written
+deterministically to `question-bank/generated-quant.json`.
+
+**CSV import (`npm run import:csv -- <file.csv> [name]`)** — bulk-imports a vetted
+question set (e.g. digitised past-year BCS papers you have rights to) from CSV. See
+`data/template.csv` for the format. Accepts answers as `A/B/C/D`, `ক/খ/গ/ঘ`, or `1..4`,
+validates every row, and writes `question-bank/imported-<name>.json`.
+
+After either, run `npm run build:bank`. The build does a final cross-file pass:
+it validates structure, **detects duplicate questions across all files**, and encodes
+the result. So the path to a few thousand questions is: import verified papers →
+build → ship.
+
+> The honest tradeoff for a paid app: factual-recall questions must be *correct*, and
+> at large volume that means sourcing from verified past papers rather than generating
+> facts. The computed generator is the one safe way to add bulk recall-free volume.
 
 ## Run locally
 
