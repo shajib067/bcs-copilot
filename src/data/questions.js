@@ -12,6 +12,7 @@
 //   getRandomQuestions(count)  -> shuffled subset
 import { inflate } from 'pako';
 import { ENCODED_BANK } from './bank.generated';
+import { CATEGORIES, TOTAL_MARKS } from './categories';
 
 // Base64 -> Uint8Array. Implemented directly so we don't depend on
 // atob/Buffer being present in the JS engine (e.g. Hermes).
@@ -70,4 +71,46 @@ export function getRandomQuestions(count) {
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
   return pool.slice(0, Math.min(count, pool.length));
+}
+
+function sample(arr, n) {
+  const pool = arr.slice();
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, Math.min(n, pool.length));
+}
+
+// Build a mock test that mirrors the real BCS mark distribution
+// (e.g. ~35% language, ~7.5% math), instead of sampling uniformly —
+// so a large computed-math set doesn't distort the exam balance.
+export function getMockTestQuestions(count = 100) {
+  const byCat = {};
+  for (const q of QUESTIONS) (byCat[q.categoryId] = byCat[q.categoryId] || []).push(q);
+
+  // Target per category, proportional to marks; largest-remainder rounding.
+  const targets = CATEGORIES.map((c) => {
+    const exact = (count * c.marks) / TOTAL_MARKS;
+    return { id: c.id, exact, base: Math.floor(exact), frac: exact - Math.floor(exact) };
+  });
+  let assigned = targets.reduce((s, t) => s + t.base, 0);
+  targets.sort((a, b) => b.frac - a.frac);
+  for (let i = 0; assigned < count && i < targets.length; i++, assigned++) targets[i].base += 1;
+
+  let picked = [];
+  let shortfall = 0;
+  for (const t of targets) {
+    const pool = byCat[t.id] || [];
+    const take = sample(pool, t.base);
+    picked = picked.concat(take);
+    shortfall += t.base - take.length; // category didn't have enough
+  }
+  // Backfill any shortfall from the remaining unused questions.
+  if (shortfall > 0) {
+    const usedIds = new Set(picked.map((q) => q.id));
+    const rest = QUESTIONS.filter((q) => !usedIds.has(q.id));
+    picked = picked.concat(sample(rest, shortfall));
+  }
+  return sample(picked, picked.length); // final shuffle
 }

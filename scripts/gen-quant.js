@@ -263,6 +263,201 @@ times(() => {
   });
 });
 
+// ---- fraction renderer for probability questions ----
+const bnFrac = (a, b) => `${bn(a)}/${bn(b)}`;
+function gcd(a, b) { return b ? gcd(b, a % b) : a; }
+
+// 16) LCM of two numbers
+times(() => {
+  const a = randInt(2, 12), b = randInt(2, 12);
+  if (a === b) return;
+  const l = (a * b) / gcd(a, b);
+  add('math', 'lcm_hcf', `${bn(a)} ও ${bn(b)}-এর লসাগু (LCM) কত?`,
+    buildMCQ(l, [a * b, l + a, l - b, l + 2]),
+    `${bn(a)} ও ${bn(b)}-এর লসাগু = ${bn(l)}।`);
+});
+
+// 17) HCF of two numbers
+times(() => {
+  const g = randInt(2, 9);
+  const a = g * randInt(2, 6), b = g * randInt(7, 11);
+  const h = gcd(a, b);
+  add('math', 'lcm_hcf', `${bn(a)} ও ${bn(b)}-এর গসাগু (HCF) কত?`,
+    buildMCQ(h, [h + 1, h - 1, h * 2, h + 2]),
+    `${bn(a)} ও ${bn(b)}-এর গসাগু = ${bn(h)}।`);
+});
+
+// 18) percentage increase
+times(() => {
+  const n = randInt(2, 20) * 10;
+  const p = choice([10, 20, 25, 50]);
+  const ans = n + (n * p) / 100;
+  add('math', 'percentage', `${bn(n)}-কে ${bn(p)}% বৃদ্ধি করলে ফল কত?`,
+    buildMCQ(ans, [n, n - (n * p) / 100, ans + 10, ans - 10]),
+    `${bn(n)} + ${bn(p)}% = ${bn(n)} + ${bn((n * p) / 100)} = ${bn(ans)}।`);
+});
+
+// 19) compound interest (2 years)
+times(() => {
+  const pr = randInt(1, 20) * 100;
+  const r = choice([10, 20, 50]);
+  const factor = { 10: 0.21, 20: 0.44, 50: 1.25 }[r];
+  const ci = pr * factor;
+  add('math', 'interest', `${bn(pr)} টাকার ${bn(r)}% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?`,
+    buildMCQ(ci, [(pr * r * 2) / 100, ci + 100, ci - 50, ci + 50]),
+    `চক্রবৃদ্ধি সুদ = ${bn(pr)} × [(১+${bn(r)}/১০০)² − ১] = ${bn(ci)} টাকা।`);
+});
+
+// 20) discount: marked price -> selling price
+times(() => {
+  const mp = randInt(2, 20) * 50;
+  const d = choice([10, 20, 25, 40, 50]);
+  const ans = mp - (mp * d) / 100;
+  add('math', 'profit_loss', `${bn(mp)} টাকার ধার্যমূল্যে ${bn(d)}% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?`,
+    buildMCQ(ans, [mp, (mp * d) / 100, ans + 25, ans - 25]),
+    `বিক্রয়মূল্য = ${bn(mp)} − ${bn(d)}% = ${bn(mp)} − ${bn((mp * d) / 100)} = ${bn(ans)} টাকা।`);
+});
+
+// 21) area of rectangle
+times(() => {
+  const l = randInt(4, 20), w = randInt(3, 15);
+  if (l === w) return;
+  const ans = l * w;
+  add('math', 'geometry', `একটি আয়তক্ষেত্রের দৈর্ঘ্য ${bn(l)} মিটার ও প্রস্থ ${bn(w)} মিটার হলে ক্ষেত্রফল কত বর্গমিটার?`,
+    buildMCQ(ans, [2 * (l + w), ans + l, ans - w, l + w]),
+    `ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ${bn(l)} × ${bn(w)} = ${bn(ans)} বর্গমিটার।`);
+});
+
+// 22) perimeter of rectangle
+times(() => {
+  const l = randInt(4, 20), w = randInt(3, 15);
+  if (l === w) return;
+  const ans = 2 * (l + w);
+  add('math', 'geometry', `একটি আয়তক্ষেত্রের দৈর্ঘ্য ${bn(l)} মিটার ও প্রস্থ ${bn(w)} মিটার হলে পরিসীমা কত মিটার?`,
+    buildMCQ(ans, [l * w, l + w, ans + 2, ans - 2]),
+    `পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (${bn(l)} + ${bn(w)}) = ${bn(ans)} মিটার।`);
+});
+
+// 23) area of circle (pi = 22/7, r multiple of 7)
+times(() => {
+  const r = choice([7, 14, 21]);
+  const ans = (22 * r * r) / 7;
+  add('math', 'geometry', `${bn(r)} সেমি ব্যাসার্ধের বৃত্তের ক্ষেত্রফল কত বর্গসেমি? (π = ২২/৭)`,
+    buildMCQ(ans, [(2 * 22 * r) / 7, ans + r, ans - r, ans + 10]),
+    `ক্ষেত্রফল = πr² = ২২/৭ × ${bn(r)}² = ${bn(ans)} বর্গসেমি।`);
+});
+
+// 24) area of triangle
+times(() => {
+  const base = randInt(4, 20) * 2; // even so half is integer
+  const height = randInt(3, 18);
+  const ans = (base * height) / 2;
+  add('math', 'geometry', `একটি ত্রিভুজের ভূমি ${bn(base)} সেমি ও উচ্চতা ${bn(height)} সেমি হলে ক্ষেত্রফল কত বর্গসেমি?`,
+    buildMCQ(ans, [base * height, ans + base, ans - height, ans + 4]),
+    `ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ${bn(base)} × ${bn(height)} = ${bn(ans)} বর্গসেমি।`);
+});
+
+// 25) find CP from SP and loss%
+times(() => {
+  const cp = randInt(2, 20) * 50;
+  const loss = choice([10, 20, 25]);
+  const sp = cp - (cp * loss) / 100;
+  add('math', 'profit_loss', `একটি দ্রব্য ${bn(sp)} টাকায় বিক্রি করায় ${bn(loss)}% ক্ষতি হলো। ক্রয়মূল্য কত?`,
+    buildMCQ(cp, [sp, cp + 50, cp - 50, sp + 50]),
+    `ক্রয়মূল্য × (১ − ${bn(loss)}/১০০) = ${bn(sp)} ⇒ ক্রয়মূল্য = ${bn(cp)} টাকা।`);
+});
+
+// 26) fraction of a quantity
+times(() => {
+  const den = choice([2, 3, 4, 5]);
+  const num = randInt(1, den - 1);
+  const whole = den * randInt(4, 20);
+  const ans = (whole * num) / den;
+  add('math', 'fraction', `${bn(whole)}-এর ${bnFrac(num, den)} অংশ কত?`,
+    buildMCQ(ans, [whole - ans, ans + den, ans - num, whole]),
+    `${bn(whole)} × ${bnFrac(num, den)} = ${bn(ans)}।`);
+});
+
+// 27) average speed equal distance (harmonic) — keep simple: total distance / total time
+times(() => {
+  const s = randInt(3, 10) * 10;
+  const t = randInt(2, 6);
+  const extra = randInt(2, 6);
+  const totalDist = s * t + s * extra;
+  const totalTime = t + extra;
+  if (totalDist % totalTime !== 0) return;
+  const ans = totalDist / totalTime;
+  // here speed constant so average = s; make it a clean "total distance" question instead
+  add('math', 'speed', `একজন ব্যক্তি ${bn(s)} কিমি/ঘণ্টা বেগে ${bn(totalTime)} ঘণ্টা হাঁটলে মোট কত কিমি যাবে?`,
+    buildMCQ(s * totalTime, [s + totalTime, s * t, s * totalTime + s, s * totalTime - s]),
+    `দূরত্ব = ${bn(s)} × ${bn(totalTime)} = ${bn(s * totalTime)} কিমি।`);
+});
+
+// 28) unit (last) digit of a^n
+times(() => {
+  const cycles = { 2: [2, 4, 8, 6], 3: [3, 9, 7, 1], 7: [7, 9, 3, 1], 8: [8, 4, 2, 6], 9: [9, 1] };
+  const base = choice([2, 3, 7, 8, 9]);
+  const cyc = cycles[base];
+  const n = randInt(2, 40);
+  const ans = cyc[(n - 1) % cyc.length];
+  add('math', 'number', `${bn(base)}^${bn(n)} সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?`,
+    buildMCQ(ans, [(ans + 1) % 10, (ans + 2) % 10, (ans + 4) % 10, base], (x) => bn(x)),
+    `${bn(base)}-এর ঘাতের এককের অঙ্ক চক্রাকারে ${cyc.map(bn).join(', ')}; তাই উত্তর ${bn(ans)}।`);
+});
+
+// 29) probability — even number on a die / specific outcomes
+times(() => {
+  const cases = [
+    { q: 'একটি ছক্কা নিক্ষেপে জোড় সংখ্যা আসার সম্ভাবনা কত?', a: 3, b: 6 },
+    { q: 'একটি ছক্কা নিক্ষেপে মৌলিক সংখ্যা আসার সম্ভাবনা কত?', a: 3, b: 6 },
+    { q: 'একটি ছক্কা নিক্ষেপে ৩-এর বেশি সংখ্যা আসার সম্ভাবনা কত?', a: 3, b: 6 },
+    { q: 'একটি মুদ্রা নিক্ষেপে হেড আসার সম্ভাবনা কত?', a: 1, b: 2 },
+  ];
+  const c = choice(cases);
+  const g = gcd(c.a, c.b);
+  const na = c.a / g, nb = c.b / g;
+  const ansStr = bnFrac(na, nb);
+  const distract = [bnFrac(1, 6), bnFrac(2, 3), bnFrac(1, 3), bnFrac(5, 6), bnFrac(1, 4)].filter((x) => x !== ansStr);
+  const opts = shuffle([ansStr, ...distract.slice(0, 3)]);
+  if (new Set(opts).size !== 4) return;
+  out.push({
+    id: `gq-${++counter}`, categoryId: 'math', subTopic: 'probability', difficulty: 'medium',
+    question: c.q, options: opts, answerIndex: opts.indexOf(ansStr),
+    explanation: `অনুকূল ফলাফল/মোট ফলাফল = ${bnFrac(c.a, c.b)} = ${ansStr}।`,
+  });
+});
+
+// 30) simple ratio scaling: x:y known, given x find y
+times(() => {
+  const a = randInt(2, 7), b = randInt(2, 7);
+  if (a === b) return;
+  const k = randInt(2, 9);
+  const x = a * k, y = b * k;
+  add('math', 'ratio', `দুটি সংখ্যার অনুপাত ${bn(a)} : ${bn(b)}। প্রথম সংখ্যা ${bn(x)} হলে দ্বিতীয় সংখ্যা কত?`,
+    buildMCQ(y, [x, y + b, y - a, x + b]),
+    `অনুপাত ${bn(a)}:${bn(b)}; প্রথম ${bn(x)} হলে গুণক ${bn(k)}, দ্বিতীয় = ${bn(b)} × ${bn(k)} = ${bn(y)}।`);
+});
+
+// 31) mean of n consecutive integers
+times(() => {
+  const start = randInt(2, 30);
+  const k = choice([3, 5, 7]);
+  const nums = Array.from({ length: k }, (_, i) => start + i);
+  const ans = start + (k - 1) / 2;
+  add('math', 'average', `${nums.map(bn).join(', ')} — পরপর সংখ্যাগুলোর গড় কত?`,
+    buildMCQ(ans, [ans + 1, ans - 1, nums[0], nums[k - 1]]),
+    `পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ${bn(ans)}।`);
+});
+
+// 32) time conversion: hours to minutes etc.
+times(() => {
+  const h = randInt(2, 12);
+  const ans = h * 60;
+  add('math', 'number', `${bn(h)} ঘণ্টা কত মিনিটের সমান?`,
+    buildMCQ(ans, [h * 100, ans + 60, ans - 60, h * 24]),
+    `${bn(h)} × ৬০ = ${bn(ans)} মিনিট।`);
+});
+
 // Fix mirror-clock entries that were added with answerIndex -1
 for (const q of out) {
   if (q.subTopic === 'clock' && q.answerIndex === -1) {

@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, ScrollView, Pressable, Alert, BackHandler } fro
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
-import { getRandomQuestions } from '../data/questions';
+import { getMockTestQuestions } from '../data/questions';
 import { MOCK_TEST_DURATION_MIN } from '../data/categories';
 import { saveTestResult, recordAnswer } from '../storage/progressStore';
 
@@ -11,7 +11,7 @@ const MAX_QUESTIONS = 100;
 const NEGATIVE_PER_WRONG = 0.5; // BCS negative marking
 
 export default function MockTestScreen({ navigation }) {
-  const questions = useMemo(() => getRandomQuestions(MAX_QUESTIONS), []);
+  const questions = useMemo(() => getMockTestQuestions(MAX_QUESTIONS), []);
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState({}); // { qId: optionIndex }
   const [secondsLeft, setSecondsLeft] = useState(MOCK_TEST_DURATION_MIN * 60);

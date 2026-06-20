@@ -2668,5 +2668,3290 @@
     ],
     "answerIndex": 3,
     "explanation": "প্রতিবার ১ ধাপ করে এগোচ্ছে; পরবর্তী অক্ষর G।"
+  },
+  {
+    "id": "gq-179",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৮ ও ৯-এর লসাগু (LCM) কত?",
+    "options": [
+      "৬৩",
+      "৭৪",
+      "৮০",
+      "৭২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৮ ও ৯-এর লসাগু = ৭২।"
+  },
+  {
+    "id": "gq-180",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১০ ও ৩-এর লসাগু (LCM) কত?",
+    "options": [
+      "২৭",
+      "৩২",
+      "৩০",
+      "৪০"
+    ],
+    "answerIndex": 2,
+    "explanation": "১০ ও ৩-এর লসাগু = ৩০।"
+  },
+  {
+    "id": "gq-181",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২ ও ৭-এর লসাগু (LCM) কত?",
+    "options": [
+      "৭",
+      "১৪",
+      "১৬",
+      "১৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "২ ও ৭-এর লসাগু = ১৪।"
+  },
+  {
+    "id": "gq-182",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২ ও ৪-এর লসাগু (LCM) কত?",
+    "options": [
+      "৮",
+      "৬",
+      "৫",
+      "৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "২ ও ৪-এর লসাগু = ৪।"
+  },
+  {
+    "id": "gq-183",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৭ ও ২-এর লসাগু (LCM) কত?",
+    "options": [
+      "১২",
+      "২১",
+      "১৬",
+      "১৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "৭ ও ২-এর লসাগু = ১৪।"
+  },
+  {
+    "id": "gq-184",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১০ ও ৯-এর লসাগু (LCM) কত?",
+    "options": [
+      "৯২",
+      "৮১",
+      "১০০",
+      "৯০"
+    ],
+    "answerIndex": 3,
+    "explanation": "১০ ও ৯-এর লসাগু = ৯০।"
+  },
+  {
+    "id": "gq-185",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৩ ও ২-এর লসাগু (LCM) কত?",
+    "options": [
+      "৪",
+      "৬",
+      "৯",
+      "৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩ ও ২-এর লসাগু = ৬।"
+  },
+  {
+    "id": "gq-186",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১২ ও ৫-এর লসাগু (LCM) কত?",
+    "options": [
+      "৫৫",
+      "৬২",
+      "৬০",
+      "৭২"
+    ],
+    "answerIndex": 2,
+    "explanation": "১২ ও ৫-এর লসাগু = ৬০।"
+  },
+  {
+    "id": "gq-187",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১০ ও ৬-এর লসাগু (LCM) কত?",
+    "options": [
+      "২৪",
+      "৩২",
+      "৪০",
+      "৩০"
+    ],
+    "answerIndex": 3,
+    "explanation": "১০ ও ৬-এর লসাগু = ৩০।"
+  },
+  {
+    "id": "gq-188",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৪ ও ৩-এর লসাগু (LCM) কত?",
+    "options": [
+      "১২",
+      "১৪",
+      "৯",
+      "১৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "৪ ও ৩-এর লসাগু = ১২।"
+  },
+  {
+    "id": "gq-189",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৫ ও ১১-এর লসাগু (LCM) কত?",
+    "options": [
+      "৬০",
+      "৫৫",
+      "৪৪",
+      "৫৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "৫ ও ১১-এর লসাগু = ৫৫।"
+  },
+  {
+    "id": "gq-190",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৪ ও ৮-এর লসাগু (LCM) কত?",
+    "options": [
+      "৩২",
+      "৮",
+      "১২",
+      "১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "৪ ও ৮-এর লসাগু = ৮।"
+  },
+  {
+    "id": "gq-191",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৬ ও ১০-এর লসাগু (LCM) কত?",
+    "options": [
+      "৩২",
+      "৩৬",
+      "৩০",
+      "৬০"
+    ],
+    "answerIndex": 2,
+    "explanation": "৬ ও ১০-এর লসাগু = ৩০।"
+  },
+  {
+    "id": "gq-192",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৩২ ও ৬৪-এর গসাগু (HCF) কত?",
+    "options": [
+      "৩৪",
+      "৩১",
+      "৩৩",
+      "৩২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩২ ও ৬৪-এর গসাগু = ৩২।"
+  },
+  {
+    "id": "gq-193",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১৮ ও ৯০-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৭",
+      "১৮",
+      "৩৬",
+      "১৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৮ ও ৯০-এর গসাগু = ১৮।"
+  },
+  {
+    "id": "gq-194",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২৪ ও ৬৪-এর গসাগু (HCF) কত?",
+    "options": [
+      "৯",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "২৪ ও ৬৪-এর গসাগু = ৮।"
+  },
+  {
+    "id": "gq-195",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২১ ও ৭৭-এর গসাগু (HCF) কত?",
+    "options": [
+      "৮",
+      "৯",
+      "৬",
+      "৭"
+    ],
+    "answerIndex": 3,
+    "explanation": "২১ ও ৭৭-এর গসাগু = ৭।"
+  },
+  {
+    "id": "gq-196",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২৪ ও ২৮-এর গসাগু (HCF) কত?",
+    "options": [
+      "৬",
+      "৪",
+      "৩",
+      "৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "২৪ ও ২৮-এর গসাগু = ৪।"
+  },
+  {
+    "id": "gq-197",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৩০ ও ৬০-এর গসাগু (HCF) কত?",
+    "options": [
+      "৬০",
+      "৩০",
+      "৩২",
+      "৩১"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩০ ও ৬০-এর গসাগু = ৩০।"
+  },
+  {
+    "id": "gq-198",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৩৫ ও ৪৯-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৪",
+      "৭",
+      "৯",
+      "৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩৫ ও ৪৯-এর গসাগু = ৭।"
+  },
+  {
+    "id": "gq-199",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৯ ও ২৭-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৮",
+      "১০",
+      "৮",
+      "৯"
+    ],
+    "answerIndex": 3,
+    "explanation": "৯ ও ২৭-এর গসাগু = ৯।"
+  },
+  {
+    "id": "gq-200",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১২ ও ৪৮-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৪",
+      "১৩",
+      "১২",
+      "২৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "১২ ও ৪৮-এর গসাগু = ১২।"
+  },
+  {
+    "id": "gq-201",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১৫ ও ২১-এর গসাগু (HCF) কত?",
+    "options": [
+      "৬",
+      "৪",
+      "৫",
+      "৩"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৫ ও ২১-এর গসাগু = ৩।"
+  },
+  {
+    "id": "gq-202",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২০ ও ৩৫-এর গসাগু (HCF) কত?",
+    "options": [
+      "১০",
+      "৫",
+      "৭",
+      "৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "২০ ও ৩৫-এর গসাগু = ৫।"
+  },
+  {
+    "id": "gq-203",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২১ ও ৬৩-এর গসাগু (HCF) কত?",
+    "options": [
+      "২১",
+      "২৩",
+      "২২",
+      "২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "২১ ও ৬৩-এর গসাগু = ২১।"
+  },
+  {
+    "id": "gq-204",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "৪২ ও ৬৩-এর গসাগু (HCF) কত?",
+    "options": [
+      "২৩",
+      "২১",
+      "৪২",
+      "২২"
+    ],
+    "answerIndex": 1,
+    "explanation": "৪২ ও ৬৩-এর গসাগু = ২১।"
+  },
+  {
+    "id": "gq-205",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "২৪ ও ৬০-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৪",
+      "১২",
+      "২৪",
+      "১৩"
+    ],
+    "answerIndex": 1,
+    "explanation": "২৪ ও ৬০-এর গসাগু = ১২।"
+  },
+  {
+    "id": "gq-206",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১৮ ও ৫৪-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৮",
+      "২০",
+      "১৯",
+      "১৭"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৮ ও ৫৪-এর গসাগু = ১৮।"
+  },
+  {
+    "id": "gq-207",
+    "categoryId": "math",
+    "subTopic": "lcm_hcf",
+    "difficulty": "medium",
+    "question": "১৫ ও ৩০-এর গসাগু (HCF) কত?",
+    "options": [
+      "১৫",
+      "১৬",
+      "১৭",
+      "৩০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৫ ও ৩০-এর গসাগু = ১৫।"
+  },
+  {
+    "id": "gq-208",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৯০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১১৮",
+      "১০৮",
+      "৯৮",
+      "৭২"
+    ],
+    "answerIndex": 1,
+    "explanation": "৯০ + ২০% = ৯০ + ১৮ = ১০৮।"
+  },
+  {
+    "id": "gq-209",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৬০-কে ১০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৬৬",
+      "৭৬",
+      "৬০",
+      "৫৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "৬০ + ১০% = ৬০ + ৬ = ৬৬।"
+  },
+  {
+    "id": "gq-210",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৬০-কে ১০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১৬০",
+      "১৬৬",
+      "১৮৬",
+      "১৭৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৬০ + ১০% = ১৬০ + ১৬ = ১৭৬।"
+  },
+  {
+    "id": "gq-211",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১১০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১৩২",
+      "১৪২",
+      "৮৮",
+      "১১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১১০ + ২০% = ১১০ + ২২ = ১৩২।"
+  },
+  {
+    "id": "gq-212",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৭০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "২১৪",
+      "১৯৪",
+      "১৭০",
+      "২০৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৭০ + ২০% = ১৭০ + ৩৪ = ২০৪।"
+  },
+  {
+    "id": "gq-213",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৭০-কে ২৫% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১২৭.৫",
+      "২২২.৫",
+      "২০২.৫",
+      "২১২.৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৭০ + ২৫% = ১৭০ + ৪২.৫ = ২১২.৫।"
+  },
+  {
+    "id": "gq-214",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৭০-কে ৫০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৮৫",
+      "২৫৫",
+      "১৭০",
+      "২৪৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৭০ + ৫০% = ১৭০ + ৮৫ = ২৫৫।"
+  },
+  {
+    "id": "gq-215",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৩০-কে ৫০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৪৫",
+      "৩৫",
+      "১৫",
+      "৫৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩০ + ৫০% = ৩০ + ১৫ = ৪৫।"
+  },
+  {
+    "id": "gq-216",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৮০-কে ২৫% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১০০",
+      "৮০",
+      "৬০",
+      "৯০"
+    ],
+    "answerIndex": 0,
+    "explanation": "৮০ + ২৫% = ৮০ + ২০ = ১০০।"
+  },
+  {
+    "id": "gq-217",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৮০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১৪৪",
+      "২০৬",
+      "২২৬",
+      "২১৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৮০ + ২০% = ১৮০ + ৩৬ = ২১৬।"
+  },
+  {
+    "id": "gq-218",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৫০-কে ১০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৪৫",
+      "৬৫",
+      "৫৫",
+      "৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "৫০ + ১০% = ৫০ + ৫ = ৫৫।"
+  },
+  {
+    "id": "gq-219",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১২০-কে ৫০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৬০",
+      "১২০",
+      "১৮০",
+      "১৯০"
+    ],
+    "answerIndex": 2,
+    "explanation": "১২০ + ৫০% = ১২০ + ৬০ = ১৮০।"
+  },
+  {
+    "id": "gq-220",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "২০০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১৬০",
+      "২৪০",
+      "২০০",
+      "২৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "২০০ + ২০% = ২০০ + ৪০ = ২৪০।"
+  },
+  {
+    "id": "gq-221",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১৯০-কে ২০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "২৩৮",
+      "২২৮",
+      "১৯০",
+      "১৫২"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯০ + ২০% = ১৯০ + ৩৮ = ২২৮।"
+  },
+  {
+    "id": "gq-222",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "১২০-কে ২৫% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "৯০",
+      "১৬০",
+      "১৪০",
+      "১৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "১২০ + ২৫% = ১২০ + ৩০ = ১৫০।"
+  },
+  {
+    "id": "gq-223",
+    "categoryId": "math",
+    "subTopic": "percentage",
+    "difficulty": "medium",
+    "question": "৬০-কে ৫০% বৃদ্ধি করলে ফল কত?",
+    "options": [
+      "১০০",
+      "৯০",
+      "৩০",
+      "৬০"
+    ],
+    "answerIndex": 1,
+    "explanation": "৬০ + ৫০% = ৬০ + ৩০ = ৯০।"
+  },
+  {
+    "id": "gq-224",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৭০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৪৭",
+      "১৯৭",
+      "৯৭",
+      "২৪৭"
+    ],
+    "answerIndex": 0,
+    "explanation": "চক্রবৃদ্ধি সুদ = ৭০০ × [(১+১০/১০০)² − ১] = ১৪৭ টাকা।"
+  },
+  {
+    "id": "gq-225",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১০০",
+      "৭৫",
+      "২২৫",
+      "১২৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১০০ × [(১+৫০/১০০)² − ১] = ১২৫ টাকা।"
+  },
+  {
+    "id": "gq-226",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৩০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৩২৫",
+      "৩৭৫",
+      "৩০০",
+      "৪৭৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "চক্রবৃদ্ধি সুদ = ৩০০ × [(১+৫০/১০০)² − ১] = ৩৭৫ টাকা।"
+  },
+  {
+    "id": "gq-227",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৪০০ টাকার ২০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৫৬৬",
+      "৬৬৬",
+      "৫৬০",
+      "৬১৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৪০০ × [(১+২০/১০০)² − ১] = ৬১৬ টাকা।"
+  },
+  {
+    "id": "gq-228",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৮০০ টাকার ২০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৭৯২",
+      "৭২০",
+      "৮৪২",
+      "৭৪২"
+    ],
+    "answerIndex": 0,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৮০০ × [(১+২০/১০০)² − ১] = ৭৯২ টাকা।"
+  },
+  {
+    "id": "gq-229",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৯০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৩৯",
+      "১৮৯",
+      "১৮০",
+      "২৮৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "চক্রবৃদ্ধি সুদ = ৯০০ × [(১+১০/১০০)² − ১] = ১৮৯ টাকা।"
+  },
+  {
+    "id": "gq-230",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৮০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৮০০",
+      "২২০০",
+      "২৩০০",
+      "২২৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৮০০ × [(১+৫০/১০০)² − ১] = ২২৫০ টাকা।"
+  },
+  {
+    "id": "gq-231",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৯০০ টাকার ২০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৮৩৬",
+      "৯৩৬",
+      "৮৮৬",
+      "৭৬০"
+    ],
+    "answerIndex": 0,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৯০০ × [(১+২০/১০০)² − ১] = ৮৩৬ টাকা।"
+  },
+  {
+    "id": "gq-232",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৮০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১০০০",
+      "১০৫০",
+      "১১০০",
+      "৯৫০"
+    ],
+    "answerIndex": 0,
+    "explanation": "চক্রবৃদ্ধি সুদ = ৮০০ × [(১+৫০/১০০)² − ১] = ১০০০ টাকা।"
+  },
+  {
+    "id": "gq-233",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "২০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৪২",
+      "৯২",
+      "৪০",
+      "৪২"
+    ],
+    "answerIndex": 3,
+    "explanation": "চক্রবৃদ্ধি সুদ = ২০০ × [(১+১০/১০০)² − ১] = ৪২ টাকা।"
+  },
+  {
+    "id": "gq-234",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৪০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৮০০",
+      "১৭০০",
+      "১৮৫০",
+      "১৭৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৪০০ × [(১+৫০/১০০)² − ১] = ১৭৫০ টাকা।"
+  },
+  {
+    "id": "gq-235",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "৫০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৭২৫",
+      "৫০০",
+      "৬২৫",
+      "৫৭৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "চক্রবৃদ্ধি সুদ = ৫০০ × [(১+৫০/১০০)² − ১] = ৬২৫ টাকা।"
+  },
+  {
+    "id": "gq-236",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৭০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "৩৪০",
+      "৩৫৭",
+      "৪০৭",
+      "৪৫৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৭০০ × [(১+১০/১০০)² − ১] = ৩৫৭ টাকা।"
+  },
+  {
+    "id": "gq-237",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১২১",
+      "৭১",
+      "২১",
+      "২০"
+    ],
+    "answerIndex": 2,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১০০ × [(১+১০/১০০)² − ১] = ২১ টাকা।"
+  },
+  {
+    "id": "gq-238",
+    "categoryId": "math",
+    "subTopic": "interest",
+    "difficulty": "medium",
+    "question": "১৩০০ টাকার ৫০% হারে ২ বছরের চক্রবৃদ্ধি সুদ কত?",
+    "options": [
+      "১৭২৫",
+      "১৬২৫",
+      "১৫৭৫",
+      "১৬৭৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "চক্রবৃদ্ধি সুদ = ১৩০০ × [(১+৫০/১০০)² − ১] = ১৬২৫ টাকা।"
+  },
+  {
+    "id": "gq-239",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৩৫০ টাকার ধার্যমূল্যে ২৫% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৮৭.৫",
+      "২৮৭.৫",
+      "২৩৭.৫",
+      "২৬২.৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৩৫০ − ২৫% = ৩৫০ − ৮৭.৫ = ২৬২.৫ টাকা।"
+  },
+  {
+    "id": "gq-240",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৯০০ টাকার ধার্যমূল্যে ২০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৯০০",
+      "৭৪৫",
+      "৭২০",
+      "১৮০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৯০০ − ২০% = ৯০০ − ১৮০ = ৭২০ টাকা।"
+  },
+  {
+    "id": "gq-241",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৬০০ টাকার ধার্যমূল্যে ১০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৫১৫",
+      "৬০০",
+      "৬০",
+      "৫৪০"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৬০০ − ১০% = ৬০০ − ৬০ = ৫৪০ টাকা।"
+  },
+  {
+    "id": "gq-242",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৪০০ টাকার ধার্যমূল্যে ১০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৪০",
+      "৩৮৫",
+      "৩৩৫",
+      "৩৬০"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৪০০ − ১০% = ৪০০ − ৪০ = ৩৬০ টাকা।"
+  },
+  {
+    "id": "gq-243",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৩৫০ টাকার ধার্যমূল্যে ১০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৩৫০",
+      "৩১৫",
+      "৩৪০",
+      "২৯০"
+    ],
+    "answerIndex": 1,
+    "explanation": "বিক্রয়মূল্য = ৩৫০ − ১০% = ৩৫০ − ৩৫ = ৩১৫ টাকা।"
+  },
+  {
+    "id": "gq-244",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৫৫০ টাকার ধার্যমূল্যে ৫০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "২৫০",
+      "৫৫০",
+      "৩০০",
+      "২৭৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিক্রয়মূল্য = ৫৫০ − ৫০% = ৫৫০ − ২৭৫ = ২৭৫ টাকা।"
+  },
+  {
+    "id": "gq-245",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১৫০ টাকার ধার্যমূল্যে ১০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "১৬০",
+      "১৩৫",
+      "১৫",
+      "১৫০"
+    ],
+    "answerIndex": 1,
+    "explanation": "বিক্রয়মূল্য = ১৫০ − ১০% = ১৫০ − ১৫ = ১৩৫ টাকা।"
+  },
+  {
+    "id": "gq-246",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "১০০ টাকার ধার্যমূল্যে ১০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "১০",
+      "১১৫",
+      "৯০",
+      "১০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ১০০ − ১০% = ১০০ − ১০ = ৯০ টাকা।"
+  },
+  {
+    "id": "gq-247",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "২৫০ টাকার ধার্যমূল্যে ৪০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "১০০",
+      "১২৫",
+      "১৫০",
+      "২৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ২৫০ − ৪০% = ২৫০ − ১০০ = ১৫০ টাকা।"
+  },
+  {
+    "id": "gq-248",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৭৫০ টাকার ধার্যমূল্যে ৫০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৭৫০",
+      "৩৫০",
+      "৩৭৫",
+      "৪০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৭৫০ − ৫০% = ৭৫০ − ৩৭৫ = ৩৭৫ টাকা।"
+  },
+  {
+    "id": "gq-249",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৮০০ টাকার ধার্যমূল্যে ২০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৬৬৫",
+      "৬১৫",
+      "৬৪০",
+      "১৬০"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৮০০ − ২০% = ৮০০ − ১৬০ = ৬৪০ টাকা।"
+  },
+  {
+    "id": "gq-250",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৯০০ টাকার ধার্যমূল্যে ৪০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৫১৫",
+      "৩৬০",
+      "৫৪০",
+      "৫৬৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিক্রয়মূল্য = ৯০০ − ৪০% = ৯০০ − ৩৬০ = ৫৪০ টাকা।"
+  },
+  {
+    "id": "gq-251",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "৬৫০ টাকার ধার্যমূল্যে ২০% ছাড়ে একটি পণ্যের বিক্রয়মূল্য কত?",
+    "options": [
+      "৫২০",
+      "৫৪৫",
+      "৬৫০",
+      "৪৯৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিক্রয়মূল্য = ৬৫০ − ২০% = ৬৫০ − ১৩০ = ৫২০ টাকা।"
+  },
+  {
+    "id": "gq-252",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৫ মিটার ও প্রস্থ ১৫ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৬০",
+      "৭৫",
+      "৪০",
+      "৮০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৫ × ১৫ = ৭৫ বর্গমিটার।"
+  },
+  {
+    "id": "gq-253",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১১ মিটার ও প্রস্থ ৩ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৩৩",
+      "৩০",
+      "১৪",
+      "২৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১১ × ৩ = ৩৩ বর্গমিটার।"
+  },
+  {
+    "id": "gq-254",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৫ মিটার ও প্রস্থ ১৪ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৫৬",
+      "৭৫",
+      "১৯",
+      "৭০"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৫ × ১৪ = ৭০ বর্গমিটার।"
+  },
+  {
+    "id": "gq-255",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১০ মিটার ও প্রস্থ ১৫ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "২৫",
+      "১৬০",
+      "১৫০",
+      "১৩৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১০ × ১৫ = ১৫০ বর্গমিটার।"
+  },
+  {
+    "id": "gq-256",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৭ মিটার ও প্রস্থ ৮ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৬৩",
+      "৫৬",
+      "৪৮",
+      "৩০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৭ × ৮ = ৫৬ বর্গমিটার।"
+  },
+  {
+    "id": "gq-257",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ মিটার ও প্রস্থ ৮ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "২৩",
+      "১২০",
+      "১৩৫",
+      "৪৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৫ × ৮ = ১২০ বর্গমিটার।"
+  },
+  {
+    "id": "gq-258",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৭ মিটার ও প্রস্থ ১৩ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৬০",
+      "২২১",
+      "২০৮",
+      "২৩৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৭ × ১৩ = ২২১ বর্গমিটার।"
+  },
+  {
+    "id": "gq-259",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৬ মিটার ও প্রস্থ ৯ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৩০",
+      "৫৪",
+      "৬০",
+      "১৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৬ × ৯ = ৫৪ বর্গমিটার।"
+  },
+  {
+    "id": "gq-260",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৯ মিটার ও প্রস্থ ১৩ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "১২৬",
+      "১০৪",
+      "২২",
+      "১১৭"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৯ × ১৩ = ১১৭ বর্গমিটার।"
+  },
+  {
+    "id": "gq-261",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৯ মিটার ও প্রস্থ ৮ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "১৭",
+      "৬৪",
+      "৭২",
+      "৩৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৯ × ৮ = ৭২ বর্গমিটার।"
+  },
+  {
+    "id": "gq-262",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৭ মিটার ও প্রস্থ ১৩ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "২০",
+      "৭৮",
+      "৪০",
+      "৯১"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ৭ × ১৩ = ৯১ বর্গমিটার।"
+  },
+  {
+    "id": "gq-263",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ মিটার ও প্রস্থ ১২ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "১৬৮",
+      "২৭",
+      "১৯৫",
+      "১৮০"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৫ × ১২ = ১৮০ বর্গমিটার।"
+  },
+  {
+    "id": "gq-264",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১১ মিটার ও প্রস্থ ৫ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৫৫",
+      "৫০",
+      "৬৬",
+      "৩২"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১১ × ৫ = ৫৫ বর্গমিটার।"
+  },
+  {
+    "id": "gq-265",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৬ মিটার ও প্রস্থ ৫ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "৭৫",
+      "৮০",
+      "৯৬",
+      "২১"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৬ × ৫ = ৮০ বর্গমিটার।"
+  },
+  {
+    "id": "gq-266",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৩ মিটার ও প্রস্থ ১২ মিটার হলে ক্ষেত্রফল কত বর্গমিটার?",
+    "options": [
+      "১৪৪",
+      "৫০",
+      "১৫৬",
+      "২৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৩ × ১২ = ১৫৬ বর্গমিটার।"
+  },
+  {
+    "id": "gq-267",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৭ মিটার ও প্রস্থ ১৪ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪০",
+      "৯৮",
+      "৪২",
+      "২১"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৭ + ১৪) = ৪২ মিটার।"
+  },
+  {
+    "id": "gq-268",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৭ মিটার ও প্রস্থ ৬ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪২",
+      "২৬",
+      "২৪",
+      "১৩"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৭ + ৬) = ২৬ মিটার।"
+  },
+  {
+    "id": "gq-269",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ মিটার ও প্রস্থ ১০ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "১৫০",
+      "৫০",
+      "৪৮",
+      "২৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৫ + ১০) = ৫০ মিটার।"
+  },
+  {
+    "id": "gq-270",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৬ মিটার ও প্রস্থ ৮ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৩০",
+      "২৬",
+      "১৪",
+      "২৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৬ + ৮) = ২৮ মিটার।"
+  },
+  {
+    "id": "gq-271",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৭ মিটার ও প্রস্থ ৯ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৩০",
+      "৩২",
+      "৩৪",
+      "১৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৭ + ৯) = ৩২ মিটার।"
+  },
+  {
+    "id": "gq-272",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ মিটার ও প্রস্থ ১১ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "২৩",
+      "৪৪",
+      "৪৬",
+      "১৩২"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১২ + ১১) = ৪৬ মিটার।"
+  },
+  {
+    "id": "gq-273",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৮ মিটার ও প্রস্থ ৪ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪৪",
+      "২২",
+      "৪২",
+      "৪৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৮ + ৪) = ৪৪ মিটার।"
+  },
+  {
+    "id": "gq-274",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৭ মিটার ও প্রস্থ ১২ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৬০",
+      "৫৮",
+      "২৯",
+      "৫৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৭ + ১২) = ৫৮ মিটার।"
+  },
+  {
+    "id": "gq-275",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৮ মিটার ও প্রস্থ ৬ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪৮",
+      "২৮",
+      "৩০",
+      "১৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৮ + ৬) = ২৮ মিটার।"
+  },
+  {
+    "id": "gq-276",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ মিটার ও প্রস্থ ১০ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪২",
+      "২২",
+      "৪৪",
+      "৪৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১২ + ১০) = ৪৪ মিটার।"
+  },
+  {
+    "id": "gq-277",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৮ মিটার ও প্রস্থ ১২ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৬০",
+      "৬২",
+      "২১৬",
+      "৫৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৮ + ১২) = ৬০ মিটার।"
+  },
+  {
+    "id": "gq-278",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ মিটার ও প্রস্থ ১৪ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "২১০",
+      "৫৮",
+      "৬০",
+      "২৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৫ + ১৪) = ৫৮ মিটার।"
+  },
+  {
+    "id": "gq-279",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৪ মিটার ও প্রস্থ ৮ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪২",
+      "৪৪",
+      "৪৬",
+      "১১২"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১৪ + ৮) = ৪৪ মিটার।"
+  },
+  {
+    "id": "gq-280",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৮ মিটার ও প্রস্থ ১৫ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "৪৬",
+      "৪৪",
+      "২৩",
+      "১২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৮ + ১৫) = ৪৬ মিটার।"
+  },
+  {
+    "id": "gq-281",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ৮ মিটার ও প্রস্থ ১০ মিটার হলে পরিসীমা কত মিটার?",
+    "options": [
+      "১৮",
+      "৩৪",
+      "৮০",
+      "৩৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৮ + ১০) = ৩৬ মিটার।"
+  },
+  {
+    "id": "gq-282",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "২১ সেমি ব্যাসার্ধের বৃত্তের ক্ষেত্রফল কত বর্গসেমি? (π = ২২/৭)",
+    "options": [
+      "১৩৬৫",
+      "১৩২",
+      "১৩৯৬",
+      "১৩৮৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = πr² = ২২/৭ × ২১² = ১৩৮৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-283",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "১৪ সেমি ব্যাসার্ধের বৃত্তের ক্ষেত্রফল কত বর্গসেমি? (π = ২২/৭)",
+    "options": [
+      "৬১৬",
+      "৬৩০",
+      "৬০২",
+      "৮৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = πr² = ২২/৭ × ১৪² = ৬১৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-284",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "৭ সেমি ব্যাসার্ধের বৃত্তের ক্ষেত্রফল কত বর্গসেমি? (π = ২২/৭)",
+    "options": [
+      "১৬১",
+      "১৬৪",
+      "৪৪",
+      "১৫৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = πr² = ২২/৭ × ৭² = ১৫৪ বর্গসেমি।"
+  },
+  {
+    "id": "gq-285",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩৬ সেমি ও উচ্চতা ৬ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১৪৪",
+      "১০৮",
+      "১১২",
+      "১০২"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩৬ × ৬ = ১০৮ বর্গসেমি।"
+  },
+  {
+    "id": "gq-286",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩৪ সেমি ও উচ্চতা ৯ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১৫৩",
+      "১৮৭",
+      "১৫৭",
+      "৩০৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩৪ × ৯ = ১৫৩ বর্গসেমি।"
+  },
+  {
+    "id": "gq-287",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ১৪ সেমি ও উচ্চতা ১৩ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৯১",
+      "৯৫",
+      "১০৫",
+      "১৮২"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ১৪ × ১৩ = ৯১ বর্গসেমি।"
+  },
+  {
+    "id": "gq-288",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ১৬ সেমি ও উচ্চতা ৮ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৬৮",
+      "১২৮",
+      "৮০",
+      "৬৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ১৬ × ৮ = ৬৪ বর্গসেমি।"
+  },
+  {
+    "id": "gq-289",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ১৪ সেমি ও উচ্চতা ১৮ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১০৮",
+      "১৪০",
+      "১২৬",
+      "১৩০"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ১৪ × ১৮ = ১২৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-290",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩৮ সেমি ও উচ্চতা ৩ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৫৭",
+      "৬১",
+      "৯৫",
+      "৫৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩৮ × ৩ = ৫৭ বর্গসেমি।"
+  },
+  {
+    "id": "gq-291",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ২৬ সেমি ও উচ্চতা ৩ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৩৯",
+      "৪৩",
+      "৬৫",
+      "৭৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ২৬ × ৩ = ৩৯ বর্গসেমি।"
+  },
+  {
+    "id": "gq-292",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ২০ সেমি ও উচ্চতা ১০ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "২০০",
+      "১০০",
+      "১২০",
+      "১০৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ২০ × ১০ = ১০০ বর্গসেমি।"
+  },
+  {
+    "id": "gq-293",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ২২ সেমি ও উচ্চতা ৮ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১১০",
+      "৮৮",
+      "৮০",
+      "৯২"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ২২ × ৮ = ৮৮ বর্গসেমি।"
+  },
+  {
+    "id": "gq-294",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩০ সেমি ও উচ্চতা ৬ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৯০",
+      "৮৪",
+      "১৮০",
+      "১২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩০ × ৬ = ৯০ বর্গসেমি।"
+  },
+  {
+    "id": "gq-295",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ২৪ সেমি ও উচ্চতা ১৩ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১৫৬",
+      "৩১২",
+      "১৪৩",
+      "১৮০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ২৪ × ১৩ = ১৫৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-296",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩৪ সেমি ও উচ্চতা ৮ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১৩৬",
+      "১২৮",
+      "২৭২",
+      "১৪০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩৪ × ৮ = ১৩৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-297",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩২ সেমি ও উচ্চতা ১৪ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "২২৮",
+      "২২৪",
+      "২৫৬",
+      "২১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩২ × ১৪ = ২২৪ বর্গসেমি।"
+  },
+  {
+    "id": "gq-298",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ১২ সেমি ও উচ্চতা ৬ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "৩৬",
+      "৪০",
+      "৪৮",
+      "৭২"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ১২ × ৬ = ৩৬ বর্গসেমি।"
+  },
+  {
+    "id": "gq-299",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ৩২ সেমি ও উচ্চতা ১৭ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "২৫৫",
+      "২৭২",
+      "৩০৪",
+      "৫৪৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ৩২ × ১৭ = ২৭২ বর্গসেমি।"
+  },
+  {
+    "id": "gq-300",
+    "categoryId": "math",
+    "subTopic": "geometry",
+    "difficulty": "medium",
+    "question": "একটি ত্রিভুজের ভূমি ২৪ সেমি ও উচ্চতা ১২ সেমি হলে ক্ষেত্রফল কত বর্গসেমি?",
+    "options": [
+      "১৪৮",
+      "২৮৮",
+      "১৬৮",
+      "১৪৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্ষেত্রফল = ½ × ভূমি × উচ্চতা = ½ × ২৪ × ১২ = ১৪৪ বর্গসেমি।"
+  },
+  {
+    "id": "gq-301",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৪০৫ টাকায় বিক্রি করায় ১০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৪৫০",
+      "৪০০",
+      "৪৫৫",
+      "৪০৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্রয়মূল্য × (১ − ১০/১০০) = ৪০৫ ⇒ ক্রয়মূল্য = ৪৫০ টাকা।"
+  },
+  {
+    "id": "gq-302",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ২৬২.৫ টাকায় বিক্রি করায় ২৫% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৪০০",
+      "৩৫০",
+      "৩০০",
+      "২৬২.৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্রয়মূল্য × (১ − ২৫/১০০) = ২৬২.৫ ⇒ ক্রয়মূল্য = ৩৫০ টাকা।"
+  },
+  {
+    "id": "gq-303",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৭২০ টাকায় বিক্রি করায় ১০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৮০০",
+      "৮৫০",
+      "৭৫০",
+      "৭৭০"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্রয়মূল্য × (১ − ১০/১০০) = ৭২০ ⇒ ক্রয়মূল্য = ৮০০ টাকা।"
+  },
+  {
+    "id": "gq-304",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ২২৫ টাকায় বিক্রি করায় ১০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "২৭৫",
+      "২২৫",
+      "২০০",
+      "২৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্রয়মূল্য × (১ − ১০/১০০) = ২২৫ ⇒ ক্রয়মূল্য = ২৫০ টাকা।"
+  },
+  {
+    "id": "gq-305",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৫৬০ টাকায় বিক্রি করায় ২০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৬৫০",
+      "৭০০",
+      "৫৬০",
+      "৬১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্রয়মূল্য × (১ − ২০/১০০) = ৫৬০ ⇒ ক্রয়মূল্য = ৭০০ টাকা।"
+  },
+  {
+    "id": "gq-306",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৩৬০ টাকায় বিক্রি করায় ২০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৫০০",
+      "৩৬০",
+      "৪৫০",
+      "৪০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্রয়মূল্য × (১ − ২০/১০০) = ৩৬০ ⇒ ক্রয়মূল্য = ৪৫০ টাকা।"
+  },
+  {
+    "id": "gq-307",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৪৪০ টাকায় বিক্রি করায় ২০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৪৯০",
+      "৫০০",
+      "৪৪০",
+      "৫৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্রয়মূল্য × (১ − ২০/১০০) = ৪৪০ ⇒ ক্রয়মূল্য = ৫৫০ টাকা।"
+  },
+  {
+    "id": "gq-308",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৩০০ টাকায় বিক্রি করায় ২৫% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৩৫০",
+      "৩০০",
+      "৪০০",
+      "৪৫০"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্রয়মূল্য × (১ − ২৫/১০০) = ৩০০ ⇒ ক্রয়মূল্য = ৪০০ টাকা।"
+  },
+  {
+    "id": "gq-309",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৪৮৭.৫ টাকায় বিক্রি করায় ২৫% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৬৫০",
+      "৪৮৭.৫",
+      "৬০০",
+      "৫৩৭.৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্রয়মূল্য × (১ − ২৫/১০০) = ৪৮৭.৫ ⇒ ক্রয়মূল্য = ৬৫০ টাকা।"
+  },
+  {
+    "id": "gq-310",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ১২০ টাকায় বিক্রি করায় ২০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "১২০",
+      "২০০",
+      "১৫০",
+      "১৭০"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্রয়মূল্য × (১ − ২০/১০০) = ১২০ ⇒ ক্রয়মূল্য = ১৫০ টাকা।"
+  },
+  {
+    "id": "gq-311",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ৩৬০ টাকায় বিক্রি করায় ১০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৩৫০",
+      "৪০০",
+      "৪৫০",
+      "৪১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্রয়মূল্য × (১ − ১০/১০০) = ৩৬০ ⇒ ক্রয়মূল্য = ৪০০ টাকা।"
+  },
+  {
+    "id": "gq-312",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ২৮০ টাকায় বিক্রি করায় ২০% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৩৩০",
+      "৩০০",
+      "২৮০",
+      "৩৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্রয়মূল্য × (১ − ২০/১০০) = ২৮০ ⇒ ক্রয়মূল্য = ৩৫০ টাকা।"
+  },
+  {
+    "id": "gq-313",
+    "categoryId": "math",
+    "subTopic": "profit_loss",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ২২৫ টাকায় বিক্রি করায় ২৫% ক্ষতি হলো। ক্রয়মূল্য কত?",
+    "options": [
+      "৩০০",
+      "৩৫০",
+      "২৫০",
+      "২৭৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "ক্রয়মূল্য × (১ − ২৫/১০০) = ২২৫ ⇒ ক্রয়মূল্য = ৩০০ টাকা।"
+  },
+  {
+    "id": "gq-314",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৫৪-এর ১/৩ অংশ কত?",
+    "options": [
+      "১৭",
+      "১৮",
+      "২১",
+      "৩৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "৫৪ × ১/৩ = ১৮।"
+  },
+  {
+    "id": "gq-315",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৩০-এর ২/৩ অংশ কত?",
+    "options": [
+      "৩০",
+      "২৩",
+      "১০",
+      "২০"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩০ × ২/৩ = ২০।"
+  },
+  {
+    "id": "gq-316",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৩৩-এর ১/৩ অংশ কত?",
+    "options": [
+      "১৪",
+      "১০",
+      "২২",
+      "১১"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩৩ × ১/৩ = ১১।"
+  },
+  {
+    "id": "gq-317",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "২৮-এর ১/২ অংশ কত?",
+    "options": [
+      "১৪",
+      "১৬",
+      "১৩",
+      "২৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "২৮ × ১/২ = ১৪।"
+  },
+  {
+    "id": "gq-318",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "১৬-এর ১/২ অংশ কত?",
+    "options": [
+      "৮",
+      "৭",
+      "১৬",
+      "১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৬ × ১/২ = ৮।"
+  },
+  {
+    "id": "gq-319",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৫৬-এর ৩/৪ অংশ কত?",
+    "options": [
+      "৪২",
+      "৩৯",
+      "৪৬",
+      "১৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "৫৬ × ৩/৪ = ৪২।"
+  },
+  {
+    "id": "gq-320",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৫২-এর ১/৪ অংশ কত?",
+    "options": [
+      "৩৯",
+      "১৩",
+      "৫২",
+      "১৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "৫২ × ১/৪ = ১৩।"
+  },
+  {
+    "id": "gq-321",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৪৮-এর ২/৩ অংশ কত?",
+    "options": [
+      "৪৮",
+      "১৬",
+      "৩০",
+      "৩২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৪৮ × ২/৩ = ৩২।"
+  },
+  {
+    "id": "gq-322",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "২১-এর ১/৩ অংশ কত?",
+    "options": [
+      "৭",
+      "২১",
+      "১৪",
+      "১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "২১ × ১/৩ = ৭।"
+  },
+  {
+    "id": "gq-323",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৮০-এর ৪/৫ অংশ কত?",
+    "options": [
+      "১৬",
+      "৬৪",
+      "৮০",
+      "৬৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "৮০ × ৪/৫ = ৬৪।"
+  },
+  {
+    "id": "gq-324",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৩০-এর ১/৫ অংশ কত?",
+    "options": [
+      "২৪",
+      "৩০",
+      "১১",
+      "৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩০ × ১/৫ = ৬।"
+  },
+  {
+    "id": "gq-325",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৩৮-এর ১/২ অংশ কত?",
+    "options": [
+      "২১",
+      "৩৮",
+      "১৯",
+      "১৮"
+    ],
+    "answerIndex": 2,
+    "explanation": "৩৮ × ১/২ = ১৯।"
+  },
+  {
+    "id": "gq-326",
+    "categoryId": "math",
+    "subTopic": "fraction",
+    "difficulty": "medium",
+    "question": "৬৪-এর ৩/৪ অংশ কত?",
+    "options": [
+      "৬৪",
+      "৫২",
+      "৪৫",
+      "৪৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "৬৪ × ৩/৪ = ৪৮।"
+  },
+  {
+    "id": "gq-327",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ১০০ কিমি/ঘণ্টা বেগে ১১ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "১১০০",
+      "১১১",
+      "১০০০",
+      "১২০০"
+    ],
+    "answerIndex": 0,
+    "explanation": "দূরত্ব = ১০০ × ১১ = ১১০০ কিমি।"
+  },
+  {
+    "id": "gq-328",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৪০ কিমি/ঘণ্টা বেগে ১০ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৫০",
+      "৪৪০",
+      "১৬০",
+      "৪০০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = ৪০ × ১০ = ৪০০ কিমি।"
+  },
+  {
+    "id": "gq-329",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৩০ কিমি/ঘণ্টা বেগে ৮ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "২৭০",
+      "২১০",
+      "২৪০",
+      "৩৮"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = ৩০ × ৮ = ২৪০ কিমি।"
+  },
+  {
+    "id": "gq-330",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৭০ কিমি/ঘণ্টা বেগে ৫ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "২৮০",
+      "৪২০",
+      "২১০",
+      "৩৫০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = ৭০ × ৫ = ৩৫০ কিমি।"
+  },
+  {
+    "id": "gq-331",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৯০ কিমি/ঘণ্টা বেগে ১১ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৯০০",
+      "৯৯০",
+      "১০১",
+      "৫৪০"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = ৯০ × ১১ = ৯৯০ কিমি।"
+  },
+  {
+    "id": "gq-332",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৯০ কিমি/ঘণ্টা বেগে ৯ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৭২০",
+      "৮১০",
+      "২৭০",
+      "৯৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = ৯০ × ৯ = ৮১০ কিমি।"
+  },
+  {
+    "id": "gq-333",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ১০০ কিমি/ঘণ্টা বেগে ৮ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৭০০",
+      "১০৮",
+      "৮০০",
+      "২০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = ১০০ × ৮ = ৮০০ কিমি।"
+  },
+  {
+    "id": "gq-334",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৫০ কিমি/ঘণ্টা বেগে ৬ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৩০০",
+      "২৫০",
+      "১৫০",
+      "৩৫০"
+    ],
+    "answerIndex": 0,
+    "explanation": "দূরত্ব = ৫০ × ৬ = ৩০০ কিমি।"
+  },
+  {
+    "id": "gq-335",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৪০ কিমি/ঘণ্টা বেগে ৭ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৩২০",
+      "২৮০",
+      "৮০",
+      "৪৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = ৪০ × ৭ = ২৮০ কিমি।"
+  },
+  {
+    "id": "gq-336",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৯০ কিমি/ঘণ্টা বেগে ৭ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৭২০",
+      "৯৭",
+      "৬৩০",
+      "৩৬০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = ৯০ × ৭ = ৬৩০ কিমি।"
+  },
+  {
+    "id": "gq-337",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৬০ কিমি/ঘণ্টা বেগে ৫ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "১২০",
+      "৩৬০",
+      "২৪০",
+      "৩০০"
+    ],
+    "answerIndex": 3,
+    "explanation": "দূরত্ব = ৬০ × ৫ = ৩০০ কিমি।"
+  },
+  {
+    "id": "gq-338",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৬০ কিমি/ঘণ্টা বেগে ১১ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৭২০",
+      "৬৬০",
+      "৩৬০",
+      "৬০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "দূরত্ব = ৬০ × ১১ = ৬৬০ কিমি।"
+  },
+  {
+    "id": "gq-339",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ৪০ কিমি/ঘণ্টা বেগে ৬ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "২৪০",
+      "২৮০",
+      "১২০",
+      "৪৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "দূরত্ব = ৪০ × ৬ = ২৪০ কিমি।"
+  },
+  {
+    "id": "gq-340",
+    "categoryId": "math",
+    "subTopic": "speed",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি ১০০ কিমি/ঘণ্টা বেগে ৪ ঘণ্টা হাঁটলে মোট কত কিমি যাবে?",
+    "options": [
+      "৩০০",
+      "২০০",
+      "৪০০",
+      "৫০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "দূরত্ব = ১০০ × ৪ = ৪০০ কিমি।"
+  },
+  {
+    "id": "gq-341",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^৩৬ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "১",
+      "৩",
+      "৫",
+      "২"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ১।"
+  },
+  {
+    "id": "gq-342",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^৩৪ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৯",
+      "১",
+      "৩",
+      "১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ৯।"
+  },
+  {
+    "id": "gq-343",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^৩৩ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৫",
+      "৪",
+      "৭",
+      "৩"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ৩।"
+  },
+  {
+    "id": "gq-344",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^২ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "১",
+      "৩",
+      "৯",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ৯।"
+  },
+  {
+    "id": "gq-345",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯^৭ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "১০",
+      "৩",
+      "১",
+      "৯"
+    ],
+    "answerIndex": 3,
+    "explanation": "৯-এর ঘাতের এককের অঙ্ক চক্রাকারে ৯, ১; তাই উত্তর ৯।"
+  },
+  {
+    "id": "gq-346",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৮^৩ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৮",
+      "৩",
+      "২",
+      "৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "৮-এর ঘাতের এককের অঙ্ক চক্রাকারে ৮, ৪, ২, ৬; তাই উত্তর ২।"
+  },
+  {
+    "id": "gq-347",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯^৩৯ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৩",
+      "১",
+      "৯",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "৯-এর ঘাতের এককের অঙ্ক চক্রাকারে ৯, ১; তাই উত্তর ৯।"
+  },
+  {
+    "id": "gq-348",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯^১৮ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "১",
+      "৫",
+      "৯",
+      "৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "৯-এর ঘাতের এককের অঙ্ক চক্রাকারে ৯, ১; তাই উত্তর ১।"
+  },
+  {
+    "id": "gq-349",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৭^৩৭ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "১",
+      "৭",
+      "৯",
+      "৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "৭-এর ঘাতের এককের অঙ্ক চক্রাকারে ৭, ৯, ৩, ১; তাই উত্তর ৭।"
+  },
+  {
+    "id": "gq-350",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^৪০ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৫",
+      "১",
+      "২",
+      "৩"
+    ],
+    "answerIndex": 1,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ১।"
+  },
+  {
+    "id": "gq-351",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৮^২৩ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "২",
+      "৪",
+      "৮",
+      "৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "৮-এর ঘাতের এককের অঙ্ক চক্রাকারে ৮, ৪, ২, ৬; তাই উত্তর ২।"
+  },
+  {
+    "id": "gq-352",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯^২৯ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৯",
+      "১",
+      "১০",
+      "৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "৯-এর ঘাতের এককের অঙ্ক চক্রাকারে ৯, ১; তাই উত্তর ৯।"
+  },
+  {
+    "id": "gq-353",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩^১৩ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৩",
+      "৭",
+      "৫",
+      "৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "৩-এর ঘাতের এককের অঙ্ক চক্রাকারে ৩, ৯, ৭, ১; তাই উত্তর ৩।"
+  },
+  {
+    "id": "gq-354",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯^২৬ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৩",
+      "২",
+      "১",
+      "৯"
+    ],
+    "answerIndex": 2,
+    "explanation": "৯-এর ঘাতের এককের অঙ্ক চক্রাকারে ৯, ১; তাই উত্তর ১।"
+  },
+  {
+    "id": "gq-355",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "২^৬ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৫",
+      "৪",
+      "৮",
+      "৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "২-এর ঘাতের এককের অঙ্ক চক্রাকারে ২, ৪, ৮, ৬; তাই উত্তর ৪।"
+  },
+  {
+    "id": "gq-356",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৭^৯ সংখ্যাটির এককের অঙ্ক (শেষ অঙ্ক) কত?",
+    "options": [
+      "৮",
+      "৯",
+      "১",
+      "৭"
+    ],
+    "answerIndex": 3,
+    "explanation": "৭-এর ঘাতের এককের অঙ্ক চক্রাকারে ৭, ৯, ৩, ১; তাই উত্তর ৭।"
+  },
+  {
+    "id": "gq-357",
+    "categoryId": "math",
+    "subTopic": "probability",
+    "difficulty": "medium",
+    "question": "একটি ছক্কা নিক্ষেপে মৌলিক সংখ্যা আসার সম্ভাবনা কত?",
+    "options": [
+      "১/৩",
+      "১/২",
+      "২/৩",
+      "১/৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "অনুকূল ফলাফল/মোট ফলাফল = ৩/৬ = ১/২।"
+  },
+  {
+    "id": "gq-358",
+    "categoryId": "math",
+    "subTopic": "probability",
+    "difficulty": "medium",
+    "question": "একটি ছক্কা নিক্ষেপে জোড় সংখ্যা আসার সম্ভাবনা কত?",
+    "options": [
+      "১/৩",
+      "২/৩",
+      "১/৬",
+      "১/২"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুকূল ফলাফল/মোট ফলাফল = ৩/৬ = ১/২।"
+  },
+  {
+    "id": "gq-359",
+    "categoryId": "math",
+    "subTopic": "probability",
+    "difficulty": "medium",
+    "question": "একটি ছক্কা নিক্ষেপে ৩-এর বেশি সংখ্যা আসার সম্ভাবনা কত?",
+    "options": [
+      "১/৬",
+      "১/৩",
+      "২/৩",
+      "১/২"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুকূল ফলাফল/মোট ফলাফল = ৩/৬ = ১/২।"
+  },
+  {
+    "id": "gq-360",
+    "categoryId": "math",
+    "subTopic": "probability",
+    "difficulty": "medium",
+    "question": "একটি মুদ্রা নিক্ষেপে হেড আসার সম্ভাবনা কত?",
+    "options": [
+      "১/৩",
+      "১/৬",
+      "২/৩",
+      "১/২"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুকূল ফলাফল/মোট ফলাফল = ১/২ = ১/২।"
+  },
+  {
+    "id": "gq-361",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৭ : ৫। প্রথম সংখ্যা ৪২ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৪৭",
+      "৩০",
+      "২৩",
+      "৪২"
+    ],
+    "answerIndex": 1,
+    "explanation": "অনুপাত ৭:৫; প্রথম ৪২ হলে গুণক ৬, দ্বিতীয় = ৫ × ৬ = ৩০।"
+  },
+  {
+    "id": "gq-362",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৫ : ৬। প্রথম সংখ্যা ৪০ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৫৪",
+      "৪৬",
+      "৪৩",
+      "৪৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুপাত ৫:৬; প্রথম ৪০ হলে গুণক ৮, দ্বিতীয় = ৬ × ৮ = ৪৮।"
+  },
+  {
+    "id": "gq-363",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ২ : ৭। প্রথম সংখ্যা ১০ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "১৭",
+      "৩৩",
+      "৩৫",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ২:৭; প্রথম ১০ হলে গুণক ৫, দ্বিতীয় = ৭ × ৫ = ৩৫।"
+  },
+  {
+    "id": "gq-364",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৪ : ২। প্রথম সংখ্যা ২৪ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৮",
+      "১২",
+      "১৪",
+      "২৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "অনুপাত ৪:২; প্রথম ২৪ হলে গুণক ৬, দ্বিতীয় = ২ × ৬ = ১২।"
+  },
+  {
+    "id": "gq-365",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৪ : ৫। প্রথম সংখ্যা ২৪ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "২৬",
+      "২৯",
+      "৩০",
+      "৩৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ৪:৫; প্রথম ২৪ হলে গুণক ৬, দ্বিতীয় = ৫ × ৬ = ৩০।"
+  },
+  {
+    "id": "gq-366",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ২ : ৬। প্রথম সংখ্যা ১০ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "২৮",
+      "১৬",
+      "৩০",
+      "৩৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ২:৬; প্রথম ১০ হলে গুণক ৫, দ্বিতীয় = ৬ × ৫ = ৩০।"
+  },
+  {
+    "id": "gq-367",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৩ : ৭। প্রথম সংখ্যা ১৫ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "১৫",
+      "৩২",
+      "৩৫",
+      "২২"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ৩:৭; প্রথম ১৫ হলে গুণক ৫, দ্বিতীয় = ৭ × ৫ = ৩৫।"
+  },
+  {
+    "id": "gq-368",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ২ : ৫। প্রথম সংখ্যা ১৪ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৩৩",
+      "৪০",
+      "১৯",
+      "৩৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুপাত ২:৫; প্রথম ১৪ হলে গুণক ৭, দ্বিতীয় = ৫ × ৭ = ৩৫।"
+  },
+  {
+    "id": "gq-369",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৫ : ৭। প্রথম সংখ্যা ৪০ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৫৬",
+      "৪০",
+      "৬৩",
+      "৫১"
+    ],
+    "answerIndex": 0,
+    "explanation": "অনুপাত ৫:৭; প্রথম ৪০ হলে গুণক ৮, দ্বিতীয় = ৭ × ৮ = ৫৬।"
+  },
+  {
+    "id": "gq-370",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ২ : ৭। প্রথম সংখ্যা ৬ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "১৩",
+      "২৮",
+      "১৯",
+      "২১"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুপাত ২:৭; প্রথম ৬ হলে গুণক ৩, দ্বিতীয় = ৭ × ৩ = ২১।"
+  },
+  {
+    "id": "gq-371",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৭ : ৪। প্রথম সংখ্যা ২৮ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৩২",
+      "২৮",
+      "১৬",
+      "৯"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ৭:৪; প্রথম ২৮ হলে গুণক ৪, দ্বিতীয় = ৪ × ৪ = ১৬।"
+  },
+  {
+    "id": "gq-372",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৫ : ৩। প্রথম সংখ্যা ৪০ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "২৭",
+      "৪০",
+      "২৪",
+      "৪৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুপাত ৫:৩; প্রথম ৪০ হলে গুণক ৮, দ্বিতীয় = ৩ × ৮ = ২৪।"
+  },
+  {
+    "id": "gq-373",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ৩ : ৫। প্রথম সংখ্যা ৬ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "৭",
+      "১৫",
+      "৬",
+      "১০"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুপাত ৩:৫; প্রথম ৬ হলে গুণক ২, দ্বিতীয় = ৫ × ২ = ১০।"
+  },
+  {
+    "id": "gq-374",
+    "categoryId": "math",
+    "subTopic": "ratio",
+    "difficulty": "medium",
+    "question": "দুটি সংখ্যার অনুপাত ২ : ৫। প্রথম সংখ্যা ১৬ হলে দ্বিতীয় সংখ্যা কত?",
+    "options": [
+      "১৬",
+      "৩৮",
+      "২১",
+      "৪০"
+    ],
+    "answerIndex": 3,
+    "explanation": "অনুপাত ২:৫; প্রথম ১৬ হলে গুণক ৮, দ্বিতীয় = ৫ × ৮ = ৪০।"
+  },
+  {
+    "id": "gq-375",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "১৪, ১৫, ১৬, ১৭, ১৮ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১৭",
+      "১৬",
+      "১৮",
+      "১৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ১৬।"
+  },
+  {
+    "id": "gq-376",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "২৮, ২৯, ৩০ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৩১",
+      "২৯",
+      "২৮",
+      "৩০"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ২৯।"
+  },
+  {
+    "id": "gq-377",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৬, ৭, ৮, ৯, ১০ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৯",
+      "৮",
+      "৬",
+      "১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৮।"
+  },
+  {
+    "id": "gq-378",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৭, ৮, ৯, ১০, ১১, ১২, ১৩ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১৩",
+      "৯",
+      "৭",
+      "১০"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ১০।"
+  },
+  {
+    "id": "gq-379",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "১৯, ২০, ২১ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২১",
+      "২০",
+      "১৯",
+      "২২"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ২০।"
+  },
+  {
+    "id": "gq-380",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "১৯, ২০, ২১, ২২, ২৩, ২৪, ২৫ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২৩",
+      "২১",
+      "২৫",
+      "২২"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ২২।"
+  },
+  {
+    "id": "gq-381",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "২১, ২২, ২৩, ২৪, ২৫, ২৬, ২৭ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২৩",
+      "২৪",
+      "২৫",
+      "২৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ২৪।"
+  },
+  {
+    "id": "gq-382",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৫, ৬, ৭, ৮, ৯ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৭",
+      "৫",
+      "৮",
+      "৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৭।"
+  },
+  {
+    "id": "gq-383",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৬, ৭, ৮ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৬",
+      "৯",
+      "৭",
+      "৮"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৭।"
+  },
+  {
+    "id": "gq-384",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "২, ৩, ৪ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২",
+      "৪",
+      "৫",
+      "৩"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৩।"
+  },
+  {
+    "id": "gq-385",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৮, ৯, ১০, ১১, ১২, ১৩, ১৪ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১১",
+      "৮",
+      "১০",
+      "১৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ১১।"
+  },
+  {
+    "id": "gq-386",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৭, ৮, ৯ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১০",
+      "৮",
+      "৭",
+      "৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৮।"
+  },
+  {
+    "id": "gq-387",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "৩০, ৩১, ৩২, ৩৩, ৩৪, ৩৫, ৩৬ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "৩৪",
+      "৩৬",
+      "৩৩",
+      "৩০"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ৩৩।"
+  },
+  {
+    "id": "gq-388",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "১২, ১৩, ১৪ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "১৪",
+      "১২",
+      "১৩",
+      "১৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ১৩।"
+  },
+  {
+    "id": "gq-389",
+    "categoryId": "math",
+    "subTopic": "average",
+    "difficulty": "medium",
+    "question": "১৭, ১৮, ১৯, ২০, ২১, ২২, ২৩ — পরপর সংখ্যাগুলোর গড় কত?",
+    "options": [
+      "২০",
+      "১৭",
+      "১৯",
+      "২৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "পরপর সংখ্যার গড় = মধ্যম সংখ্যা = ২০।"
+  },
+  {
+    "id": "gq-390",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৯ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৬০০",
+      "৫৪০",
+      "৯০০",
+      "২১৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "৯ × ৬০ = ৫৪০ মিনিট।"
+  },
+  {
+    "id": "gq-391",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৭ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৭০০",
+      "৩৬০",
+      "৪৮০",
+      "৪২০"
+    ],
+    "answerIndex": 3,
+    "explanation": "৭ × ৬০ = ৪২০ মিনিট।"
+  },
+  {
+    "id": "gq-392",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৪ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "২৪০",
+      "৯৬",
+      "৩০০",
+      "৪০০"
+    ],
+    "answerIndex": 0,
+    "explanation": "৪ × ৬০ = ২৪০ মিনিট।"
+  },
+  {
+    "id": "gq-393",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৩ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৩০০",
+      "১২০",
+      "১৮০",
+      "৭২"
+    ],
+    "answerIndex": 2,
+    "explanation": "৩ × ৬০ = ১৮০ মিনিট।"
+  },
+  {
+    "id": "gq-394",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১০ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৬০০",
+      "৫৪০",
+      "১০০০",
+      "৬৬০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১০ × ৬০ = ৬০০ মিনিট।"
+  },
+  {
+    "id": "gq-395",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১১ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৭২০",
+      "১১০০",
+      "৬৬০",
+      "২৬৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "১১ × ৬০ = ৬৬০ মিনিট।"
+  },
+  {
+    "id": "gq-396",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৮ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "১৯২",
+      "৪৮০",
+      "৫৪০",
+      "৪২০"
+    ],
+    "answerIndex": 1,
+    "explanation": "৮ × ৬০ = ৪৮০ মিনিট।"
+  },
+  {
+    "id": "gq-397",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "৬ ঘণ্টা কত মিনিটের সমান?",
+    "options": [
+      "৩০০",
+      "৩৬০",
+      "৬০০",
+      "৪২০"
+    ],
+    "answerIndex": 1,
+    "explanation": "৬ × ৬০ = ৩৬০ মিনিট।"
   }
 ]
