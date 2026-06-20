@@ -458,6 +458,133 @@ times(() => {
     `${bn(h)} × ৬০ = ${bn(ans)} মিনিট।`);
 });
 
+// ---- Mental-ability / reasoning templates (computed, correct by construction) ----
+
+// 33) coding-decoding (uniform letter shift)
+const CODE_WORDS = ['CAT', 'DOG', 'SUN', 'PEN', 'CUP', 'BAT', 'MAP', 'BOX', 'CAR', 'BED', 'KEY', 'FAN', 'BUS', 'HEN', 'POT', 'RAT', 'JAM', 'LOG', 'MUG', 'NET', 'OWL', 'PIG'];
+times(() => {
+  const s = randInt(1, 4);
+  const w1 = choice(CODE_WORDS);
+  const w2 = choice(CODE_WORDS);
+  if (w1 === w2) return;
+  const shift = (str, k) => str.split('').map((c) => A[(A.indexOf(c) + k + 26) % 26]).join('');
+  const coded1 = shift(w1, s);
+  const ans = shift(w2, s);
+  const opts = shuffle([ans, shift(w2, s + 1), shift(w2, s + 2), shift(w2, s - 1)]);
+  if (new Set(opts).size !== 4) return;
+  out.push({
+    id: `gq-${++counter}`, categoryId: 'mental', subTopic: 'coding', difficulty: 'medium',
+    question: `একটি সাংকেতিক ভাষায় '${w1}' = '${coded1}' হলে '${w2}' = ?`,
+    options: opts, answerIndex: opts.indexOf(ans),
+    explanation: `প্রতিটি অক্ষর ${bn(s)} ধাপ এগিয়ে লেখা হয়েছে; তাই '${w2}' = '${ans}'।`,
+  });
+});
+
+// 34) number analogy — square
+times(() => {
+  const x = randInt(2, 12), y = randInt(2, 12);
+  if (x === y) return;
+  add('mental', 'analogy', `${bn(x)} : ${bn(x * x)} :: ${bn(y)} : ?`,
+    buildMCQ(y * y, [y * y + 1, y * y - 1, 2 * y, y * y + y]),
+    `সম্পর্ক হলো সংখ্যা ও তার বর্গ; ${bn(y)}² = ${bn(y * y)}।`);
+});
+
+// 35) number analogy — cube
+times(() => {
+  const x = randInt(2, 6), y = randInt(2, 6);
+  if (x === y) return;
+  add('mental', 'analogy', `${bn(x)} : ${bn(x * x * x)} :: ${bn(y)} : ?`,
+    buildMCQ(y * y * y, [y * y, y * y * y + 1, y * y * y - 1, 2 * y]),
+    `সম্পর্ক হলো সংখ্যা ও তার ঘন; ${bn(y)}³ = ${bn(y * y * y)}।`);
+});
+
+// 36) odd one out — not prime
+const PRIMES = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43];
+const COMPOSITES = [4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 25, 27, 33, 35, 39];
+times(() => {
+  const ps = shuffle(PRIMES).slice(0, 3);
+  const comp = choice(COMPOSITES);
+  const opts = shuffle([...ps, comp]).map(bn);
+  if (new Set(opts).size !== 4) return;
+  out.push({
+    id: `gq-${++counter}`, categoryId: 'mental', subTopic: 'odd_one_out', difficulty: 'medium',
+    question: 'নিচের কোনটি মৌলিক সংখ্যা নয়?',
+    options: opts, answerIndex: opts.indexOf(bn(comp)),
+    explanation: `${bn(comp)} মৌলিক নয় (১ ও নিজ ছাড়াও উৎপাদক আছে)।`,
+  });
+});
+
+// 37) odd one out — not a perfect square
+const SQUARES = [4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144];
+const NONSQ = [5, 8, 12, 20, 30, 45, 50, 72, 90, 99, 110, 130];
+times(() => {
+  const sq = shuffle(SQUARES).slice(0, 3);
+  const ns = choice(NONSQ);
+  const opts = shuffle([...sq, ns]).map(bn);
+  if (new Set(opts).size !== 4) return;
+  out.push({
+    id: `gq-${++counter}`, categoryId: 'mental', subTopic: 'odd_one_out', difficulty: 'medium',
+    question: 'নিচের কোনটি পূর্ণবর্গ সংখ্যা নয়?',
+    options: opts, answerIndex: opts.indexOf(bn(ns)),
+    explanation: `${bn(ns)} কোনো পূর্ণসংখ্যার বর্গ নয়।`,
+  });
+});
+
+// 38) clock angle at whole hours
+times(() => {
+  const h = randInt(1, 5);
+  const ans = 30 * h;
+  add('mental', 'clock', `ঘড়িতে ঠিক ${bn(h)}টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?`,
+    buildMCQ(ans, [ans + 15, ans + 30, ans - 15, ans + 60], (x) => bn(x) + '°'),
+    `প্রতি ঘণ্টায় কোণ ৩০°; ${bn(h)} × ৩০° = ${bn(ans)}°।`);
+});
+
+// 39) direction facing after a turn
+const DIRS = ['উত্তর', 'পূর্ব', 'দক্ষিণ', 'পশ্চিম']; // clockwise
+times(() => {
+  const start = randInt(0, 3);
+  const turns = choice([90, 180, 270]);
+  const cw = rng() < 0.5;
+  const steps = turns / 90;
+  const idx = cw ? (start + steps) % 4 : (start - steps + 8) % 4;
+  const ans = DIRS[idx];
+  const opts = shuffle(DIRS.slice());
+  out.push({
+    id: `gq-${++counter}`, categoryId: 'mental', subTopic: 'direction', difficulty: 'medium',
+    question: `একজন ব্যক্তি ${DIRS[start]} দিকে মুখ করে আছে। ${cw ? 'ঘড়ির কাঁটার দিকে' : 'ঘড়ির কাঁটার বিপরীত দিকে'} ${bn(turns)}° ঘুরলে সে কোন দিকে মুখ করবে?`,
+    options: opts, answerIndex: opts.indexOf(ans),
+    explanation: `${DIRS[start]} থেকে ${cw ? 'ঘড়ির কাঁটার দিকে' : 'বিপরীত দিকে'} ${bn(turns)}° (${bn(steps)} ধাপ) ঘুরলে ${ans} দিকে মুখ হবে।`,
+  });
+});
+
+// 40) divisibility count 1..100
+times(() => {
+  const x = choice([3, 4, 6, 7, 8, 9, 11, 12, 13]);
+  const ans = Math.floor(100 / x);
+  add('math', 'number', `১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ${bn(x)} দ্বারা নিঃশেষে বিভাজ্য?`,
+    buildMCQ(ans, [ans + 1, ans - 1, ans + 2, Math.floor(100 / (x + 1))]),
+    `১০০ ÷ ${bn(x)} = ${bn(ans)} (পূর্ণসংখ্যা অংশ)।`);
+});
+
+// 41) age multiple
+times(() => {
+  const k = choice([2, 3, 4, 5]);
+  const son = randInt(6, 16);
+  const ans = k * son;
+  add('math', 'age', `পিতার বয়স পুত্রের বয়সের ${bn(k)} গুণ। পুত্রের বয়স ${bn(son)} বছর হলে পিতার বয়স কত?`,
+    buildMCQ(ans, [ans + son, ans - son, son + k, ans + k]),
+    `পিতার বয়স = ${bn(k)} × ${bn(son)} = ${bn(ans)} বছর।`);
+});
+
+// 42) Fibonacci-style series
+times(() => {
+  const a = randInt(1, 4), b = randInt(2, 6);
+  const t = [a, b, a + b, a + 2 * b, 2 * a + 3 * b];
+  add('math', 'series', `ধারা: ${t.slice(0, 4).map(bn).join(', ')}, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)`,
+    buildMCQ(t[4], [t[4] + 1, t[4] - 1, t[4] + b, t[4] + a]),
+    `${bn(t[2])} + ${bn(t[3])} = ${bn(t[4])}।`);
+});
+
 // Fix mirror-clock entries that were added with answerIndex -1
 for (const q of out) {
   if (q.subTopic === 'clock' && q.answerIndex === -1) {

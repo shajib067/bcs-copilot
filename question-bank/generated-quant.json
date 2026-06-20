@@ -5953,5 +5953,1310 @@
     ],
     "answerIndex": 1,
     "explanation": "৬ × ৬০ = ৩৬০ মিনিট।"
+  },
+  {
+    "id": "gq-398",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'CAT' = 'ECV' হলে 'RAT' = ?",
+    "options": [
+      "TCV",
+      "SBU",
+      "VEX",
+      "UDW"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'RAT' = 'TCV'।"
+  },
+  {
+    "id": "gq-399",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'JAM' = 'NEQ' হলে 'HEN' = ?",
+    "options": [
+      "KHQ",
+      "MJS",
+      "LIR",
+      "NKT"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতিটি অক্ষর ৪ ধাপ এগিয়ে লেখা হয়েছে; তাই 'HEN' = 'LIR'।"
+  },
+  {
+    "id": "gq-400",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'CUP' = 'GYT' হলে 'BUS' = ?",
+    "options": [
+      "HAY",
+      "FYW",
+      "GZX",
+      "EXV"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি অক্ষর ৪ ধাপ এগিয়ে লেখা হয়েছে; তাই 'BUS' = 'FYW'।"
+  },
+  {
+    "id": "gq-401",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'PEN' = 'TIR' হলে 'MUG' = ?",
+    "options": [
+      "QYK",
+      "PXJ",
+      "SAM",
+      "RZL"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ৪ ধাপ এগিয়ে লেখা হয়েছে; তাই 'MUG' = 'QYK'।"
+  },
+  {
+    "id": "gq-402",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'DOG' = 'FQI' হলে 'BED' = ?",
+    "options": [
+      "EHG",
+      "CFE",
+      "FIH",
+      "DGF"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'BED' = 'DGF'।"
+  },
+  {
+    "id": "gq-403",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'NET' = 'RIX' হলে 'BAT' = ?",
+    "options": [
+      "EDW",
+      "HGZ",
+      "GFY",
+      "FEX"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিটি অক্ষর ৪ ধাপ এগিয়ে লেখা হয়েছে; তাই 'BAT' = 'FEX'।"
+  },
+  {
+    "id": "gq-404",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'BAT' = 'CBU' হলে 'POT' = ?",
+    "options": [
+      "SRW",
+      "RQV",
+      "POT",
+      "QPU"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতিটি অক্ষর ১ ধাপ এগিয়ে লেখা হয়েছে; তাই 'POT' = 'QPU'।"
+  },
+  {
+    "id": "gq-405",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'SUN' = 'VXQ' হলে 'OWL' = ?",
+    "options": [
+      "RZO",
+      "TBQ",
+      "QYN",
+      "SAP"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ৩ ধাপ এগিয়ে লেখা হয়েছে; তাই 'OWL' = 'RZO'।"
+  },
+  {
+    "id": "gq-406",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'CAR' = 'ECT' হলে 'PIG' = ?",
+    "options": [
+      "TMK",
+      "RKI",
+      "SLJ",
+      "QJH"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'PIG' = 'RKI'।"
+  },
+  {
+    "id": "gq-407",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'BAT' = 'DCV' হলে 'FAN' = ?",
+    "options": [
+      "GBO",
+      "HCP",
+      "IDQ",
+      "JER"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'FAN' = 'HCP'।"
+  },
+  {
+    "id": "gq-408",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'RAT' = 'TCV' হলে 'LOG' = ?",
+    "options": [
+      "MPH",
+      "NQI",
+      "PSK",
+      "ORJ"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'LOG' = 'NQI'।"
+  },
+  {
+    "id": "gq-409",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'PEN' = 'SHQ' হলে 'BOX' = ?",
+    "options": [
+      "ERA",
+      "GTC",
+      "DQZ",
+      "FSB"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ৩ ধাপ এগিয়ে লেখা হয়েছে; তাই 'BOX' = 'ERA'।"
+  },
+  {
+    "id": "gq-410",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'HEN' = 'LIR' হলে 'OWL' = ?",
+    "options": [
+      "SAP",
+      "RZO",
+      "UCR",
+      "TBQ"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ৪ ধাপ এগিয়ে লেখা হয়েছে; তাই 'OWL' = 'SAP'।"
+  },
+  {
+    "id": "gq-411",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'BAT' = 'DCV' হলে 'BED' = ?",
+    "options": [
+      "DGF",
+      "CFE",
+      "EHG",
+      "FIH"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ২ ধাপ এগিয়ে লেখা হয়েছে; তাই 'BED' = 'DGF'।"
+  },
+  {
+    "id": "gq-412",
+    "categoryId": "mental",
+    "subTopic": "coding",
+    "difficulty": "medium",
+    "question": "একটি সাংকেতিক ভাষায় 'MUG' = 'NVH' হলে 'POT' = ?",
+    "options": [
+      "QPU",
+      "RQV",
+      "SRW",
+      "POT"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতিটি অক্ষর ১ ধাপ এগিয়ে লেখা হয়েছে; তাই 'POT' = 'QPU'।"
+  },
+  {
+    "id": "gq-413",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৮ : ৬৪ :: ৩ : ?",
+    "options": [
+      "১২",
+      "৯",
+      "৮",
+      "৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৩² = ৯।"
+  },
+  {
+    "id": "gq-414",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ১৬ :: ১১ : ?",
+    "options": [
+      "১২০",
+      "২২",
+      "১৩২",
+      "১২১"
+    ],
+    "answerIndex": 3,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ১১² = ১২১।"
+  },
+  {
+    "id": "gq-415",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৯ : ৮১ :: ৬ : ?",
+    "options": [
+      "৩৭",
+      "৩৬",
+      "১২",
+      "৩৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৬² = ৩৬।"
+  },
+  {
+    "id": "gq-416",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "১০ : ১০০ :: ৭ : ?",
+    "options": [
+      "৫৬",
+      "৪৮",
+      "৪৯",
+      "১৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৭² = ৪৯।"
+  },
+  {
+    "id": "gq-417",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ১৬ :: ১২ : ?",
+    "options": [
+      "১৪৩",
+      "১৪৪",
+      "২৪",
+      "১৪৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ১২² = ১৪৪।"
+  },
+  {
+    "id": "gq-418",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "১১ : ১২১ :: ২ : ?",
+    "options": [
+      "৪",
+      "৩",
+      "৬",
+      "৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ২² = ৪।"
+  },
+  {
+    "id": "gq-419",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৬ : ৩৬ :: ১০ : ?",
+    "options": [
+      "২০",
+      "১০০",
+      "১০১",
+      "১১০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ১০² = ১০০।"
+  },
+  {
+    "id": "gq-420",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "১০ : ১০০ :: ৪ : ?",
+    "options": [
+      "১৬",
+      "১৭",
+      "১৫",
+      "২০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৪² = ১৬।"
+  },
+  {
+    "id": "gq-421",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "২ : ৪ :: ৫ : ?",
+    "options": [
+      "২৬",
+      "২৪",
+      "২৫",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৫² = ২৫।"
+  },
+  {
+    "id": "gq-422",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৫ : ২৫ :: ৭ : ?",
+    "options": [
+      "৪৯",
+      "১৪",
+      "৫৬",
+      "৫০"
+    ],
+    "answerIndex": 0,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৭² = ৪৯।"
+  },
+  {
+    "id": "gq-423",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৭ : ৪৯ :: ৮ : ?",
+    "options": [
+      "৭২",
+      "৬৪",
+      "১৬",
+      "৬৩"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৮² = ৬৪।"
+  },
+  {
+    "id": "gq-424",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ১৬ :: ৩ : ?",
+    "options": [
+      "৬",
+      "৮",
+      "৯",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৩² = ৯।"
+  },
+  {
+    "id": "gq-425",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৫ : ২৫ :: ৯ : ?",
+    "options": [
+      "১৮",
+      "৮০",
+      "৮১",
+      "৮২"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৯² = ৮১।"
+  },
+  {
+    "id": "gq-426",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ১৬ :: ৮ : ?",
+    "options": [
+      "৭২",
+      "১৬",
+      "৬৪",
+      "৬৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ৮² = ৬৪।"
+  },
+  {
+    "id": "gq-427",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "১২ : ১৪৪ :: ২ : ?",
+    "options": [
+      "৫",
+      "৩",
+      "৬",
+      "৪"
+    ],
+    "answerIndex": 3,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার বর্গ; ২² = ৪।"
+  },
+  {
+    "id": "gq-428",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৩ : ২৭ :: ৪ : ?",
+    "options": [
+      "৬৪",
+      "৮",
+      "৬৩",
+      "৬৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৪³ = ৬৪।"
+  },
+  {
+    "id": "gq-429",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ৬৪ :: ৩ : ?",
+    "options": [
+      "২৮",
+      "২৭",
+      "২৬",
+      "৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৩³ = ২৭।"
+  },
+  {
+    "id": "gq-430",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৬ : ২১৬ :: ৩ : ?",
+    "options": [
+      "২৭",
+      "৯",
+      "২৬",
+      "৬"
+    ],
+    "answerIndex": 0,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৩³ = ২৭।"
+  },
+  {
+    "id": "gq-431",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৩ : ২৭ :: ৫ : ?",
+    "options": [
+      "১২৪",
+      "১২৬",
+      "১০",
+      "১২৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৫³ = ১২৫।"
+  },
+  {
+    "id": "gq-432",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৩ : ২৭ :: ২ : ?",
+    "options": [
+      "৭",
+      "৪",
+      "৯",
+      "৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ২³ = ৮।"
+  },
+  {
+    "id": "gq-433",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "২ : ৮ :: ৫ : ?",
+    "options": [
+      "২৫",
+      "১২৬",
+      "১২৫",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৫³ = ১২৫।"
+  },
+  {
+    "id": "gq-434",
+    "categoryId": "mental",
+    "subTopic": "analogy",
+    "difficulty": "medium",
+    "question": "৪ : ৬৪ :: ৬ : ?",
+    "options": [
+      "১২",
+      "৩৬",
+      "২১৭",
+      "২১৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "সম্পর্ক হলো সংখ্যা ও তার ঘন; ৬³ = ২১৬।"
+  },
+  {
+    "id": "gq-435",
+    "categoryId": "mental",
+    "subTopic": "odd_one_out",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি মৌলিক সংখ্যা নয়?",
+    "options": [
+      "৪৩",
+      "৫",
+      "১৩",
+      "২১"
+    ],
+    "answerIndex": 3,
+    "explanation": "২১ মৌলিক নয় (১ ও নিজ ছাড়াও উৎপাদক আছে)।"
+  },
+  {
+    "id": "gq-436",
+    "categoryId": "mental",
+    "subTopic": "odd_one_out",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি পূর্ণবর্গ সংখ্যা নয়?",
+    "options": [
+      "৮১",
+      "১০০",
+      "১৬",
+      "১৩০"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৩০ কোনো পূর্ণসংখ্যার বর্গ নয়।"
+  },
+  {
+    "id": "gq-437",
+    "categoryId": "mental",
+    "subTopic": "clock",
+    "difficulty": "medium",
+    "question": "ঘড়িতে ঠিক ১টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+    "options": [
+      "৬০°",
+      "৯০°",
+      "১৫°",
+      "৩০°"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতি ঘণ্টায় কোণ ৩০°; ১ × ৩০° = ৩০°।"
+  },
+  {
+    "id": "gq-438",
+    "categoryId": "mental",
+    "subTopic": "clock",
+    "difficulty": "medium",
+    "question": "ঘড়িতে ঠিক ৫টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+    "options": [
+      "১৩৫°",
+      "১৫০°",
+      "২১০°",
+      "১৬৫°"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রতি ঘণ্টায় কোণ ৩০°; ৫ × ৩০° = ১৫০°।"
+  },
+  {
+    "id": "gq-439",
+    "categoryId": "mental",
+    "subTopic": "clock",
+    "difficulty": "medium",
+    "question": "ঘড়িতে ঠিক ৩টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+    "options": [
+      "১৫০°",
+      "১২০°",
+      "৯০°",
+      "৭৫°"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতি ঘণ্টায় কোণ ৩০°; ৩ × ৩০° = ৯০°।"
+  },
+  {
+    "id": "gq-440",
+    "categoryId": "mental",
+    "subTopic": "clock",
+    "difficulty": "medium",
+    "question": "ঘড়িতে ঠিক ৪টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+    "options": [
+      "১২০°",
+      "১৫০°",
+      "১০৫°",
+      "১৮০°"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতি ঘণ্টায় কোণ ৩০°; ৪ × ৩০° = ১২০°।"
+  },
+  {
+    "id": "gq-441",
+    "categoryId": "mental",
+    "subTopic": "clock",
+    "difficulty": "medium",
+    "question": "ঘড়িতে ঠিক ২টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+    "options": [
+      "৬০°",
+      "৪৫°",
+      "৯০°",
+      "৭৫°"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রতি ঘণ্টায় কোণ ৩০°; ২ × ৩০° = ৬০°।"
+  },
+  {
+    "id": "gq-442",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পশ্চিম দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ১৮০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "পশ্চিম",
+      "দক্ষিণ",
+      "পূর্ব",
+      "উত্তর"
+    ],
+    "answerIndex": 2,
+    "explanation": "পশ্চিম থেকে ঘড়ির কাঁটার দিকে ১৮০° (২ ধাপ) ঘুরলে পূর্ব দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-443",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি উত্তর দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "পূর্ব",
+      "উত্তর",
+      "পশ্চিম",
+      "দক্ষিণ"
+    ],
+    "answerIndex": 2,
+    "explanation": "উত্তর থেকে বিপরীত দিকে ৯০° (১ ধাপ) ঘুরলে পশ্চিম দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-444",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি দক্ষিণ দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ১৮০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "উত্তর",
+      "পশ্চিম",
+      "পূর্ব",
+      "দক্ষিণ"
+    ],
+    "answerIndex": 0,
+    "explanation": "দক্ষিণ থেকে ঘড়ির কাঁটার দিকে ১৮০° (২ ধাপ) ঘুরলে উত্তর দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-445",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পূর্ব দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ১৮০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "দক্ষিণ",
+      "পূর্ব",
+      "পশ্চিম",
+      "উত্তর"
+    ],
+    "answerIndex": 2,
+    "explanation": "পূর্ব থেকে বিপরীত দিকে ১৮০° (২ ধাপ) ঘুরলে পশ্চিম দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-446",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি উত্তর দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ১৮০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "দক্ষিণ",
+      "পূর্ব",
+      "পশ্চিম",
+      "উত্তর"
+    ],
+    "answerIndex": 0,
+    "explanation": "উত্তর থেকে বিপরীত দিকে ১৮০° (২ ধাপ) ঘুরলে দক্ষিণ দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-447",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি উত্তর দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "উত্তর",
+      "পূর্ব",
+      "পশ্চিম",
+      "দক্ষিণ"
+    ],
+    "answerIndex": 1,
+    "explanation": "উত্তর থেকে ঘড়ির কাঁটার দিকে ৯০° (১ ধাপ) ঘুরলে পূর্ব দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-448",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পশ্চিম দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "দক্ষিণ",
+      "পূর্ব",
+      "উত্তর",
+      "পশ্চিম"
+    ],
+    "answerIndex": 2,
+    "explanation": "পশ্চিম থেকে ঘড়ির কাঁটার দিকে ৯০° (১ ধাপ) ঘুরলে উত্তর দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-449",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি দক্ষিণ দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "উত্তর",
+      "দক্ষিণ",
+      "পূর্ব",
+      "পশ্চিম"
+    ],
+    "answerIndex": 3,
+    "explanation": "দক্ষিণ থেকে ঘড়ির কাঁটার দিকে ৯০° (১ ধাপ) ঘুরলে পশ্চিম দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-450",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পশ্চিম দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "পশ্চিম",
+      "পূর্ব",
+      "উত্তর",
+      "দক্ষিণ"
+    ],
+    "answerIndex": 3,
+    "explanation": "পশ্চিম থেকে বিপরীত দিকে ৯০° (১ ধাপ) ঘুরলে দক্ষিণ দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-451",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পূর্ব দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ৯০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "পূর্ব",
+      "পশ্চিম",
+      "দক্ষিণ",
+      "উত্তর"
+    ],
+    "answerIndex": 3,
+    "explanation": "পূর্ব থেকে বিপরীত দিকে ৯০° (১ ধাপ) ঘুরলে উত্তর দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-452",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি পূর্ব দিকে মুখ করে আছে। ঘড়ির কাঁটার বিপরীত দিকে ২৭০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "উত্তর",
+      "পশ্চিম",
+      "পূর্ব",
+      "দক্ষিণ"
+    ],
+    "answerIndex": 3,
+    "explanation": "পূর্ব থেকে বিপরীত দিকে ২৭০° (৩ ধাপ) ঘুরলে দক্ষিণ দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-453",
+    "categoryId": "mental",
+    "subTopic": "direction",
+    "difficulty": "medium",
+    "question": "একজন ব্যক্তি উত্তর দিকে মুখ করে আছে। ঘড়ির কাঁটার দিকে ২৭০° ঘুরলে সে কোন দিকে মুখ করবে?",
+    "options": [
+      "পূর্ব",
+      "পশ্চিম",
+      "দক্ষিণ",
+      "উত্তর"
+    ],
+    "answerIndex": 1,
+    "explanation": "উত্তর থেকে ঘড়ির কাঁটার দিকে ২৭০° (৩ ধাপ) ঘুরলে পশ্চিম দিকে মুখ হবে।"
+  },
+  {
+    "id": "gq-454",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ৮ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "১১",
+      "১৩",
+      "১৪",
+      "১২"
+    ],
+    "answerIndex": 3,
+    "explanation": "১০০ ÷ ৮ = ১২ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-455",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ১১ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "৯",
+      "১০",
+      "১১",
+      "৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "১০০ ÷ ১১ = ৯ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-456",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ৯ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "১৩",
+      "১২",
+      "১১",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "১০০ ÷ ৯ = ১১ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-457",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ৬ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "১৬",
+      "১৪",
+      "১৮",
+      "১৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "১০০ ÷ ৬ = ১৬ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-458",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ৪ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "২৪",
+      "২৬",
+      "২৫",
+      "২০"
+    ],
+    "answerIndex": 2,
+    "explanation": "১০০ ÷ ৪ = ২৫ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-459",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ৭ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "১২",
+      "১৬",
+      "১৪",
+      "১৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "১০০ ÷ ৭ = ১৪ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-460",
+    "categoryId": "math",
+    "subTopic": "number",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০০ পর্যন্ত কতটি সংখ্যা ১২ দ্বারা নিঃশেষে বিভাজ্য?",
+    "options": [
+      "৮",
+      "৯",
+      "৭",
+      "১০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১০০ ÷ ১২ = ৮ (পূর্ণসংখ্যা অংশ)।"
+  },
+  {
+    "id": "gq-461",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ৭ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "১৪",
+      "৯",
+      "২১",
+      "৭"
+    ],
+    "answerIndex": 0,
+    "explanation": "পিতার বয়স = ২ × ৭ = ১৪ বছর।"
+  },
+  {
+    "id": "gq-462",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৪ গুণ। পুত্রের বয়স ৬ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "২৪",
+      "১৮",
+      "১০",
+      "২৮"
+    ],
+    "answerIndex": 0,
+    "explanation": "পিতার বয়স = ৪ × ৬ = ২৪ বছর।"
+  },
+  {
+    "id": "gq-463",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৩ গুণ। পুত্রের বয়স ৬ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "২১",
+      "১২",
+      "৯",
+      "১৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "পিতার বয়স = ৩ × ৬ = ১৮ বছর।"
+  },
+  {
+    "id": "gq-464",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৩ গুণ। পুত্রের বয়স ১০ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "২০",
+      "৪০",
+      "৩০",
+      "৩৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "পিতার বয়স = ৩ × ১০ = ৩০ বছর।"
+  },
+  {
+    "id": "gq-465",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ১৫ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "১৫",
+      "৩০",
+      "৪৫",
+      "৩২"
+    ],
+    "answerIndex": 1,
+    "explanation": "পিতার বয়স = ২ × ১৫ = ৩০ বছর।"
+  },
+  {
+    "id": "gq-466",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ১০ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "৩০",
+      "১০",
+      "২২",
+      "২০"
+    ],
+    "answerIndex": 3,
+    "explanation": "পিতার বয়স = ২ × ১০ = ২০ বছর।"
+  },
+  {
+    "id": "gq-467",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৫ গুণ। পুত্রের বয়স ১০ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "৬০",
+      "৪০",
+      "৫০",
+      "১৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "পিতার বয়স = ৫ × ১০ = ৫০ বছর।"
+  },
+  {
+    "id": "gq-468",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ৮ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "৮",
+      "২৪",
+      "১৬",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "পিতার বয়স = ২ × ৮ = ১৬ বছর।"
+  },
+  {
+    "id": "gq-469",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৫ গুণ। পুত্রের বয়স ১২ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "৪৮",
+      "৬০",
+      "৬৫",
+      "১৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "পিতার বয়স = ৫ × ১২ = ৬০ বছর।"
+  },
+  {
+    "id": "gq-470",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ১২ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "১৪",
+      "২৬",
+      "২৪",
+      "৩৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "পিতার বয়স = ২ × ১২ = ২৪ বছর।"
+  },
+  {
+    "id": "gq-471",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ৫ গুণ। পুত্রের বয়স ১৪ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "৮৪",
+      "৭০",
+      "১৯",
+      "৭৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "পিতার বয়স = ৫ × ১৪ = ৭০ বছর।"
+  },
+  {
+    "id": "gq-472",
+    "categoryId": "math",
+    "subTopic": "age",
+    "difficulty": "medium",
+    "question": "পিতার বয়স পুত্রের বয়সের ২ গুণ। পুত্রের বয়স ১৬ বছর হলে পিতার বয়স কত?",
+    "options": [
+      "১৬",
+      "৪৮",
+      "৩২",
+      "৩৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "পিতার বয়স = ২ × ১৬ = ৩২ বছর।"
+  },
+  {
+    "id": "gq-473",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ২, ৬, ৮, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১৮",
+      "১৪",
+      "১৩",
+      "১৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "৬ + ৮ = ১৪।"
+  },
+  {
+    "id": "gq-474",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ২, ৫, ৭, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১৩",
+      "১৪",
+      "১৫",
+      "১২"
+    ],
+    "answerIndex": 3,
+    "explanation": "৫ + ৭ = ১২।"
+  },
+  {
+    "id": "gq-475",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৩, ৬, ৯, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১৬",
+      "১৪",
+      "১৮",
+      "১৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "৬ + ৯ = ১৫।"
+  },
+  {
+    "id": "gq-476",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১, ২, ৩, ৫, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "৭",
+      "৯",
+      "১০",
+      "৮"
+    ],
+    "answerIndex": 3,
+    "explanation": "৩ + ৫ = ৮।"
+  },
+  {
+    "id": "gq-477",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৪, ৬, ১০, ১৬, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "৩২",
+      "২৬",
+      "৩০",
+      "২৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "১০ + ১৬ = ২৬।"
+  },
+  {
+    "id": "gq-478",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৫, ৮, ১৩, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "২৬",
+      "২১",
+      "২২",
+      "২৪"
+    ],
+    "answerIndex": 1,
+    "explanation": "৮ + ১৩ = ২১।"
+  },
+  {
+    "id": "gq-479",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৪, ৭, ১১, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১৮",
+      "২১",
+      "১৭",
+      "১৯"
+    ],
+    "answerIndex": 0,
+    "explanation": "৭ + ১১ = ১৮।"
+  },
+  {
+    "id": "gq-480",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ২, ৫, ৭, ১২, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১৯",
+      "২০",
+      "১৮",
+      "২১"
+    ],
+    "answerIndex": 0,
+    "explanation": "৭ + ১২ = ১৯।"
+  },
+  {
+    "id": "gq-481",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ২, ৪, ৬, ১০, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "২০",
+      "১৬",
+      "১৫",
+      "১৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "৬ + ১০ = ১৬।"
+  },
+  {
+    "id": "gq-482",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ৩, ৬, ৯, ১৫, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "২৪",
+      "২৩",
+      "২৫",
+      "২৭"
+    ],
+    "answerIndex": 0,
+    "explanation": "৯ + ১৫ = ২৪।"
+  },
+  {
+    "id": "gq-483",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ২, ৬, ৮, ১৪, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "২২",
+      "২৪",
+      "২৮",
+      "২৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "৮ + ১৪ = ২২।"
+  },
+  {
+    "id": "gq-484",
+    "categoryId": "math",
+    "subTopic": "series",
+    "difficulty": "medium",
+    "question": "ধারা: ১, ৩, ৪, ৭, ? (প্রতিটি সংখ্যা পূর্ববর্তী দুটির যোগফল)",
+    "options": [
+      "১০",
+      "১২",
+      "১১",
+      "১৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "৪ + ৭ = ১১।"
   }
 ]
