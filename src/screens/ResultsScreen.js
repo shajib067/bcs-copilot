@@ -2,10 +2,14 @@ import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { getCategoryById } from '../data/categories';
+import { perCategoryFromReview, buildRecommendations, headline } from '../data/recommendations';
 
 export default function ResultsScreen({ route, navigation }) {
   const { result, review } = route.params;
   const passed = result.score >= result.total * 0.5;
+  const perCategory = perCategoryFromReview(review);
+  const recommendations = buildRecommendations(perCategory, { minAttempts: 1, threshold: 60 });
+  const tip = headline(perCategory, { minAttempts: 1 });
 
   return (
     <SafeAreaView edges={['bottom']} style={styles.safe}>
@@ -30,6 +34,28 @@ export default function ResultsScreen({ route, navigation }) {
           <MetaRow label="Submitted" value={result.autoSubmitted ? 'Auto (time up)' : 'Manual'} />
         </View>
 
+        <Text style={styles.reviewTitle}>Topic Breakdown</Text>
+        <View style={styles.breakdownCard}>
+          {perCategory.map((c) => (
+            <CategoryBar key={c.categoryId} row={c} />
+          ))}
+        </View>
+
+        <View style={styles.recCard}>
+          <Text style={styles.recHeadline}>{tip.bn}</Text>
+          <Text style={styles.recHeadlineEn}>{tip.en}</Text>
+          {recommendations.length > 0 && (
+            <View style={styles.recList}>
+              {recommendations.map((r) => (
+                <View key={r.categoryId} style={styles.recItem}>
+                  <View style={[styles.recDot, { backgroundColor: r.color }]} />
+                  <Text style={styles.recTip}>{r.tip}</Text>
+                </View>
+              ))}
+            </View>
+          )}
+        </View>
+
         <Text style={styles.reviewTitle}>Review Answers</Text>
         {review.map((item, i) => (
           <ReviewCard key={item.q.id} index={i} item={item} />
@@ -45,6 +71,24 @@ export default function ResultsScreen({ route, navigation }) {
         </Pressable>
       </View>
     </SafeAreaView>
+  );
+}
+
+function CategoryBar({ row }) {
+  const attempted = row.correct + row.wrong;
+  return (
+    <View style={styles.barRow}>
+      <View style={styles.barHeader}>
+        <Text style={styles.barName} numberOfLines={1}>{row.name}</Text>
+        <Text style={styles.barPct}>{attempted > 0 ? `${row.accuracy}%` : '—'}</Text>
+      </View>
+      <View style={styles.barTrack}>
+        <View style={[styles.barFill, { width: `${row.accuracy}%`, backgroundColor: row.color }]} />
+      </View>
+      <Text style={styles.barMeta}>
+        ✓ {row.correct} · ✗ {row.wrong}{row.skipped ? ` · — ${row.skipped}` : ''}
+      </Text>
+    </View>
   );
 }
 
@@ -136,6 +180,35 @@ const styles = StyleSheet.create({
   metaLabel: { color: colors.textMuted, fontSize: 13 },
   metaValue: { color: colors.text, fontWeight: '600', fontSize: 13 },
   reviewTitle: { fontSize: 18, fontWeight: '800', color: colors.text, marginTop: spacing.sm },
+  breakdownCard: {
+    backgroundColor: colors.card,
+    padding: spacing.md,
+    borderRadius: radius.md,
+    borderWidth: 1,
+    borderColor: colors.border,
+    gap: spacing.md,
+  },
+  barRow: { gap: 4 },
+  barHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  barName: { fontSize: 13, fontWeight: '600', color: colors.text, flex: 1, marginRight: spacing.sm },
+  barPct: { fontSize: 13, fontWeight: '800', color: colors.text, fontVariant: ['tabular-nums'] },
+  barTrack: { height: 8, backgroundColor: colors.bg, borderRadius: 4, overflow: 'hidden' },
+  barFill: { height: '100%', borderRadius: 4 },
+  barMeta: { fontSize: 11, color: colors.textMuted, marginTop: 2 },
+  recCard: {
+    backgroundColor: '#EFF6FF',
+    padding: spacing.md,
+    borderRadius: radius.md,
+    borderLeftWidth: 4,
+    borderLeftColor: colors.primary,
+    gap: 4,
+  },
+  recHeadline: { fontSize: 15, fontWeight: '700', color: '#0C4A6E' },
+  recHeadlineEn: { fontSize: 12, color: '#1E40AF', marginBottom: spacing.xs },
+  recList: { gap: spacing.sm, marginTop: spacing.xs },
+  recItem: { flexDirection: 'row', gap: spacing.sm, alignItems: 'flex-start' },
+  recDot: { width: 8, height: 8, borderRadius: 4, marginTop: 6 },
+  recTip: { flex: 1, fontSize: 13, lineHeight: 20, color: colors.text },
   reviewCard: {
     backgroundColor: colors.card,
     padding: spacing.md,

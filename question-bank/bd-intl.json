@@ -1,0 +1,588 @@
+[
+  {
+    "id": "bd-1",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের সংবিধান গণপরিষদে কত সালে গৃহীত হয়?",
+    "options": ["১৯৭১", "১৯৭২", "১৯৭৩", "১৯৭৪"],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশের সংবিধান ৪ নভেম্বর ১৯৭২ গৃহীত হয় এবং কার্যকর হয় ১৬ ডিসেম্বর ১৯৭২।"
+  },
+  {
+    "id": "bd-2",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় ফুল কোনটি?",
+    "options": ["গোলাপ", "শাপলা", "পদ্ম", "বেলি"],
+    "answerIndex": 1,
+    "explanation": "শাপলা (Nymphaea nouchali) বাংলাদেশের জাতীয় ফুল।"
+  },
+  {
+    "id": "bd-3",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "মুক্তিযুদ্ধের সময় বাংলাদেশকে কয়টি সেক্টরে বিভক্ত করা হয়েছিল?",
+    "options": ["৯", "১০", "১১", "১২"],
+    "answerIndex": 2,
+    "explanation": "১৯৭১ সালের মুক্তিযুদ্ধে বাংলাদেশকে ১১টি সেক্টরে বিভক্ত করা হয়।"
+  },
+  {
+    "id": "bd-4",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "ঐতিহাসিক ৬ দফা কত সালে ঘোষিত হয়?",
+    "options": ["১৯৬৪", "১৯৬৬", "১৯৬৮", "১৯৭০"],
+    "answerIndex": 1,
+    "explanation": "শেখ মুজিবুর রহমান ১৯৬৬ সালের ফেব্রুয়ারিতে লাহোরে ঐতিহাসিক ৬ দফা ঘোষণা করেন।"
+  },
+  {
+    "id": "bd-5",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "আয়তনে বাংলাদেশের বৃহত্তম জেলা কোনটি?",
+    "options": ["ঢাকা", "রাঙ্গামাটি", "বরিশাল", "চট্টগ্রাম"],
+    "answerIndex": 1,
+    "explanation": "রাঙ্গামাটি আয়তনে বাংলাদেশের বৃহত্তম জেলা (প্রায় ৬,১১৬ বর্গ কিমি)।"
+  },
+  {
+    "id": "bd-6",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় সংসদের আসন সংখ্যা কত (সংরক্ষিত বাদে নির্বাচিত)?",
+    "options": ["৩০০", "৩৫০", "৩৩০", "২৯০"],
+    "answerIndex": 0,
+    "explanation": "সরাসরি নির্বাচিত আসন ৩০০টি; নারীদের জন্য সংরক্ষিত ৫০টি মিলিয়ে মোট ৩৫০টি।"
+  },
+  {
+    "id": "bd-7",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের স্বাধীনতা ঘোষণা করা হয় কোন তারিখে?",
+    "options": ["২৬ মার্চ ১৯৭১", "১৬ ডিসেম্বর ১৯৭১", "৭ মার্চ ১৯৭১", "২৫ মার্চ ১৯৭১"],
+    "answerIndex": 0,
+    "explanation": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতা ঘোষণা করা হয়; এটি স্বাধীনতা দিবস।"
+  },
+  {
+    "id": "bd-8",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশ জাতিসংঘের কততম সদস্য রাষ্ট্র?",
+    "options": ["১৩৬তম", "১৩৭তম", "১৩৫তম", "১৪০তম"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশ ১৯৭৪ সালের ১৭ সেপ্টেম্বর জাতিসংঘের ১৩৬তম সদস্যপদ লাভ করে।"
+  },
+  {
+    "id": "bd-9",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের জাতীয় স্মৃতিসৌধের স্থপতি কে?",
+    "options": ["সৈয়দ মাইনুল হোসেন", "হামিদুর রহমান", "নভেরা আহমেদ", "মৃণাল হক"],
+    "answerIndex": 0,
+    "explanation": "সাভারের জাতীয় স্মৃতিসৌধের স্থপতি সৈয়দ মাইনুল হোসেন।"
+  },
+  {
+    "id": "bd-10",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "শহীদ মিনারের মূল নকশা কে করেন?",
+    "options": ["হামিদুর রহমান", "সৈয়দ মাইনুল হোসেন", "নিতুন কুণ্ডু", "মৃণাল হক"],
+    "answerIndex": 0,
+    "explanation": "কেন্দ্রীয় শহীদ মিনারের নকশা করেন শিল্পী হামিদুর রহমান।"
+  },
+  {
+    "id": "bd-11",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় পাখি কোনটি?",
+    "options": ["দোয়েল", "ময়না", "শালিক", "কোকিল"],
+    "answerIndex": 0,
+    "explanation": "দোয়েল (Magpie Robin) বাংলাদেশের জাতীয় পাখি।"
+  },
+  {
+    "id": "bd-12",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": ["কাঁঠাল", "আম", "কলা", "পেয়ারা"],
+    "answerIndex": 0,
+    "explanation": "কাঁঠাল বাংলাদেশের জাতীয় ফল।"
+  },
+  {
+    "id": "bd-13",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "মুজিবনগর সরকার গঠিত হয় কত সালে?",
+    "options": ["১৯৭১", "১৯৭০", "১৯৭২", "১৯৬৯"],
+    "answerIndex": 0,
+    "explanation": "১৯৭১ সালের ১০ এপ্রিল গঠিত ও ১৭ এপ্রিল শপথ নেয় মুজিবনগর সরকার।"
+  },
+  {
+    "id": "bd-14",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে ছিলেন?",
+    "options": ["শেখ মুজিবুর রহমান", "সৈয়দ নজরুল ইসলাম", "তাজউদ্দীন আহমদ", "এ কে ফজলুল হক"],
+    "answerIndex": 0,
+    "explanation": "শেখ মুজিবুর রহমান বাংলাদেশের প্রথম রাষ্ট্রপতি; অস্থায়ী সরকারে উপরাষ্ট্রপতি ছিলেন সৈয়দ নজরুল ইসলাম।"
+  },
+  {
+    "id": "bd-15",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "ভাষা আন্দোলনের সময় কত তারিখে রাষ্ট্রভাষা দিবস হিসেবে পালিত হয়?",
+    "options": ["২১ ফেব্রুয়ারি", "২৬ মার্চ", "১৬ ডিসেম্বর", "৭ মার্চ"],
+    "answerIndex": 0,
+    "explanation": "১৯৫২ সালের ২১ ফেব্রুয়ারি ভাষা শহীদদের আত্মত্যাগের দিনটি ভাষা শহীদ দিবস/আন্তর্জাতিক মাতৃভাষা দিবস।"
+  },
+  {
+    "id": "bd-16",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের বৃহত্তম নদী কোনটি?",
+    "options": ["মেঘনা", "পদ্মা", "যমুনা", "কর্ণফুলী"],
+    "answerIndex": 0,
+    "explanation": "প্রস্থ ও পানিপ্রবাহের দিক থেকে মেঘনা বাংলাদেশের বৃহত্তম নদী।"
+  },
+  {
+    "id": "bd-17",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "ছয় দফাকে কী বলা হয়?",
+    "options": ["বাঙালির মুক্তির সনদ", "স্বাধীনতার ঘোষণা", "শিক্ষা সনদ", "অর্থনৈতিক পরিকল্পনা"],
+    "answerIndex": 0,
+    "explanation": "ছয় দফাকে \"বাঙালির মুক্তির সনদ\" বা ম্যাগনাকার্টা বলা হয়।"
+  },
+  {
+    "id": "bd-18",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "বাংলাদেশের সংবিধানে মোট কতটি ভাগ (অংশ) রয়েছে?",
+    "options": ["১১", "১২", "১৩", "১৪"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশের সংবিধানে ১১টি ভাগ এবং ১৫৩টি অনুচ্ছেদ রয়েছে।"
+  },
+  {
+    "id": "bd-19",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় সঙ্গীতের রচয়িতা কে?",
+    "options": ["রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জসীম উদ্‌দীন", "ডি এল রায়"],
+    "answerIndex": 0,
+    "explanation": "\"আমার সোনার বাংলা\" রবীন্দ্রনাথ ঠাকুরের রচনা।"
+  },
+  {
+    "id": "bd-20",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের রণসঙ্গীত \"চল চল চল\" এর রচয়িতা কে?",
+    "options": ["কাজী নজরুল ইসলাম", "রবীন্দ্রনাথ ঠাকুর", "জসীম উদ্‌দীন", "আব্দুল গাফফার চৌধুরী"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশের রণসঙ্গীত \"চল চল চল\" কাজী নজরুল ইসলামের রচনা।"
+  },
+  {
+    "id": "bd-21",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের সর্ববৃহৎ সমুদ্র সৈকত কোনটি?",
+    "options": ["কক্সবাজার", "কুয়াকাটা", "পতেঙ্গা", "ইনানী"],
+    "answerIndex": 0,
+    "explanation": "কক্সবাজার পৃথিবীর দীর্ঘতম প্রাকৃতিক সমুদ্র সৈকতগুলোর একটি (প্রায় ১২০ কিমি)।"
+  },
+  {
+    "id": "bd-22",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "ঐতিহাসিক ৭ মার্চের ভাষণ শেখ মুজিবুর রহমান কোথায় দেন?",
+    "options": ["রেসকোর্স ময়দান", "পল্টন ময়দান", "ঢাকা বিশ্ববিদ্যালয়", "বায়তুল মোকাররম"],
+    "answerIndex": 0,
+    "explanation": "১৯৭১ সালের ৭ মার্চ রেসকোর্স ময়দানে (বর্তমান সোহরাওয়ার্দী উদ্যান) ঐতিহাসিক ভাষণটি দেওয়া হয়।"
+  },
+  {
+    "id": "bd-23",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "৭ মার্চের ভাষণকে ইউনেস্কো কোন তালিকায় অন্তর্ভুক্ত করে?",
+    "options": ["মেমরি অব দ্য ওয়ার্ল্ড", "বিশ্ব ঐতিহ্য", "অমূর্ত সাংস্কৃতিক ঐতিহ্য", "জীববৈচিত্র্য"],
+    "answerIndex": 0,
+    "explanation": "২০১৭ সালে ইউনেস্কো ৭ মার্চের ভাষণকে \"মেমরি অব দ্য ওয়ার্ল্ড\" রেজিস্টারে অন্তর্ভুক্ত করে।"
+  },
+  {
+    "id": "bd-24",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": ["ইলিশ", "রুই", "কাতলা", "পাঙ্গাশ"],
+    "answerIndex": 0,
+    "explanation": "ইলিশ বাংলাদেশের জাতীয় মাছ।"
+  },
+  {
+    "id": "bd-25",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের প্রশাসনিক বিভাগ বর্তমানে কয়টি?",
+    "options": ["৮", "৭", "৬", "৯"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশে বর্তমানে ৮টি প্রশাসনিক বিভাগ রয়েছে।"
+  },
+  {
+    "id": "bd-26",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "বাংলাদেশের সংবিধানের রক্ষক কে?",
+    "options": ["সুপ্রিম কোর্ট", "জাতীয় সংসদ", "রাষ্ট্রপতি", "প্রধানমন্ত্রী"],
+    "answerIndex": 0,
+    "explanation": "সংবিধানের ব্যাখ্যা ও রক্ষার দায়িত্ব সুপ্রিম কোর্টের।"
+  },
+  {
+    "id": "bd-27",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "টাঙ্গুয়ার হাওর কোন জেলায় অবস্থিত?",
+    "options": ["সুনামগঞ্জ", "সিলেট", "নেত্রকোনা", "মৌলভীবাজার"],
+    "answerIndex": 0,
+    "explanation": "টাঙ্গুয়ার হাওর সুনামগঞ্জ জেলায় অবস্থিত একটি রামসার সাইট।"
+  },
+  {
+    "id": "bd-28",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের একমাত্র প্রবাল দ্বীপ কোনটি?",
+    "options": ["সেন্ট মার্টিন", "ভোলা", "হাতিয়া", "মহেশখালী"],
+    "answerIndex": 0,
+    "explanation": "সেন্ট মার্টিন (নারিকেল জিঞ্জিরা) বাংলাদেশের একমাত্র প্রবাল দ্বীপ।"
+  },
+  {
+    "id": "bd-29",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "বাংলাদেশের প্রথম স্বাধীনতা পুরস্কার (একুশে নয়) চালু হয় কত সালে?",
+    "options": ["১৯৭৭", "১৯৭৫", "১৯৮০", "১৯৭৩"],
+    "answerIndex": 0,
+    "explanation": "রাষ্ট্রীয় সর্বোচ্চ \"স্বাধীনতা পুরস্কার\" ১৯৭৭ সাল থেকে প্রদান করা হচ্ছে।"
+  },
+  {
+    "id": "bd-30",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "সুন্দরবন কোন বিভাগে অবস্থিত?",
+    "options": ["খুলনা", "বরিশাল", "চট্টগ্রাম", "ঢাকা"],
+    "answerIndex": 0,
+    "explanation": "সুন্দরবনের অধিকাংশ অংশ খুলনা বিভাগে (খুলনা, সাতক্ষীরা, বাগেরহাট) অবস্থিত।"
+  },
+  {
+    "id": "bd-31",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": ["টাকা", "রুপি", "রিঙ্গিত", "ডলার"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশের মুদ্রার নাম টাকা; নিয়ন্ত্রক বাংলাদেশ ব্যাংক।"
+  },
+  {
+    "id": "bd-32",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "পদ্মা সেতুর দৈর্ঘ্য কত?",
+    "options": ["৬.১৫ কিমি", "৪.৮ কিমি", "৮ কিমি", "৫ কিমি"],
+    "answerIndex": 0,
+    "explanation": "পদ্মা বহুমুখী সেতুর দৈর্ঘ্য প্রায় ৬.১৫ কিলোমিটার।"
+  },
+  {
+    "id": "bd-33",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "বাংলাদেশের সংবিধানের প্রস্তাবনায় ক'টি মূলনীতি উল্লেখ আছে?",
+    "options": ["৪", "৩", "৫", "৬"],
+    "answerIndex": 0,
+    "explanation": "রাষ্ট্র পরিচালনার চারটি মূলনীতি: জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতা।"
+  },
+  {
+    "id": "bd-34",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের সর্ববৃহৎ হাওর কোনটি?",
+    "options": ["হাকালুকি", "টাঙ্গুয়ার", "চলনবিল", "তানগুয়া"],
+    "answerIndex": 0,
+    "explanation": "হাকালুকি হাওর বাংলাদেশের বৃহত্তম হাওর, মৌলভীবাজার ও সিলেট জেলায় বিস্তৃত।"
+  },
+  {
+    "id": "bd-35",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের জাতীয় খেলা কোনটি?",
+    "options": ["কাবাডি", "ফুটবল", "ক্রিকেট", "হাডুডু"],
+    "answerIndex": 0,
+    "explanation": "কাবাডি (হাডুডু) বাংলাদেশের জাতীয় খেলা।"
+  },
+  {
+    "id": "bd-36",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "বীরশ্রেষ্ঠ খেতাবপ্রাপ্ত মুক্তিযোদ্ধার সংখ্যা কত?",
+    "options": ["৭", "৬৮", "১৭৫", "৪২৬"],
+    "answerIndex": 0,
+    "explanation": "মুক্তিযুদ্ধে সর্বোচ্চ সম্মান \"বীরশ্রেষ্ঠ\" খেতাব পান ৭ জন বীর যোদ্ধা।"
+  },
+  {
+    "id": "bd-37",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বঙ্গবন্ধু স্যাটেলাইট-১ উৎক্ষেপণ করা হয় কত সালে?",
+    "options": ["২০১৮", "২০১৭", "২০১৯", "২০১৬"],
+    "answerIndex": 0,
+    "explanation": "বঙ্গবন্ধু স্যাটেলাইট-১ ২০১৮ সালের ১১ মে মহাকাশে উৎক্ষেপণ করা হয়।"
+  },
+  {
+    "id": "bd-38",
+    "categoryId": "bd_affairs",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের আইনসভার নাম কী?",
+    "options": ["জাতীয় সংসদ", "গণপরিষদ", "মজলিস", "লোকসভা"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশের আইনসভার নাম জাতীয় সংসদ (House of the Nation)।"
+  },
+  {
+    "id": "bd-39",
+    "categoryId": "bd_affairs",
+    "difficulty": "hard",
+    "question": "১৯৫২ সালের ভাষা আন্দোলনে শহীদদের মধ্যে কে ছিলেন না?",
+    "options": ["তিতুমীর", "সালাম", "বরকত", "রফিক"],
+    "answerIndex": 0,
+    "explanation": "তিতুমীর ১৯ শতকের নেতা; ভাষা শহীদদের মধ্যে সালাম, বরকত, রফিক, জব্বার, শফিউর উল্লেখযোগ্য।"
+  },
+  {
+    "id": "bd-40",
+    "categoryId": "bd_affairs",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের সংবিধান অনুযায়ী রাষ্ট্রভাষা কী?",
+    "options": ["বাংলা", "বাংলা ও ইংরেজি", "উর্দু", "ইংরেজি"],
+    "answerIndex": 0,
+    "explanation": "সংবিধানের ৩ অনুচ্ছেদ অনুযায়ী প্রজাতন্ত্রের রাষ্ট্রভাষা বাংলা।"
+  },
+
+  {
+    "id": "int-1",
+    "categoryId": "intl_affairs",
+    "difficulty": "easy",
+    "question": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["প্যারিস", "লন্ডন", "নিউইয়র্ক", "জেনেভা"],
+    "answerIndex": 2,
+    "explanation": "জাতিসংঘের সদর দপ্তর মার্কিন যুক্তরাষ্ট্রের নিউইয়র্ক শহরে অবস্থিত।"
+  },
+  {
+    "id": "int-2",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "বিশ্ব বাণিজ্য সংস্থা (WTO) কত সালে প্রতিষ্ঠিত হয়?",
+    "options": ["১৯৯৩", "১৯৯৪", "১৯৯৫", "১৯৯৬"],
+    "answerIndex": 2,
+    "explanation": "WTO ১ জানুয়ারি ১৯৯৫ সালে প্রতিষ্ঠিত হয় (GATT-এর উত্তরসূরি)।"
+  },
+  {
+    "id": "int-3",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "SAARC প্রতিষ্ঠিত হয় কত সালে?",
+    "options": ["১৯৮৩", "১৯৮৫", "১৯৮৭", "১৯৮৯"],
+    "answerIndex": 1,
+    "explanation": "SAARC ৮ ডিসেম্বর ১৯৮৫ সালে ঢাকায় প্রতিষ্ঠিত হয়।"
+  },
+  {
+    "id": "int-4",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "আন্তর্জাতিক বিচার আদালত (ICJ) কোথায় অবস্থিত?",
+    "options": ["দ্য হেগ", "জেনেভা", "নিউইয়র্ক", "ভিয়েনা"],
+    "answerIndex": 0,
+    "explanation": "আন্তর্জাতিক বিচার আদালত (ICJ) নেদারল্যান্ডসের দ্য হেগে অবস্থিত।"
+  },
+  {
+    "id": "int-5",
+    "categoryId": "intl_affairs",
+    "difficulty": "easy",
+    "question": "জাতিসংঘ কত সালে প্রতিষ্ঠিত হয়?",
+    "options": ["১৯৪৫", "১৯১৯", "১৯৪৮", "১৯৫০"],
+    "answerIndex": 0,
+    "explanation": "জাতিসংঘ ১৯৪৫ সালের ২৪ অক্টোবর আনুষ্ঠানিকভাবে প্রতিষ্ঠিত হয়।"
+  },
+  {
+    "id": "int-6",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "জাতিসংঘ নিরাপত্তা পরিষদের স্থায়ী সদস্য কয়টি?",
+    "options": ["৫", "১০", "১৫", "৭"],
+    "answerIndex": 0,
+    "explanation": "নিরাপত্তা পরিষদে ভেটো ক্ষমতাসম্পন্ন স্থায়ী সদস্য ৫টি: যুক্তরাষ্ট্র, রাশিয়া, চীন, যুক্তরাজ্য, ফ্রান্স।"
+  },
+  {
+    "id": "int-7",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "WHO-এর সদর দপ্তর কোথায়?",
+    "options": ["জেনেভা", "প্যারিস", "রোম", "নিউইয়র্ক"],
+    "answerIndex": 0,
+    "explanation": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)-এর সদর দপ্তর সুইজারল্যান্ডের জেনেভায়।"
+  },
+  {
+    "id": "int-8",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "UNESCO-এর সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["প্যারিস", "জেনেভা", "ভিয়েনা", "রোম"],
+    "answerIndex": 0,
+    "explanation": "UNESCO-এর সদর দপ্তর ফ্রান্সের প্যারিসে অবস্থিত।"
+  },
+  {
+    "id": "int-9",
+    "categoryId": "intl_affairs",
+    "difficulty": "hard",
+    "question": "OPEC-এর সদর দপ্তর কোথায়?",
+    "options": ["ভিয়েনা", "রিয়াদ", "জেনেভা", "দুবাই"],
+    "answerIndex": 0,
+    "explanation": "তেল রপ্তানিকারক দেশগুলোর সংস্থা OPEC-এর সদর দপ্তর অস্ট্রিয়ার ভিয়েনায়।"
+  },
+  {
+    "id": "int-10",
+    "categoryId": "intl_affairs",
+    "difficulty": "easy",
+    "question": "ইউরোপীয় ইউনিয়নের একক মুদ্রার নাম কী?",
+    "options": ["ইউরো", "পাউন্ড", "ফ্রাঁ", "মার্ক"],
+    "answerIndex": 0,
+    "explanation": "ইউরোপীয় ইউনিয়নের অধিকাংশ দেশের একক মুদ্রা ইউরো (€)।"
+  },
+  {
+    "id": "int-11",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "রেড ক্রস-এর সদর দপ্তর কোথায়?",
+    "options": ["জেনেভা", "প্যারিস", "লন্ডন", "নিউইয়র্ক"],
+    "answerIndex": 0,
+    "explanation": "আন্তর্জাতিক রেড ক্রস কমিটির সদর দপ্তর সুইজারল্যান্ডের জেনেভায়।"
+  },
+  {
+    "id": "int-12",
+    "categoryId": "intl_affairs",
+    "difficulty": "hard",
+    "question": "\"ফোর্বিডেন সিটি\" কোন দেশে অবস্থিত?",
+    "options": ["চীন", "জাপান", "ভারত", "নেপাল"],
+    "answerIndex": 0,
+    "explanation": "ফোর্বিডেন সিটি চীনের রাজধানী বেইজিংয়ে অবস্থিত একটি প্রাচীন রাজপ্রাসাদ।"
+  },
+  {
+    "id": "int-13",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "আন্তর্জাতিক মুদ্রা তহবিল (IMF) প্রতিষ্ঠিত হয় কত সালে?",
+    "options": ["১৯৪৪", "১৯৪৫", "১৯৪৭", "১৯৫০"],
+    "answerIndex": 0,
+    "explanation": "ব্রেটন উডস সম্মেলনে ১৯৪৪ সালে IMF প্রতিষ্ঠিত হয়; কার্যক্রম শুরু ১৯৪৭ সালে।"
+  },
+  {
+    "id": "int-14",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "নোবেল পুরস্কার প্রদান শুরু হয় কত সালে?",
+    "options": ["১৯০১", "১৮৯৫", "১৯১০", "১৮৯৬"],
+    "answerIndex": 0,
+    "explanation": "আলফ্রেড নোবেলের উইল অনুযায়ী ১৯০১ সাল থেকে নোবেল পুরস্কার প্রদান শুরু হয়।"
+  },
+  {
+    "id": "int-15",
+    "categoryId": "intl_affairs",
+    "difficulty": "hard",
+    "question": "\"গ্রেট ওয়াল\" (মহাপ্রাচীর) কোন দেশে অবস্থিত?",
+    "options": ["চীন", "মঙ্গোলিয়া", "ভারত", "রাশিয়া"],
+    "answerIndex": 0,
+    "explanation": "চীনের মহাপ্রাচীর বিশ্বের অন্যতম বৃহৎ মানবনির্মিত স্থাপনা।"
+  },
+  {
+    "id": "int-16",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "জাতিসংঘের প্রথম মহাসচিব কে ছিলেন?",
+    "options": ["ট্রিগভে লি", "দ্যাগ হ্যামারশোল্ড", "উ থান্ট", "কুর্ট ওয়াল্ডহেইম"],
+    "answerIndex": 0,
+    "explanation": "নরওয়ের ট্রিগভে লি ছিলেন জাতিসংঘের প্রথম মহাসচিব (১৯৪৬-১৯৫২)।"
+  },
+  {
+    "id": "int-17",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "ASEAN প্রতিষ্ঠিত হয় কত সালে?",
+    "options": ["১৯৬৭", "১৯৭৫", "১৯৮০", "১৯৬০"],
+    "answerIndex": 0,
+    "explanation": "দক্ষিণ-পূর্ব এশীয় দেশগুলোর সংগঠন ASEAN ১৯৬৭ সালে ব্যাংককে প্রতিষ্ঠিত হয়।"
+  },
+  {
+    "id": "int-18",
+    "categoryId": "intl_affairs",
+    "difficulty": "hard",
+    "question": "\"ভেটো\" ক্ষমতা শব্দের অর্থ কী?",
+    "options": ["আমি নিষেধ করছি", "আমি সম্মত", "ভোট দান", "আলোচনা"],
+    "answerIndex": 0,
+    "explanation": "ল্যাটিন \"veto\" অর্থ \"I forbid\" — অর্থাৎ \"আমি নিষেধ করছি\"।"
+  },
+  {
+    "id": "int-19",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "বিশ্বব্যাংকের সদর দপ্তর কোথায়?",
+    "options": ["ওয়াশিংটন ডিসি", "নিউইয়র্ক", "জেনেভা", "লন্ডন"],
+    "answerIndex": 0,
+    "explanation": "বিশ্বব্যাংকের সদর দপ্তর যুক্তরাষ্ট্রের ওয়াশিংটন ডিসিতে অবস্থিত।"
+  },
+  {
+    "id": "int-20",
+    "categoryId": "intl_affairs",
+    "difficulty": "easy",
+    "question": "\"ব্ল্যাক ফরেস্ট\" কোন দেশে অবস্থিত?",
+    "options": ["জার্মানি", "ফ্রান্স", "সুইজারল্যান্ড", "ইতালি"],
+    "answerIndex": 0,
+    "explanation": "ব্ল্যাক ফরেস্ট (Schwarzwald) জার্মানির দক্ষিণ-পশ্চিমে অবস্থিত একটি পার্বত্য বনাঞ্চল।"
+  },
+  {
+    "id": "int-21",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "প্রথম বিশ্বযুদ্ধ কত সালে শুরু হয়?",
+    "options": ["১৯১৪", "১৯১৮", "১৯৩৯", "১৯০৪"],
+    "answerIndex": 0,
+    "explanation": "প্রথম বিশ্বযুদ্ধ ১৯১৪ সালে শুরু হয়ে ১৯১৮ সালে শেষ হয়।"
+  },
+  {
+    "id": "int-22",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কত সালে শেষ হয়?",
+    "options": ["১৯৪৫", "১৯৩৯", "১৯৪৪", "১৯৪৬"],
+    "answerIndex": 0,
+    "explanation": "দ্বিতীয় বিশ্বযুদ্ধ ১৯৩৯ সালে শুরু হয়ে ১৯৪৫ সালে শেষ হয়।"
+  },
+  {
+    "id": "int-23",
+    "categoryId": "intl_affairs",
+    "difficulty": "hard",
+    "question": "জাপানের কোন দুটি শহরে পারমাণবিক বোমা ফেলা হয়?",
+    "options": ["হিরোশিমা ও নাগাসাকি", "টোকিও ও ওসাকা", "কিয়োটো ও কোবে", "নাগোয়া ও সাপ্পোরো"],
+    "answerIndex": 0,
+    "explanation": "১৯৪৫ সালে যুক্তরাষ্ট্র হিরোশিমা ও নাগাসাকিতে পারমাণবিক বোমা ফেলে।"
+  },
+  {
+    "id": "int-24",
+    "categoryId": "intl_affairs",
+    "difficulty": "easy",
+    "question": "বিশ্বের ক্ষুদ্রতম রাষ্ট্র কোনটি?",
+    "options": ["ভ্যাটিকান সিটি", "মোনাকো", "নাউরু", "মালদ্বীপ"],
+    "answerIndex": 0,
+    "explanation": "ভ্যাটিকান সিটি আয়তন ও জনসংখ্যায় বিশ্বের ক্ষুদ্রতম স্বাধীন রাষ্ট্র।"
+  },
+  {
+    "id": "int-25",
+    "categoryId": "intl_affairs",
+    "difficulty": "medium",
+    "question": "\"আরব বসন্ত\" প্রথম কোন দেশে শুরু হয়?",
+    "options": ["তিউনিসিয়া", "মিশর", "লিবিয়া", "সিরিয়া"],
+    "answerIndex": 0,
+    "explanation": "২০১০ সালের শেষে তিউনিসিয়া থেকে \"আরব বসন্ত\" আন্দোলনের সূচনা হয়।"
+  }
+]

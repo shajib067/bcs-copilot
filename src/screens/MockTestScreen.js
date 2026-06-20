@@ -69,7 +69,7 @@ export default function MockTestScreen({ navigation }) {
       if (isCorrect) correct += 1;
       else wrong += 1;
       review.push({ q, picked: a, isCorrect });
-      await recordAnswer(q.id, isCorrect);
+      await recordAnswer(q.id, isCorrect, q.categoryId);
     }
 
     const score = correct - wrong * NEGATIVE_PER_WRONG;

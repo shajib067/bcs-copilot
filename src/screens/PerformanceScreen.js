@@ -1,18 +1,26 @@
-import { useEffect, useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { View, Text, StyleSheet, FlatList, Pressable, Alert } from 'react-native';
 import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
-import { getOverallStats, getTestHistory, clearTestHistory } from '../storage/progressStore';
+import {
+  getOverallStats,
+  getTestHistory,
+  getCategoryStats,
+  clearAllProgress,
+} from '../storage/progressStore';
+import { perCategoryFromStats, buildRecommendations, headline } from '../data/recommendations';
 
 export default function PerformanceScreen() {
   const [stats, setStats] = useState(null);
   const [history, setHistory] = useState([]);
+  const [perCategory, setPerCategory] = useState([]);
 
   const load = useCallback(async () => {
-    const [s, h] = await Promise.all([getOverallStats(), getTestHistory()]);
+    const [s, h, cs] = await Promise.all([getOverallStats(), getTestHistory(), getCategoryStats()]);
     setStats(s);
     setHistory(h);
+    setPerCategory(perCategoryFromStats(cs));
   }, []);
 
   useFocusEffect(
@@ -22,18 +30,21 @@ export default function PerformanceScreen() {
   );
 
   const handleClear = () => {
-    Alert.alert('Clear all test history?', 'This cannot be undone.', [
+    Alert.alert('Reset all progress?', 'Test history and practice stats will be cleared. This cannot be undone.', [
       { text: 'Cancel', style: 'cancel' },
       {
-        text: 'Clear',
+        text: 'Reset',
         style: 'destructive',
         onPress: async () => {
-          await clearTestHistory();
+          await clearAllProgress();
           load();
         },
       },
     ]);
   };
+
+  const recommendations = buildRecommendations(perCategory);
+  const tip = headline(perCategory);
 
   return (
     <SafeAreaView edges={['bottom']} style={styles.safe}>
@@ -54,11 +65,39 @@ export default function PerformanceScreen() {
                 </View>
               </View>
             )}
+
+            <View style={styles.recCard}>
+              <Text style={styles.recTitle}>Recommendations</Text>
+              <Text style={styles.recHeadline}>{tip.bn}</Text>
+              <Text style={styles.recHeadlineEn}>{tip.en}</Text>
+              {recommendations.length > 0 && (
+                <View style={styles.recList}>
+                  {recommendations.map((r) => (
+                    <View key={r.categoryId} style={styles.recItem}>
+                      <View style={[styles.recDot, { backgroundColor: r.color }]} />
+                      <Text style={styles.recTip}>{r.tip}</Text>
+                    </View>
+                  ))}
+                </View>
+              )}
+            </View>
+
+            {perCategory.length > 0 && (
+              <View style={styles.statsCard}>
+                <Text style={styles.statsTitle}>Accuracy by Topic</Text>
+                <View style={{ gap: spacing.md, marginTop: spacing.sm }}>
+                  {perCategory.map((c) => (
+                    <CategoryBar key={c.categoryId} row={c} />
+                  ))}
+                </View>
+              </View>
+            )}
+
             <View style={styles.historyHeader}>
               <Text style={styles.historyTitle}>Mock Test History</Text>
-              {history.length > 0 && (
+              {(history.length > 0 || perCategory.length > 0) && (
                 <Pressable onPress={handleClear} hitSlop={8}>
-                  <Text style={styles.clearText}>Clear</Text>
+                  <Text style={styles.clearText}>Reset</Text>
                 </Pressable>
               )}
             </View>
@@ -85,6 +124,21 @@ function StatTile({ label, value, color = colors.text }) {
   );
 }
 
+function CategoryBar({ row }) {
+  return (
+    <View style={styles.barRow}>
+      <View style={styles.barHeader}>
+        <Text style={styles.barName} numberOfLines={1}>{row.name}</Text>
+        <Text style={styles.barPct}>{row.accuracy}%</Text>
+      </View>
+      <View style={styles.barTrack}>
+        <View style={[styles.barFill, { width: `${row.accuracy}%`, backgroundColor: row.color }]} />
+      </View>
+      <Text style={styles.barMeta}>✓ {row.correct} · ✗ {row.wrong}</Text>
+    </View>
+  );
+}
+
 function HistoryRow({ item }) {
   const date = new Date(item.date);
   const dateStr = date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
@@ -98,9 +152,7 @@ function HistoryRow({ item }) {
       </View>
       <View style={{ flex: 1 }}>
         <Text style={styles.rowDate}>{dateStr} • {timeStr}</Text>
-        <Text style={styles.rowMeta}>
-          ✓ {item.correct} · ✗ {item.wrong} · — {item.skipped}
-        </Text>
+        <Text style={styles.rowMeta}>✓ {item.correct} · ✗ {item.wrong} · — {item.skipped}</Text>
         {item.autoSubmitted && <Text style={styles.autoTag}>Auto-submitted</Text>}
       </View>
     </View>
@@ -128,6 +180,27 @@ const styles = StyleSheet.create({
   },
   statTileValue: { fontSize: 22, fontWeight: '800' },
   statTileLabel: { fontSize: 12, color: colors.textMuted, marginTop: 4 },
+  recCard: {
+    backgroundColor: '#EFF6FF',
+    padding: spacing.md,
+    borderRadius: radius.md,
+    borderLeftWidth: 4,
+    borderLeftColor: colors.primary,
+  },
+  recTitle: { fontSize: 16, fontWeight: '800', color: '#0C4A6E', marginBottom: spacing.xs },
+  recHeadline: { fontSize: 14, fontWeight: '700', color: '#0C4A6E' },
+  recHeadlineEn: { fontSize: 12, color: '#1E40AF', marginTop: 2 },
+  recList: { gap: spacing.sm, marginTop: spacing.sm },
+  recItem: { flexDirection: 'row', gap: spacing.sm, alignItems: 'flex-start' },
+  recDot: { width: 8, height: 8, borderRadius: 4, marginTop: 6 },
+  recTip: { flex: 1, fontSize: 13, lineHeight: 20, color: colors.text },
+  barRow: { gap: 4 },
+  barHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  barName: { fontSize: 13, fontWeight: '600', color: colors.text, flex: 1, marginRight: spacing.sm },
+  barPct: { fontSize: 13, fontWeight: '800', color: colors.text, fontVariant: ['tabular-nums'] },
+  barTrack: { height: 8, backgroundColor: colors.bg, borderRadius: 4, overflow: 'hidden' },
+  barFill: { height: '100%', borderRadius: 4 },
+  barMeta: { fontSize: 11, color: colors.textMuted, marginTop: 2 },
   historyHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   historyTitle: { fontSize: 16, fontWeight: '800', color: colors.text },
   clearText: { color: colors.danger, fontWeight: '600', fontSize: 13 },
@@ -141,12 +214,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: colors.border,
   },
-  scoreBlock: {
-    width: 70,
-    paddingVertical: spacing.sm,
-    borderRadius: radius.sm,
-    alignItems: 'center',
-  },
+  scoreBlock: { width: 70, paddingVertical: spacing.sm, borderRadius: radius.sm, alignItems: 'center' },
   scoreValue: { color: '#fff', fontSize: 18, fontWeight: '800' },
   scoreOf: { color: '#fff', fontSize: 11, opacity: 0.9 },
   rowDate: { fontSize: 14, fontWeight: '600', color: colors.text },

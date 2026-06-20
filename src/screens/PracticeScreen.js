@@ -35,7 +35,7 @@ export default function PracticeScreen({ route, navigation }) {
   const handleSelect = async (i) => {
     if (answered) return;
     setSelected(i);
-    await recordAnswer(q.id, i === q.answerIndex);
+    await recordAnswer(q.id, i === q.answerIndex, q.categoryId);
   };
 
   const handleNext = () => {

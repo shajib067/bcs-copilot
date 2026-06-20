@@ -8,7 +8,34 @@ Android-first Expo / React Native app for BCS Preliminary exam preparation. Ques
 - **Practice mode** — browse questions per category with immediate feedback and Bengali explanations
 - **Mock test** — 100 random questions, 60-minute timer, BCS-style negative marking (-0.5 per wrong)
 - **Performance tracking** — overall accuracy + history of all mock tests, stored on-device via AsyncStorage
+- **Weak-area recommendations** — per-topic accuracy analysis that flags where to focus next (after each mock test and in Performance)
 - **Bengali + English content** — questions render in the exam's original language
+
+## Question bank (offline, compact, not user-readable)
+
+Questions are authored as readable JSON in **`/question-bank/*.json`** (the source of
+truth, easy to edit). A build step compresses and base64-encodes the whole set into
+**`src/data/bank.generated.js`**:
+
+```bash
+npm run build:bank
+```
+
+At runtime `src/data/questions.js` inflates that blob in memory. Two things fall out of this:
+
+- **Not visible to users.** Only the encoded blob ships in the APK, so the readable
+  question/answer JSON is never in the bundle — the answer key can't be casually
+  extracted. (This is obfuscation + compression, not strong encryption.)
+- **Minimal space.** The current bank is ~108 KB of JSON → ~28 KB encoded (~74% smaller).
+
+Edit questions in `/question-bank/`, re-run `npm run build:bank`, and commit the
+regenerated `bank.generated.js`. The build validates every question (4 distinct options,
+valid answer index, known category, unique ids) and fails loudly on mistakes.
+
+> ⚠️ The bundled questions cover **stable, canonical facts** (literature, history,
+> geography, science, math, grammar). Volatile current-affairs (latest office-holders,
+> figures, recent events) are intentionally excluded — top those up separately and
+> review the bank for accuracy before release.
 
 ## Run locally
 
@@ -38,8 +65,10 @@ This produces an `.aab` ready for Google Play. See https://docs.expo.dev/build/s
 ```
 src/
 ├── data/
-│   ├── categories.js   # 10 BCS sections, marks, colors
-│   └── questions.js    # seed question bank (replace with real DB later)
+│   ├── categories.js        # 10 BCS sections, marks, colors
+│   ├── questions.js         # runtime loader (decodes the encoded bank)
+│   ├── bank.generated.js    # AUTO-GENERATED encoded question bank (shipped)
+│   └── recommendations.js   # weak-area analysis for study tips
 ├── screens/
 │   ├── HomeScreen.js
 │   ├── CategoriesScreen.js
@@ -61,7 +90,7 @@ src/
 
 The deferred items (auth + payments) line up best in this order:
 
-1. **Grow the question bank.** Replace `src/data/questions.js` with a JSON pack of 5,000+ real BCS questions (past years 35th–46th BCS recommended). Keep it bundled inside the APK so the app stays offline-first.
+1. **Grow the question bank.** Keep adding past-years' questions (35th–46th BCS recommended) to `/question-bank/*.json` and re-run `npm run build:bank`. The encoded bank stays bundled in the APK, so the app remains offline-first.
 2. **Add Firebase Auth.** Email + Google sign-in via `expo-auth-session`. Store user profile in Firestore. Optional — you can still ship a paid app without accounts.
 3. **Wire Google Play Billing.** Use `react-native-iap` or RevenueCat. Two SKUs:
    - `bcs_prep_lifetime` — one-time purchase
@@ -71,22 +100,24 @@ The deferred items (auth + payments) line up best in this order:
 6. **Push notifications.** `expo-notifications` for daily-question reminders — proven engagement boost.
 7. **iOS.** Same codebase. Add Apple Pay / StoreKit via RevenueCat for cross-platform billing.
 
-## Replacing the seed questions
+## Editing / growing the question bank
 
-The `QUESTIONS` array in `src/data/questions.js` is a plain JS list. Each item:
+Add or edit items in any file under `/question-bank/`. Each item:
 
-```js
+```json
 {
-  id: 'unique-string',
-  categoryId: 'bangla' | 'english' | 'bd_affairs' | ... ,
-  question: 'প্রশ্ন এখানে',
-  options: ['ক', 'খ', 'গ', 'ঘ'],
-  answerIndex: 0,         // 0..3
-  explanation: 'ব্যাখ্যা এখানে',
+  "id": "unique-string",
+  "categoryId": "bangla | english | bd_affairs | ...",
+  "question": "প্রশ্ন এখানে",
+  "options": ["ক", "খ", "গ", "ঘ"],
+  "answerIndex": 0,
+  "explanation": "ব্যাখ্যা এখানে",
+  "difficulty": "easy | medium | hard"
 }
 ```
 
-For a large bank, generate this file from a CSV/SQLite source at build time, or load a bundled JSON via `require()` at app start.
+Then run `npm run build:bank` and commit the regenerated `src/data/bank.generated.js`.
+You can split questions across as many `.json` files as you like — the build merges them all.
 
 ## Notes
 

@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "sc-1",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "প্রাপ্তবয়স্ক মানবদেহে মোট হাড়ের সংখ্যা কত?",
+    "options": ["২০৬", "২০৮", "২১০", "২১২"],
+    "answerIndex": 0,
+    "explanation": "প্রাপ্তবয়স্ক মানবদেহে মোট ২০৬টি হাড় থাকে।"
+  },
+  {
+    "id": "sc-2",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "পানির রাসায়নিক সংকেত কী?",
+    "options": ["H2O", "HO2", "H3O", "HO"],
+    "answerIndex": 0,
+    "explanation": "পানি দুটি হাইড্রোজেন ও একটি অক্সিজেন পরমাণু দিয়ে গঠিত — সংকেত H₂O।"
+  },
+  {
+    "id": "sc-3",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "ভিটামিন \"সি\"-এর রাসায়নিক নাম কী?",
+    "options": ["অ্যাসকরবিক এসিড", "সাইট্রিক এসিড", "অক্সালিক এসিড", "ল্যাকটিক এসিড"],
+    "answerIndex": 0,
+    "explanation": "ভিটামিন C-এর রাসায়নিক নাম অ্যাসকরবিক এসিড (Ascorbic Acid)।"
+  },
+  {
+    "id": "sc-4",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "শূন্যস্থানে আলোর গতি প্রতি সেকেন্ডে প্রায় কত?",
+    "options": ["৩ লক্ষ কিমি", "৩০ লক্ষ কিমি", "৩ কোটি কিমি", "৩ হাজার কিমি"],
+    "answerIndex": 0,
+    "explanation": "শূন্যস্থানে আলোর গতি প্রায় ৩ × ১০⁸ মিটার/সেকেন্ড অর্থাৎ ৩ লক্ষ কিমি/সেকেন্ড।"
+  },
+  {
+    "id": "sc-5",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "মানবদেহের রক্তে লোহিত কণিকার কাজ কী?",
+    "options": ["অক্সিজেন পরিবহন", "রোগ প্রতিরোধ", "রক্ত জমাট বাঁধা", "হজমে সাহায্য"],
+    "answerIndex": 0,
+    "explanation": "লোহিত রক্তকণিকা (RBC) হিমোগ্লোবিনের মাধ্যমে অক্সিজেন পরিবহন করে।"
+  },
+  {
+    "id": "sc-6",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "সালোকসংশ্লেষণে উদ্ভিদ কোন গ্যাস গ্রহণ করে?",
+    "options": ["কার্বন ডাই-অক্সাইড", "অক্সিজেন", "নাইট্রোজেন", "হাইড্রোজেন"],
+    "answerIndex": 0,
+    "explanation": "সালোকসংশ্লেষণে উদ্ভিদ CO₂ গ্রহণ করে এবং O₂ ত্যাগ করে।"
+  },
+  {
+    "id": "sc-7",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "রক্তচাপ মাপার যন্ত্রের নাম কী?",
+    "options": ["স্ফিগমোম্যানোমিটার", "থার্মোমিটার", "ব্যারোমিটার", "হাইগ্রোমিটার"],
+    "answerIndex": 0,
+    "explanation": "রক্তচাপ মাপা হয় স্ফিগমোম্যানোমিটার দিয়ে।"
+  },
+  {
+    "id": "sc-8",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "মানবদেহের সবচেয়ে বড় অঙ্গ কোনটি?",
+    "options": ["ত্বক", "যকৃত", "মস্তিষ্ক", "ফুসফুস"],
+    "answerIndex": 0,
+    "explanation": "ত্বক (skin) মানবদেহের সবচেয়ে বড় অঙ্গ।"
+  },
+  {
+    "id": "sc-9",
+    "categoryId": "science",
+    "difficulty": "hard",
+    "question": "নিউটনের কোন সূত্রকে \"জড়তার সূত্র\" বলা হয়?",
+    "options": ["প্রথম সূত্র", "দ্বিতীয় সূত্র", "তৃতীয় সূত্র", "মহাকর্ষ সূত্র"],
+    "answerIndex": 0,
+    "explanation": "নিউটনের গতির প্রথম সূত্রকে জড়তার সূত্র বলা হয়।"
+  },
+  {
+    "id": "sc-10",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "সাধারণ লবণের রাসায়নিক নাম কী?",
+    "options": ["সোডিয়াম ক্লোরাইড", "সোডিয়াম বাইকার্বনেট", "ক্যালসিয়াম কার্বনেট", "পটাসিয়াম ক্লোরাইড"],
+    "answerIndex": 0,
+    "explanation": "খাবার লবণ হলো সোডিয়াম ক্লোরাইড (NaCl)।"
+  },
+  {
+    "id": "sc-11",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "কোন গ্যাসকে \"হাসির গ্যাস\" বলা হয়?",
+    "options": ["নাইট্রাস অক্সাইড", "কার্বন মনোক্সাইড", "মিথেন", "অক্সিজেন"],
+    "answerIndex": 0,
+    "explanation": "নাইট্রাস অক্সাইড (N₂O)-কে হাসির গ্যাস বলা হয়।"
+  },
+  {
+    "id": "sc-12",
+    "categoryId": "science",
+    "difficulty": "hard",
+    "question": "মানবদেহে স্বাভাবিক ক্রোমোজোমের সংখ্যা কত?",
+    "options": ["৪৬", "৪৪", "৪৮", "২৩"],
+    "answerIndex": 0,
+    "explanation": "মানবদেহের প্রতিটি কোষে ২৩ জোড়া অর্থাৎ ৪৬টি ক্রোমোজোম থাকে।"
+  },
+  {
+    "id": "sc-13",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "কোন ভিটামিনের অভাবে রাতকানা রোগ হয়?",
+    "options": ["ভিটামিন এ", "ভিটামিন বি", "ভিটামিন সি", "ভিটামিন ডি"],
+    "answerIndex": 0,
+    "explanation": "ভিটামিন A-এর অভাবে রাতকানা রোগ হয়।"
+  },
+  {
+    "id": "sc-14",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "শব্দের গতি কোন মাধ্যমে সবচেয়ে বেশি?",
+    "options": ["কঠিন পদার্থে", "তরলে", "বায়ুতে", "শূন্যে"],
+    "answerIndex": 0,
+    "explanation": "শব্দ কঠিন পদার্থে সবচেয়ে দ্রুত চলে; শূন্যস্থানে শব্দ চলতে পারে না।"
+  },
+  {
+    "id": "sc-15",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "ডায়াবেটিস রোগ কোন হরমোনের অভাবে হয়?",
+    "options": ["ইনসুলিন", "থাইরক্সিন", "অ্যাড্রেনালিন", "ইস্ট্রোজেন"],
+    "answerIndex": 0,
+    "explanation": "অগ্ন্যাশয় থেকে নিঃসৃত ইনসুলিনের অভাবে ডায়াবেটিস হয়।"
+  },
+  {
+    "id": "sc-16",
+    "categoryId": "science",
+    "difficulty": "hard",
+    "question": "পদার্থের ক্ষুদ্রতম একক কোনটি, যা রাসায়নিক ধর্ম বজায় রাখে?",
+    "options": ["অণু", "পরমাণু", "ইলেকট্রন", "নিউক্লিয়াস"],
+    "answerIndex": 0,
+    "explanation": "যে ক্ষুদ্রতম একক পদার্থের রাসায়নিক ধর্ম বজায় রাখে তা হলো অণু।"
+  },
+  {
+    "id": "sc-17",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "বায়ুমণ্ডলে সবচেয়ে বেশি কোন গ্যাস রয়েছে?",
+    "options": ["নাইট্রোজেন", "অক্সিজেন", "কার্বন ডাই-অক্সাইড", "আর্গন"],
+    "answerIndex": 0,
+    "explanation": "বায়ুমণ্ডলে প্রায় ৭৮% নাইট্রোজেন ও ২১% অক্সিজেন থাকে।"
+  },
+  {
+    "id": "sc-18",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "মানুষের হৃৎপিণ্ডে কয়টি প্রকোষ্ঠ থাকে?",
+    "options": ["৪", "২", "৩", "৫"],
+    "answerIndex": 0,
+    "explanation": "মানুষের হৃৎপিণ্ডে ৪টি প্রকোষ্ঠ: দুটি অলিন্দ ও দুটি নিলয়।"
+  },
+  {
+    "id": "sc-19",
+    "categoryId": "science",
+    "difficulty": "hard",
+    "question": "আপেক্ষিকতার তত্ত্বের জনক কে?",
+    "options": ["আলবার্ট আইনস্টাইন", "আইজ্যাক নিউটন", "নিলস বোর", "ম্যাক্স প্ল্যাঙ্ক"],
+    "answerIndex": 0,
+    "explanation": "আপেক্ষিকতার তত্ত্ব (Theory of Relativity) প্রতিষ্ঠা করেন আলবার্ট আইনস্টাইন।"
+  },
+  {
+    "id": "sc-20",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "তাপমাত্রা পরিমাপের SI একক কী?",
+    "options": ["কেলভিন", "সেলসিয়াস", "ফারেনহাইট", "জুল"],
+    "answerIndex": 0,
+    "explanation": "তাপমাত্রার SI একক কেলভিন (K)।"
+  },
+  {
+    "id": "sc-21",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "কোন প্রাণী স্তন্যপায়ী হয়েও ডিম পাড়ে?",
+    "options": ["প্লাটিপাস", "তিমি", "বাদুড়", "ডলফিন"],
+    "answerIndex": 0,
+    "explanation": "প্লাটিপাস স্তন্যপায়ী হয়েও ডিম পাড়ে।"
+  },
+  {
+    "id": "sc-22",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "কোনটি নবায়নযোগ্য শক্তির উৎস?",
+    "options": ["সৌরশক্তি", "কয়লা", "পেট্রোল", "প্রাকৃতিক গ্যাস"],
+    "answerIndex": 0,
+    "explanation": "সৌরশক্তি একটি নবায়নযোগ্য (renewable) শক্তির উৎস।"
+  },
+  {
+    "id": "sc-23",
+    "categoryId": "science",
+    "difficulty": "hard",
+    "question": "DNA-এর পূর্ণরূপ কী?",
+    "options": ["ডিঅক্সিরাইবোনিউক্লিক এসিড", "ডাইনিউক্লিক এসিড", "ডিঅক্সিনিউট্রিক এসিড", "ডাইরাইবোনিউক্লিক এসিড"],
+    "answerIndex": 0,
+    "explanation": "DNA = Deoxyribonucleic Acid (ডিঅক্সিরাইবোনিউক্লিক এসিড)।"
+  },
+  {
+    "id": "sc-24",
+    "categoryId": "science",
+    "difficulty": "medium",
+    "question": "রোগ প্রতিরোধে কোন রক্তকণিকা কাজ করে?",
+    "options": ["শ্বেত রক্তকণিকা", "লোহিত রক্তকণিকা", "অণুচক্রিকা", "প্লাজমা"],
+    "answerIndex": 0,
+    "explanation": "শ্বেত রক্তকণিকা (WBC) দেহের রোগ প্রতিরোধে কাজ করে।"
+  },
+  {
+    "id": "sc-25",
+    "categoryId": "science",
+    "difficulty": "easy",
+    "question": "সূর্য থেকে পৃথিবীতে আলো আসতে আনুমানিক কত সময় লাগে?",
+    "options": ["৮ মিনিট", "১ মিনিট", "১ ঘণ্টা", "১ সেকেন্ড"],
+    "answerIndex": 0,
+    "explanation": "সূর্যের আলো পৃথিবীতে পৌঁছাতে প্রায় ৮ মিনিট ২০ সেকেন্ড লাগে।"
+  },
+
+  {
+    "id": "ict-1",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "WWW-এর জনক কে?",
+    "options": ["চার্লস ব্যাবেজ", "টিম বার্নার্স-লি", "বিল গেটস", "স্টিভ জবস"],
+    "answerIndex": 1,
+    "explanation": "টিম বার্নার্স-লি ১৯৮৯ সালে World Wide Web উদ্ভাবন করেন।"
+  },
+  {
+    "id": "ict-2",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "RAM-এর পূর্ণরূপ কী?",
+    "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Read Allow Memory"],
+    "answerIndex": 0,
+    "explanation": "RAM = Random Access Memory; এটি একটি অস্থায়ী (volatile) মেমরি।"
+  },
+  {
+    "id": "ict-3",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি ইনপুট ডিভাইস নয়?",
+    "options": ["কী-বোর্ড", "মাউস", "মনিটর", "স্ক্যানার"],
+    "answerIndex": 2,
+    "explanation": "মনিটর একটি আউটপুট ডিভাইস; কী-বোর্ড, মাউস ও স্ক্যানার ইনপুট ডিভাইস।"
+  },
+  {
+    "id": "ict-4",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "IP-এর পূর্ণরূপ কী?",
+    "options": ["Internet Provider", "Internet Protocol", "Internal Protocol", "Inter Process"],
+    "answerIndex": 1,
+    "explanation": "IP = Internet Protocol; এটি নেটওয়ার্কে ডেটা প্যাকেট প্রেরণের নিয়ম নির্ধারণ করে।"
+  },
+  {
+    "id": "ict-5",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "কম্পিউটারের মস্তিষ্ক বলা হয় কোনটিকে?",
+    "options": ["CPU", "RAM", "Hard Disk", "Monitor"],
+    "answerIndex": 0,
+    "explanation": "CPU (Central Processing Unit)-কে কম্পিউটারের মস্তিষ্ক বলা হয়।"
+  },
+  {
+    "id": "ict-6",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "১ বাইট সমান কত বিট?",
+    "options": ["৮", "৪", "১৬", "৩২"],
+    "answerIndex": 0,
+    "explanation": "১ বাইট = ৮ বিট।"
+  },
+  {
+    "id": "ict-7",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "HTML-এর পূর্ণরূপ কী?",
+    "options": ["Hyper Text Markup Language", "High Text Markup Language", "Hyper Tool Markup Language", "Hyper Text Making Language"],
+    "answerIndex": 0,
+    "explanation": "HTML = HyperText Markup Language; ওয়েব পেজ তৈরিতে ব্যবহৃত হয়।"
+  },
+  {
+    "id": "ict-8",
+    "categoryId": "ict",
+    "difficulty": "hard",
+    "question": "প্রথম প্রোগ্রামার হিসেবে কাকে গণ্য করা হয়?",
+    "options": ["অ্যাডা লাভলেস", "চার্লস ব্যাবেজ", "অ্যালান টুরিং", "জন ভন নিউম্যান"],
+    "answerIndex": 0,
+    "explanation": "অ্যাডা লাভলেসকে বিশ্বের প্রথম কম্পিউটার প্রোগ্রামার হিসেবে গণ্য করা হয়।"
+  },
+  {
+    "id": "ict-9",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি একটি অপারেটিং সিস্টেম?",
+    "options": ["Linux", "Oracle", "Photoshop", "Excel"],
+    "answerIndex": 0,
+    "explanation": "Linux একটি অপারেটিং সিস্টেম; বাকিগুলো অ্যাপ্লিকেশন সফটওয়্যার।"
+  },
+  {
+    "id": "ict-10",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "URL-এর পূর্ণরূপ কী?",
+    "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Resource Link", "United Resource Locator"],
+    "answerIndex": 0,
+    "explanation": "URL = Uniform Resource Locator; ওয়েবে কোনো রিসোর্সের ঠিকানা নির্দেশ করে।"
+  },
+  {
+    "id": "ict-11",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "কোনটি বৃহত্তম ডেটা একক?",
+    "options": ["টেরাবাইট", "গিগাবাইট", "মেগাবাইট", "কিলোবাইট"],
+    "answerIndex": 0,
+    "explanation": "ক্রমানুসারে: KB < MB < GB < TB — টেরাবাইট বৃহত্তম।"
+  },
+  {
+    "id": "ict-12",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "ই-মেইলে \"@\" চিহ্নের ব্যবহার কী নির্দেশ করে?",
+    "options": ["ব্যবহারকারী ও ডোমেইন আলাদা করা", "যোগ করা", "সংখ্যা", "পাসওয়ার্ড"],
+    "answerIndex": 0,
+    "explanation": "ই-মেইল ঠিকানায় \"@\" চিহ্ন ব্যবহারকারীর নাম ও ডোমেইন নাম আলাদা করে।"
+  },
+  {
+    "id": "ict-13",
+    "categoryId": "ict",
+    "difficulty": "hard",
+    "question": "কোন প্রজন্মের কম্পিউটারে ট্রানজিস্টর ব্যবহার শুরু হয়?",
+    "options": ["দ্বিতীয় প্রজন্ম", "প্রথম প্রজন্ম", "তৃতীয় প্রজন্ম", "চতুর্থ প্রজন্ম"],
+    "answerIndex": 0,
+    "explanation": "দ্বিতীয় প্রজন্মের কম্পিউটারে ভ্যাকুয়াম টিউবের পরিবর্তে ট্রানজিস্টর ব্যবহৃত হয়।"
+  },
+  {
+    "id": "ict-14",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "কম্পিউটার ভাইরাস আসলে কী?",
+    "options": ["একটি ক্ষতিকর প্রোগ্রাম", "একটি হার্ডওয়্যার", "একটি জীবাণু", "একটি ইনপুট ডিভাইস"],
+    "answerIndex": 0,
+    "explanation": "কম্পিউটার ভাইরাস হলো একটি ক্ষতিকর সফটওয়্যার/প্রোগ্রাম।"
+  },
+  {
+    "id": "ict-15",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি সার্চ ইঞ্জিন?",
+    "options": ["Google", "Windows", "MS Word", "Android"],
+    "answerIndex": 0,
+    "explanation": "Google একটি সার্চ ইঞ্জিন।"
+  },
+  {
+    "id": "ict-16",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "Wi-Fi কীসের সংক্ষিপ্ত রূপ?",
+    "options": ["Wireless Fidelity", "Wired Fidelity", "Wide Fidelity", "Wireless Field"],
+    "answerIndex": 0,
+    "explanation": "Wi-Fi অর্থ Wireless Fidelity; বেতার নেটওয়ার্ক প্রযুক্তি।"
+  },
+  {
+    "id": "ict-17",
+    "categoryId": "ict",
+    "difficulty": "hard",
+    "question": "বাইনারি সংখ্যা পদ্ধতিতে কয়টি অঙ্ক ব্যবহৃত হয়?",
+    "options": ["২", "১০", "৮", "১৬"],
+    "answerIndex": 0,
+    "explanation": "বাইনারি পদ্ধতিতে দুটি অঙ্ক ব্যবহৃত হয়: ০ ও ১।"
+  },
+  {
+    "id": "ict-18",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "কোনটি অস্থায়ী মেমরি?",
+    "options": ["RAM", "ROM", "Hard Disk", "Pen Drive"],
+    "answerIndex": 0,
+    "explanation": "RAM হলো অস্থায়ী (volatile) মেমরি; বিদ্যুৎ চলে গেলে এর তথ্য মুছে যায়।"
+  },
+  {
+    "id": "ict-19",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "PDF-এর পূর্ণরূপ কী?",
+    "options": ["Portable Document Format", "Personal Document File", "Printed Document Format", "Public Document File"],
+    "answerIndex": 0,
+    "explanation": "PDF = Portable Document Format।"
+  },
+  {
+    "id": "ict-20",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "ফোর্থ জেনারেশন কম্পিউটারে কী ব্যবহৃত হয়?",
+    "options": ["মাইক্রোপ্রসেসর", "ট্রানজিস্টর", "ভ্যাকুয়াম টিউব", "আইসি"],
+    "answerIndex": 0,
+    "explanation": "চতুর্থ প্রজন্মের কম্পিউটারে মাইক্রোপ্রসেসর ব্যবহৃত হয়।"
+  },
+  {
+    "id": "ict-21",
+    "categoryId": "ict",
+    "difficulty": "hard",
+    "question": "কোনটি প্রোগ্রামিং ভাষা নয়?",
+    "options": ["HTTP", "Python", "Java", "C++"],
+    "answerIndex": 0,
+    "explanation": "HTTP একটি প্রোটোকল, প্রোগ্রামিং ভাষা নয়।"
+  },
+  {
+    "id": "ict-22",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "মোবাইল ফোন আবিষ্কার করেন কে?",
+    "options": ["মার্টিন কুপার", "টিম বার্নার্স-লি", "গ্রাহাম বেল", "টমাস এডিসন"],
+    "answerIndex": 0,
+    "explanation": "মার্টিন কুপার ১৯৭৩ সালে প্রথম হ্যান্ডহেল্ড মোবাইল ফোন আবিষ্কার করেন।"
+  },
+  {
+    "id": "ict-23",
+    "categoryId": "ict",
+    "difficulty": "easy",
+    "question": "GPS-এর পূর্ণরূপ কী?",
+    "options": ["Global Positioning System", "General Positioning System", "Global Position Setting", "Geo Positioning Sensor"],
+    "answerIndex": 0,
+    "explanation": "GPS = Global Positioning System।"
+  },
+  {
+    "id": "ict-24",
+    "categoryId": "ict",
+    "difficulty": "medium",
+    "question": "ক্লাউড কম্পিউটিং বলতে কী বোঝায়?",
+    "options": ["ইন্টারনেটের মাধ্যমে সেবা ও সংরক্ষণ", "মেঘের পূর্বাভাস", "একটি হার্ডওয়্যার", "একটি প্রিন্টার"],
+    "answerIndex": 0,
+    "explanation": "ক্লাউড কম্পিউটিং হলো ইন্টারনেটের মাধ্যমে ডেটা সংরক্ষণ ও কম্পিউটিং সেবা প্রদান।"
+  },
+  {
+    "id": "ict-25",
+    "categoryId": "ict",
+    "difficulty": "hard",
+    "question": "AI-এর পূর্ণরূপ কী?",
+    "options": ["Artificial Intelligence", "Automatic Intelligence", "Advanced Internet", "Applied Information"],
+    "answerIndex": 0,
+    "explanation": "AI = Artificial Intelligence (কৃত্রিম বুদ্ধিমত্তা)।"
+  },
+
+  {
+    "id": "math-1",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "একটি সংখ্যার ৩০% যদি ৬০ হয়, তবে সংখ্যাটি কত?",
+    "options": ["১৮০", "২০০", "২২০", "২৪০"],
+    "answerIndex": 1,
+    "explanation": "৩০% × x = ৬০ ⇒ x = ৬০ ÷ ০.৩০ = ২০০।"
+  },
+  {
+    "id": "math-2",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "ধারা: ২, ৪, ৮, ১৬, ? — পরবর্তী সংখ্যাটি কত?",
+    "options": ["২৪", "৩০", "৩২", "৩৬"],
+    "answerIndex": 2,
+    "explanation": "প্রতিটি সংখ্যা পূর্ববর্তীর দ্বিগুণ, তাই ১৬ × ২ = ৩২।"
+  },
+  {
+    "id": "math-3",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "৫, ৭, ৯-এর গড় কত?",
+    "options": ["৬", "৭", "৮", "৯"],
+    "answerIndex": 1,
+    "explanation": "গড় = (৫ + ৭ + ৯) ÷ ৩ = ২১ ÷ ৩ = ৭।"
+  },
+  {
+    "id": "math-4",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "একটি ত্রিভুজের তিন কোণের সমষ্টি কত?",
+    "options": ["৯০°", "১৮০°", "২৭০°", "৩৬০°"],
+    "answerIndex": 1,
+    "explanation": "যেকোনো ত্রিভুজের অভ্যন্তরীণ তিন কোণের সমষ্টি ১৮০°।"
+  },
+  {
+    "id": "math-5",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "১৫ টাকায় ৩টি কলম কিনলে ১০০ টাকায় কয়টি কলম পাওয়া যাবে?",
+    "options": ["২০", "১৮", "২৫", "৩০"],
+    "answerIndex": 0,
+    "explanation": "১টি কলমের দাম ৫ টাকা; ১০০ ÷ ৫ = ২০টি কলম।"
+  },
+  {
+    "id": "math-6",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "একটি বর্গক্ষেত্রের পরিসীমা ৪০ মিটার হলে এর ক্ষেত্রফল কত?",
+    "options": ["১০০ বর্গমিটার", "১৬০ বর্গমিটার", "৪০ বর্গমিটার", "২০০ বর্গমিটার"],
+    "answerIndex": 0,
+    "explanation": "বাহু = ৪০ ÷ ৪ = ১০ মিটার; ক্ষেত্রফল = ১০² = ১০০ বর্গমিটার।"
+  },
+  {
+    "id": "math-7",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "একটি দ্রব্য ১০% লাভে ৫৫০ টাকায় বিক্রি হলে ক্রয়মূল্য কত?",
+    "options": ["৫০০", "৪৯৫", "৫২৫", "৫০৫"],
+    "answerIndex": 0,
+    "explanation": "ক্রয়মূল্য × ১.১০ = ৫৫০ ⇒ ক্রয়মূল্য = ৫০০ টাকা।"
+  },
+  {
+    "id": "math-8",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "৩ : ৫ অনুপাতকে শতকরায় প্রকাশ করলে প্রথম রাশি কত?",
+    "options": ["৩৭.৫%", "৪০%", "৩০%", "৬০%"],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ৮; প্রথম রাশি = ৩/৮ × ১০০ = ৩৭.৫%।"
+  },
+  {
+    "id": "math-9",
+    "categoryId": "math",
+    "difficulty": "hard",
+    "question": "একটি সংখ্যা ও তার বর্গের যোগফল ৪২ হলে সংখ্যাটি কত?",
+    "options": ["৬", "৫", "৭", "৪"],
+    "answerIndex": 0,
+    "explanation": "x + x² = ৪২ ⇒ x = ৬ (৬ + ৩৬ = ৪২)।"
+  },
+  {
+    "id": "math-10",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "১ থেকে ১০ পর্যন্ত সংখ্যাগুলোর যোগফল কত?",
+    "options": ["৫৫", "৫০", "৪৫", "৬০"],
+    "answerIndex": 0,
+    "explanation": "যোগফল = n(n+1)/2 = ১০×১১/২ = ৫৫।"
+  },
+  {
+    "id": "math-11",
+    "categoryId": "math",
+    "difficulty": "hard",
+    "question": "একটি কাজ ৬ জন লোক ১২ দিনে করতে পারে। ৮ জন লোক একই কাজ কত দিনে করবে?",
+    "options": ["৯ দিন", "১০ দিন", "৮ দিন", "১৬ দিন"],
+    "answerIndex": 0,
+    "explanation": "মোট কাজ = ৬×১২ = ৭২ লোক-দিন; ৭২ ÷ ৮ = ৯ দিন।"
+  },
+  {
+    "id": "math-12",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "২৫০ টাকার ৮% কত?",
+    "options": ["২০", "২৫", "১৮", "১৫"],
+    "answerIndex": 0,
+    "explanation": "২৫০ × ০.০৮ = ২০ টাকা।"
+  },
+  {
+    "id": "math-13",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "৭-এর সাথে কত যোগ করলে ফল ২০ হবে?",
+    "options": ["১৩", "১২", "১৪", "১১"],
+    "answerIndex": 0,
+    "explanation": "২০ − ৭ = ১৩।"
+  },
+  {
+    "id": "math-14",
+    "categoryId": "math",
+    "difficulty": "hard",
+    "question": "একটি সমকোণী ত্রিভুজের দুই বাহু ৩ ও ৪ হলে অতিভুজ কত?",
+    "options": ["৫", "৬", "৭", "৪.৫"],
+    "answerIndex": 0,
+    "explanation": "পিথাগোরাসের সূত্রে √(৩²+৪²) = √২৫ = ৫।"
+  },
+  {
+    "id": "math-15",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "একটি সংখ্যার অর্ধেক ও এক-তৃতীয়াংশের যোগফল ২৫ হলে সংখ্যাটি কত?",
+    "options": ["৩০", "২৫", "৩৬", "২৪"],
+    "answerIndex": 0,
+    "explanation": "x/২ + x/৩ = ২৫ ⇒ ৫x/৬ = ২৫ ⇒ x = ৩০।"
+  },
+  {
+    "id": "math-16",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "১ ডজন = কত?",
+    "options": ["১২", "১০", "১৪", "২০"],
+    "answerIndex": 0,
+    "explanation": "১ ডজন = ১২টি।"
+  },
+  {
+    "id": "math-17",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "৪৫ মিনিট কত ঘণ্টার সমান?",
+    "options": ["০.৭৫ ঘণ্টা", "০.৪৫ ঘণ্টা", "০.৬ ঘণ্টা", "০.৯ ঘণ্টা"],
+    "answerIndex": 0,
+    "explanation": "৪৫ ÷ ৬০ = ০.৭৫ ঘণ্টা।"
+  },
+  {
+    "id": "math-18",
+    "categoryId": "math",
+    "difficulty": "hard",
+    "question": "একটি ধারা: ১, ৪, ৯, ১৬, ? — পরবর্তী সংখ্যা কত?",
+    "options": ["২৫", "২০", "২৪", "৩৬"],
+    "answerIndex": 0,
+    "explanation": "এগুলো পূর্ণবর্গ (১², ২², ৩², ৪²); পরবর্তী ৫² = ২৫।"
+  },
+  {
+    "id": "math-19",
+    "categoryId": "math",
+    "difficulty": "medium",
+    "question": "১২০ টাকা ৩ জনের মধ্যে ১:২:৩ অনুপাতে ভাগ করলে সবচেয়ে বড় ভাগ কত?",
+    "options": ["৬০", "৪০", "২০", "৮০"],
+    "answerIndex": 0,
+    "explanation": "মোট অংশ ৬; বড় ভাগ = ৩/৬ × ১২০ = ৬০ টাকা।"
+  },
+  {
+    "id": "math-20",
+    "categoryId": "math",
+    "difficulty": "easy",
+    "question": "একটি বৃত্তের ব্যাসার্ধ ৭ হলে এর ব্যাস কত?",
+    "options": ["১৪", "৭", "২১", "৩.৫"],
+    "answerIndex": 0,
+    "explanation": "ব্যাস = ২ × ব্যাসার্ধ = ২ × ৭ = ১৪।"
+  },
+
+  {
+    "id": "men-1",
+    "categoryId": "mental",
+    "difficulty": "easy",
+    "question": "CAT : KITTEN :: DOG : ?",
+    "options": ["PUPPY", "BONE", "BARK", "CUB"],
+    "answerIndex": 0,
+    "explanation": "বিড়ালের বাচ্চা KITTEN, তাহলে কুকুরের বাচ্চা PUPPY।"
+  },
+  {
+    "id": "men-2",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "আজ সোমবার হলে ১০০ দিন পরে কী বার হবে?",
+    "options": ["বুধবার", "বৃহস্পতিবার", "শুক্রবার", "শনিবার"],
+    "answerIndex": 0,
+    "explanation": "১০০ ÷ ৭ = ভাগশেষ ২। সোমবার + ২ দিন = বুধবার।"
+  },
+  {
+    "id": "men-3",
+    "categoryId": "mental",
+    "difficulty": "hard",
+    "question": "ঘড়িতে ৩:১৫ মিনিটে ঘণ্টা ও মিনিটের কাঁটার মধ্যে কোণ কত?",
+    "options": ["০°", "৭.৫°", "১৫°", "৩০°"],
+    "answerIndex": 1,
+    "explanation": "ঘণ্টার কাঁটা ৩-এর ঘর থেকে ৭.৫° এগিয়েছে; মিনিটের কাঁটা ঠিক ৩-এর ঘরে। পার্থক্য ৭.৫°।"
+  },
+  {
+    "id": "men-4",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "যদি A=১, B=২, C=৩ হয়, তবে CAB-এর যোগফল কত?",
+    "options": ["৬", "৫", "৭", "৪"],
+    "answerIndex": 0,
+    "explanation": "C+A+B = ৩+১+২ = ৬।"
+  },
+  {
+    "id": "men-5",
+    "categoryId": "mental",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি বেমানান? গোলাপ, জবা, পদ্ম, আম",
+    "options": ["আম", "গোলাপ", "জবা", "পদ্ম"],
+    "answerIndex": 0,
+    "explanation": "আম একটি ফল; বাকিগুলো ফুল।"
+  },
+  {
+    "id": "men-6",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "ধারা: Z, X, V, T, ? — পরবর্তী অক্ষর কোনটি?",
+    "options": ["R", "S", "U", "Q"],
+    "answerIndex": 0,
+    "explanation": "প্রতিবার একটি অক্ষর বাদ দিয়ে পিছিয়ে যাচ্ছে: Z, X, V, T, R।"
+  },
+  {
+    "id": "men-7",
+    "categoryId": "mental",
+    "difficulty": "hard",
+    "question": "একজন লোক উত্তর দিকে ১০ মিটার, তারপর পূর্বে ১০ মিটার হাঁটল। শুরুর বিন্দু থেকে দূরত্ব কত?",
+    "options": ["১০√২ মিটার", "২০ মিটার", "১০ মিটার", "১৪ মিটার"],
+    "answerIndex": 0,
+    "explanation": "√(১০²+১০²) = √২০০ = ১০√২ মিটার।"
+  },
+  {
+    "id": "men-8",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "হাত : আঙুল :: পা : ?",
+    "options": ["পায়ের আঙুল", "জুতা", "হাঁটু", "গোড়ালি"],
+    "answerIndex": 0,
+    "explanation": "হাতের অংশ আঙুল, তেমনি পায়ের অংশ পায়ের আঙুল।"
+  },
+  {
+    "id": "men-9",
+    "categoryId": "mental",
+    "difficulty": "easy",
+    "question": "৩, ৬, ৯, ১২, ? — পরবর্তী সংখ্যা?",
+    "options": ["১৫", "১৪", "১৮", "১৬"],
+    "answerIndex": 0,
+    "explanation": "প্রতিবার ৩ যোগ হচ্ছে, তাই ১২ + ৩ = ১৫।"
+  },
+  {
+    "id": "men-10",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "যদি কিছু কলম বই হয় এবং সব বই খাতা হয়, তবে নিশ্চিত কোনটি?",
+    "options": ["কিছু কলম খাতা হতে পারে", "সব কলম খাতা", "কোনো কলম খাতা নয়", "সব খাতা কলম"],
+    "answerIndex": 0,
+    "explanation": "কিছু কলম বই, আর সব বই খাতা — তাই কিছু কলম খাতা হতে পারে।"
+  },
+  {
+    "id": "men-11",
+    "categoryId": "mental",
+    "difficulty": "hard",
+    "question": "৫ জন লোক ৫ ঘণ্টায় ৫টি যন্ত্র বানায়। ১০০ জন লোক ১০০ ঘণ্টায় কয়টি যন্ত্র বানাবে?",
+    "options": ["২০০০", "১০০", "১০০০", "৫০০"],
+    "answerIndex": 0,
+    "explanation": "১ জন ১ ঘণ্টায় ১/৫ যন্ত্র; ১০০ × ১০০ × ১/৫ = ২০০০টি।"
+  },
+  {
+    "id": "men-12",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "আয়নায় ৩টা বাজলে প্রকৃত সময় কত?",
+    "options": ["৯টা", "৬টা", "১২টা", "৩টা"],
+    "answerIndex": 0,
+    "explanation": "আয়নায় সময় = ১২ − দেখানো সময়; ১২ − ৩ = ৯টা।"
+  },
+  {
+    "id": "men-13",
+    "categoryId": "mental",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি বেমানান? সোম, মঙ্গল, জানুয়ারি, বুধ",
+    "options": ["জানুয়ারি", "সোম", "মঙ্গল", "বুধ"],
+    "answerIndex": 0,
+    "explanation": "জানুয়ারি একটি মাস; বাকিগুলো সপ্তাহের দিন।"
+  },
+  {
+    "id": "men-14",
+    "categoryId": "mental",
+    "difficulty": "hard",
+    "question": "একটি কোডে যদি TEACHER = 7 অক্ষর হয়, MASTER কত অক্ষর?",
+    "options": ["৬", "৭", "৫", "৮"],
+    "answerIndex": 0,
+    "explanation": "MASTER শব্দে অক্ষর সংখ্যা ৬।"
+  },
+  {
+    "id": "men-15",
+    "categoryId": "mental",
+    "difficulty": "medium",
+    "question": "২, ৩, ৫, ৭, ১১, ? — পরবর্তী সংখ্যা?",
+    "options": ["১৩", "১২", "১৪", "১৫"],
+    "answerIndex": 0,
+    "explanation": "এগুলো মৌলিক সংখ্যা; ১১-এর পরের মৌলিক সংখ্যা ১৩।"
+  },
+
+  {
+    "id": "geo-1",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+    "options": ["কেওক্রাডং", "তাজিনডং", "মোদক মুয়াল", "সাকা হাফং"],
+    "answerIndex": 3,
+    "explanation": "সাকা হাফং (প্রায় ১,০৬৪ মিটার) বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ, বান্দরবানে অবস্থিত।"
+  },
+  {
+    "id": "geo-2",
+    "categoryId": "geography",
+    "difficulty": "easy",
+    "question": "সুন্দরবন কোন দুটি দেশে বিস্তৃত?",
+    "options": ["বাংলাদেশ-ভারত", "বাংলাদেশ-মায়ানমার", "বাংলাদেশ-নেপাল", "ভারত-মায়ানমার"],
+    "answerIndex": 0,
+    "explanation": "সুন্দরবন বাংলাদেশ ও ভারতের পশ্চিমবঙ্গে বিস্তৃত পৃথিবীর বৃহত্তম ম্যানগ্রোভ বন।"
+  },
+  {
+    "id": "geo-3",
+    "categoryId": "geography",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের জলবায়ু কেমন?",
+    "options": ["ক্রান্তীয় মৌসুমি", "নাতিশীতোষ্ণ", "মরু", "মেরু"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশের জলবায়ু ক্রান্তীয় মৌসুমি প্রকৃতির।"
+  },
+  {
+    "id": "geo-4",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "পৃথিবীর বৃহত্তম মহাসাগর কোনটি?",
+    "options": ["প্রশান্ত মহাসাগর", "আটলান্টিক", "ভারত মহাসাগর", "আর্কটিক"],
+    "answerIndex": 0,
+    "explanation": "প্রশান্ত মহাসাগর (Pacific Ocean) পৃথিবীর বৃহত্তম মহাসাগর।"
+  },
+  {
+    "id": "geo-5",
+    "categoryId": "geography",
+    "difficulty": "easy",
+    "question": "পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+    "options": ["মাউন্ট এভারেস্ট", "কে-টু", "কাঞ্চনজঙ্ঘা", "মাকালু"],
+    "answerIndex": 0,
+    "explanation": "মাউন্ট এভারেস্ট (৮,৮৪৯ মিটার) পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ।"
+  },
+  {
+    "id": "geo-6",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "কোন রেখা পৃথিবীকে উত্তর ও দক্ষিণ গোলার্ধে বিভক্ত করে?",
+    "options": ["নিরক্ষরেখা", "মূল মধ্যরেখা", "কর্কটক্রান্তি", "মকরক্রান্তি"],
+    "answerIndex": 0,
+    "explanation": "নিরক্ষরেখা (Equator) পৃথিবীকে উত্তর ও দক্ষিণ গোলার্ধে ভাগ করে।"
+  },
+  {
+    "id": "geo-7",
+    "categoryId": "geography",
+    "difficulty": "hard",
+    "question": "বাংলাদেশের উপর দিয়ে কোন রেখা অতিক্রম করেছে?",
+    "options": ["কর্কটক্রান্তি", "মকরক্রান্তি", "নিরক্ষরেখা", "মূল মধ্যরেখা"],
+    "answerIndex": 0,
+    "explanation": "কর্কটক্রান্তি রেখা (Tropic of Cancer) বাংলাদেশের মধ্যভাগ দিয়ে অতিক্রম করেছে।"
+  },
+  {
+    "id": "geo-8",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": ["নীল নদ", "আমাজন", "মিসিসিপি", "ইয়াংসিকিয়াং"],
+    "answerIndex": 0,
+    "explanation": "নীল নদকে সাধারণত বিশ্বের দীর্ঘতম নদী হিসেবে ধরা হয় (যদিও আমাজন নিয়ে বিতর্ক আছে)।"
+  },
+  {
+    "id": "geo-9",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "ভূমিকম্প মাপার যন্ত্রের নাম কী?",
+    "options": ["সিসমোগ্রাফ", "ব্যারোমিটার", "থার্মোমিটার", "হাইগ্রোমিটার"],
+    "answerIndex": 0,
+    "explanation": "ভূমিকম্পের তীব্রতা ও তরঙ্গ রেকর্ড করা হয় সিসমোগ্রাফ দিয়ে।"
+  },
+  {
+    "id": "geo-10",
+    "categoryId": "geography",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের প্রধান নদীগুলোর উৎস কোথায়?",
+    "options": ["হিমালয় পর্বত", "আরাকান পাহাড়", "মেঘালয় মালভূমি", "বঙ্গোপসাগর"],
+    "answerIndex": 0,
+    "explanation": "পদ্মা, ব্রহ্মপুত্রসহ প্রধান নদীগুলোর উৎস হিমালয় পর্বত।"
+  },
+  {
+    "id": "geo-11",
+    "categoryId": "geography",
+    "difficulty": "hard",
+    "question": "ঘূর্ণিঝড়ের পূর্বে যে সংকেত দেওয়া হয় তা কোন স্কেলে?",
+    "options": ["মহাবিপদ সংকেত স্কেল", "রিখটার স্কেল", "বিউফোর্ট স্কেল", "কেলভিন স্কেল"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশে সমুদ্রবন্দরের জন্য ১-১০ পর্যন্ত মহাবিপদ সংকেত স্কেল ব্যবহৃত হয়।"
+  },
+  {
+    "id": "geo-12",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "বাংলাদেশ কোন সাগরের তীরে অবস্থিত?",
+    "options": ["বঙ্গোপসাগর", "আরব সাগর", "ভূমধ্যসাগর", "লোহিত সাগর"],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশ দক্ষিণে বঙ্গোপসাগরের তীরে অবস্থিত।"
+  },
+  {
+    "id": "geo-13",
+    "categoryId": "geography",
+    "difficulty": "medium",
+    "question": "জোয়ার-ভাটার প্রধান কারণ কী?",
+    "options": ["চাঁদের আকর্ষণ", "সূর্যের তাপ", "বাতাস", "নদীর স্রোত"],
+    "answerIndex": 0,
+    "explanation": "মূলত চাঁদের মহাকর্ষীয় আকর্ষণে সাগরে জোয়ার-ভাটা সৃষ্টি হয়।"
+  },
+  {
+    "id": "geo-14",
+    "categoryId": "geography",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের রাজধানী কোনটি?",
+    "options": ["ঢাকা", "চট্টগ্রাম", "খুলনা", "রাজশাহী"],
+    "answerIndex": 0,
+    "explanation": "ঢাকা বাংলাদেশের রাজধানী ও বৃহত্তম শহর।"
+  },
+  {
+    "id": "geo-15",
+    "categoryId": "geography",
+    "difficulty": "hard",
+    "question": "এল নিনো কী?",
+    "options": ["সমুদ্রপৃষ্ঠের অস্বাভাবিক উষ্ণতা", "এক ধরনের ঘূর্ণিঝড়", "মরুভূমির ঝড়", "বরফগলা স্রোত"],
+    "answerIndex": 0,
+    "explanation": "এল নিনো হলো প্রশান্ত মহাসাগরের নিরক্ষীয় অঞ্চলে সমুদ্রপৃষ্ঠের অস্বাভাবিক উষ্ণায়ন, যা বৈশ্বিক আবহাওয়া প্রভাবিত করে।"
+  },
+
+  {
+    "id": "eth-1",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "\"সুশাসন\" (Good Governance) ধারণাটি প্রথম প্রবর্তন করে কোন সংস্থা?",
+    "options": ["জাতিসংঘ", "IMF", "বিশ্বব্যাংক", "ADB"],
+    "answerIndex": 2,
+    "explanation": "বিশ্বব্যাংক ১৯৮৯ সালের প্রতিবেদনে প্রথম \"Good Governance\" ধারণা ব্যবহার করে।"
+  },
+  {
+    "id": "eth-2",
+    "categoryId": "ethics",
+    "difficulty": "easy",
+    "question": "মূল্যবোধের প্রধান উৎস কোনটি?",
+    "options": ["পরিবার", "সমাজ", "ধর্ম", "উপরের সবগুলো"],
+    "answerIndex": 3,
+    "explanation": "পরিবার, সমাজ, ধর্ম ও শিক্ষা — সব মিলিয়েই মূল্যবোধ গড়ে ওঠে।"
+  },
+  {
+    "id": "eth-3",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "সুশাসনের বৈশিষ্ট্য কোনটি নয়?",
+    "options": ["স্বচ্ছতা", "জবাবদিহিতা", "আইনের শাসন", "একনায়কত্ব"],
+    "answerIndex": 3,
+    "explanation": "সুশাসনের বৈশিষ্ট্য: স্বচ্ছতা, জবাবদিহিতা, আইনের শাসন, অংশগ্রহণ — একনায়কত্ব এর বিপরীত।"
+  },
+  {
+    "id": "eth-4",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "\"Transparency International\" কোন বিষয়ে কাজ করে?",
+    "options": ["দুর্নীতিবিরোধী", "পরিবেশ", "স্বাস্থ্য", "শিক্ষা"],
+    "answerIndex": 0,
+    "explanation": "Transparency International বৈশ্বিকভাবে দুর্নীতিবিরোধী কার্যক্রম পরিচালনা করে।"
+  },
+  {
+    "id": "eth-5",
+    "categoryId": "ethics",
+    "difficulty": "hard",
+    "question": "সুশাসনের জন্য জবাবদিহিতা কেন গুরুত্বপূর্ণ?",
+    "options": ["ক্ষমতার অপব্যবহার রোধে", "ভোট বাড়াতে", "কর সংগ্রহে", "ব্যবসা বাড়াতে"],
+    "answerIndex": 0,
+    "explanation": "জবাবদিহিতা ক্ষমতার অপব্যবহার রোধ করে ও জনআস্থা বৃদ্ধি করে।"
+  },
+  {
+    "id": "eth-6",
+    "categoryId": "ethics",
+    "difficulty": "easy",
+    "question": "নৈতিকতা শব্দের অর্থ কী?",
+    "options": ["ভালো-মন্দ বিচারের নীতি", "আইন মানা", "অর্থ উপার্জন", "ক্ষমতা"],
+    "answerIndex": 0,
+    "explanation": "নৈতিকতা হলো ভালো-মন্দ, ন্যায়-অন্যায় বিচারের নীতিমালা।"
+  },
+  {
+    "id": "eth-7",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "মূল্যবোধ ও নৈতিকতার সম্পর্ক কেমন?",
+    "options": ["পরস্পর সম্পর্কিত", "সম্পূর্ণ বিপরীত", "সম্পর্কহীন", "একই জিনিস"],
+    "answerIndex": 0,
+    "explanation": "মূল্যবোধ থেকেই নৈতিকতার জন্ম; এরা পরস্পর ঘনিষ্ঠভাবে সম্পর্কিত।"
+  },
+  {
+    "id": "eth-8",
+    "categoryId": "ethics",
+    "difficulty": "hard",
+    "question": "সুশাসন নিশ্চিতে নাগরিকের প্রধান দায়িত্ব কী?",
+    "options": ["সচেতন ও দায়িত্বশীল অংশগ্রহণ", "কর ফাঁকি", "নীরব থাকা", "শুধু সমালোচনা"],
+    "answerIndex": 0,
+    "explanation": "সচেতন, দায়িত্বশীল নাগরিক অংশগ্রহণ সুশাসনের অন্যতম পূর্বশর্ত।"
+  },
+  {
+    "id": "eth-9",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "আইনের শাসন বলতে কী বোঝায়?",
+    "options": ["সবার জন্য সমান আইন", "শাসকের ইচ্ছা", "বিচারহীনতা", "ক্ষমতার ভাগ"],
+    "answerIndex": 0,
+    "explanation": "আইনের শাসন মানে আইনের চোখে সবাই সমান এবং কেউ আইনের ঊর্ধ্বে নয়।"
+  },
+  {
+    "id": "eth-10",
+    "categoryId": "ethics",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি ইতিবাচক মূল্যবোধ?",
+    "options": ["সততা", "ঘুষ", "স্বজনপ্রীতি", "মিথ্যাচার"],
+    "answerIndex": 0,
+    "explanation": "সততা একটি ইতিবাচক নৈতিক মূল্যবোধ।"
+  },
+  {
+    "id": "eth-11",
+    "categoryId": "ethics",
+    "difficulty": "hard",
+    "question": "ই-গভর্ন্যান্স সুশাসনে কীভাবে সাহায্য করে?",
+    "options": ["স্বচ্ছতা ও দ্রুত সেবা নিশ্চিত করে", "দুর্নীতি বাড়ায়", "কাজ ধীর করে", "তথ্য গোপন করে"],
+    "answerIndex": 0,
+    "explanation": "ই-গভর্ন্যান্স তথ্যপ্রযুক্তি ব্যবহার করে স্বচ্ছতা, জবাবদিহিতা ও দ্রুত সেবা নিশ্চিত করে।"
+  },
+  {
+    "id": "eth-12",
+    "categoryId": "ethics",
+    "difficulty": "medium",
+    "question": "সামাজিক মূল্যবোধ গঠনে সবচেয়ে বড় ভূমিকা কার?",
+    "options": ["পরিবার ও শিক্ষা", "রাজনীতি", "বাজার", "প্রযুক্তি"],
+    "answerIndex": 0,
+    "explanation": "পরিবার ও শিক্ষাপ্রতিষ্ঠান সামাজিক মূল্যবোধ গঠনে প্রধান ভূমিকা রাখে।"
+  }
+]
