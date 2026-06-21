@@ -1,9 +1,10 @@
-import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, Pressable, ScrollView, Alert } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { QUESTIONS } from '../data/questions';
 import { CATEGORIES } from '../data/categories';
 import { usePremium } from '../monetization/premium';
+import { DISCLAIMER_SHORT, DISCLAIMER_FULL } from '../legal';
 
 const TILES = [
   { key: 'Categories', title: 'Browse by Category', subtitle: 'Practice topic-wise', emoji: '📚' },
@@ -58,6 +59,13 @@ export default function HomeScreen({ navigation }) {
             <Text style={styles.chevron}>›</Text>
           </Pressable>
         ))}
+
+        <Pressable
+          onPress={() => Alert.alert('Disclaimer', DISCLAIMER_FULL)}
+          style={styles.disclaimer}
+        >
+          <Text style={styles.disclaimerText}>{DISCLAIMER_SHORT}</Text>
+        </Pressable>
       </ScrollView>
     </SafeAreaView>
   );
@@ -114,4 +122,6 @@ const styles = StyleSheet.create({
   tileTitle: { fontSize: 16, fontWeight: '700', color: colors.text },
   tileSubtitle: { fontSize: 13, color: colors.textMuted, marginTop: 2 },
   chevron: { fontSize: 28, color: colors.textMuted },
+  disclaimer: { paddingHorizontal: spacing.xs, paddingTop: spacing.sm, paddingBottom: spacing.md },
+  disclaimerText: { fontSize: 11, lineHeight: 16, color: colors.textMuted, textAlign: 'center' },
 });

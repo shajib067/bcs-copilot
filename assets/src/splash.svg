@@ -1,0 +1,12 @@
+<svg width="1242" height="1242" viewBox="0 0 1242 1242" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(621,470) scale(1.05) translate(-512,-448)">
+    <path d="M512 320 L808 448 L512 576 L216 448 Z" fill="#FFFFFF"/>
+    <path d="M384 500 L384 620 Q384 678 442 690 Q512 706 582 690 Q640 678 640 620 L640 500 L512 556 Z" fill="#FFFFFF"/>
+    <circle cx="512" cy="448" r="24" fill="#F42A41"/>
+    <path d="M512 448 L712 484 L712 656" fill="none" stroke="#F42A41" stroke-width="15" stroke-linecap="round"/>
+    <path d="M690 656 L734 656 L722 744 L702 744 Z" fill="#F42A41"/>
+    <circle cx="712" cy="656" r="17" fill="#F42A41"/>
+  </g>
+  <text x="621" y="840" font-family="Helvetica, Arial, sans-serif" font-size="104" font-weight="bold" fill="#FFFFFF" text-anchor="middle">BCS Copilot</text>
+  <text x="621" y="906" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#CFEAE0" text-anchor="middle">Preliminary Exam Prep</text>
+</svg>
