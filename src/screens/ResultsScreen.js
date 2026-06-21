@@ -19,7 +19,7 @@ export default function ResultsScreen({ route, navigation }) {
           <Text style={styles.heroScore}>
             {result.score.toFixed(1)} / {result.total}
           </Text>
-          <Text style={styles.heroNote}>{passed ? '✓ Pass' : 'Keep practicing!'}</Text>
+          <Text style={styles.heroNote}>{passed ? '✓ Strong score' : 'Keep practicing!'}</Text>
         </View>
 
         <View style={styles.statRow}>
