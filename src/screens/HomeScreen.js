@@ -3,6 +3,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { QUESTIONS } from '../data/questions';
 import { CATEGORIES } from '../data/categories';
+import { usePremium } from '../monetization/premium';
 
 const TILES = [
   { key: 'Categories', title: 'Browse by Category', subtitle: 'Practice topic-wise', emoji: '📚' },
@@ -11,6 +12,7 @@ const TILES = [
 ];
 
 export default function HomeScreen({ navigation }) {
+  const { isPremium } = usePremium();
   return (
     <SafeAreaView edges={['bottom']} style={styles.safe}>
       <ScrollView contentContainerStyle={styles.container}>
@@ -23,6 +25,20 @@ export default function HomeScreen({ navigation }) {
             <Stat label="Total Marks" value="200" />
           </View>
         </View>
+
+        {!isPremium && (
+          <Pressable
+            onPress={() => navigation.navigate('Paywall')}
+            style={({ pressed }) => [styles.premiumBanner, pressed && { opacity: 0.9 }]}
+          >
+            <Text style={styles.premiumEmoji}>⭐</Text>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.premiumTitle}>Unlock Premium</Text>
+              <Text style={styles.premiumSub}>All questions, full mock exam & analytics</Text>
+            </View>
+            <Text style={styles.premiumChevron}>›</Text>
+          </Pressable>
+        )}
 
         {TILES.map((tile) => (
           <Pressable
@@ -81,6 +97,20 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
   },
   tileEmoji: { fontSize: 28 },
+  premiumBanner: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFF7E6',
+    padding: spacing.md,
+    borderRadius: radius.md,
+    gap: spacing.md,
+    borderWidth: 1,
+    borderColor: '#F0C36D',
+  },
+  premiumEmoji: { fontSize: 24 },
+  premiumTitle: { fontSize: 15, fontWeight: '800', color: '#8A5A00' },
+  premiumSub: { fontSize: 12, color: '#A06B1A', marginTop: 2 },
+  premiumChevron: { fontSize: 26, color: '#C68A2E' },
   tileTitle: { fontSize: 16, fontWeight: '700', color: colors.text },
   tileSubtitle: { fontSize: 13, color: colors.textMuted, marginTop: 2 },
   chevron: { fontSize: 28, color: colors.textMuted },

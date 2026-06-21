@@ -3,11 +3,15 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { CATEGORIES } from '../data/categories';
 import { getQuestionsByCategory } from '../data/questions';
+import { usePremium } from '../monetization/premium';
+import { FREE_CATEGORY_IDS } from '../monetization/config';
 
 export default function CategoriesScreen({ navigation }) {
+  const { isPremium } = usePremium();
   const data = CATEGORIES.map((c) => ({
     ...c,
     count: getQuestionsByCategory(c.id).length,
+    locked: !isPremium && !FREE_CATEGORY_IDS.includes(c.id),
   }));
 
   return (
@@ -18,7 +22,11 @@ export default function CategoriesScreen({ navigation }) {
         contentContainerStyle={{ padding: spacing.md, gap: spacing.sm }}
         renderItem={({ item }) => (
           <Pressable
-            onPress={() => navigation.navigate('Practice', { categoryId: item.id })}
+            onPress={() =>
+              item.locked
+                ? navigation.navigate('Paywall')
+                : navigation.navigate('Practice', { categoryId: item.id })
+            }
             style={({ pressed }) => [styles.row, pressed && { opacity: 0.85 }]}
           >
             <View style={[styles.swatch, { backgroundColor: item.color }]} />
@@ -29,7 +37,7 @@ export default function CategoriesScreen({ navigation }) {
                 {item.count} questions • {item.marks} marks
               </Text>
             </View>
-            <Text style={styles.chevron}>›</Text>
+            <Text style={styles.chevron}>{item.locked ? '🔒' : '›'}</Text>
           </Pressable>
         )}
       />

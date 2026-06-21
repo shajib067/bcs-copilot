@@ -8,6 +8,7 @@ import MockSetupScreen from '../screens/MockSetupScreen';
 import MockTestScreen from '../screens/MockTestScreen';
 import ResultsScreen from '../screens/ResultsScreen';
 import PerformanceScreen from '../screens/PerformanceScreen';
+import PaywallScreen from '../screens/PaywallScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -29,6 +30,7 @@ export default function RootNavigator() {
         <Stack.Screen name="MockTest" component={MockTestScreen} options={{ title: 'Mock Test', headerBackVisible: false }} />
         <Stack.Screen name="Results" component={ResultsScreen} options={{ title: 'Result', headerBackVisible: false }} />
         <Stack.Screen name="Performance" component={PerformanceScreen} options={{ title: 'My Performance' }} />
+        <Stack.Screen name="Paywall" component={PaywallScreen} options={{ title: 'Premium', presentation: 'modal' }} />
       </Stack.Navigator>
     </NavigationContainer>
   );
