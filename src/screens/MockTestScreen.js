@@ -4,17 +4,18 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
 import { getMockTestQuestions } from '../data/questions';
-import { MOCK_TEST_DURATION_MIN } from '../data/categories';
+
 import { saveTestResult, recordAnswer } from '../storage/progressStore';
 
-const MAX_QUESTIONS = 100;
 const NEGATIVE_PER_WRONG = 0.5; // BCS negative marking
 
-export default function MockTestScreen({ navigation }) {
-  const questions = useMemo(() => getMockTestQuestions(MAX_QUESTIONS), []);
+export default function MockTestScreen({ navigation, route }) {
+  const count = route?.params?.count ?? 100;
+  const durationMin = route?.params?.durationMin ?? 60;
+  const questions = useMemo(() => getMockTestQuestions(count), [count]);
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState({}); // { qId: optionIndex }
-  const [secondsLeft, setSecondsLeft] = useState(MOCK_TEST_DURATION_MIN * 60);
+  const [secondsLeft, setSecondsLeft] = useState(durationMin * 60);
   const submittedRef = useRef(false);
 
   // Timer
@@ -81,7 +82,7 @@ export default function MockTestScreen({ navigation }) {
       wrong,
       skipped,
       score,
-      durationSec: MOCK_TEST_DURATION_MIN * 60 - secondsLeft,
+      durationSec: durationMin * 60 - secondsLeft,
       autoSubmitted: auto,
     };
     await saveTestResult(result);

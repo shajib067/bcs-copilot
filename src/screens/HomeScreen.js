@@ -6,7 +6,7 @@ import { CATEGORIES } from '../data/categories';
 
 const TILES = [
   { key: 'Categories', title: 'Browse by Category', subtitle: 'Practice topic-wise', emoji: '📚' },
-  { key: 'MockTest', title: 'Start Mock Test', subtitle: '100 questions • 60 min', emoji: '⏱️' },
+  { key: 'MockSetup', title: 'Start Mock Test', subtitle: 'Full exam or quick practice', emoji: '⏱️' },
   { key: 'Performance', title: 'My Performance', subtitle: 'View progress & history', emoji: '📊' },
 ];
 
@@ -28,8 +28,8 @@ export default function HomeScreen({ navigation }) {
           <Pressable
             key={tile.key}
             onPress={() =>
-              tile.key === 'MockTest'
-                ? navigation.navigate('MockTest')
+              tile.key === 'MockSetup'
+                ? navigation.navigate('MockSetup')
                 : navigation.navigate(tile.key)
             }
             style={({ pressed }) => [styles.tile, pressed && { opacity: 0.85 }]}

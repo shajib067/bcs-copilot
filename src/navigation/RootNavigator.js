@@ -4,6 +4,7 @@ import { colors } from '../theme/colors';
 import HomeScreen from '../screens/HomeScreen';
 import CategoriesScreen from '../screens/CategoriesScreen';
 import PracticeScreen from '../screens/PracticeScreen';
+import MockSetupScreen from '../screens/MockSetupScreen';
 import MockTestScreen from '../screens/MockTestScreen';
 import ResultsScreen from '../screens/ResultsScreen';
 import PerformanceScreen from '../screens/PerformanceScreen';
@@ -24,6 +25,7 @@ export default function RootNavigator() {
         <Stack.Screen name="Home" component={HomeScreen} options={{ title: 'BCS Copilot' }} />
         <Stack.Screen name="Categories" component={CategoriesScreen} options={{ title: 'Categories' }} />
         <Stack.Screen name="Practice" component={PracticeScreen} options={{ title: 'Practice' }} />
+        <Stack.Screen name="MockSetup" component={MockSetupScreen} options={{ title: 'Mock Test' }} />
         <Stack.Screen name="MockTest" component={MockTestScreen} options={{ title: 'Mock Test', headerBackVisible: false }} />
         <Stack.Screen name="Results" component={ResultsScreen} options={{ title: 'Result', headerBackVisible: false }} />
         <Stack.Screen name="Performance" component={PerformanceScreen} options={{ title: 'My Performance' }} />
