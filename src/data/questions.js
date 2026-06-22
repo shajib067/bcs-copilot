@@ -63,6 +63,11 @@ export function getQuestionsByCategory(categoryId) {
   return QUESTIONS.filter((q) => q.categoryId === categoryId);
 }
 
+// A random practice session of up to `count` questions from one category.
+export function getCategorySession(categoryId, count) {
+  return sample(getQuestionsByCategory(categoryId), count);
+}
+
 // Fisher-Yates shuffle for an unbiased random subset.
 export function getRandomQuestions(count) {
   const pool = QUESTIONS.slice();

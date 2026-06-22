@@ -3,14 +3,17 @@ import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
-import { getQuestionsByCategory } from '../data/questions';
+import { getQuestionsByCategory, getCategorySession } from '../data/questions';
 import { getCategoryById } from '../data/categories';
 import { recordAnswer } from '../storage/progressStore';
 
 export default function PracticeScreen({ route, navigation }) {
-  const { categoryId } = route.params;
+  const { categoryId, count } = route.params;
   const category = getCategoryById(categoryId);
-  const questions = useMemo(() => getQuestionsByCategory(categoryId), [categoryId]);
+  const questions = useMemo(
+    () => (count ? getCategorySession(categoryId, count) : getQuestionsByCategory(categoryId)),
+    [categoryId, count]
+  );
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState(null);
 

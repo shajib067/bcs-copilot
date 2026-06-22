@@ -25,7 +25,7 @@ export default function CategoriesScreen({ navigation }) {
             onPress={() =>
               item.locked
                 ? navigation.navigate('Paywall')
-                : navigation.navigate('Practice', { categoryId: item.id })
+                : navigation.navigate('PracticeSetup', { categoryId: item.id })
             }
             style={({ pressed }) => [styles.row, pressed && { opacity: 0.85 }]}
           >
