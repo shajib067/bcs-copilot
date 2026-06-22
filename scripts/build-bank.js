@@ -109,6 +109,10 @@ function encode(questions) {
       options: q.options, answerIndex: q.answerIndex, explanation: q.explanation || '',
     };
     if (q.subTopic) out.subTopic = q.subTopic;
+    if (q.difficulty) out.difficulty = q.difficulty;
+    if (q.year !== undefined && q.year !== null && q.year !== '') out.year = q.year;
+    if (q.source) out.source = q.source;
+    if (Array.isArray(q.tags) && q.tags.length) out.tags = q.tags;
     return out;
   });
   const json = JSON.stringify(slim);

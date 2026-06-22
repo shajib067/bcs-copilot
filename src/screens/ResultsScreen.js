@@ -123,6 +123,11 @@ function ReviewCard({ index, item }) {
         <View style={[styles.tag, { backgroundColor: cat?.color ?? colors.textMuted }]}>
           <Text style={styles.tagText}>{cat?.nameEn ?? ''}</Text>
         </View>
+        {(q.source || q.year) && (
+          <View style={styles.sourceTag}>
+            <Text style={styles.sourceTagText}>{q.source || `${q.year}th BCS`}</Text>
+          </View>
+        )}
         <Text style={[styles.statusBadge, isCorrect ? styles.statusOk : styles.statusBad]}>
           {picked === null ? 'Skipped' : isCorrect ? 'Correct' : 'Wrong'}
         </Text>
@@ -221,6 +226,8 @@ const styles = StyleSheet.create({
   reviewIndex: { fontWeight: '800', color: colors.text },
   tag: { paddingHorizontal: spacing.sm, paddingVertical: 2, borderRadius: 999 },
   tagText: { color: '#fff', fontSize: 10, fontWeight: '700' },
+  sourceTag: { backgroundColor: '#E6F4EF', paddingHorizontal: spacing.sm, paddingVertical: 2, borderRadius: 999 },
+  sourceTagText: { color: colors.primary, fontSize: 10, fontWeight: '700' },
   statusBadge: { marginLeft: 'auto', fontSize: 11, fontWeight: '700', paddingHorizontal: spacing.sm, paddingVertical: 2, borderRadius: 999 },
   statusOk: { backgroundColor: '#DCFCE7', color: '#14532D' },
   statusBad: { backgroundColor: '#FEE2E2', color: '#7F1D1D' },

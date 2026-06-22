@@ -60,6 +60,9 @@ export default function PracticeScreen({ route, navigation }) {
         </View>
 
         <View style={styles.qCard}>
+          {(q.source || q.year) && (
+            <Text style={styles.sourceBadge}>{q.source || `${q.year}th BCS`}</Text>
+          )}
           <Text style={styles.qText}>{q.question}</Text>
         </View>
 
@@ -123,6 +126,18 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
   },
   qText: { fontSize: 17, lineHeight: 26, color: colors.text, fontWeight: '600' },
+  sourceBadge: {
+    alignSelf: 'flex-start',
+    fontSize: 11,
+    fontWeight: '700',
+    color: colors.primary,
+    backgroundColor: '#E6F4EF',
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 999,
+    marginBottom: spacing.sm,
+    overflow: 'hidden',
+  },
   explanation: {
     backgroundColor: '#FEF3C7',
     padding: spacing.md,
