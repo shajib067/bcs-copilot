@@ -1,8 +1,9 @@
 import { useState, useCallback } from 'react';
-import { View, Text, StyleSheet, FlatList, Pressable, Alert } from 'react-native';
+import { View, Text, StyleSheet, FlatList, Pressable } from 'react-native';
 import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
+import { confirm } from '../utils/confirm';
 import {
   getOverallStats,
   getTestHistory,
@@ -30,17 +31,16 @@ export default function PerformanceScreen() {
   );
 
   const handleClear = () => {
-    Alert.alert('Reset all progress?', 'Test history and practice stats will be cleared. This cannot be undone.', [
-      { text: 'Cancel', style: 'cancel' },
-      {
-        text: 'Reset',
-        style: 'destructive',
-        onPress: async () => {
-          await clearAllProgress();
-          load();
-        },
+    confirm({
+      title: 'Reset all progress?',
+      message: 'Test history and practice stats will be cleared. This cannot be undone.',
+      confirmText: 'Reset',
+      destructive: true,
+      onConfirm: async () => {
+        await clearAllProgress();
+        load();
       },
-    ]);
+    });
   };
 
   const recommendations = buildRecommendations(perCategory);

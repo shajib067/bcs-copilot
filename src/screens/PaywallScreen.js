@@ -1,9 +1,10 @@
 import { useState } from 'react';
-import { View, Text, StyleSheet, Pressable, ScrollView, Alert, ActivityIndicator } from 'react-native';
+import { View, Text, StyleSheet, Pressable, ScrollView, ActivityIndicator } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { usePremium } from '../monetization/premium';
 import { PREMIUM_BENEFITS } from '../monetization/config';
+import { notify } from '../utils/confirm';
 
 export default function PaywallScreen({ navigation }) {
   const { isPremium, purchasesAvailable, purchasePremium, restorePurchases } = usePremium();
@@ -29,14 +30,14 @@ export default function PaywallScreen({ navigation }) {
     const res = await purchasePremium();
     setBusy(false);
     if (res.ok) {
-      Alert.alert('Unlocked', 'Premium is now active. Enjoy!');
+      notify('Unlocked', 'Premium is now active. Enjoy!');
       navigation.goBack();
     } else if (res.reason === 'cancelled') {
       // user backed out — no message needed
     } else if (res.reason === 'unavailable') {
-      Alert.alert('Not available yet', 'In-app purchase will be available in the published app.');
+      notify('Not available yet', 'In-app purchase will be available in the published app.');
     } else {
-      Alert.alert('Purchase failed', 'Something went wrong. Please try again.');
+      notify('Purchase failed', 'Something went wrong. Please try again.');
     }
   };
 
@@ -45,12 +46,12 @@ export default function PaywallScreen({ navigation }) {
     const res = await restorePurchases();
     setBusy(false);
     if (res.ok) {
-      Alert.alert('Restored', 'Your premium access has been restored.');
+      notify('Restored', 'Your premium access has been restored.');
       navigation.goBack();
     } else if (res.reason === 'unavailable') {
-      Alert.alert('Not available yet', 'Restore will work in the published app.');
+      notify('Not available yet', 'Restore will work in the published app.');
     } else {
-      Alert.alert('Nothing to restore', 'No previous purchase was found for this account.');
+      notify('Nothing to restore', 'No previous purchase was found for this account.');
     }
   };
 

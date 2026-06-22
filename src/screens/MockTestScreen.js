@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { View, Text, StyleSheet, ScrollView, Pressable, Alert, BackHandler } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, Pressable, BackHandler } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
 import { getMockTestQuestions } from '../data/questions';
 
 import { saveTestResult, recordAnswer } from '../storage/progressStore';
+import { confirm } from '../utils/confirm';
 
 const NEGATIVE_PER_WRONG = 0.5; // BCS negative marking
 
@@ -45,10 +46,13 @@ export default function MockTestScreen({ navigation, route }) {
   }, []);
 
   const confirmExit = () => {
-    Alert.alert('Exit test?', 'Your progress will be lost.', [
-      { text: 'Cancel', style: 'cancel' },
-      { text: 'Exit', style: 'destructive', onPress: () => navigation.navigate('Home') },
-    ]);
+    confirm({
+      title: 'Exit test?',
+      message: 'Your progress will be lost.',
+      confirmText: 'Exit',
+      destructive: true,
+      onConfirm: () => navigation.navigate('Home'),
+    });
   };
 
   const submit = async (auto = false) => {
@@ -92,14 +96,12 @@ export default function MockTestScreen({ navigation, route }) {
   const onSubmitPress = () => {
     const answeredCount = Object.keys(answers).length;
     const remaining = questions.length - answeredCount;
-    Alert.alert(
-      'Submit test?',
-      remaining > 0 ? `${remaining} question(s) unanswered.` : 'Submit your answers?',
-      [
-        { text: 'Cancel', style: 'cancel' },
-        { text: 'Submit', onPress: () => submit(false) },
-      ]
-    );
+    confirm({
+      title: 'Submit test?',
+      message: remaining > 0 ? `${remaining} question(s) unanswered.` : 'Submit your answers?',
+      confirmText: 'Submit',
+      onConfirm: () => submit(false),
+    });
   };
 
   const q = questions[idx];
