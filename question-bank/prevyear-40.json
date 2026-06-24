@@ -1,0 +1,699 @@
+[
+  {
+    "id": "py40-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "নিচের কোন জন প্রাচীন যুগের (চর্যাপদের) কবি নন?",
+    "options": [
+      "কাহ্নপাদ",
+      "লুইপাদ",
+      "শান্তিপাদ",
+      "রমনীপাদ"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘রমনীপাদ’ চর্যাপদের কোনো কবি নন; বাকিরা চর্যাপদের পদকর্তা।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নিচের কোন রচনাটি পুঁথি সাহিত্যের অন্তর্গত নয়?",
+    "options": [
+      "ময়মনসিংহ গীতিকা",
+      "ইউসুফ-জুলেখা",
+      "পদ্মাবতী",
+      "লাইলী-মজনু"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘ময়মনসিংহ গীতিকা’ লোকসাহিত্য; বাকিগুলো পুঁথি সাহিত্যের অন্তর্গত।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "জীবনীকাব্য রচনার জন্য বিখ্যাত কে?",
+    "options": [
+      "ফকির গরীবুল্লাহ",
+      "নরহরি চক্রবর্তী",
+      "বিপ্রদাস পিপলাই",
+      "বৃন্দাবন দাস"
+    ],
+    "answerIndex": 3,
+    "explanation": "বৃন্দাবন দাস ‘চৈতন্যভাগবত’ রচনা করে জীবনীকাব্যে খ্যাতি লাভ করেন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "বাংলা আধুনিক উপন্যাসের প্রবর্তক কে?",
+    "options": [
+      "রবীন্দ্রনাথ ঠাকুর",
+      "প্যারীচাঁদ মিত্র",
+      "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "answerIndex": 3,
+    "explanation": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়কে বাংলা আধুনিক উপন্যাসের প্রবর্তক বলা হয়।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘সন্ধ্যাবেলায় দীপ জ্বালার আগে সকালবেলায় সলতে পাকানো’ — উক্তিটি রবীন্দ্রনাথের কোন উপন্যাসের?",
+    "options": [
+      "নৌকাডুবি",
+      "চোখের বালি",
+      "যোগাযোগ",
+      "শেষের কবিতা"
+    ],
+    "answerIndex": 2,
+    "explanation": "উক্তিটি রবীন্দ্রনাথের ‘যোগাযোগ’ উপন্যাসের।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "মুক্তিযুদ্ধের পটভূমিতে রচিত উপন্যাস কোনটি?",
+    "options": [
+      "একটি কালো মেয়ের কথা",
+      "তেইশ নম্বর তৈলচিত্র",
+      "আয়নামতির পালা",
+      "ইছামতী"
+    ],
+    "answerIndex": 0,
+    "explanation": "তারাশঙ্করের ‘একটি কালো মেয়ের কথা’ মুক্তিযুদ্ধভিত্তিক উপন্যাস।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "মাহমুদুল হকের ‘কালো বরফ’ উপন্যাসের বিষয়বস্তু কী?",
+    "options": [
+      "তেভাগা আন্দোলন",
+      "ভাষা আন্দোলন",
+      "মুক্তিযুদ্ধ",
+      "দেশভাগ"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘কালো বরফ’ উপন্যাসের বিষয়বস্তু দেশভাগ ও দেশভাগ-উত্তর জীবন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "সাপ্তাহিক ‘ঢাকা প্রকাশ’ পত্রিকার সম্পাদক কে ছিলেন?",
+    "options": [
+      "কৃষ্ণচন্দ্র মজুমদার",
+      "রামানন্দ চট্টোপাধ্যায়",
+      "শামসুর রাহমান",
+      "সিকান্দার আবু জাফর"
+    ],
+    "answerIndex": 0,
+    "explanation": "সাপ্তাহিক ‘ঢাকা প্রকাশ’-এর সম্পাদক ছিলেন কৃষ্ণচন্দ্র মজুমদার।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "easy",
+    "question": "‘জীবনস্মৃতি’ কার রচনা?",
+    "options": [
+      "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+      "রোকেয়া সাখাওয়াত হোসেন"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘জীবনস্মৃতি’ রবীন্দ্রনাথ ঠাকুরের আত্মজীবনীমূলক রচনা।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘সকালে উঠিয়া আমি মনে মনে বলি, সারাদিন আমি যেন ভালো হয়ে চলি’ — পঙ্‌ক্তিটির রচয়িতা কে?",
+    "options": [
+      "চণ্ডীচরণ মুন্সী",
+      "কাজী নজরুল ইসলাম",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "মদনমোহন তর্কালঙ্কার"
+    ],
+    "answerIndex": 3,
+    "explanation": "পঙ্‌ক্তিটি মদনমোহন তর্কালঙ্কারের রচনা।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি জসীমউদ্‌দীনের রচনা?",
+    "options": [
+      "যাদের দেখেছি",
+      "পথে প্রবাসে",
+      "কাল নিরবধি",
+      "ভবিষ্যতের বাঙালী"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘যাদের দেখেছি’ জসীমউদ্‌দীনের স্মৃতিকথামূলক রচনা।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘কিন্তু মানুষ্য কখনো পাষাণ হয় না’ — উক্তিটি কোন উপন্যাসের?",
+    "options": [
+      "চোখের বালি",
+      "পথের দাবী",
+      "ক্রীতদাসের হাসি",
+      "রাজসিংহ"
+    ],
+    "answerIndex": 3,
+    "explanation": "উক্তিটি বঙ্কিমচন্দ্রের ‘রাজসিংহ’ উপন্যাসের।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "ইয়ংবেঙ্গল গোষ্ঠীভুক্ত ছিলেন কে?",
+    "options": [
+      "অক্ষয়কুমার দত্ত",
+      "অ্যান্টনি ফিরিঙ্গি",
+      "মাইকেল মধুসূদন দত্ত",
+      "কালীপ্রসন্ন সিংহ"
+    ],
+    "answerIndex": 2,
+    "explanation": "মাইকেল মধুসূদন দত্ত ডিরোজিওর ইয়ংবেঙ্গল গোষ্ঠীভুক্ত ছিলেন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-14",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নজরুলের ‘বিদ্রোহী’ কবিতাটি প্রথম রচিত হয় কোন সালে?",
+    "options": [
+      "১৯১৮",
+      "১৯১৯",
+      "১৯২১",
+      "১৯২৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘বিদ্রোহী’ কবিতাটি ১৯২১ সালে রচিত হয় (প্রকাশ ১৯২২)।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-15",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘আগুনপাখি’ উপন্যাসের রচয়িতা কে?",
+    "options": [
+      "রাহাত খান",
+      "হাসান আজিজুল হক",
+      "সেলিনা হোসেন",
+      "ইমদাদুল হক মিলন"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘আগুনপাখি’ উপন্যাসের রচয়িতা হাসান আজিজুল হক।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-16",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘একুশে ফেব্রুয়ারি’র বিখ্যাত গানটির সুরকার কে?",
+    "options": [
+      "সুবীর সাহা",
+      "সুধীন দাস",
+      "আলতাফ মাহমুদ",
+      "আলতাফ মামুন"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘আমার ভাইয়ের রক্তে রাঙানো’ গানটির সুরকার শহীদ আলতাফ মাহমুদ।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-17",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "easy",
+    "question": "বাক্যের ক্রিয়ার সাথে অন্যান্য পদের সম্পর্ককে কী বলে?",
+    "options": [
+      "বিভক্তি",
+      "কারক",
+      "প্রত্যয়",
+      "অনুসর্গ"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাক্যের ক্রিয়ার সাথে অন্যান্য পদের সম্পর্ককে কারক বলে।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-18",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘গির্জা’ কোন ভাষা থেকে আগত শব্দ?",
+    "options": [
+      "ফারসি",
+      "পর্তুগিজ",
+      "ওলন্দাজ",
+      "পাঞ্জাবি"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘গির্জা’ পর্তুগিজ ভাষা থেকে আগত শব্দ।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-19",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "নিচের কোন শব্দযুগল বিপরীতার্থক নয়?",
+    "options": [
+      "ঐচ্ছিক-অনাবশ্যিক",
+      "কুটিল-সরল",
+      "কম-বেশি",
+      "কদাচার-সদাচার"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘ঐচ্ছিক-অনাবশ্যিক’ বিপরীতার্থক নয়; ঐচ্ছিকের বিপরীত আবশ্যিক।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-20",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘অভিরাম’ শব্দের অর্থ কী?",
+    "options": [
+      "বিরামহীন",
+      "বালিশ",
+      "চলন",
+      "সুন্দর"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘অভিরাম’ অর্থ সুন্দর/মনোরম; ‘অবিরাম’ অর্থ বিরামহীন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-21",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘শরতের শিশির’ বাগধারাটির অর্থ কী?",
+    "options": [
+      "সুসময়ের বন্ধু",
+      "সুসময়ের সঞ্চয়",
+      "শরতের শোভা",
+      "শিউলি ফুল"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘শরতের শিশির’ বাগধারার অর্থ সুসময়ের বন্ধু (সুবিধাবাদী বন্ধু)।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-22",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘শিবরাত্রির সলতে’ বাগধারাটির অর্থ কী?",
+    "options": [
+      "শিবরাত্রির আলো",
+      "একমাত্র সঞ্চয়",
+      "একমাত্র সন্তান",
+      "শিবরাত্রির গুরুত্ব"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘শিবরাত্রির সলতে’ অর্থ একমাত্র সন্তান বা একমাত্র অবলম্বন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-23",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "‘প্রোষিতভর্তৃকা’ শব্দটির অর্থ কী?",
+    "options": [
+      "ভর্ৎসনাপ্রাপ্ত",
+      "যে নারীর স্বামী বিদেশে অবস্থান করে",
+      "ভূমিতে প্রোথিত তরুমূল",
+      "পিত্রালয়ে অবস্থানকারী নারী"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘প্রোষিতভর্তৃকা’ অর্থ যে নারীর স্বামী প্রবাসে/বিদেশে অবস্থান করে।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-25",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "অন্যের রচনা থেকে চুরি করাকে কী বলা হয়?",
+    "options": [
+      "বেতসবৃত্তি",
+      "পতঙ্গবৃত্তি",
+      "জলৌকাবৃত্তি",
+      "কুম্ভিলকবৃত্তি"
+    ],
+    "answerIndex": 3,
+    "explanation": "অন্যের রচনা চুরি করাকে ‘কুম্ভিলকবৃত্তি’ বলে।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bn-26",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘ঊর্ণনাভ’ শব্দটি দিয়ে কী বোঝায়?",
+    "options": [
+      "টিকটিকি",
+      "তেলাপোকা",
+      "উইপোকা",
+      "মাকড়সা"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘ঊর্ণনাভ’ অর্থ মাকড়সা।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-1",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘Please write to me at the above address.’ Here ‘above’ is a/an:",
+    "options": [
+      "noun",
+      "adjective",
+      "pronoun",
+      "adverb"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Above’ modifies ‘address’, so it is an adjective here.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-2",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "easy",
+    "question": "The word ‘sibling’ means:",
+    "options": [
+      "a brother",
+      "a sister",
+      "a brother or sister",
+      "an infant"
+    ],
+    "answerIndex": 2,
+    "explanation": "A ‘sibling’ is a brother or a sister.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-3",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "Fill in the blank: As she was talking he suddenly broke ___, saying, ‘That’s a lie.’",
+    "options": [
+      "off",
+      "in",
+      "down",
+      "into"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Break in’ means to interrupt.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-4",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "easy",
+    "question": "‘You look terrific in that dress!’ Here ‘terrific’ means:",
+    "options": [
+      "excellent",
+      "funny",
+      "very ugly",
+      "horrible"
+    ],
+    "answerIndex": 0,
+    "explanation": "In this context ‘terrific’ means excellent or wonderful.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-5",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
+    "question": "Someone who is ‘capricious’ is:",
+    "options": [
+      "easily irritated",
+      "wise and cooperative",
+      "conceited and arrogant",
+      "given to sudden changes in behaviour"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘Capricious’ means given to sudden, unpredictable changes of mood or behaviour.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-6",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "Which of the following words is masculine?",
+    "options": [
+      "Mare",
+      "Lad",
+      "Pillow",
+      "Pony"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Lad’ (a boy) is masculine.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-7",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "easy",
+    "question": "A man whose wife has died is called a:",
+    "options": [
+      "widow",
+      "widower",
+      "spinster",
+      "bachelor"
+    ],
+    "answerIndex": 1,
+    "explanation": "A man whose wife has died is a ‘widower’.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-8",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
+    "question": "Which word is similar in meaning to ‘appal’?",
+    "options": [
+      "deceive",
+      "confuse",
+      "dismay",
+      "solicit"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Appal’ means to dismay or horrify.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-9",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
+    "question": "Which word means the opposite of ‘dearth’?",
+    "options": [
+      "lack",
+      "abundance",
+      "poverty",
+      "shortage"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Dearth’ means scarcity; its opposite is ‘abundance’.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-10",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "Which word remains the same in its plural form?",
+    "options": [
+      "aircraft",
+      "intention",
+      "mouse",
+      "thesis"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘Aircraft’ is the same in singular and plural.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-11",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "Identify the determiner: ‘I have no news for you.’",
+    "options": [
+      "have",
+      "news",
+      "no",
+      "for"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘No’ is the determiner modifying ‘news’.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-12",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘A lost opportunity never returns.’ Here ‘lost’ is a:",
+    "options": [
+      "gerund",
+      "verbal noun",
+      "gerundial infinitive",
+      "participle"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘Lost’ here is a past participle used as an adjective.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-en-13",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "easy",
+    "question": "The saying ‘enough is enough’ is used when you want:",
+    "options": [
+      "something to continue",
+      "something to stop",
+      "something to continue until enough",
+      "to say instructions are clear"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Enough is enough’ is said when you want something to stop.",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের প্রথম আদমশুমারি অনুষ্ঠিত হয় কোন সালে?",
+    "options": [
+      "১৯৭২",
+      "১৯৭৩",
+      "১৯৭৪",
+      "১৯৭৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "স্বাধীন বাংলাদেশের প্রথম আদমশুমারি ১৯৭৪ সালে অনুষ্ঠিত হয়।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
+    "question": "OIC-এর কততম শীর্ষ সম্মেলনে বঙ্গবন্ধু শেখ মুজিবুর রহমান অংশগ্রহণ করেন?",
+    "options": [
+      "১ম",
+      "২য়",
+      "৩য়",
+      "৪র্থ"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯৭৪ সালে লাহোরে অনুষ্ঠিত OIC-এর ২য় শীর্ষ সম্মেলনে বঙ্গবন্ধু অংশগ্রহণ করেন।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  },
+  {
+    "id": "py40-int-1",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "জাতিসংঘ মানবাধিকার সংক্রান্ত সর্বজনীন ঘোষণাপত্র গ্রহণ করে কোন সালে?",
+    "options": [
+      "১৯৪৫",
+      "১৯৪৮",
+      "১৯৫০",
+      "১৯৬৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "মানবাধিকারের সর্বজনীন ঘোষণাপত্র (UDHR) ১৯৪৮ সালে গৃহীত হয়।",
+    "year": 40,
+    "source": "40th BCS (2019)"
+  }
+]
