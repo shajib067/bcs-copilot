@@ -1,0 +1,665 @@
+[
+  {
+    "id": "py41-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "বাংলা ভাষায় প্রথম অভিধান সংকলন করেন কে?",
+    "options": [
+      "রামচন্দ্র বিদ্যাবাগীশ",
+      "রাজশেখর বসু",
+      "হরিচরণ বন্দ্যোপাধ্যায়",
+      "অশোক মুখোপাধ্যায়"
+    ],
+    "answerIndex": 0,
+    "explanation": "বাংলা ভাষায় প্রথম অভিধান সংকলন করেন রামচন্দ্র বিদ্যাবাগীশ।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘সবকিছু নষ্টদের অধিকারে যাবে’ গ্রন্থটির রচয়িতা কে?",
+    "options": [
+      "সৈয়দ আলী আহসান",
+      "সুকান্ত ভট্টাচার্য",
+      "হুমায়ুন আজাদ",
+      "নির্মলেন্দু গুণ"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘সবকিছু নষ্টদের অধিকারে যাবে’ হুমায়ুন আজাদের রচনা।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "তেভাগা আন্দোলনকেন্দ্রিক উপন্যাস কোনটি?",
+    "options": [
+      "অক্টোপাস",
+      "কালো বরফ",
+      "ক্রীতদাসের হাসি",
+      "নাঢ়াই"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘নাঢ়াই’ (আবু জাফর শামসুদ্দীন) তেভাগা আন্দোলনকেন্দ্রিক উপন্যাস।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "ব্রিটিশ সরকার নজরুলের কোন গ্রন্থটি সর্বপ্রথম বাজেয়াপ্ত করে?",
+    "options": [
+      "বিষের বাঁশি",
+      "যুগবাণী",
+      "ভাঙার গান",
+      "প্রলয় শিখা"
+    ],
+    "answerIndex": 1,
+    "explanation": "নজরুলের ‘যুগবাণী’ প্রবন্ধগ্রন্থটি সর্বপ্রথম বাজেয়াপ্ত হয়।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "ইংরেজি ভাষায় জীবনানন্দ দাশের ওপর গ্রন্থ লিখেছেন কে?",
+    "options": [
+      "ডব্লিউ বি ইয়েটস",
+      "ক্লিনটন বি সিলি",
+      "অরুন্ধতী রায়",
+      "অমিতাভ ঘোষ"
+    ],
+    "answerIndex": 1,
+    "explanation": "ক্লিনটন বি সিলি জীবনানন্দ দাশের ওপর ‘A Poet Apart’ গ্রন্থটি রচনা করেন।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘গ্রামবার্ত্তা প্রকাশিকা’ পত্রিকাটি কোথা থেকে প্রকাশিত হতো?",
+    "options": [
+      "ঢাকার পল্টন",
+      "নওগাঁর পতিসর",
+      "কুষ্টিয়ার কুমারখালী",
+      "ময়মনসিংহের ত্রিশাল"
+    ],
+    "answerIndex": 2,
+    "explanation": "কাঙাল হরিনাথ মজুমদার সম্পাদিত ‘গ্রামবার্ত্তা প্রকাশিকা’ কুষ্টিয়ার কুমারখালী থেকে প্রকাশিত হতো।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "বাংলা জীবনী সাহিত্যের ধারা কাকে কেন্দ্র করে গড়ে ওঠে?",
+    "options": [
+      "শ্রীচৈতন্যদেব",
+      "কাহ্নপা",
+      "বিদ্যাপতি",
+      "রামকৃষ্ণ পরমহংস"
+    ],
+    "answerIndex": 0,
+    "explanation": "বাংলা জীবনী সাহিত্যের ধারা শ্রীচৈতন্যদেবকে কেন্দ্র করে গড়ে ওঠে।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "ভাষা আন্দোলন নিয়ে লেখা কবিতা কোনটি?",
+    "options": [
+      "হুলিয়া",
+      "তোমাকে অভিবাদন প্রিয়া",
+      "সোনালি কাবিন",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "answerIndex": 3,
+    "explanation": "আলাউদ্দিন আল আজাদের ‘স্মৃতিস্তম্ভ’ ভাষা আন্দোলন নিয়ে লেখা কবিতা।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "পাঁচালিকার হিসেবে সর্বাধিক খ্যাতি কার ছিল?",
+    "options": [
+      "দাশরথি রায়",
+      "রামনিধি গুপ্ত",
+      "ফকির গরীবুল্লাহ",
+      "রামরাম বসু"
+    ],
+    "answerIndex": 0,
+    "explanation": "পাঁচালিকার হিসেবে দাশরথি রায়ের খ্যাতি ছিল সর্বাধিক।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "চারণকবি হিসেবে বিখ্যাত কে?",
+    "options": [
+      "আলাওল",
+      "চন্দ্রাবতী",
+      "মুকুন্দ দাস",
+      "মুক্তারাম চক্রবর্তী"
+    ],
+    "answerIndex": 2,
+    "explanation": "মুকুন্দ দাস চারণকবি হিসেবে বিখ্যাত।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "রবীন্দ্রনাথের ‘নষ্টনীড়’ গল্পের একটি বিখ্যাত চরিত্র কোনটি?",
+    "options": [
+      "বিনোদিনী",
+      "হৈমন্তী",
+      "আশালতা",
+      "চারুলতা"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘নষ্টনীড়’ গল্পের বিখ্যাত চরিত্র চারুলতা।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "চর্যাপদের টীকাকার কে?",
+    "options": [
+      "মীননাথ",
+      "প্রবোধচন্দ্র বাগচী",
+      "হরপ্রসাদ শাস্ত্রী",
+      "মুনিদত্ত"
+    ],
+    "answerIndex": 3,
+    "explanation": "চর্যাপদের টীকাকার মুনিদত্ত।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "ঊনসত্তরের গণ-অভ্যুত্থানের পটভূমিকায় লেখা উপন্যাস কোনটি?",
+    "options": [
+      "ভূমিপুত্র",
+      "মাটির জাহাজ",
+      "কাঁটাতারে প্রজাপতি",
+      "চিলেকোঠার সেপাই"
+    ],
+    "answerIndex": 3,
+    "explanation": "আখতারুজ্জামান ইলিয়াসের ‘চিলেকোঠার সেপাই’ ঊনসত্তরের গণ-অভ্যুত্থানের পটভূমিকায় লেখা।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-14",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "বিধবার প্রেম নিয়ে রচিত উপন্যাস কোনটি?",
+    "options": [
+      "শেষ প্রশ্ন",
+      "চোখের বালি",
+      "কুহেলিকা",
+      "কপালকুণ্ডলা"
+    ],
+    "answerIndex": 1,
+    "explanation": "রবীন্দ্রনাথের ‘চোখের বালি’ বিধবার প্রেম নিয়ে রচিত উপন্যাস।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-15",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "জেলে জীবনকেন্দ্রিক উপন্যাস কোনটি?",
+    "options": [
+      "গঙ্গা",
+      "পুতুলনাচের ইতিকথা",
+      "হাঁসুলী বাঁকের উপকথা",
+      "গৃহদাহ"
+    ],
+    "answerIndex": 0,
+    "explanation": "সমরেশ বসুর ‘গঙ্গা’ জেলে জীবনকেন্দ্রিক উপন্যাস।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-16",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "বাংলা সাহিত্যে ‘কালকূট’ ছদ্মনামে পরিচিত কোন লেখক?",
+    "options": [
+      "সমরেশ মজুমদার",
+      "শওকত ওসমান",
+      "সমরেশ বসু",
+      "আলাউদ্দিন আল আজাদ"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘কালকূট’ সমরেশ বসুর ছদ্মনাম।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-17",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘পরানের গহীন ভিতর’ কাব্যের কবি কে?",
+    "options": [
+      "অসীম সাহা",
+      "অরুণ বসু",
+      "আবু জাফর ওবায়দুল্লাহ",
+      "সৈয়দ শামসুল হক"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘পরানের গহীন ভিতর’ কাব্যের কবি সৈয়দ শামসুল হক।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-18",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘সোমত্ত’ শব্দটি কোন শব্দ থেকে উৎপন্ন?",
+    "options": [
+      "সোপান",
+      "সমর্থ",
+      "সোল্লাস",
+      "সওয়ার"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘সোমত্ত’ শব্দটি ‘সমর্থ’ শব্দ থেকে উৎপন্ন।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-19",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে কী বলে?",
+    "options": [
+      "যৌগিক ধ্বনি",
+      "অক্ষর",
+      "বর্ণ",
+      "মৌলিক স্বরধ্বনি"
+    ],
+    "answerIndex": 1,
+    "explanation": "এক প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে অক্ষর বলে।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-21",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "‘প্রচুর + য = প্রাচুর্য’ — এটি কোন প্রত্যয়?",
+    "options": [
+      "কৃৎ প্রত্যয়",
+      "তদ্ধিত প্রত্যয়",
+      "বাংলা কৃৎ প্রত্যয়",
+      "সংস্কৃত কৃৎ প্রত্যয়"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘প্রাচুর্য’ তদ্ধিত প্রত্যয়ের উদাহরণ।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-22",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "উপমান কর্মধারয় সমাসের উদাহরণ কোনটি?",
+    "options": [
+      "শশব্যস্ত",
+      "কালচক্র",
+      "পরাণপাখি",
+      "নীলকণ্ঠ"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘শশব্যস্ত’ (শশকের ন্যায় ব্যস্ত) উপমান কর্মধারয় সমাসের উদাহরণ।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-23",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "অপিনিহিতির উদাহরণ কোনটি?",
+    "options": [
+      "জন্ম > জম্ম",
+      "আজি > আইজ",
+      "ডেস্ক > ডেসক",
+      "অলাবু > লাউ"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘আজি > আইজ’ অপিনিহিতির উদাহরণ (পরের ই-কার আগে উচ্চারণ)।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bn-24",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘কুসীদজীবী’ বলতে কাদের বোঝায়?",
+    "options": [
+      "চারণকবি",
+      "সাপুড়ে",
+      "সুদখোর",
+      "কৃষিজীবী"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘কুসীদজীবী’ অর্থ সুদের কারবারি বা সুদখোর।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-1",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "Which word can be used as both singular and plural?",
+    "options": [
+      "wood",
+      "issue",
+      "fish",
+      "light"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Fish’ can be both singular and plural.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-2",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘The old man was tired of walking.’ Here ‘walking’ is a/an:",
+    "options": [
+      "present participle",
+      "adjective",
+      "common noun",
+      "gerund"
+    ],
+    "answerIndex": 3,
+    "explanation": "After a preposition (‘of’), ‘walking’ is a gerund.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-3",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘I will not let you go.’ Here ‘go’ is a/an:",
+    "options": [
+      "infinitive",
+      "gerund",
+      "participle",
+      "verbal noun"
+    ],
+    "answerIndex": 0,
+    "explanation": "After ‘let’ the bare infinitive ‘go’ is used.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-4",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘Call me if you have any problems regarding your work.’ Here ‘regarding’ is a/an:",
+    "options": [
+      "gerund",
+      "apposition",
+      "preposition",
+      "conjunction"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Regarding’ (meaning ‘about’) functions as a preposition.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-5",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘It’s time to go home.’ Here ‘home’ is a/an:",
+    "options": [
+      "noun",
+      "verb",
+      "adjective",
+      "adverb"
+    ],
+    "answerIndex": 3,
+    "explanation": "In ‘go home’, ‘home’ is an adverb (of place).",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-6",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "Which of the following is of common gender?",
+    "options": [
+      "king",
+      "sovereign",
+      "emperor",
+      "queen"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Sovereign’ can refer to either a king or a queen, so it is common gender.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-7",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
+    "question": "Choose the word opposite in meaning to ‘terse’:",
+    "options": [
+      "concise",
+      "detailed",
+      "expressive",
+      "brief"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Terse’ means brief; its opposite is ‘detailed’.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-8",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "easy",
+    "question": "What is the noun form of the word ‘know’?",
+    "options": [
+      "knowing",
+      "knowledge",
+      "knowledgeable",
+      "known"
+    ],
+    "answerIndex": 1,
+    "explanation": "The noun form of ‘know’ is ‘knowledge’.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-9",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
+    "question": "‘Give somebody a piece of your mind’ means to:",
+    "options": [
+      "tell someone you are very angry with them",
+      "say exactly what you think calmly",
+      "help someone return to normal",
+      "give somebody mental peace"
+    ],
+    "answerIndex": 0,
+    "explanation": "The idiom means to angrily tell someone what you think of their behaviour.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-10",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "When Ushashi entered ___ the room, everybody stopped talking.",
+    "options": [
+      "into",
+      "in",
+      "to",
+      "no preposition required"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘Enter’ takes a direct object; no preposition is required.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-en-11",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "‘...we arrived at the classroom door.’ Here the verb ‘arrived’ is:",
+    "options": [
+      "intransitive",
+      "transitive",
+      "causative",
+      "defective"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘Arrive’ takes no object, so it is an intransitive verb.",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "বাংলাদেশ সংবিধানের ত্রয়োদশ (১৩তম) সংশোধনীর বিষয়বস্তু কী ছিল?",
+    "options": [
+      "তত্ত্বাবধায়ক সরকার",
+      "সংরক্ষিত নারী আসন",
+      "বিচার বিভাগ পৃথকীকরণ",
+      "বহুদলীয় গণতন্ত্র"
+    ],
+    "answerIndex": 0,
+    "explanation": "সংবিধানের ত্রয়োদশ সংশোধনীতে নির্দলীয় তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রবর্তন করা হয়।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "ethnography",
+    "difficulty": "medium",
+    "question": "নেত্রকোনার ‘বিরিশিরি’ অঞ্চলে কোন ক্ষুদ্র নৃগোষ্ঠীর বসবাস?",
+    "options": [
+      "গারো",
+      "চাকমা",
+      "সাঁওতাল",
+      "মারমা"
+    ],
+    "answerIndex": 0,
+    "explanation": "নেত্রকোনার বিরিশিরি অঞ্চলে গারো নৃগোষ্ঠীর বসবাস।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "অবিভক্ত বাংলার সর্বপ্রথম রাজা কাকে বলা হয়?",
+    "options": [
+      "শশাঙ্ক",
+      "ধর্মপাল",
+      "লক্ষ্মণ সেন",
+      "বল্লাল সেন"
+    ],
+    "answerIndex": 0,
+    "explanation": "অবিভক্ত বাংলার সর্বপ্রথম স্বাধীন রাজা হিসেবে শশাঙ্ককে গণ্য করা হয়।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-eth-1",
+    "categoryId": "ethics",
+    "subTopic": "good_governance",
+    "difficulty": "medium",
+    "question": "‘সুশাসন চারটি স্তম্ভের ওপর নির্ভরশীল’ — এই অভিমত কোন সংস্থার?",
+    "options": [
+      "জাতিসংঘ",
+      "ইউএনডিপি",
+      "বিশ্বব্যাংক",
+      "এডিবি"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিশ্বব্যাংক সুশাসনের চারটি স্তম্ভের কথা উল্লেখ করেছে।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  },
+  {
+    "id": "py41-eth-2",
+    "categoryId": "ethics",
+    "subTopic": "concepts",
+    "difficulty": "easy",
+    "question": "সভ্যতার অন্যতম প্রতিচ্ছবি হলো কোনটি?",
+    "options": [
+      "সুশাসন",
+      "রাষ্ট্র",
+      "নৈতিকতা",
+      "সমাজ"
+    ],
+    "answerIndex": 3,
+    "explanation": "সমাজকে সভ্যতার অন্যতম প্রতিচ্ছবি হিসেবে গণ্য করা হয়।",
+    "year": 41,
+    "source": "41st BCS (2021)"
+  }
+]
