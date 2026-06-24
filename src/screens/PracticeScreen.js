@@ -3,36 +3,37 @@ import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
-import { getQuestionsByCategory, getCategorySession } from '../data/questions';
+import { getQuestionsByCategory, getCategorySession, getPreviousYearSession } from '../data/questions';
 import { getCategoryById } from '../data/categories';
 import { recordAnswer } from '../storage/progressStore';
 
 export default function PracticeScreen({ route, navigation }) {
-  const { categoryId, count } = route.params;
-  const category = getCategoryById(categoryId);
-  const questions = useMemo(
-    () => (count ? getCategorySession(categoryId, count) : getQuestionsByCategory(categoryId)),
-    [categoryId, count]
-  );
+  const { categoryId, count, prevYear, title } = route.params;
+  const isPrevYear = prevYear !== undefined && prevYear !== null;
+  const category = categoryId ? getCategoryById(categoryId) : null;
+  const questions = useMemo(() => {
+    if (isPrevYear) return getPreviousYearSession(prevYear, count);
+    return count ? getCategorySession(categoryId, count) : getQuestionsByCategory(categoryId);
+  }, [categoryId, count, prevYear, isPrevYear]);
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState(null);
 
   useEffect(() => {
-    navigation.setOptions({ title: category?.nameEn ?? 'Practice' });
-  }, [category, navigation]);
+    navigation.setOptions({ title: title ?? category?.nameEn ?? 'Practice' });
+  }, [category, title, navigation]);
 
   if (questions.length === 0) {
     return (
       <SafeAreaView edges={['bottom']} style={styles.safe}>
         <View style={styles.empty}>
-          <Text style={styles.emptyText}>No questions yet in this category.</Text>
+          <Text style={styles.emptyText}>No questions available yet.</Text>
         </View>
       </SafeAreaView>
     );
   }
 
   const q = questions[idx];
-  const useBengali = isBengaliCategory(categoryId);
+  const useBengali = isBengaliCategory(q.categoryId);
   const answered = selected !== null;
 
   const handleSelect = async (i) => {

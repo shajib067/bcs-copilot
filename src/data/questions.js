@@ -68,6 +68,27 @@ export function getCategorySession(categoryId, count) {
   return sample(getQuestionsByCategory(categoryId), count);
 }
 
+// Distinct previous-year exams present in the bank, with question counts.
+export function getPreviousYearExams() {
+  const map = new Map();
+  for (const q of QUESTIONS) {
+    if (q.source && q.year) {
+      const e = map.get(q.year) || { year: q.year, source: q.source, count: 0 };
+      e.count += 1;
+      map.set(q.year, e);
+    }
+  }
+  return [...map.values()].sort((a, b) => b.year - a.year);
+}
+
+// A practice session of previous-year questions: a specific year, or 'all'.
+export function getPreviousYearSession(yearOrAll, count) {
+  const pool = QUESTIONS.filter(
+    (q) => q.source && q.year && (yearOrAll === 'all' || q.year === yearOrAll)
+  );
+  return sample(pool, count || pool.length);
+}
+
 // Fisher-Yates shuffle for an unbiased random subset.
 export function getRandomQuestions(count) {
   const pool = QUESTIONS.slice();
