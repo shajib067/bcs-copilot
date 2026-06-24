@@ -20,9 +20,10 @@ export const FREE_MOCK_COUNTS = [25];
 export const FREE_PREVIEW_PER_CATEGORY = 10;
 
 export const PREMIUM_BENEFITS = [
-  'All 1,400+ questions across every subject',
+  'All 1,700+ questions across every subject',
+  'Previous-year questions from past BCS exams',
   'Full 200-question mock exam (real BCS format)',
   '50 & 100-question practice mocks',
   'Complete performance analytics & weak-area insights',
-  'All future question updates — one-time payment',
+  'No ads',
 ];
