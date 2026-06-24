@@ -7,6 +7,7 @@ import { getMockTestQuestions } from '../data/questions';
 
 import { saveTestResult, recordAnswer } from '../storage/progressStore';
 import { confirm } from '../utils/confirm';
+import { useInterstitial } from '../monetization/ads';
 
 const NEGATIVE_PER_WRONG = 0.5; // BCS negative marking
 
@@ -18,6 +19,7 @@ export default function MockTestScreen({ navigation, route }) {
   const [answers, setAnswers] = useState({}); // { qId: optionIndex }
   const [secondsLeft, setSecondsLeft] = useState(durationMin * 60);
   const submittedRef = useRef(false);
+  const interstitial = useInterstitial();
 
   // Timer
   useEffect(() => {
@@ -90,6 +92,7 @@ export default function MockTestScreen({ navigation, route }) {
       autoSubmitted: auto,
     };
     await saveTestResult(result);
+    interstitial.show();
     navigation.replace('Results', { result, review });
   };
 

@@ -151,3 +151,31 @@ Fastest option:
 | Screenshots | ⬜ capture on device |
 | RevenueCat key in config | ⬜ paste after setup |
 | Play product `premium` | ⬜ create in Console |
+
+---
+
+## 8. Ads (AdMob) — earns from free users without needing their cards
+
+The app is free with ads; premium users (and offline users) see none. It ships
+with Google **test ads** so it works immediately — swap in your real IDs to earn.
+
+- [ ] **[you]** Create an **AdMob account** (free): https://admob.google.com — payout
+  is to a bank account, so card-poor users are irrelevant to your revenue.
+- [ ] **[you]** AdMob → **Add app** → Android → get the **App ID** (`ca-app-pub-…~…`).
+  Replace the sample `androidAppId` in `app.json` (the
+  `react-native-google-mobile-ads` plugin block) with it.
+- [ ] **[you]** Create two **ad units**: a **Banner** and an **Interstitial**. Copy
+  their IDs into `src/monetization/ads.js` → the `REAL` object
+  (`bannerAndroid`, `interstitialAndroid`).
+- [ ] Install + rebuild: `npx expo install react-native-google-mobile-ads` then
+  `eas build -p android --profile preview`. (It's native — won't run in Expo Go.)
+- [ ] **[you]** Add `app-ads.txt` later (AdMob will prompt) to verify your inventory.
+
+Where ads appear: a **banner** on the Results screen and an **interstitial** after
+you submit a mock. Both are gated — premium users see nothing. Until you paste real
+IDs, Google test ads show (safe; never click your own live ads, that's a policy
+strike). Internet is needed for ads to load, so fully offline users simply see none.
+
+**Recommended model for Bangladesh:** free + ads as the main revenue, plus the
+one-time Play unlock (payable card-free via mobile-balance/carrier billing or a Play
+gift card) to remove ads and unlock everything for those who can pay.

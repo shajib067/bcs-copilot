@@ -3,6 +3,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { getCategoryById } from '../data/categories';
 import { perCategoryFromReview, buildRecommendations, headline } from '../data/recommendations';
+import { AdBanner } from '../monetization/ads';
 
 export default function ResultsScreen({ route, navigation }) {
   const { result, review } = route.params;
@@ -62,6 +63,9 @@ export default function ResultsScreen({ route, navigation }) {
         ))}
       </ScrollView>
 
+      <View style={styles.bannerWrap}>
+        <AdBanner />
+      </View>
       <View style={styles.footer}>
         <Pressable
           onPress={() => navigation.popToTop()}
@@ -236,6 +240,7 @@ const styles = StyleSheet.create({
   reviewLineLabel: { color: colors.textMuted, fontWeight: '700' },
   reviewExplain: { fontSize: 12, color: colors.textMuted, marginTop: spacing.xs, fontStyle: 'italic' },
   footer: { padding: spacing.md, borderTopWidth: 1, borderTopColor: colors.border, backgroundColor: colors.card },
+  bannerWrap: { alignItems: 'center', backgroundColor: colors.bg },
   homeBtn: { backgroundColor: colors.primary, padding: spacing.md, borderRadius: radius.md, alignItems: 'center' },
   homeBtnText: { color: '#fff', fontWeight: '700', fontSize: 16 },
 });
