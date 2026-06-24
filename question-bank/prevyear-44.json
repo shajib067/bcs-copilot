@@ -1,0 +1,750 @@
+[
+  {
+    "id": "py44-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘ইতরবিশেষ’ শব্দটির অর্থ কী?",
+    "options": [
+      "দুর্বৃত্ত",
+      "চালাকি",
+      "পার্থক্য",
+      "নীচতা"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘ইতরবিশেষ’ অর্থ পার্থক্য বা প্রভেদ।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "নিপাতনে সিদ্ধ সন্ধির দৃষ্টান্ত কোনটি?",
+    "options": [
+      "গো + অক্ষ = গবাক্ষ",
+      "যতি + ইন্দ্র = যতীন্দ্র",
+      "বি + অঙ্গ = ব্যঙ্গ",
+      "পরি + ঈক্ষা = পরীক্ষা"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘গো + অক্ষ = গবাক্ষ’ নিপাতনে সিদ্ধ সন্ধির দৃষ্টান্ত।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "সৈয়দ ওয়ালীউল্লাহর ‘চাঁদের অমাবস্যা’ উপন্যাসের যুবক-শিক্ষকের নাম কী?",
+    "options": [
+      "আবদুল কাদের",
+      "খতিব মিয়া",
+      "আক্কাস আলী",
+      "আরেফ আলী"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘চাঁদের অমাবস্যা’ উপন্যাসের যুবক-শিক্ষকের নাম আরেফ আলী।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘মরণ রে, তুঁহু মম শ্যাম সমান’ — পঙ্‌ক্তিটির রচয়িতা কে?",
+    "options": [
+      "বিদ্যাপতি",
+      "গোবিন্দ দাস",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "কৃষ্ণদাস কবিরাজ"
+    ],
+    "answerIndex": 2,
+    "explanation": "পঙ্‌ক্তিটি রবীন্দ্রনাথ ঠাকুরের (ভানুসিংহ ঠাকুরের পদাবলী)।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘আনোয়ারা’ উপন্যাসের রচয়িতা কে?",
+    "options": [
+      "সৈয়দ মুজতবা আলী",
+      "কাজী আবদুল ওদুদ",
+      "নজিবর রহমান",
+      "রোকেয়া সাখাওয়াত হোসেন"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘আনোয়ারা’ উপন্যাসের রচয়িতা মোহাম্মদ নজিবর রহমান।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘হরতাল’ শব্দটি কোন ভাষা থেকে আগত?",
+    "options": [
+      "পর্তুগিজ",
+      "হিন্দি",
+      "গুজরাটি",
+      "ফারসি"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘হরতাল’ গুজরাটি ভাষা থেকে আগত শব্দ।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "‘জিগীষা’ শব্দের সম্প্রসারিত অর্থ কী?",
+    "options": [
+      "জানিবার ইচ্ছা",
+      "জয় করিবার ইচ্ছা",
+      "হনন করিবার ইচ্ছা",
+      "যুদ্ধ করিবার ইচ্ছা"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘জিগীষা’ অর্থ জয় করিবার ইচ্ছা।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "শুদ্ধ বানান কোনটি?",
+    "options": [
+      "মুমুর্ষু",
+      "মূমুর্ষু",
+      "মুমূর্ষু",
+      "মূমূর্ষু"
+    ],
+    "answerIndex": 2,
+    "explanation": "শুদ্ধ বানান ‘মুমূর্ষু’।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘যথারীতি’ কোন সমাসের উদাহরণ?",
+    "options": [
+      "অব্যয়ীভাব",
+      "দ্বিগু",
+      "বহুব্রীহি",
+      "দ্বন্দ্ব"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘যথারীতি’ অব্যয়ীভাব সমাসের উদাহরণ।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘মৃত্তিকা দিয়ে তৈরি’ — এক কথায় কী?",
+    "options": [
+      "তন্ময়",
+      "মন্ময়",
+      "মৃন্ময়",
+      "চিন্ময়"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘মৃত্তিকা দিয়ে তৈরি’ এক কথায় ‘মৃন্ময়’।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘চণ্ডীমঙ্গল’ কাব্যের উপাস্য দেবী ‘চণ্ডী’ কার স্ত্রী?",
+    "options": [
+      "জগন্নাথ",
+      "বিষ্ণু",
+      "প্রজাপতি",
+      "শিব"
+    ],
+    "answerIndex": 3,
+    "explanation": "চণ্ডী (দুর্গা) দেবতা শিবের স্ত্রী।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘শ্রীকৃষ্ণকীর্তন’ কাব্য কোথা থেকে উদ্ধার করা হয়?",
+    "options": [
+      "নেপালের রাজদরবার",
+      "একটি গোয়ালঘর",
+      "পাঠশালা",
+      "কান্তজীর মন্দির"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯০৯ সালে বাঁকুড়ার একটি গোয়ালঘর থেকে ‘শ্রীকৃষ্ণকীর্তন’ উদ্ধার করা হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-14",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "বিদ্যাপতি মূলত কোন ভাষার কবি ছিলেন?",
+    "options": [
+      "মারাঠি",
+      "হিন্দি",
+      "মৈথিলি",
+      "গুজরাটি"
+    ],
+    "answerIndex": 2,
+    "explanation": "বিদ্যাপতি মৈথিলি ভাষার কবি ছিলেন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-15",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘আমার সন্তান যেন থাকে দুধেভাতে’ — মনোবাঞ্ছাটি কার?",
+    "options": [
+      "ভবানন্দের",
+      "ভাঁড়ুদত্তের",
+      "ঈশ্বরী পাটুনীর",
+      "ফুল্লরার"
+    ],
+    "answerIndex": 2,
+    "explanation": "উক্তিটি অন্নদামঙ্গল কাব্যের ঈশ্বরী পাটুনীর।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-16",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি উপন্যাস নয়?",
+    "options": [
+      "দিবারাত্রির কাব্য",
+      "শেষের কবিতা",
+      "পল্লী-সমাজ",
+      "কবিতার কথা"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘কবিতার কথা’ জীবনানন্দ দাশের প্রবন্ধগ্রন্থ; বাকিগুলো উপন্যাস।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-17",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘মনোরমা’ চরিত্রটি বঙ্কিমচন্দ্রের কোন উপন্যাসের?",
+    "options": [
+      "কৃষ্ণকান্তের উইল",
+      "দুর্গেশনন্দিনী",
+      "মৃণালিনী",
+      "বিষবৃক্ষ"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘মনোরমা’ বঙ্কিমচন্দ্রের ‘মৃণালিনী’ উপন্যাসের চরিত্র।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-18",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘ব্যক্ত প্রেম’ ও ‘গুপ্ত প্রেম’ কবিতা দুটি রবীন্দ্রনাথের কোন কাব্যগ্রন্থের অন্তর্গত?",
+    "options": [
+      "খেয়া",
+      "মানসী",
+      "কল্পনা",
+      "সোনার তরী"
+    ],
+    "answerIndex": 1,
+    "explanation": "কবিতা দুটি রবীন্দ্রনাথের ‘মানসী’ কাব্যগ্রন্থের অন্তর্গত।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-19",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘সকলের তরে সকলে আমরা, প্রত্যেকে আমরা পরের তরে’ — পঙ্‌ক্তিটির রচয়িতা কে?",
+    "options": [
+      "রজনীকান্ত সেন",
+      "ইসমাইল হোসেন সিরাজী",
+      "কামিনী রায়",
+      "দ্বিজেন্দ্রলাল রায়"
+    ],
+    "answerIndex": 2,
+    "explanation": "পঙ্‌ক্তিটি কবি কামিনী রায়ের।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bn-20",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "সৈয়দ ওয়ালীউল্লাহ রচিত নাটক কোনটি?",
+    "options": [
+      "কবর",
+      "বহিপীর",
+      "পায়ের আওয়াজ পাওয়া যায়",
+      "ওরা কদম আলী"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘বহিপীর’ সৈয়দ ওয়ালীউল্লাহর নাটক।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-1",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
+    "question": "‘By and large’ means:",
+    "options": [
+      "everywhere",
+      "very large",
+      "mostly",
+      "far away"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘By and large’ means on the whole, or mostly.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-2",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "easy",
+    "question": "Francis Bacon is an illustrious:",
+    "options": [
+      "essayist",
+      "dramatist",
+      "novelist",
+      "journalist"
+    ],
+    "answerIndex": 0,
+    "explanation": "Francis Bacon is famous as an essayist (the father of the English essay).",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-3",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘Sweet are the uses of adversity’ is quoted from Shakespeare’s:",
+    "options": [
+      "Julius Caesar",
+      "Macbeth",
+      "Comedy of Errors",
+      "As You Like It"
+    ],
+    "answerIndex": 3,
+    "explanation": "The line is from Shakespeare’s ‘As You Like It’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-4",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
+    "question": "‘To get along with’ means:",
+    "options": [
+      "to adjust",
+      "to interest",
+      "to accompany",
+      "to walk"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘Get along with’ means to adjust or be on good terms with.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-5",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "medium",
+    "question": "The synonym of ‘panoramic’ is:",
+    "options": [
+      "scenic",
+      "narrow",
+      "limited",
+      "restricted"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘Panoramic’ (wide view) is closest to ‘scenic’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-6",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "medium",
+    "question": "The antonym of ‘slothful’ is:",
+    "options": [
+      "playful",
+      "sluggish",
+      "energetic",
+      "quarrelsome"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Slothful’ means lazy; its antonym is ‘energetic’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-7",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "Alexander Pope’s ‘Essay on Man’ is a:",
+    "options": [
+      "novel",
+      "treatise",
+      "short story",
+      "poem"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘An Essay on Man’ is a philosophical poem by Alexander Pope.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-8",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
+    "question": "The word ‘equivocation’ refers to:",
+    "options": [
+      "stating like an author",
+      "two contradictory things in one statement",
+      "free expression of opinion",
+      "a true statement"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Equivocation’ is using ambiguous language to conceal the truth or assert two contradictory things.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-9",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘Life’s but a walking shadow, a poor player…’ — these lines are spoken by:",
+    "options": [
+      "Lady Macbeth",
+      "Banquo",
+      "Duncan",
+      "Macbeth"
+    ],
+    "answerIndex": 3,
+    "explanation": "These lines are spoken by Macbeth in Shakespeare’s ‘Macbeth’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-10",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "easy",
+    "question": "Which word is spelt correctly?",
+    "options": [
+      "authoratative",
+      "autheritative",
+      "authoritative",
+      "authoretative"
+    ],
+    "answerIndex": 2,
+    "explanation": "The correct spelling is ‘authoritative’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-11",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘A terrible beauty is born’ — this line is from W. B. Yeats’ poem:",
+    "options": [
+      "No Second Troy",
+      "Easter 1916",
+      "The Second Coming",
+      "The Wild Swans at Coole"
+    ],
+    "answerIndex": 1,
+    "explanation": "The refrain is from Yeats’ poem ‘Easter 1916’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-12",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘All for Love’ is a drama written by:",
+    "options": [
+      "John Dryden",
+      "William Congreve",
+      "John Bunyan",
+      "Francis Bacon"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘All for Love’ is a tragedy by John Dryden.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-13",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "Caliban is an important character from Shakespeare’s:",
+    "options": [
+      "The Tempest",
+      "Hamlet",
+      "Macbeth",
+      "Othello"
+    ],
+    "answerIndex": 0,
+    "explanation": "Caliban appears in Shakespeare’s ‘The Tempest’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-14",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘Caesar and Cleopatra’ is:",
+    "options": [
+      "a tragedy by Shakespeare",
+      "a poem by Lord Byron",
+      "a play by Bernard Shaw",
+      "a novel by Coleridge"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Caesar and Cleopatra’ is a play by George Bernard Shaw.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-15",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "Who wrote the picaresque novel ‘Tom Jones’?",
+    "options": [
+      "Samuel Richardson",
+      "Horace Walpole",
+      "Henry Fielding",
+      "Laurence Sterne"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘Tom Jones’ is by Henry Fielding.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-16",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "easy",
+    "question": "The story of ‘Moby Dick’ centres on:",
+    "options": [
+      "a mermaid",
+      "a whale",
+      "a crocodile",
+      "a shark"
+    ],
+    "answerIndex": 1,
+    "explanation": "Herman Melville’s ‘Moby Dick’ centres on a great white whale.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-17",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘Paradise Lost’ attempted to:",
+    "options": [
+      "justify the ways of man to God",
+      "show Satan and God have equal power",
+      "justify the ways of God to man",
+      "explain why evil is necessary"
+    ],
+    "answerIndex": 2,
+    "explanation": "Milton wrote ‘Paradise Lost’ to ‘justify the ways of God to men’.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-en-18",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘The Ant and the Grasshopper’ (short story) was written by:",
+    "options": [
+      "Guy de Maupassant",
+      "W. Somerset Maugham",
+      "J. K. Rowling",
+      "O. Henry"
+    ],
+    "answerIndex": 1,
+    "explanation": "The short story ‘The Ant and the Grasshopper’ is by W. Somerset Maugham.",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "বাংলার সর্বপ্রাচীন জনপদের নাম কী?",
+    "options": [
+      "পুণ্ড্র",
+      "তাম্রলিপ্ত",
+      "গৌড়",
+      "হরিকেল"
+    ],
+    "answerIndex": 0,
+    "explanation": "পুণ্ড্র বাংলার সর্বপ্রাচীন জনপদ হিসেবে বিবেচিত।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
+    "question": "প্রাচীনকালে বৃহত্তর ঢাকা কোন জনপদের অন্তর্ভুক্ত ছিল?",
+    "options": [
+      "সমতট",
+      "পুণ্ড্র",
+      "বঙ্গ",
+      "হরিকেল"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রাচীনকালে বৃহত্তর ঢাকা ‘বঙ্গ’ জনপদের অন্তর্ভুক্ত ছিল।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-4",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "বাংলার প্রথম স্বাধীন নবাব কে ছিলেন?",
+    "options": [
+      "শশাঙ্ক",
+      "মুর্শিদ কুলি খান",
+      "সিরাজউদ্দৌলা",
+      "আলিবর্দী খান"
+    ],
+    "answerIndex": 1,
+    "explanation": "মুর্শিদ কুলি খান বাংলার প্রথম স্বাধীন নবাব।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-5",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "গুপ্তযুগে কোন চীনা পরিব্রাজক বাংলায় আগমন করেন?",
+    "options": [
+      "হিউয়েন সাং",
+      "ফা-হিয়েন",
+      "আই-সিং",
+      "মেগাস্থিনিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "গুপ্তযুগে চীনা পরিব্রাজক ফা-হিয়েন বাংলায় আসেন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-6",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "বঙ্গভঙ্গের ফলে কোন নতুন প্রদেশ সৃষ্টি হয়েছিল?",
+    "options": [
+      "পূর্ববঙ্গ ও বিহার",
+      "পূর্ববঙ্গ ও আসাম",
+      "পূর্ববঙ্গ ও উড়িষ্যা",
+      "পূর্ব ও পশ্চিমবঙ্গ"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯০৫ সালের বঙ্গভঙ্গে ‘পূর্ববঙ্গ ও আসাম’ নামে নতুন প্রদেশ সৃষ্টি হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-7",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
+    "question": "‘তমদ্দুন মজলিস’ কে প্রতিষ্ঠা করেন?",
+    "options": [
+      "হাজী শরীয়তুল্লাহ",
+      "এ কে ফজলুল হক",
+      "অধ্যাপক আবুল কাশেম",
+      "মাওলানা ভাসানী"
+    ],
+    "answerIndex": 2,
+    "explanation": "ভাষা আন্দোলনের অগ্রদূত সংগঠন ‘তমদ্দুন মজলিস’ প্রতিষ্ঠা করেন অধ্যাপক আবুল কাশেম।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-8",
+    "categoryId": "bd_affairs",
+    "subTopic": "language",
+    "difficulty": "medium",
+    "question": "কোন দেশ বাংলা ভাষাকে অন্যতম রাষ্ট্রীয় ভাষার স্বীকৃতি দিয়েছে?",
+    "options": [
+      "লাইবেরিয়া",
+      "নামিবিয়া",
+      "হাইতি",
+      "সিয়েরা লিওন"
+    ],
+    "answerIndex": 3,
+    "explanation": "আফ্রিকার দেশ সিয়েরা লিওন বাংলাকে সম্মানসূচক রাষ্ট্রীয় ভাষার স্বীকৃতি দিয়েছে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  }
+]
