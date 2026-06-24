@@ -1,0 +1,25 @@
+<svg width="1024" height="500" viewBox="0 0 1024 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00795A"/>
+      <stop offset="1" stop-color="#004A37"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="500" fill="url(#bg)"/>
+  <!-- subtle accent stripe -->
+  <rect x="0" y="0" width="10" height="500" fill="#F42A41"/>
+  <!-- graduation cap logo, left -->
+  <g transform="translate(245,250) scale(0.46) translate(-512,-470)">
+    <path d="M512 300 L820 432 L512 564 L204 432 Z" fill="#FFFFFF"/>
+    <path d="M372 486 L372 612 Q372 672 432 684 Q512 700 592 684 Q652 672 652 612 L652 486 L512 546 Z" fill="#FFFFFF"/>
+    <circle cx="512" cy="432" r="26" fill="#F42A41"/>
+    <path d="M512 432 L726 470 L726 650" fill="none" stroke="#F42A41" stroke-width="16" stroke-linecap="round"/>
+    <path d="M704 650 L748 650 L736 740 L716 740 Z" fill="#F42A41"/>
+    <circle cx="726" cy="650" r="18" fill="#F42A41"/>
+  </g>
+  <!-- text, right -->
+  <text x="430" y="210" font-family="Helvetica, Arial, sans-serif" font-size="78" font-weight="bold" fill="#FFFFFF">BCS Copilot</text>
+  <text x="432" y="262" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#CFEAE0">BCS Preliminary Prep — fully offline</text>
+  <text x="432" y="332" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#FFFFFF">1,700+ questions · 200-Q mock · past papers</text>
+  <text x="432" y="372" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#9FD9C7">No subscription · No internet needed · No login</text>
+</svg>
