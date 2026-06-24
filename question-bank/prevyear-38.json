@@ -1,0 +1,648 @@
+[
+  {
+    "id": "py38-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "গঠনরীতির দিক থেকে ‘শ্রীকৃষ্ণকীর্তন’ কাব্য মূলত কী?",
+    "options": [
+      "পদাবলি",
+      "ধামালি",
+      "প্রেমগীতি",
+      "নাট্যগীতি"
+    ],
+    "answerIndex": 3,
+    "explanation": "গঠনরীতিতে ‘শ্রীকৃষ্ণকীর্তন’ মূলত নাট্যগীতি।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "দৌলত উজির বাহরাম খান কোন অঞ্চলের অধিবাসী ছিলেন?",
+    "options": [
+      "ফরিদপুর",
+      "সিলেট",
+      "কৃষ্ণনগর",
+      "চট্টগ্রাম"
+    ],
+    "answerIndex": 3,
+    "explanation": "দৌলত উজির বাহরাম খান চট্টগ্রাম অঞ্চলের অধিবাসী ছিলেন।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘চন্দ্রাবতী’ কোন শ্রেণির রচনা?",
+    "options": [
+      "নাটক",
+      "কাব্য",
+      "পদাবলি",
+      "পালাগান"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘চন্দ্রাবতী’ একটি কাব্য (চন্দ্রাবতীর রামায়ণ)।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "কোনটি বিদ্যাসাগরের আত্মজীবনীমূলক রচনা?",
+    "options": [
+      "আত্মচরিত",
+      "আত্মকথা",
+      "আত্মজিজ্ঞাসা",
+      "আমার কথা"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘আত্মচরিত’ ঈশ্বরচন্দ্র বিদ্যাসাগরের আত্মজীবনীমূলক রচনা।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "রোকেয়া সাখাওয়াত হোসেনের ‘মতিচূর’ কোন ধরনের রচনা?",
+    "options": [
+      "প্রবন্ধ",
+      "উপন্যাস",
+      "নাটক",
+      "আত্মজীবনী"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘মতিচূর’ রোকেয়া সাখাওয়াত হোসেনের প্রবন্ধগ্রন্থ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "জসীমউদ্‌দীনের স্মৃতিকথামূলক গ্রন্থ কোনটি?",
+    "options": [
+      "গাজী মিয়াঁর বস্তানী",
+      "হাঁসুলী বাঁকের উপকথা",
+      "ভাওয়াল গড়ের উপাখ্যান",
+      "ঠাকুরবাড়ির আঙিনা"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘ঠাকুরবাড়ির আঙিনা’ জসীমউদ্‌দীনের স্মৃতিকথামূলক রচনা।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘আমার ঘরের চাবি পরের হাতে’ — গানটির রচয়িতা কে?",
+    "options": [
+      "লালন শাহ",
+      "হাছন রাজা",
+      "পাগলা কানাই",
+      "রাধারমণ দত্ত"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিখ্যাত এই গানটির রচয়িতা ফকির লালন শাহ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "মুক্তিযুদ্ধের পটভূমিতে রচিত কাব্যগ্রন্থ কোনটি?",
+    "options": [
+      "নেকড়ে অরণ্য",
+      "বন্দী শিবির থেকে",
+      "নিষিদ্ধ লোবান",
+      "প্রিয়যোদ্ধা প্রিয়তম"
+    ],
+    "answerIndex": 1,
+    "explanation": "শামসুর রাহমানের ‘বন্দী শিবির থেকে’ মুক্তিযুদ্ধভিত্তিক কাব্যগ্রন্থ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "কাজী নজরুল ইসলামের ‘অগ্নিবীণা’ কাব্যের প্রথম কবিতা কোনটি?",
+    "options": [
+      "আগমনী",
+      "কোরবানী",
+      "প্রলয়োল্লাস",
+      "বিদ্রোহী"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘অগ্নিবীণা’ কাব্যের প্রথম কবিতা ‘প্রলয়োল্লাস’।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "দীনবন্ধু মিত্রের ‘নীলদর্পণ’ নাটক প্রথম কোথা থেকে প্রকাশিত হয়?",
+    "options": [
+      "কলকাতা",
+      "ঢাকা",
+      "লন্ডন",
+      "মুর্শিদাবাদ"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘নীলদর্পণ’ নাটক প্রথম ঢাকা থেকে প্রকাশিত হয় (১৮৬০)।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি রবীন্দ্রনাথ ঠাকুরের কাব্যগ্রন্থ?",
+    "options": [
+      "শেষলেখা",
+      "শেষপ্রশ্ন",
+      "শেষকথা",
+      "শেষদিন"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘শেষলেখা’ রবীন্দ্রনাথ ঠাকুরের কাব্যগ্রন্থ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘নদী ও নারী’ উপন্যাসের রচয়িতা কে?",
+    "options": [
+      "কাজী আবদুল ওদুদ",
+      "আবুল ফজল",
+      "রশীদ করিম",
+      "হুমায়ুন কবির"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘নদী ও নারী’ উপন্যাসের রচয়িতা হুমায়ুন কবির।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "‘বীরবল’ কোন লেখকের ছদ্মনাম?",
+    "options": [
+      "আবু ইসহাক",
+      "সুনীল গঙ্গোপাধ্যায়",
+      "প্রমথনাথ বিশী",
+      "প্রমথ চৌধুরী"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘বীরবল’ প্রমথ চৌধুরীর ছদ্মনাম।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-14",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "মুনীর চৌধুরীর ‘মুখরা রমণী বশীকরণ’ কী ধরনের রচনা?",
+    "options": [
+      "উপন্যাস",
+      "ছোটগল্প",
+      "প্রবন্ধ",
+      "অনুবাদ নাটক"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘মুখরা রমণী বশীকরণ’ শেক্সপিয়ারের ‘Taming of the Shrew’-এর অনুবাদ নাটক।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-15",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘চন্দরা’ চরিত্রের স্রষ্টা কে?",
+    "options": [
+      "বুদ্ধদেব বসু",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "মীর মশাররফ হোসেন",
+      "সৈয়দ শামসুল হক"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘চন্দরা’ রবীন্দ্রনাথের ‘শাস্তি’ ছোটগল্পের চরিত্র।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-16",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
+    "question": "‘পূর্বাশা’ পত্রিকার সম্পাদক কে ছিলেন?",
+    "options": [
+      "কাজী নজরুল ইসলাম",
+      "শাহাদাৎ হোসেন",
+      "সঞ্জয় ভট্টাচার্য",
+      "সুধীন্দ্রনাথ দত্ত"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘পূর্বাশা’ পত্রিকার সম্পাদক ছিলেন সঞ্জয় ভট্টাচার্য।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-17",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "নিচের কে ফোর্ট উইলিয়াম কলেজের শিক্ষক ছিলেন?",
+    "options": [
+      "হরপ্রসাদ শাস্ত্রী",
+      "রামরাম বসু",
+      "দেবেন্দ্রনাথ ঠাকুর",
+      "অক্ষয়কুমার দত্ত"
+    ],
+    "answerIndex": 1,
+    "explanation": "রামরাম বসু ফোর্ট উইলিয়াম কলেজের শিক্ষক ছিলেন।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-18",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
+    "question": "মাইকেল মধুসূদন দত্তের ‘মেঘনাদবধ কাব্য’ প্রথম প্রকাশিত হয় কোন সালে?",
+    "options": [
+      "১৮৫৯",
+      "১৮৬০",
+      "১৮৬১",
+      "১৮৬৫"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘মেঘনাদবধ কাব্য’ ১৮৬১ সালে প্রকাশিত হয়।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-19",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "নিচের কোন শব্দে অপপ্রয়োগ ঘটেছে?",
+    "options": [
+      "জবাবদিহি",
+      "মিথস্ক্রিয়া",
+      "একত্রিত",
+      "গৌরবিত"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘একত্রিত’ শব্দে অপপ্রয়োগ ঘটেছে; শুদ্ধ হলো ‘একত্র’।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-20",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "বাংলা ভাষায় মৌলিক স্বরধ্বনি কয়টি?",
+    "options": [
+      "৬টি",
+      "৭টি",
+      "৮টি",
+      "১১টি"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলা ভাষায় মৌলিক স্বরধ্বনি ৭টি।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-21",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘বাবা’ কোন ভাষা থেকে আগত শব্দ?",
+    "options": [
+      "সংস্কৃত",
+      "হিন্দি",
+      "অহমিয়া",
+      "তুর্কি"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘বাবা’ তুর্কি ভাষা থেকে আগত শব্দ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-22",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘Null and Void’-এর যথাযথ বাংলা পরিভাষা কোনটি?",
+    "options": [
+      "বাতিল",
+      "পালাবদল",
+      "মামুলি",
+      "নিরপেক্ষ"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘Null and Void’-এর বাংলা পরিভাষা ‘বাতিল’।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-23",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘গিন্নি’ কোন শ্রেণির শব্দ?",
+    "options": [
+      "দেশি",
+      "বিদেশি",
+      "তদ্ভব",
+      "অর্ধ-তৎসম"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘গিন্নি’ (গৃহিণী > গিন্নি) অর্ধ-তৎসম শব্দ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-24",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘পুষ্পসৌরভ’ কোন সমাসের উদাহরণ?",
+    "options": [
+      "তৎপুরুষ",
+      "কর্মধারয়",
+      "অব্যয়ীভাব",
+      "বহুব্রীহি"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘পুষ্পসৌরভ’ (পুষ্পের সৌরভ) তৎপুরুষ সমাসের উদাহরণ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-25",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘সূর্য’ শব্দের সমার্থক শব্দ কোনটি?",
+    "options": [
+      "অর্ণব",
+      "অর্ক",
+      "প্রসূন",
+      "পল্লব"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘অর্ক’ সূর্যের সমার্থক শব্দ।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-26",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘হ্ম’ যুক্তবর্ণটি কীভাবে গঠিত?",
+    "options": [
+      "হ্ + ম",
+      "ক্ + ষ",
+      "ষ্ + ম",
+      "ম্ + হ"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘হ্ম’ = হ্ + ম।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-27",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "‘সদ্যোজাত’ শব্দের শুদ্ধ সন্ধিবিচ্ছেদ কোনটি?",
+    "options": [
+      "সৎ + জাত",
+      "সদ্যো + জাত",
+      "সদ্যঃ + জাত",
+      "সদ্য + জাত"
+    ],
+    "answerIndex": 2,
+    "explanation": "‘সদ্যোজাত’ = সদ্যঃ + জাত।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-28",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
+    "question": "‘ব্যক্ত’ শব্দের বিপরীতার্থক শব্দ কোনটি?",
+    "options": [
+      "ত্যক্ত",
+      "গ্রাহ্য",
+      "দৃঢ়",
+      "গূঢ়"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘ব্যক্ত’-এর বিপরীত ‘গূঢ়’ (গোপন)।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bn-29",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
+    "question": "নিচের কোনটি সার্থক বাক্যের গুণ নয়?",
+    "options": [
+      "আকাঙ্ক্ষা",
+      "যোগ্যতা",
+      "আসক্তি",
+      "আসত্তি"
+    ],
+    "answerIndex": 2,
+    "explanation": "সার্থক বাক্যের গুণ তিনটি — আকাঙ্ক্ষা, আসত্তি ও যোগ্যতা; ‘আসক্তি’ নয়।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-en-1",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "easy",
+    "question": "‘Once in a blue moon’ means:",
+    "options": [
+      "always",
+      "very rarely",
+      "nearly",
+      "hourly"
+    ],
+    "answerIndex": 1,
+    "explanation": "‘Once in a blue moon’ means very rarely.",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "science_tech",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের তৈরি প্রথম ন্যানো স্যাটেলাইটের নাম কী?",
+    "options": [
+      "বঙ্গবন্ধু-১",
+      "ব্র্যাক অন্বেষা",
+      "অপ্সরা",
+      "ব্র্যাক রিসাত"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশের তৈরি প্রথম ন্যানো স্যাটেলাইট ‘ব্র্যাক অন্বেষা’।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "intl_relations",
+    "difficulty": "medium",
+    "question": "বাংলাদেশ ও মিয়ানমারের সমুদ্রসীমা বিরোধ কোন সংস্থা নিষ্পত্তি করে?",
+    "options": [
+      "আন্তর্জাতিক আদালত (ICJ)",
+      "ITLOS",
+      "PCA",
+      "জাতিসংঘ নিরাপত্তা পরিষদ"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশ-মিয়ানমার সমুদ্রসীমা বিরোধ নিষ্পত্তি করে আন্তর্জাতিক সমুদ্র আইন ট্রাইব্যুনাল (ITLOS)।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
+    "question": "মুজিবনগর সরকারের ত্রাণ ও পুনর্বাসন মন্ত্রী কে ছিলেন?",
+    "options": [
+      "তাজউদ্দীন আহমদ",
+      "সৈয়দ নজরুল ইসলাম",
+      "এম মনসুর আলী",
+      "এ এইচ এম কামরুজ্জামান"
+    ],
+    "answerIndex": 3,
+    "explanation": "মুজিবনগর সরকারের ত্রাণ ও পুনর্বাসন মন্ত্রী ছিলেন এ এইচ এম কামরুজ্জামান।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-sc-1",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "easy",
+    "question": "‘ড্রাই আইস’ তৈরিতে কোন গ্যাস ব্যবহার করা হয়?",
+    "options": [
+      "অক্সিজেন",
+      "কার্বন ডাই-অক্সাইড",
+      "সালফার ডাই-অক্সাইড",
+      "নাইট্রোজেন"
+    ],
+    "answerIndex": 1,
+    "explanation": "ড্রাই আইস হলো কঠিন কার্বন ডাই-অক্সাইড।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-sc-2",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "medium",
+    "question": "ক্যান্সার চিকিৎসায় কোন বিকিরণ ব্যবহার করা হয়?",
+    "options": [
+      "আলফা রশ্মি",
+      "বিটা রশ্মি",
+      "গামা রশ্মি",
+      "এক্স-রশ্মি"
+    ],
+    "answerIndex": 2,
+    "explanation": "ক্যান্সার চিকিৎসায় (রেডিওথেরাপি) সাধারণত গামা রশ্মি ব্যবহার করা হয়।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-sc-3",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "hard",
+    "question": "মস্তিষ্কে ডোপামিন তৈরির কোষগুলো নষ্ট হলে কোন রোগ হয়?",
+    "options": [
+      "এপিলেপসি",
+      "পারকিনসন",
+      "প্যারালাইসিস",
+      "থ্রম্বোসিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "ডোপামিন উৎপাদনকারী কোষ নষ্ট হলে পারকিনসন রোগ হয়।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-sc-4",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "easy",
+    "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কী?",
+    "options": [
+      "ইথেন",
+      "প্রোপেন",
+      "মিথেন",
+      "বিউটেন"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  },
+  {
+    "id": "py38-eth-1",
+    "categoryId": "ethics",
+    "subTopic": "concepts",
+    "difficulty": "medium",
+    "question": "মূল্যবোধ কী পরীক্ষা করে?",
+    "options": [
+      "ভাল ও মন্দ",
+      "ন্যায় ও অন্যায়",
+      "নৈতিকতা ও অনৈতিকতা",
+      "উপরের সবগুলো"
+    ],
+    "answerIndex": 3,
+    "explanation": "মূল্যবোধ ভাল-মন্দ, ন্যায়-অন্যায় এবং নৈতিকতা-অনৈতিকতা — সবই পরীক্ষা করে।",
+    "year": 38,
+    "source": "38th BCS (2017)"
+  }
+]
