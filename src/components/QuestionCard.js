@@ -5,7 +5,7 @@ import { getCategoryById } from '../data/categories';
 const BN_LABELS = ['ক', 'খ', 'গ', 'ঘ'];
 const EN_LABELS = ['A', 'B', 'C', 'D'];
 
-export default function QuestionCard({ question, isFavorite, onToggleFavorite }) {
+export default function QuestionCard({ question, isFavorite, onToggleFavorite, locked, onUnlock }) {
   const cat = getCategoryById(question.categoryId);
   const labels = question.categoryId === 'english' ? EN_LABELS : BN_LABELS;
 
@@ -33,23 +33,32 @@ export default function QuestionCard({ question, isFavorite, onToggleFavorite })
 
       <Text style={styles.qText}>{question.question}</Text>
 
-      <View style={{ gap: 6, marginTop: spacing.sm }}>
-        {question.options.map((opt, i) => {
-          const correct = i === question.answerIndex;
-          return (
-            <View key={i} style={[styles.opt, correct && styles.optCorrect]}>
-              <Text style={[styles.optLabel, correct && styles.optLabelCorrect]}>{labels[i]}</Text>
-              <Text style={[styles.optText, correct && styles.optTextCorrect]}>{opt}</Text>
-              {correct && <Text style={styles.check}>✓</Text>}
-            </View>
-          );
-        })}
-      </View>
+      {locked ? (
+        <Pressable onPress={onUnlock} style={styles.lockBox}>
+          <Text style={styles.lockTitle}>🔒 Answer & explanation locked</Text>
+          <Text style={styles.lockSub}>Unlock Premium to see this</Text>
+        </Pressable>
+      ) : (
+        <>
+          <View style={{ gap: 6, marginTop: spacing.sm }}>
+            {question.options.map((opt, i) => {
+              const correct = i === question.answerIndex;
+              return (
+                <View key={i} style={[styles.opt, correct && styles.optCorrect]}>
+                  <Text style={[styles.optLabel, correct && styles.optLabelCorrect]}>{labels[i]}</Text>
+                  <Text style={[styles.optText, correct && styles.optTextCorrect]}>{opt}</Text>
+                  {correct && <Text style={styles.check}>✓</Text>}
+                </View>
+              );
+            })}
+          </View>
 
-      {!!question.explanation && (
-        <View style={styles.expl}>
-          <Text style={styles.explText}>{question.explanation}</Text>
-        </View>
+          {!!question.explanation && (
+            <View style={styles.expl}>
+              <Text style={styles.explText}>{question.explanation}</Text>
+            </View>
+          )}
+        </>
       )}
     </View>
   );

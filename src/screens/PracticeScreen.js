@@ -3,19 +3,24 @@ import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
-import { getQuestionsByCategory, getCategorySession, getPreviousYearSession } from '../data/questions';
+import { getQuestionsByCategory, getCategorySession, getPreviousYearSession, isFreeQuestion } from '../data/questions';
+import { usePremium } from '../monetization/premium';
 import { getCategoryById } from '../data/categories';
 import { recordAnswer } from '../storage/progressStore';
 import { getFavorites, toggleFavorite } from '../storage/bookmarkStore';
 
 export default function PracticeScreen({ route, navigation }) {
   const { categoryId, count, prevYear, title } = route.params;
+  const { isPremium } = usePremium();
   const isPrevYear = prevYear !== undefined && prevYear !== null;
   const category = categoryId ? getCategoryById(categoryId) : null;
   const questions = useMemo(() => {
     if (isPrevYear) return getPreviousYearSession(prevYear, count);
-    return count ? getCategorySession(categoryId, count) : getQuestionsByCategory(categoryId);
-  }, [categoryId, count, prevYear, isPrevYear]);
+    const freeOnly = !isPremium;
+    return count
+      ? getCategorySession(categoryId, count, { freeOnly })
+      : getQuestionsByCategory(categoryId).filter((q) => isPremium || isFreeQuestion(q.id));
+  }, [categoryId, count, prevYear, isPrevYear, isPremium]);
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState(null);
   const [favs, setFavs] = useState(new Set());

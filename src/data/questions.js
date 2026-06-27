@@ -13,6 +13,7 @@
 import { inflate } from 'pako';
 import { ENCODED_BANK } from './bank.generated';
 import { CATEGORIES, TOTAL_MARKS } from './categories';
+import { FREE_QUESTIONS_PER_CATEGORY } from '../monetization/config';
 
 // Base64 -> Uint8Array. Implemented directly so we don't depend on
 // atob/Buffer being present in the JS engine (e.g. Hermes).
@@ -64,8 +65,10 @@ export function getQuestionsByCategory(categoryId) {
 }
 
 // A random practice session of up to `count` questions from one category.
-export function getCategorySession(categoryId, count) {
-  return sample(getQuestionsByCategory(categoryId), count);
+export function getCategorySession(categoryId, count, { freeOnly = false } = {}) {
+  let pool = getQuestionsByCategory(categoryId);
+  if (freeOnly) pool = pool.filter((q) => FREE_QUESTION_IDS.has(q.id));
+  return sample(pool, count);
 }
 
 // Distinct previous-year exams present in the bank, with question counts.
@@ -93,6 +96,40 @@ export function getPreviousYearSession(yearOrAll, count) {
 export function getQuestionsByIds(ids) {
   const set = ids instanceof Set ? ids : new Set(ids);
   return QUESTIONS.filter((q) => set.has(q.id));
+}
+
+// ---- Free access pool -------------------------------------------------------
+// A fixed, capped set of question ids that free users may access. Enforced
+// across practice, mocks, search and saved so answers can't leak.
+function buildFreeIds() {
+  const ids = new Set();
+  const perCat = {};
+  // First N original (non-previous-year) questions of each category.
+  for (const q of QUESTIONS) {
+    if (q.year) continue;
+    perCat[q.categoryId] = perCat[q.categoryId] || 0;
+    if (perCat[q.categoryId] < FREE_QUESTIONS_PER_CATEGORY) {
+      ids.add(q.id);
+      perCat[q.categoryId] += 1;
+    }
+  }
+  // Plus the most recent previous-year exam, as a free taste.
+  const exams = getPreviousYearExams();
+  if (exams.length) {
+    const freeYear = exams[0].year;
+    for (const q of QUESTIONS) if (q.year === freeYear) ids.add(q.id);
+  }
+  return ids;
+}
+export const FREE_QUESTION_IDS = buildFreeIds();
+export function isFreeQuestion(id) {
+  return FREE_QUESTION_IDS.has(id);
+}
+export function getFreeQuestionCount() {
+  return FREE_QUESTION_IDS.size;
+}
+export function getFreeCategoryCount(categoryId) {
+  return getQuestionsByCategory(categoryId).filter((q) => FREE_QUESTION_IDS.has(q.id)).length;
 }
 
 // Offline keyword search across question text, options, explanation, subtopic.
@@ -148,9 +185,10 @@ function sample(arr, n) {
 // Build a mock test that mirrors the real BCS mark distribution
 // (e.g. ~35% language, ~7.5% math), instead of sampling uniformly —
 // so a large computed-math set doesn't distort the exam balance.
-export function getMockTestQuestions(count = 100) {
+export function getMockTestQuestions(count = 100, { freeOnly = false } = {}) {
+  const source = freeOnly ? QUESTIONS.filter((q) => FREE_QUESTION_IDS.has(q.id)) : QUESTIONS;
   const byCat = {};
-  for (const q of QUESTIONS) (byCat[q.categoryId] = byCat[q.categoryId] || []).push(q);
+  for (const q of source) (byCat[q.categoryId] = byCat[q.categoryId] || []).push(q);
 
   // Target per category, proportional to marks; largest-remainder rounding.
   const targets = CATEGORIES.map((c) => {
@@ -172,7 +210,7 @@ export function getMockTestQuestions(count = 100) {
   // Backfill any shortfall from the remaining unused questions.
   if (shortfall > 0) {
     const usedIds = new Set(picked.map((q) => q.id));
-    const rest = QUESTIONS.filter((q) => !usedIds.has(q.id));
+    const rest = source.filter((q) => !usedIds.has(q.id));
     picked = picked.concat(sample(rest, shortfall));
   }
   return sample(picked, picked.length); // final shuffle

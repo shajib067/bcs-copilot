@@ -2,11 +2,13 @@ import { useEffect, useMemo, useState } from 'react';
 import { View, Text, StyleSheet, TextInput, FlatList } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
-import { searchQuestions } from '../data/questions';
+import { searchQuestions, isFreeQuestion } from '../data/questions';
+import { usePremium } from '../monetization/premium';
 import { getFavorites, toggleFavorite } from '../storage/bookmarkStore';
 import QuestionCard from '../components/QuestionCard';
 
-export default function SearchScreen() {
+export default function SearchScreen({ navigation }) {
+  const { isPremium } = usePremium();
   const [query, setQuery] = useState('');
   const [favs, setFavs] = useState(new Set());
 
@@ -70,6 +72,8 @@ export default function SearchScreen() {
               question={item}
               isFavorite={favs.has(item.id)}
               onToggleFavorite={onToggleFav}
+              locked={!isPremium && !isFreeQuestion(item.id)}
+              onUnlock={() => navigation.navigate('Paywall')}
             />
           )}
         />

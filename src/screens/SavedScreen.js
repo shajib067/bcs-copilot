@@ -3,11 +3,13 @@ import { View, Text, StyleSheet, FlatList } from 'react-native';
 import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing } from '../theme/colors';
-import { getQuestionsByIds } from '../data/questions';
+import { getQuestionsByIds, isFreeQuestion } from '../data/questions';
+import { usePremium } from '../monetization/premium';
 import { getFavorites, toggleFavorite } from '../storage/bookmarkStore';
 import QuestionCard from '../components/QuestionCard';
 
-export default function SavedScreen() {
+export default function SavedScreen({ navigation }) {
+  const { isPremium } = usePremium();
   const [items, setItems] = useState([]);
   const [favs, setFavs] = useState(new Set());
 
@@ -56,7 +58,13 @@ export default function SavedScreen() {
         contentContainerStyle={{ padding: spacing.md, gap: spacing.sm }}
         ListHeaderComponent={<Text style={styles.count}>{items.length} saved</Text>}
         renderItem={({ item }) => (
-          <QuestionCard question={item} isFavorite={favs.has(item.id)} onToggleFavorite={onToggleFav} />
+          <QuestionCard
+            question={item}
+            isFavorite={favs.has(item.id)}
+            onToggleFavorite={onToggleFav}
+            locked={!isPremium && !isFreeQuestion(item.id)}
+            onUnlock={() => navigation.navigate('Paywall')}
+          />
         )}
       />
     </SafeAreaView>

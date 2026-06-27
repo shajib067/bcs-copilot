@@ -4,6 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
 import { getMockTestQuestions } from '../data/questions';
+import { usePremium } from '../monetization/premium';
 
 import { saveTestResult, recordAnswer } from '../storage/progressStore';
 import { confirm } from '../utils/confirm';
@@ -14,7 +15,8 @@ const NEGATIVE_PER_WRONG = 0.5; // BCS negative marking
 export default function MockTestScreen({ navigation, route }) {
   const count = route?.params?.count ?? 100;
   const durationMin = route?.params?.durationMin ?? 60;
-  const questions = useMemo(() => getMockTestQuestions(count), [count]);
+  const { isPremium } = usePremium();
+  const questions = useMemo(() => getMockTestQuestions(count, { freeOnly: !isPremium }), [count, isPremium]);
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState({}); // { qId: optionIndex }
   const [secondsLeft, setSecondsLeft] = useState(durationMin * 60);

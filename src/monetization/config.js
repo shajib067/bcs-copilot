@@ -9,15 +9,13 @@ export const ENTITLEMENT_ID = 'premium';
 // purchases — useful for Expo Go and pre-store testing). Fill in before release.
 export const REVENUECAT_API_KEY = '';
 
-// Free users can fully use these categories; the rest require premium.
-export const FREE_CATEGORY_IDS = ['bangla', 'english', 'bd_affairs'];
+// Free users get a capped number of questions per subject (a taste of every
+// category). Everything beyond this pool is premium — enforced everywhere
+// (practice, mocks, search, saved) so there's no backdoor to free answers.
+export const FREE_QUESTIONS_PER_CATEGORY = 10;
 
 // Mock lengths available to free users (others require premium).
 export const FREE_MOCK_COUNTS = [25];
-
-// In free practice within a premium category, how many questions are shown
-// before the paywall (0 = fully locked).
-export const FREE_PREVIEW_PER_CATEGORY = 10;
 
 export const PREMIUM_BENEFITS = [
   'All 1,700+ questions across every subject',
