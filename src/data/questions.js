@@ -89,6 +89,43 @@ export function getPreviousYearSession(yearOrAll, count) {
   return sample(pool, count || pool.length);
 }
 
+// Resolve a list/Set of ids to question objects (order follows the bank).
+export function getQuestionsByIds(ids) {
+  const set = ids instanceof Set ? ids : new Set(ids);
+  return QUESTIONS.filter((q) => set.has(q.id));
+}
+
+// Offline keyword search across question text, options, explanation, subtopic.
+const BN_DIGITS = '০১২৩৪৫৬৭৮৯';
+function normalizeDigits(s) {
+  return s.replace(/[০-৯]/g, (d) => String(BN_DIGITS.indexOf(d)));
+}
+export function searchQuestions(query, limit = 40) {
+  const q = normalizeDigits(String(query || '').trim().toLowerCase());
+  if (q.length < 2) return [];
+  const out = [];
+  for (const item of QUESTIONS) {
+    const hay = normalizeDigits(
+      (
+        item.question +
+        ' ' +
+        item.options.join(' ') +
+        ' ' +
+        (item.explanation || '') +
+        ' ' +
+        (item.subTopic || '') +
+        ' ' +
+        (item.source || '')
+      ).toLowerCase()
+    );
+    if (hay.includes(q)) {
+      out.push(item);
+      if (out.length >= limit) break;
+    }
+  }
+  return out;
+}
+
 // Fisher-Yates shuffle for an unbiased random subset.
 export function getRandomQuestions(count) {
   const pool = QUESTIONS.slice();

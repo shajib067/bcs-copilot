@@ -6,6 +6,7 @@ import OptionButton from '../components/OptionButton';
 import { getQuestionsByCategory, getCategorySession, getPreviousYearSession } from '../data/questions';
 import { getCategoryById } from '../data/categories';
 import { recordAnswer } from '../storage/progressStore';
+import { getFavorites, toggleFavorite } from '../storage/bookmarkStore';
 
 export default function PracticeScreen({ route, navigation }) {
   const { categoryId, count, prevYear, title } = route.params;
@@ -17,6 +18,25 @@ export default function PracticeScreen({ route, navigation }) {
   }, [categoryId, count, prevYear, isPrevYear]);
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState(null);
+  const [favs, setFavs] = useState(new Set());
+
+  useEffect(() => {
+    let on = true;
+    getFavorites().then((s) => on && setFavs(s));
+    return () => {
+      on = false;
+    };
+  }, []);
+
+  const onToggleFav = async (id) => {
+    const nowFav = await toggleFavorite(id);
+    setFavs((prev) => {
+      const next = new Set(prev);
+      if (nowFav) next.add(id);
+      else next.delete(id);
+      return next;
+    });
+  };
 
   useEffect(() => {
     navigation.setOptions({ title: title ?? category?.nameEn ?? 'Practice' });
@@ -61,9 +81,18 @@ export default function PracticeScreen({ route, navigation }) {
         </View>
 
         <View style={styles.qCard}>
-          {(q.source || q.year) && (
-            <Text style={styles.sourceBadge}>{q.source || `${q.year}th BCS`}</Text>
-          )}
+          <View style={styles.qCardTop}>
+            {(q.source || q.year) ? (
+              <Text style={styles.sourceBadge}>{q.source || `${q.year}th BCS`}</Text>
+            ) : (
+              <View />
+            )}
+            <Pressable hitSlop={10} onPress={() => onToggleFav(q.id)}>
+              <Text style={[styles.star, favs.has(q.id) && styles.starOn]}>
+                {favs.has(q.id) ? '★' : '☆'}
+              </Text>
+            </Pressable>
+          </View>
           <Text style={styles.qText}>{q.question}</Text>
         </View>
 
@@ -139,6 +168,9 @@ const styles = StyleSheet.create({
     marginBottom: spacing.sm,
     overflow: 'hidden',
   },
+  qCardTop: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start' },
+  star: { fontSize: 24, color: colors.textMuted, lineHeight: 24 },
+  starOn: { color: '#F5A623' },
   explanation: {
     backgroundColor: '#FEF3C7',
     padding: spacing.md,

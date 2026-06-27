@@ -6,6 +6,8 @@ import CategoriesScreen from '../screens/CategoriesScreen';
 import PracticeScreen from '../screens/PracticeScreen';
 import PracticeSetupScreen from '../screens/PracticeSetupScreen';
 import PreviousYearsScreen from '../screens/PreviousYearsScreen';
+import SearchScreen from '../screens/SearchScreen';
+import SavedScreen from '../screens/SavedScreen';
 import MockSetupScreen from '../screens/MockSetupScreen';
 import MockTestScreen from '../screens/MockTestScreen';
 import ResultsScreen from '../screens/ResultsScreen';
@@ -29,6 +31,8 @@ export default function RootNavigator() {
         <Stack.Screen name="Categories" component={CategoriesScreen} options={{ title: 'Categories' }} />
         <Stack.Screen name="PracticeSetup" component={PracticeSetupScreen} options={{ title: 'Practice' }} />
         <Stack.Screen name="PreviousYears" component={PreviousYearsScreen} options={{ title: 'Previous Years' }} />
+        <Stack.Screen name="Search" component={SearchScreen} options={{ title: 'Search' }} />
+        <Stack.Screen name="Saved" component={SavedScreen} options={{ title: 'Saved Questions' }} />
         <Stack.Screen name="Practice" component={PracticeScreen} options={{ title: 'Practice' }} />
         <Stack.Screen name="MockSetup" component={MockSetupScreen} options={{ title: 'Mock Test' }} />
         <Stack.Screen name="MockTest" component={MockTestScreen} options={{ title: 'Mock Test', headerBackVisible: false }} />

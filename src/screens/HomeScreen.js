@@ -11,6 +11,8 @@ const TILES = [
   { key: 'Categories', title: 'Browse by Category', subtitle: 'Practice topic-wise', emoji: '📚' },
   { key: 'MockSetup', title: 'Start Mock Test', subtitle: 'Full exam or quick practice', emoji: '⏱️' },
   { key: 'PreviousYears', title: 'Previous Years', subtitle: 'Real questions from past BCS exams', emoji: '🗂️' },
+  { key: 'Search', title: 'Search', subtitle: 'Find any question, topic or keyword', emoji: '🔍' },
+  { key: 'Saved', title: 'Saved Questions', subtitle: 'Your starred questions for revision', emoji: '★' },
   { key: 'Performance', title: 'My Performance', subtitle: 'View progress & history', emoji: '📊' },
 ];
 
