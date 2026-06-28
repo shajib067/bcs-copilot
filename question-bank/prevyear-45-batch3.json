@@ -1,0 +1,665 @@
+[
+  {
+    "id": "py45-bd-10",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "easy",
+    "question": "‘ভারত ছাড়’ আন্দোলন কত সালে শুরু হয়?",
+    "options": [
+      "১৯১৭",
+      "১৯২৭",
+      "১৯৩৭",
+      "১৯৪২"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘ভারত ছাড়’ (Quit India) আন্দোলন ১৯৪২ সালে শুরু হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-11",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "‘সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম কমিটি’ কত সালে গঠিত হয়?",
+    "options": [
+      "১৯৪৮",
+      "১৯৫০",
+      "১৯৫২",
+      "১৯৫৪"
+    ],
+    "answerIndex": 2,
+    "explanation": "সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ ১৯৫২ সালে গঠিত হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-13",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ঐতিহাসিক ছয়-দফা আনুষ্ঠানিকভাবে কবে ঘোষণা করেন?",
+    "options": [
+      "৫ ফেব্রুয়ারি ১৯৬৬",
+      "২৩ মার্চ ১৯৬৬",
+      "২৬ মার্চ ১৯৬৬",
+      "৩১ মার্চ ১৯৬৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "ছয়-দফা আনুষ্ঠানিকভাবে ঘোষণা করা হয় ২৩ মার্চ ১৯৬৬।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-15",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "‘প্রজাতন্ত্রের রাষ্ট্রভাষা বাংলা’ — কথাটি সংবিধানের কোন অনুচ্ছেদে আছে?",
+    "options": [
+      "অনুচ্ছেদ ২",
+      "অনুচ্ছেদ ৩",
+      "অনুচ্ছেদ ৪",
+      "অনুচ্ছেদ ৫"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংবিধানের ৩ অনুচ্ছেদে রাষ্ট্রভাষা বাংলা উল্লেখ আছে।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-16",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "hard",
+    "question": "ঐতিহাসিক ৭ মার্চের ভাষণ সংবিধানের কোন তফসিলে অন্তর্ভুক্ত?",
+    "options": [
+      "চতুর্থ তফসিল",
+      "পঞ্চম তফসিল",
+      "ষষ্ঠ তফসিল",
+      "সপ্তম তফসিল"
+    ],
+    "answerIndex": 1,
+    "explanation": "৭ মার্চের ভাষণ সংবিধানের পঞ্চম তফসিলে অন্তর্ভুক্ত।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-17",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের সংবিধান অনুযায়ী ‘কোর্ট অব রেকর্ড’ হিসেবে গণ্য কোনটি?",
+    "options": [
+      "জজ কোর্ট",
+      "লেবার কোর্ট",
+      "হাইকোর্ট",
+      "সুপ্রিম কোর্ট"
+    ],
+    "answerIndex": 3,
+    "explanation": "সুপ্রিম কোর্ট ‘কোর্ট অব রেকর্ড’ হিসেবে গণ্য।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-18",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের কয়টি জেলার সাথে ‘সুন্দরবন’ সংযুক্ত?",
+    "options": [
+      "৪টি",
+      "৫টি",
+      "৬টি",
+      "৭টি"
+    ],
+    "answerIndex": 1,
+    "explanation": "সুন্দরবন ৫টি জেলার সাথে সংযুক্ত (খুলনা, সাতক্ষীরা, বাগেরহাট, পটুয়াখালী, বরগুনা)।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-19",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "মহান মুক্তিযুদ্ধের সময় ঢাকা শহর কোন সেক্টরের অন্তর্ভুক্ত ছিল?",
+    "options": [
+      "২ নম্বর",
+      "৩ নম্বর",
+      "৪ নম্বর",
+      "৫ নম্বর"
+    ],
+    "answerIndex": 0,
+    "explanation": "মুক্তিযুদ্ধে ঢাকা শহর ২ নম্বর সেক্টরের অন্তর্ভুক্ত ছিল।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-20",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "বাংলাদেশ সরকারি কর্ম কমিশন (PSC) কবে গঠিত হয়?",
+    "options": [
+      "৬ এপ্রিল ১৯৭২",
+      "৭ এপ্রিল ১৯৭২",
+      "৮ এপ্রিল ১৯৭২",
+      "৯ এপ্রিল ১৯৭২"
+    ],
+    "answerIndex": 2,
+    "explanation": "বাংলাদেশ সরকারি কর্ম কমিশন গঠিত হয় ৮ এপ্রিল ১৯৭২।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-21",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "easy",
+    "question": "বাংলাদেশের প্রধান খনিজ সম্পদ কোনটি?",
+    "options": [
+      "কয়লা",
+      "প্রাকৃতিক গ্যাস",
+      "চুনাপাথর",
+      "চীনামাটি"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রাকৃতিক গ্যাস বাংলাদেশের প্রধান খনিজ সম্পদ।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-22",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি বিচার বিভাগের কাজ নয়?",
+    "options": [
+      "আইনের প্রয়োগ",
+      "আইনের ব্যাখ্যা",
+      "সংবিধানের ব্যাখ্যা",
+      "সংবিধান প্রণয়ন"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংবিধান প্রণয়ন আইনসভার কাজ, বিচার বিভাগের নয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-23",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "‘গণহত্যা জাদুঘর’ কোথায় অবস্থিত?",
+    "options": [
+      "ঢাকা",
+      "চট্টগ্রাম",
+      "কুমিল্লা",
+      "খুলনা"
+    ],
+    "answerIndex": 3,
+    "explanation": "একমাত্র ‘গণহত্যা জাদুঘর’ খুলনায় অবস্থিত।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-24",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "ভাস্কর হিসেবে পরিচিত কে?",
+    "options": [
+      "নভেরা আহমেদ",
+      "জাহানারা ইমাম",
+      "সুফিয়া কামাল",
+      "কামরুল হাসান"
+    ],
+    "answerIndex": 0,
+    "explanation": "নভেরা আহমেদ বাংলাদেশের একজন প্রখ্যাত ভাস্কর।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-bd-25",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
+    "question": "আয়তনে বাংলাদেশের সবচেয়ে বড় জেলা কোনটি?",
+    "options": [
+      "রাঙ্গামাটি",
+      "বরিশাল",
+      "চট্টগ্রাম",
+      "ময়মনসিংহ"
+    ],
+    "answerIndex": 0,
+    "explanation": "আয়তনে বাংলাদেশের বৃহত্তম জেলা রাঙ্গামাটি।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "ফিফা বিশ্বকাপ ফুটবল প্রথম কত সালে অনুষ্ঠিত হয়?",
+    "options": [
+      "১৯২৯",
+      "১৯৩০",
+      "১৯৩১",
+      "১৯৩২"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রথম ফিফা বিশ্বকাপ ১৯৩০ সালে উরুগুয়েতে অনুষ্ঠিত হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "easy",
+    "question": "নিচের কোন দেশে সমুদ্রবন্দর নেই?",
+    "options": [
+      "মালদ্বীপ",
+      "নেপাল",
+      "গ্রিস",
+      "ভেনেজুয়েলা"
+    ],
+    "answerIndex": 1,
+    "explanation": "নেপাল একটি স্থলবেষ্টিত দেশ; এর সমুদ্রবন্দর নেই।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
+    "question": "ঐতিহাসিক ট্রয় নগর কোথায় অবস্থিত?",
+    "options": [
+      "ইতালি",
+      "গ্রিস",
+      "তুরস্ক",
+      "ফ্রান্স"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রাচীন ট্রয় নগর বর্তমান তুরস্কে অবস্থিত।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "easy",
+    "question": "আয়তনে পৃথিবীর ক্ষুদ্রতম মহাদেশ কোনটি?",
+    "options": [
+      "অস্ট্রেলিয়া",
+      "ইউরোপ",
+      "আফ্রিকা",
+      "দক্ষিণ আমেরিকা"
+    ],
+    "answerIndex": 0,
+    "explanation": "অস্ট্রেলিয়া পৃথিবীর ক্ষুদ্রতম মহাদেশ।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "আন্তর্জাতিক ধান গবেষণা ইনস্টিটিউট (IRRI) কোথায় অবস্থিত?",
+    "options": [
+      "টোকিও",
+      "ম্যানিলা",
+      "ব্যাংকক",
+      "নয়াদিল্লি"
+    ],
+    "answerIndex": 1,
+    "explanation": "IRRI ফিলিপাইনের ম্যানিলা (লস বানোস) অঞ্চলে অবস্থিত।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-11",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "ইউরোপীয় কেন্দ্রীয় ব্যাংক কোথায় অবস্থিত?",
+    "options": [
+      "লন্ডন",
+      "প্যারিস",
+      "ব্রাসেলস",
+      "ফ্রাঙ্কফুর্ট"
+    ],
+    "answerIndex": 3,
+    "explanation": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের সদর দপ্তর জার্মানির ফ্রাঙ্কফুর্টে।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-13",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "ভারত কর্তৃক সিকিম সংযুক্ত হয় কত সালে?",
+    "options": [
+      "১৯৭০",
+      "১৯৭২",
+      "১৯৭৫",
+      "১৯৭৭"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৯৭৫ সালে সিকিম ভারতের সাথে সংযুক্ত হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-14",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "চীন-ভারত যুদ্ধ কত সালে সংঘটিত হয়?",
+    "options": [
+      "১৯৫৯",
+      "১৯৬০",
+      "১৯৬২",
+      "১৯৬৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "চীন-ভারত যুদ্ধ ১৯৬২ সালে সংঘটিত হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-15",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
+    "question": "পৃথিবীর গভীরতম স্থান কোনটি?",
+    "options": [
+      "মারিয়ানা ট্রেঞ্চ",
+      "ডেড সি",
+      "বৈকাল হ্রদ",
+      "লোহিত সাগর"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রশান্ত মহাসাগরের মারিয়ানা ট্রেঞ্চ পৃথিবীর গভীরতম স্থান।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-16",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি প্রাচীন সভ্যতা?",
+    "options": [
+      "গ্রিস",
+      "মেসোপটেমিয়া",
+      "রোম",
+      "সিন্ধু"
+    ],
+    "answerIndex": 1,
+    "explanation": "মেসোপটেমিয়া পৃথিবীর অন্যতম প্রাচীন সভ্যতা।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-2",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি চার্লসের সূত্র?",
+    "options": [
+      "V ∝ T",
+      "PV = K",
+      "V ∝ n",
+      "P ∝ T"
+    ],
+    "answerIndex": 0,
+    "explanation": "চার্লসের সূত্র অনুযায়ী স্থির চাপে গ্যাসের আয়তন পরম তাপমাত্রার সমানুপাতিক (V ∝ T)।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-3",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "easy",
+    "question": "মানুষের দেহকোষে ক্রোমোজোমের সংখ্যা কত?",
+    "options": [
+      "৪২টি",
+      "৪৪টি",
+      "৪৬টি",
+      "৪৮টি"
+    ],
+    "answerIndex": 2,
+    "explanation": "মানুষের দেহকোষে ক্রোমোজোমের সংখ্যা ৪৬টি (২৩ জোড়া)।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-4",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "সুষম খাদ্যে শর্করা, আমিষ ও চর্বিজাতীয় খাদ্যের আদর্শ অনুপাত কত?",
+    "options": [
+      "৪ : ১ : ১",
+      "৪ : ২ : ২",
+      "৪ : ২ : ৩",
+      "৪ : ৩ : ২"
+    ],
+    "answerIndex": 0,
+    "explanation": "সুষম খাদ্যে শর্করা : আমিষ : চর্বির আদর্শ অনুপাত ৪ : ১ : ১।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-5",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
+    "question": "আর্সেনিকের পারমাণবিক সংখ্যা কত?",
+    "options": [
+      "৩৩",
+      "৩৬",
+      "৩৮",
+      "৪৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "আর্সেনিকের পারমাণবিক সংখ্যা ৩৩।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-6",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "medium",
+    "question": "টেলিভিশনে কোন তরঙ্গ ব্যবহৃত হয়?",
+    "options": [
+      "রেডিও ওয়েভ",
+      "অবলোহিত রশ্মি",
+      "অতিবেগুনি রশ্মি",
+      "দৃশ্যমান রশ্মি"
+    ],
+    "answerIndex": 0,
+    "explanation": "টেলিভিশন সম্প্রচারে রেডিও তরঙ্গ ব্যবহৃত হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-7",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "অণুজীব বিজ্ঞানের জনক কে?",
+    "options": [
+      "রবার্ট কখ",
+      "লুই পাস্তুর",
+      "এডওয়ার্ড জেনার",
+      "অ্যান্টনি ভন লিউয়েনহুক"
+    ],
+    "answerIndex": 3,
+    "explanation": "অণুজীব বিজ্ঞানের জনক অ্যান্টনি ভন লিউয়েনহুক।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-sc-8",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "hard",
+    "question": "বিশ্বব্রহ্মাণ্ডে সবচেয়ে বেশি যে গ্যাসটি রয়েছে—",
+    "options": [
+      "অক্সিজেন",
+      "নাইট্রোজেন",
+      "কার্বন ডাই-অক্সাইড",
+      "হাইড্রোজেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "মহাবিশ্বে সর্বাধিক প্রাপ্ত মৌল/গ্যাস হাইড্রোজেন।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-1",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "easy",
+    "question": "GPU-এর পূর্ণরূপ কী?",
+    "options": [
+      "Graph Processing Unit",
+      "Graphic Processing Unit",
+      "Graphics Processing Unit",
+      "Geographical Processing Unit"
+    ],
+    "answerIndex": 2,
+    "explanation": "GPU = Graphics Processing Unit।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-2",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "medium",
+    "question": "ALU-এর আউটপুট সংরক্ষণে নিচের কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "Register",
+      "ROM",
+      "Flags",
+      "Output Unit"
+    ],
+    "answerIndex": 0,
+    "explanation": "ALU-এর আউটপুট সাময়িকভাবে রেজিস্টারে রাখা হয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-3",
+    "categoryId": "ict",
+    "subTopic": "software",
+    "difficulty": "easy",
+    "question": "DBMS-এর পূর্ণরূপ কী?",
+    "options": [
+      "Data Backup Management System",
+      "Database Management Service",
+      "Database Management System",
+      "Data Binary Management System"
+    ],
+    "answerIndex": 2,
+    "explanation": "DBMS = Database Management System।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-4",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "hard",
+    "question": "২ কিলোবাইট মেমোরি address করতে কতটি address লাইন প্রয়োজন?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "answerIndex": 1,
+    "explanation": "২ কিলোবাইট = ২¹¹ বাইট, তাই ১১টি address লাইন প্রয়োজন।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-5",
+    "categoryId": "ict",
+    "subTopic": "security",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি Spyware-এর উদাহরণ?",
+    "options": [
+      "Key loggers",
+      "Avast",
+      "Norton",
+      "Kaspersky"
+    ],
+    "answerIndex": 0,
+    "explanation": "Key logger এক ধরনের spyware; বাকিগুলো অ্যান্টিভাইরাস।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-6",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
+    "question": "IPv4-এ Google-এর পাবলিক DNS সার্ভারের IP কোনটি?",
+    "options": [
+      "8.8.7.6",
+      "8.7.8.6",
+      "8.8.8.6",
+      "8.8.8.8"
+    ],
+    "answerIndex": 3,
+    "explanation": "Google-এর পাবলিক DNS সার্ভারের IP ঠিকানা 8.8.8.8।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-7",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
+    "question": "ইন্টারনেটে তথ্য আদান-প্রদানে সর্বাধিক ব্যবহৃত প্রোটোকল কোনটি?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "DNS",
+      "TCP/IP"
+    ],
+    "answerIndex": 3,
+    "explanation": "ইন্টারনেট যোগাযোগের মূল প্রোটোকল TCP/IP।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-ict-8",
+    "categoryId": "ict",
+    "subTopic": "concepts",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি ক্লাউড কম্পিউটিংয়ের বৈশিষ্ট্য নয়?",
+    "options": [
+      "On-demand self service",
+      "Broad network access",
+      "Resource pooling",
+      "Physical ownership of servers"
+    ],
+    "answerIndex": 3,
+    "explanation": "ক্লাউড কম্পিউটিংয়ে ব্যবহারকারীর সার্ভারের মালিকানা থাকে না; তাই ‘Physical ownership of servers’ এর বৈশিষ্ট্য নয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  }
+]
