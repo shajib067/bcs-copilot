@@ -7,7 +7,7 @@ BCS Copilot
 BCS Prelim Prep, Offline
 
 ## Short description (Google Play, max 80 chars)
-Offline BCS prelim prep: 1,400+ MCQs, full mock exams & analytics.
+Offline BCS prelim prep: 1,800+ verified MCQs, previous-year sets & mocks.
 
 ## Full description
 Prepare for the BCS Preliminary examination anywhere — no internet needed.
@@ -16,7 +16,8 @@ BCS Copilot is a clean, distraction-free practice app built around how the real
 exam works: 200 marks, 200 MCQs, two hours, with negative marking.
 
 WHAT YOU GET
-• 1,400+ practice questions across all 10 subjects — Bangla, English,
+• 1,800+ meticulously curated questions across all 10 subjects — every
+  answer verified, zero duplicates — Bangla, English,
   Bangladesh Affairs, International Affairs, Geography, Science, ICT,
   Mathematical Reasoning, Mental Ability and Ethics.
 • Full 200-question mock exam in the real BCS format — two-hour timer and
@@ -39,7 +40,7 @@ independent app and is not affiliated with or endorsed by the Bangladesh Public
 Service Commission (BPSC) or any government body.
 
 ## What's new (v1.0.0)
-First release: 1,400+ questions, full and quick mock exams with negative
+First release: 1,800+ curated questions (incl. 360+ previous-year), full and quick mock exams with negative
 marking, topic practice, and performance analytics.
 
 ## Category
