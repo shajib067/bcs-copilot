@@ -1,0 +1,53 @@
+[
+  {
+    "id": "py45-bd-26",
+    "categoryId": "bd_affairs",
+    "subTopic": "ethnography",
+    "difficulty": "medium",
+    "question": "ক্ষুদ্র নৃ-গোষ্ঠী ‘মণিপুরি’ বাংলাদেশের কোন জেলায় সবচেয়ে বেশি বসবাস করে?",
+    "options": [
+      "সিলেট",
+      "মৌলভীবাজার",
+      "হবিগঞ্জ",
+      "সুনামগঞ্জ"
+    ],
+    "answerIndex": 1,
+    "explanation": "মণিপুরি নৃ-গোষ্ঠী মৌলভীবাজার জেলায় সবচেয়ে বেশি বসবাস করে।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-19",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি প্রাচীনতম সভ্যতা?",
+    "options": [
+      "গ্রিক",
+      "রোমান",
+      "মেসোপটেমীয়",
+      "ইনকা"
+    ],
+    "answerIndex": 2,
+    "explanation": "মেসোপটেমীয় সভ্যতা মানব ইতিহাসের প্রাচীনতম সভ্যতাগুলোর একটি।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  },
+  {
+    "id": "py45-int-20",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "নিচের কোন দেশটি ইউরোপীয় ইউনিয়নের সদস্য নয়?",
+    "options": [
+      "সাইপ্রাস",
+      "আলজেরিয়া",
+      "এস্তোনিয়া",
+      "মাল্টা"
+    ],
+    "answerIndex": 1,
+    "explanation": "আলজেরিয়া আফ্রিকার দেশ; ইউরোপীয় ইউনিয়নের সদস্য নয়।",
+    "year": 45,
+    "source": "45th BCS (2023)"
+  }
+]
