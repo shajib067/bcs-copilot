@@ -4,9 +4,12 @@ import { colors, spacing, radius } from '../theme/colors';
 import { getCategoryById } from '../data/categories';
 import { perCategoryFromReview, buildRecommendations, headline } from '../data/recommendations';
 import { AdBanner } from '../monetization/ads';
+import { usePremium } from '../monetization/premium';
+import { isFreeQuestion } from '../data/questions';
 
 export default function ResultsScreen({ route, navigation }) {
   const { result, review } = route.params;
+  const { isPremium } = usePremium();
   const passed = result.score >= result.total * 0.5;
   const perCategory = perCategoryFromReview(review);
   const recommendations = buildRecommendations(perCategory, { minAttempts: 1, threshold: 60 });
@@ -59,7 +62,13 @@ export default function ResultsScreen({ route, navigation }) {
 
         <Text style={styles.reviewTitle}>Review Answers</Text>
         {review.map((item, i) => (
-          <ReviewCard key={item.q.id} index={i} item={item} />
+          <ReviewCard
+            key={item.q.id}
+            index={i}
+            item={item}
+            locked={!isPremium && !isFreeQuestion(item.q.id)}
+            onUnlock={() => navigation.navigate('Paywall')}
+          />
         ))}
       </ScrollView>
 
@@ -114,7 +123,7 @@ function MetaRow({ label, value }) {
   );
 }
 
-function ReviewCard({ index, item }) {
+function ReviewCard({ index, item, locked, onUnlock }) {
   const { q, picked, isCorrect } = item;
   const cat = getCategoryById(q.categoryId);
   const useBengali = q.categoryId !== 'english';
@@ -137,17 +146,25 @@ function ReviewCard({ index, item }) {
         </Text>
       </View>
       <Text style={styles.reviewQ}>{q.question}</Text>
-      <Text style={styles.reviewLine}>
-        <Text style={styles.reviewLineLabel}>Correct: </Text>
-        {labels[q.answerIndex]}. {q.options[q.answerIndex]}
-      </Text>
-      {picked !== null && picked !== q.answerIndex && (
-        <Text style={styles.reviewLine}>
-          <Text style={styles.reviewLineLabel}>Your answer: </Text>
-          {labels[picked]}. {q.options[picked]}
-        </Text>
+      {locked ? (
+        <Pressable onPress={onUnlock} style={styles.reviewLock}>
+          <Text style={styles.reviewLockText}>🔒 Unlock Premium to see the answer & explanation</Text>
+        </Pressable>
+      ) : (
+        <>
+          <Text style={styles.reviewLine}>
+            <Text style={styles.reviewLineLabel}>Correct: </Text>
+            {labels[q.answerIndex]}. {q.options[q.answerIndex]}
+          </Text>
+          {picked !== null && picked !== q.answerIndex && (
+            <Text style={styles.reviewLine}>
+              <Text style={styles.reviewLineLabel}>Your answer: </Text>
+              {labels[picked]}. {q.options[picked]}
+            </Text>
+          )}
+          <Text style={styles.reviewExplain}>{q.explanation}</Text>
+        </>
       )}
-      <Text style={styles.reviewExplain}>{q.explanation}</Text>
     </View>
   );
 }
@@ -239,6 +256,15 @@ const styles = StyleSheet.create({
   reviewLine: { fontSize: 13, color: colors.text, marginTop: 2 },
   reviewLineLabel: { color: colors.textMuted, fontWeight: '700' },
   reviewExplain: { fontSize: 12, color: colors.textMuted, marginTop: spacing.xs, fontStyle: 'italic' },
+  reviewLock: {
+    marginTop: spacing.sm,
+    backgroundColor: '#E6F4EF',
+    borderWidth: 1,
+    borderColor: colors.primary,
+    borderRadius: radius.sm,
+    padding: spacing.sm,
+  },
+  reviewLockText: { fontSize: 12, fontWeight: '700', color: colors.primary, textAlign: 'center' },
   footer: { padding: spacing.md, borderTopWidth: 1, borderTopColor: colors.border, backgroundColor: colors.card },
   bannerWrap: { alignItems: 'center', backgroundColor: colors.bg },
   homeBtn: { backgroundColor: colors.primary, padding: spacing.md, borderRadius: radius.md, alignItems: 'center' },

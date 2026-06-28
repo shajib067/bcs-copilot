@@ -1,9 +1,12 @@
+import { useState, useCallback } from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
+import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { QUESTIONS } from '../data/questions';
 import { CATEGORIES } from '../data/categories';
 import { usePremium } from '../monetization/premium';
+import { getDailyStatus, todayStr } from '../storage/dailyStore';
 import { DISCLAIMER_SHORT, DISCLAIMER_FULL } from '../legal';
 import { notify } from '../utils/confirm';
 
@@ -18,6 +21,18 @@ const TILES = [
 
 export default function HomeScreen({ navigation }) {
   const { isPremium } = usePremium();
+  const [daily, setDaily] = useState({ streak: 0, todayDone: false });
+
+  useFocusEffect(
+    useCallback(() => {
+      let on = true;
+      getDailyStatus().then((s) => on && setDaily(s));
+      return () => {
+        on = false;
+      };
+    }, [])
+  );
+
   return (
     <SafeAreaView edges={['bottom']} style={styles.safe}>
       <ScrollView contentContainerStyle={styles.container}>
@@ -30,6 +45,25 @@ export default function HomeScreen({ navigation }) {
             <Stat label="Total Marks" value="200" />
           </View>
         </View>
+
+        <Pressable
+          onPress={() =>
+            navigation.navigate('Practice', { daily: todayStr(), count: 20, title: 'Daily Challenge' })
+          }
+          style={({ pressed }) => [styles.dailyCard, pressed && { opacity: 0.92 }]}
+        >
+          <Text style={styles.dailyEmoji}>{daily.todayDone ? '✅' : '🔥'}</Text>
+          <View style={{ flex: 1 }}>
+            <Text style={styles.dailyTitle}>Daily Challenge</Text>
+            <Text style={styles.dailySub}>
+              {daily.todayDone ? "Today's 20 done — come back tomorrow" : '20 fresh questions today'}
+            </Text>
+          </View>
+          <View style={styles.streakBadge}>
+            <Text style={styles.streakNum}>{daily.streak}</Text>
+            <Text style={styles.streakLabel}>day{daily.streak === 1 ? '' : 's'}</Text>
+          </View>
+        </Pressable>
 
         {!isPremium && (
           <Pressable
@@ -109,6 +143,22 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
   },
   tileEmoji: { fontSize: 28 },
+  dailyCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFF7ED',
+    borderWidth: 1,
+    borderColor: '#FDBA74',
+    padding: spacing.md,
+    borderRadius: radius.lg,
+    gap: spacing.md,
+  },
+  dailyEmoji: { fontSize: 26 },
+  dailyTitle: { fontSize: 16, fontWeight: '800', color: '#9A3412' },
+  dailySub: { fontSize: 12, color: '#B45309', marginTop: 2 },
+  streakBadge: { alignItems: 'center', minWidth: 44 },
+  streakNum: { fontSize: 22, fontWeight: '800', color: '#EA580C' },
+  streakLabel: { fontSize: 10, color: '#B45309', fontWeight: '700' },
   premiumBanner: {
     flexDirection: 'row',
     alignItems: 'center',

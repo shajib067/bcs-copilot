@@ -3,24 +3,29 @@ import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
-import { getQuestionsByCategory, getCategorySession, getPreviousYearSession, isFreeQuestion } from '../data/questions';
+import { getQuestionsByCategory, getCategorySession, getPreviousYearSession, getWeakAreaSession, getDailyChallenge, isFreeQuestion } from '../data/questions';
 import { usePremium } from '../monetization/premium';
 import { getCategoryById } from '../data/categories';
 import { recordAnswer } from '../storage/progressStore';
 import { getFavorites, toggleFavorite } from '../storage/bookmarkStore';
+import { completeDaily } from '../storage/dailyStore';
 
 export default function PracticeScreen({ route, navigation }) {
-  const { categoryId, count, prevYear, title } = route.params;
+  const { categoryId, count, prevYear, title, weakCategories, daily } = route.params;
   const { isPremium } = usePremium();
   const isPrevYear = prevYear !== undefined && prevYear !== null;
   const category = categoryId ? getCategoryById(categoryId) : null;
   const questions = useMemo(() => {
     if (isPrevYear) return getPreviousYearSession(prevYear, count);
     const freeOnly = !isPremium;
+    if (daily) return getDailyChallenge(daily, count || 20, { freeOnly });
+    if (weakCategories && weakCategories.length) {
+      return getWeakAreaSession(weakCategories, count || 20, { freeOnly });
+    }
     return count
       ? getCategorySession(categoryId, count, { freeOnly })
       : getQuestionsByCategory(categoryId).filter((q) => isPremium || isFreeQuestion(q.id));
-  }, [categoryId, count, prevYear, isPrevYear, isPremium]);
+  }, [categoryId, count, prevYear, isPrevYear, isPremium, weakCategories, daily]);
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState(null);
   const [favs, setFavs] = useState(new Set());
@@ -67,10 +72,13 @@ export default function PracticeScreen({ route, navigation }) {
     await recordAnswer(q.id, i === q.answerIndex, q.categoryId);
   };
 
-  const handleNext = () => {
+  const handleNext = async () => {
     setSelected(null);
     if (idx + 1 < questions.length) setIdx(idx + 1);
-    else navigation.goBack();
+    else {
+      if (daily) await completeDaily();
+      navigation.goBack();
+    }
   };
 
   return (

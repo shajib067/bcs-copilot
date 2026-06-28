@@ -132,6 +132,36 @@ export function getFreeCategoryCount(categoryId) {
   return getQuestionsByCategory(categoryId).filter((q) => FREE_QUESTION_IDS.has(q.id)).length;
 }
 
+// A practice session drawn from the user's weakest categories.
+export function getWeakAreaSession(categoryIds, count = 20, { freeOnly = false } = {}) {
+  const ids = new Set(categoryIds);
+  let pool = QUESTIONS.filter((q) => ids.has(q.categoryId));
+  if (freeOnly) pool = pool.filter((q) => FREE_QUESTION_IDS.has(q.id));
+  return sample(pool, count);
+}
+
+// Deterministic daily challenge: same questions all day, new set each day,
+// fully offline (seeded by the date). Free users draw from the free pool.
+function mulberry32(a) {
+  return function () {
+    a |= 0;
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+export function getDailyChallenge(dateStr, count = 20, { freeOnly = false } = {}) {
+  const pool = (freeOnly ? QUESTIONS.filter((q) => FREE_QUESTION_IDS.has(q.id)) : QUESTIONS).slice();
+  const seed = (Number(String(dateStr).replace(/-/g, '')) || 1) + (freeOnly ? 101 : 202);
+  const rng = mulberry32(seed);
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, Math.min(count, pool.length));
+}
+
 // Offline keyword search across question text, options, explanation, subtopic.
 const BN_DIGITS = '০১২৩৪৫৬৭৮৯';
 function normalizeDigits(s) {

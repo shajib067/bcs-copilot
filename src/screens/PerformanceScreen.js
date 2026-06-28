@@ -12,7 +12,7 @@ import {
 } from '../storage/progressStore';
 import { perCategoryFromStats, buildRecommendations, headline } from '../data/recommendations';
 
-export default function PerformanceScreen() {
+export default function PerformanceScreen({ navigation }) {
   const [stats, setStats] = useState(null);
   const [history, setHistory] = useState([]);
   const [perCategory, setPerCategory] = useState([]);
@@ -79,6 +79,20 @@ export default function PerformanceScreen() {
                     </View>
                   ))}
                 </View>
+              )}
+              {recommendations.length > 0 && (
+                <Pressable
+                  onPress={() =>
+                    navigation.navigate('Practice', {
+                      weakCategories: recommendations.map((r) => r.categoryId),
+                      count: 20,
+                      title: 'Weak Areas',
+                    })
+                  }
+                  style={({ pressed }) => [styles.weakBtn, pressed && { opacity: 0.9 }]}
+                >
+                  <Text style={styles.weakBtnText}>🎯 Practice Weak Areas</Text>
+                </Pressable>
               )}
             </View>
 
@@ -188,6 +202,14 @@ const styles = StyleSheet.create({
     borderLeftColor: colors.primary,
   },
   recTitle: { fontSize: 16, fontWeight: '800', color: '#0C4A6E', marginBottom: spacing.xs },
+  weakBtn: {
+    marginTop: spacing.md,
+    backgroundColor: colors.primary,
+    paddingVertical: spacing.sm,
+    borderRadius: radius.md,
+    alignItems: 'center',
+  },
+  weakBtnText: { color: '#fff', fontSize: 15, fontWeight: '800' },
   recHeadline: { fontSize: 14, fontWeight: '700', color: '#0C4A6E' },
   recHeadlineEn: { fontSize: 12, color: '#1E40AF', marginTop: 2 },
   recList: { gap: spacing.sm, marginTop: spacing.sm },
