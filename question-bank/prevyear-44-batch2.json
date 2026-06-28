@@ -1,0 +1,886 @@
+[
+  {
+    "id": "py44-bd-30",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "গুপ্তযুগে চীনের কোন পরিব্রাজক বাংলায় আগমন করেন?",
+    "options": [
+      "হিউয়েন সাং",
+      "ফা-হিয়েন",
+      "আই সিং",
+      "মেগাস্থিনিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "গুপ্তযুগে চীনা পরিব্রাজক ফা-হিয়েন বাংলায় আসেন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-31",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "‘তমদ্দুন মজলিশ’ কে প্রতিষ্ঠা করেন?",
+    "options": [
+      "হাজী শরীয়তউল্লাহ",
+      "এ কে ফজলুল হক",
+      "আবুল কাশেম",
+      "মাওলানা ভাসানী"
+    ],
+    "answerIndex": 2,
+    "explanation": "ভাষা আন্দোলনের সূতিকাগার ‘তমদ্দুন মজলিশ’ প্রতিষ্ঠা করেন অধ্যাপক আবুল কাশেম।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-32",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "কোন দেশ বাংলা ভাষাকে তাদের অন্যতম রাষ্ট্রভাষার স্বীকৃতি দিয়েছে?",
+    "options": [
+      "লাইবেরিয়া",
+      "নামিবিয়া",
+      "হাইতি",
+      "সিয়েরা লিওন"
+    ],
+    "answerIndex": 3,
+    "explanation": "আফ্রিকার দেশ সিয়েরা লিওন বাংলাকে অন্যতম রাষ্ট্রভাষার মর্যাদা দিয়েছে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-33",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের জাতীয় প্রতীকে কয়টি তারকা আছে?",
+    "options": [
+      "২টি",
+      "৩টি",
+      "৪টি",
+      "৫টি"
+    ],
+    "answerIndex": 2,
+    "explanation": "জাতীয় প্রতীকে ৪টি তারকা রয়েছে, যা সংবিধানের চার মূলনীতির প্রতীক।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-34",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
+    "question": "‘ধর্মীয় স্বাধীনতা’ বাংলাদেশের সংবিধানের কোন অনুচ্ছেদে অন্তর্ভুক্ত?",
+    "options": [
+      "অনুচ্ছেদ ৩৮",
+      "অনুচ্ছেদ ৪১",
+      "অনুচ্ছেদ ৫০",
+      "অনুচ্ছেদ ১০০"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংবিধানের ৪১ অনুচ্ছেদে ধর্মীয় স্বাধীনতার নিশ্চয়তা দেওয়া হয়েছে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-35",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "hard",
+    "question": "মৌলিক অধিকার লঙ্ঘিত হলে সংবিধানের কোন অনুচ্ছেদের অধীনে নাগরিক মামলা করতে পারেন?",
+    "options": [
+      "৪৪",
+      "৪৭",
+      "১০২",
+      "১০৩"
+    ],
+    "answerIndex": 2,
+    "explanation": "অনুচ্ছেদ ১০২ অনুযায়ী হাইকোর্ট বিভাগে মৌলিক অধিকার বলবৎকরণের রিট করা যায়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-36",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
+    "question": "BSTI-এর পূর্ণরূপ কী?",
+    "options": [
+      "Bangladesh Salt Testing Institute",
+      "Bangladesh Standards and Testing Institution",
+      "Bangladesh Strategic Training Institute",
+      "Bangladesh Society for Telecommunication"
+    ],
+    "answerIndex": 1,
+    "explanation": "BSTI = Bangladesh Standards and Testing Institution।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-37",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "মুক্তিযুদ্ধে কতজন মুক্তিযোদ্ধাকে ‘বীর বিক্রম’ খেতাব দেওয়া হয়?",
+    "options": [
+      "৭ জন",
+      "৬৮ জন",
+      "১৭৫ জন",
+      "৪২৬ জন"
+    ],
+    "answerIndex": 2,
+    "explanation": "মুক্তিযুদ্ধে ১৭৫ জন মুক্তিযোদ্ধাকে ‘বীর বিক্রম’ খেতাব দেওয়া হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-bd-38",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "UNESCO কবে ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবসের স্বীকৃতি দেয়?",
+    "options": [
+      "১৭ নভেম্বর ১৯৯৯",
+      "১৮ নভেম্বর ১৯৯৯",
+      "১৯ নভেম্বর ২০০১",
+      "২১ ফেব্রুয়ারি ২০০০"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কো ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস ঘোষণা করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-1",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "‘আরব বসন্ত’-এর সূচনা হয় কোন দেশ থেকে?",
+    "options": [
+      "মিশর",
+      "তিউনিশিয়া",
+      "লিবিয়া",
+      "সিরিয়া"
+    ],
+    "answerIndex": 1,
+    "explanation": "২০১০ সালে তিউনিশিয়া থেকে ‘আরব বসন্ত’-এর সূচনা হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-2",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "রাশিয়া কোন সালে ক্রিমিয়া দখল করে?",
+    "options": [
+      "২০১০",
+      "২০১২",
+      "২০১৪",
+      "২০১৬"
+    ],
+    "answerIndex": 2,
+    "explanation": "২০১৪ সালে রাশিয়া ক্রিমিয়া উপদ্বীপ অধিগ্রহণ করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-3",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
+    "question": "নিচের কোন দেশটি ভেনেজুয়েলার প্রতিবেশী নয়?",
+    "options": [
+      "গায়ানা",
+      "ব্রাজিল",
+      "কলম্বিয়া",
+      "বলিভিয়া"
+    ],
+    "answerIndex": 3,
+    "explanation": "ভেনেজুয়েলার সীমান্ত গায়ানা, ব্রাজিল ও কলম্বিয়ার সাথে; বলিভিয়ার সাথে নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-4",
+    "categoryId": "intl_affairs",
+    "subTopic": "environment",
+    "difficulty": "medium",
+    "question": "কপ-২৬ (COP26) সম্মেলন কোন শহরে অনুষ্ঠিত হয়?",
+    "options": [
+      "জেনেভা",
+      "প্যারিস",
+      "গ্লাসগো",
+      "ব্রাসেলস"
+    ],
+    "answerIndex": 2,
+    "explanation": "কপ-২৬ যুক্তরাজ্যের গ্লাসগোতে অনুষ্ঠিত হয় (২০২১)।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-5",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
+    "question": "কোন দেশকে ‘ইউরোপের রুটির ঝুড়ি’ বলা হয়?",
+    "options": [
+      "জার্মানি",
+      "ইতালি",
+      "পোল্যান্ড",
+      "ইউক্রেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "উর্বর শস্যভূমির জন্য ইউক্রেনকে ‘ইউরোপের রুটির ঝুড়ি’ বলা হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "easy",
+    "question": "গণতন্ত্রের ধারণা প্রথম কোন দেশ থেকে উৎসারিত হয়?",
+    "options": [
+      "যুক্তরাষ্ট্র",
+      "প্রাচীন গ্রিস",
+      "প্রাচীন রোম",
+      "প্রাচীন ভারত"
+    ],
+    "answerIndex": 1,
+    "explanation": "গণতন্ত্রের ধারণার উৎপত্তি প্রাচীন গ্রিসের নগর-রাষ্ট্রে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "নিচের কোন দেশটি ডি-৮ (D-8) এর সদস্য নয়?",
+    "options": [
+      "জর্দান",
+      "ইরান",
+      "মিশর",
+      "মালয়েশিয়া"
+    ],
+    "answerIndex": 0,
+    "explanation": "ডি-৮ এর সদস্য ৮টি মুসলিম দেশ; জর্দান এর সদস্য নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "ওয়ার্ল্ড ইকোনমিক ফোরামের বার্ষিক অধিবেশন কোথায় হয়?",
+    "options": [
+      "প্যারিস",
+      "জুরিখ",
+      "দাভোস",
+      "বার্ন"
+    ],
+    "answerIndex": 2,
+    "explanation": "ওয়ার্ল্ড ইকোনমিক ফোরামের বার্ষিক সম্মেলন সুইজারল্যান্ডের দাভোসে হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "তাসখন্দ চুক্তি কোন দুটি দেশের মধ্যে স্বাক্ষরিত হয়?",
+    "options": [
+      "পাকিস্তান ও আফগানিস্তান",
+      "ভারত ও আফগানিস্তান",
+      "পাকিস্তান ও ভারত",
+      "আফগানিস্তান ও সোভিয়েত ইউনিয়ন"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৯৬৬ সালের তাসখন্দ চুক্তি ভারত ও পাকিস্তানের মধ্যে স্বাক্ষরিত হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "hard",
+    "question": "IUCN কখন ও কোথায় প্রতিষ্ঠিত হয়?",
+    "options": [
+      "১৯৪৮, ফ্রান্স",
+      "১৯৪৯, সুইজারল্যান্ড",
+      "১৯৬১, রোম",
+      "১৯৫২, লন্ডন"
+    ],
+    "answerIndex": 0,
+    "explanation": "IUCN ১৯৪৮ সালে ফ্রান্সে প্রতিষ্ঠিত হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-11",
+    "categoryId": "intl_affairs",
+    "subTopic": "current",
+    "difficulty": "medium",
+    "question": "‘নেকড়েযোদ্ধা কূটনীতি’ (Wolf Warrior Diplomacy) কোন দেশের সাথে সংশ্লিষ্ট?",
+    "options": [
+      "ভিয়েতনাম",
+      "উত্তর কোরিয়া",
+      "চীন",
+      "রাশিয়া"
+    ],
+    "answerIndex": 2,
+    "explanation": "আগ্রাসী ‘নেকড়েযোদ্ধা কূটনীতি’ চীনের সাথে সংশ্লিষ্ট।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-12",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি ASEAN জোটভুক্ত নয়?",
+    "options": [
+      "লাওস",
+      "হংকং",
+      "ভিয়েতনাম",
+      "কম্বোডিয়া"
+    ],
+    "answerIndex": 1,
+    "explanation": "হংকং একটি বিশেষ প্রশাসনিক অঞ্চল; ASEAN-এর সদস্য নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-13",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
+    "question": "মুক্তিযুদ্ধকালীন ‘কনসার্ট ফর বাংলাদেশ’ কোথায় অনুষ্ঠিত হয়?",
+    "options": [
+      "নিউইয়র্ক",
+      "বোস্টন",
+      "লন্ডন",
+      "ক্যানবেরা"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৯৭১ সালে নিউইয়র্কের ম্যাডিসন স্কয়ার গার্ডেনে ‘কনসার্ট ফর বাংলাদেশ’ অনুষ্ঠিত হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-int-14",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
+    "question": "আন্তর্জাতিক বিচার আদালতের (ICJ) একজন বিচারক কত বছরের জন্য নির্বাচিত হন?",
+    "options": [
+      "তিন বছর",
+      "চার বছর",
+      "সাত বছর",
+      "নয় বছর"
+    ],
+    "answerIndex": 3,
+    "explanation": "ICJ-এর বিচারকগণ ৯ বছরের জন্য নির্বাচিত হন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-1",
+    "categoryId": "geography",
+    "subTopic": "bangladesh",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের প্রথম কয়লাভিত্তিক বিদ্যুৎকেন্দ্র কোথায় অবস্থিত?",
+    "options": [
+      "কাপ্তাই, রাঙ্গামাটি",
+      "সাভার, ঢাকা",
+      "সীতাকুণ্ড, চট্টগ্রাম",
+      "বড়পুকুরিয়া, দিনাজপুর"
+    ],
+    "answerIndex": 3,
+    "explanation": "বাংলাদেশের প্রথম কয়লাভিত্তিক বিদ্যুৎকেন্দ্র দিনাজপুরের বড়পুকুরিয়ায়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-2",
+    "categoryId": "geography",
+    "subTopic": "earth",
+    "difficulty": "medium",
+    "question": "কোন ধরনের শিলায় জীবাশ্ম থাকার সম্ভাবনা থাকে?",
+    "options": [
+      "আগ্নেয় শিলা",
+      "রূপান্তরিত শিলা",
+      "পাললিক শিলা",
+      "কোনোটিই নয়"
+    ],
+    "answerIndex": 2,
+    "explanation": "স্তরে স্তরে সঞ্চিত হওয়ায় পাললিক শিলায় জীবাশ্ম সংরক্ষিত থাকে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-3",
+    "categoryId": "geography",
+    "subTopic": "disaster",
+    "difficulty": "medium",
+    "question": "নিচের কোন দুর্যোগের কার্যকর পূর্বাভাস দেওয়া সম্ভব নয়?",
+    "options": [
+      "বন্যা",
+      "ভূমিকম্প",
+      "ঘূর্ণিঝড়",
+      "খরা"
+    ],
+    "answerIndex": 1,
+    "explanation": "ভূমিকম্পের সময় ও স্থানের নির্ভরযোগ্য পূর্বাভাস এখনো সম্ভব নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-4",
+    "categoryId": "geography",
+    "subTopic": "resources",
+    "difficulty": "easy",
+    "question": "নিচের কোনটি নবায়নযোগ্য সম্পদ?",
+    "options": [
+      "প্রাকৃতিক গ্যাস",
+      "চুনাপাথর",
+      "বায়ু",
+      "কয়লা"
+    ],
+    "answerIndex": 2,
+    "explanation": "বায়ু একটি নবায়নযোগ্য সম্পদ; বাকিগুলো অনবায়নযোগ্য।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-5",
+    "categoryId": "geography",
+    "subTopic": "bangladesh",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি বাংলাদেশের বৃহত্তম গ্যাসক্ষেত্র?",
+    "options": [
+      "বাখরাবাদ",
+      "হরিপুর",
+      "তিতাস",
+      "হবিগঞ্জ"
+    ],
+    "answerIndex": 2,
+    "explanation": "তিতাস বাংলাদেশের বৃহত্তম গ্যাসক্ষেত্র।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-6",
+    "categoryId": "geography",
+    "subTopic": "bangladesh",
+    "difficulty": "medium",
+    "question": "বাংলাদেশের জি-কে (G-K) প্রকল্প কী ধরনের প্রকল্প?",
+    "options": [
+      "জলবিদ্যুৎ প্রকল্প",
+      "নদী নিয়ন্ত্রণ প্রকল্প",
+      "সেচ প্রকল্প",
+      "জল পরিবহন প্রকল্প"
+    ],
+    "answerIndex": 2,
+    "explanation": "গঙ্গা-কপোতাক্ষ (জি-কে) প্রকল্প দেশের বৃহত্তম সেচ প্রকল্প।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-7",
+    "categoryId": "geography",
+    "subTopic": "environment",
+    "difficulty": "easy",
+    "question": "‘COP’ বলতে কী বোঝায়?",
+    "options": [
+      "Conference of Paris",
+      "Conference of the Power",
+      "Conference of the Parties",
+      "Conference of the Protocol"
+    ],
+    "answerIndex": 2,
+    "explanation": "COP = Conference of the Parties, জাতিসংঘ জলবায়ু সম্মেলন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-geo-8",
+    "categoryId": "geography",
+    "subTopic": "bangladesh",
+    "difficulty": "hard",
+    "question": "ডাউকি ফল্ট বরাবর প্রচণ্ড ভূমিকম্পের পর বাংলাদেশের কোন নদী গতিপথ পরিবর্তন করে?",
+    "options": [
+      "ব্রহ্মপুত্র",
+      "পদ্মা",
+      "কর্ণফুলী",
+      "মেঘনা"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৭৬২ সালের ভূমিকম্পের পর ব্রহ্মপুত্র নদ তার গতিপথ পরিবর্তন করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-1",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "hard",
+    "question": "সুপরিবাহী পদার্থে ভ্যালেন্স ব্যান্ড ও কন্ডাকশন ব্যান্ড—",
+    "options": [
+      "আলাদা থাকে",
+      "ওভারল্যাপ করে",
+      "অনেক দূরে থাকে",
+      "কোনোটিই নয়"
+    ],
+    "answerIndex": 1,
+    "explanation": "সুপরিবাহীতে ভ্যালেন্স ও কন্ডাকশন ব্যান্ড ওভারল্যাপ করে বলে সহজে তড়িৎ পরিবহন হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-2",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
+    "question": "ফটোগ্রাফিক প্লেটে আবরণ হিসেবে কী থাকে?",
+    "options": [
+      "সিলভার ব্রোমাইড",
+      "সিলভার ক্লোরাইড",
+      "অ্যামোনিয়াম ক্লোরাইড",
+      "সিলভার ফ্লোরাইড"
+    ],
+    "answerIndex": 0,
+    "explanation": "ফটোগ্রাফিক প্লেটে আলোক-সংবেদী সিলভার ব্রোমাইডের আবরণ থাকে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-3",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
+    "question": "বজ্রবৃষ্টির ফলে মাটিতে উদ্ভিদের কোন খাদ্য উপাদান বৃদ্ধি পায়?",
+    "options": [
+      "নাইট্রোজেন",
+      "পটাশিয়াম",
+      "অক্সিজেন",
+      "ফসফরাস"
+    ],
+    "answerIndex": 0,
+    "explanation": "বজ্রপাতে বায়ুর নাইট্রোজেন স্থিরীকৃত হয়ে মাটিতে নাইট্রোজেন সারে পরিণত হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-4",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "ফলিক এসিডের অপর নাম কী?",
+    "options": [
+      "ভিটামিন বি১২",
+      "ভিটামিন বি৬",
+      "ভিটামিন বি১",
+      "ভিটামিন বি৯"
+    ],
+    "answerIndex": 3,
+    "explanation": "ফলিক এসিডের অপর নাম ভিটামিন বি৯।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-5",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "নিচের কোনটির কারণে শৈশব-অন্ধত্ব হতে পারে?",
+    "options": [
+      "এইচআইভি/এইডস",
+      "ম্যালেরিয়া",
+      "হাম",
+      "যক্ষ্মা"
+    ],
+    "answerIndex": 2,
+    "explanation": "ভিটামিন-এ ঘাটতিসহ হাম শৈশব-অন্ধত্বের একটি কারণ।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-6",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "ব্যাকটেরিয়ার গতিশীলতার জন্য দায়ী গঠন কোনটি?",
+    "options": [
+      "পিলি",
+      "ফ্ল্যাজেলা",
+      "শীথ",
+      "ক্যাপসুল"
+    ],
+    "answerIndex": 1,
+    "explanation": "ফ্ল্যাজেলা ব্যাকটেরিয়ার গতিশীলতার জন্য দায়ী।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-7",
+    "categoryId": "science",
+    "subTopic": "astronomy",
+    "difficulty": "medium",
+    "question": "‘কেপলার-৪৫২বি’ কী?",
+    "options": [
+      "একটি মহাকাশযান",
+      "পৃথিবীর মতো একটি গ্রহ",
+      "সূর্যের মতো একটি নক্ষত্র",
+      "একটি টেলিস্কোপ"
+    ],
+    "answerIndex": 1,
+    "explanation": "কেপলার-৪৫২বি পৃথিবীসদৃশ একটি বহির্গ্রহ (exoplanet)।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-8",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
+    "question": "এনজাইম, অ্যান্টিবডি ও হরমোনের মৌলিক উপাদান কী?",
+    "options": [
+      "প্রোটিন",
+      "ক্যালসিয়াম",
+      "ভিটামিন",
+      "লবণ"
+    ],
+    "answerIndex": 0,
+    "explanation": "এনজাইম, অ্যান্টিবডি ও অধিকাংশ হরমোনের মৌলিক উপাদান প্রোটিন।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-9",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "medium",
+    "question": "পরম শূন্য তাপমাত্রা কোনটি?",
+    "options": [
+      "২৭৩° সেলসিয়াস",
+      "-২৭৩° ফারেনহাইট",
+      "০° সেলসিয়াস",
+      "০° কেলভিন"
+    ],
+    "answerIndex": 3,
+    "explanation": "পরম শূন্য তাপমাত্রা ০ কেলভিন (প্রায় -২৭৩.১৫° সেলসিয়াস)।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-10",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "hard",
+    "question": "আদর্শ ভোল্টেজ উৎসের অভ্যন্তরীণ রোধ কত?",
+    "options": [
+      "অসীম",
+      "শূন্য",
+      "অতি ক্ষুদ্র",
+      "অনেক বড়"
+    ],
+    "answerIndex": 1,
+    "explanation": "আদর্শ ভোল্টেজ উৎসের অভ্যন্তরীণ রোধ শূন্য ধরা হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-sc-11",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "hard",
+    "question": "নিচের কোন জোড়াটি বেমানান?",
+    "options": [
+      "যক্ষ্মার জীবাণু : রবার্ট কখ",
+      "হোমিওপ্যাথি : হ্যানিম্যান",
+      "ব্যাকটেরিয়া : রবার্ট হুক",
+      "অ্যানাটমি : ভেসালিয়াস"
+    ],
+    "answerIndex": 2,
+    "explanation": "ব্যাকটেরিয়া আবিষ্কার করেন লিউয়েনহুক, রবার্ট হুক নন—তাই জোড়াটি বেমানান।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-1",
+    "categoryId": "ict",
+    "subTopic": "database",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি Structured Query Language (SQL) নয়?",
+    "options": [
+      "Java",
+      "MySQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "answerIndex": 0,
+    "explanation": "Java একটি প্রোগ্রামিং ভাষা; এটি SQL নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-2",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
+    "question": "ইন্টারনেটে hostname-কে IP address-এ অনুবাদ করে কোনটি?",
+    "options": [
+      "FTP Server",
+      "Firewall",
+      "DNS Server",
+      "Gateway"
+    ],
+    "answerIndex": 2,
+    "explanation": "DNS সার্ভার hostname-কে সংশ্লিষ্ট IP address-এ রূপান্তর করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-3",
+    "categoryId": "ict",
+    "subTopic": "cloud",
+    "difficulty": "medium",
+    "question": "আমাজনের ক্লাউড প্ল্যাটফর্ম কোনটি?",
+    "options": [
+      "Azure",
+      "AWS",
+      "Cloudera",
+      "GCP"
+    ],
+    "answerIndex": 1,
+    "explanation": "আমাজনের ক্লাউড প্ল্যাটফর্ম AWS (Amazon Web Services)।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-4",
+    "categoryId": "ict",
+    "subTopic": "security",
+    "difficulty": "medium",
+    "question": "কোন সাইবার আক্রমণে সিস্টেম লক করে ব্যবহার-উপযোগী করতে অর্থ দাবি করা হয়?",
+    "options": [
+      "Phishing",
+      "Denial of Service",
+      "Ransomware",
+      "Man-in-the-Middle"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ransomware ফাইল/সিস্টেম এনক্রিপ্ট করে মুক্তিপণ দাবি করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-5",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "medium",
+    "question": "SCSI-এর পূর্ণরূপ কী?",
+    "options": [
+      "Small Computer System Interface",
+      "Small Computer Software Interface",
+      "Small Computer Storage Interface",
+      "Small Computer Standard Interface"
+    ],
+    "answerIndex": 0,
+    "explanation": "SCSI = Small Computer System Interface।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-6",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "easy",
+    "question": "নিচের কোন ডিভাইসটি ইনপুট ও আউটপুট উভয় হিসেবে কাজ করে?",
+    "options": [
+      "Scanner",
+      "Mouse",
+      "Touch Screen",
+      "Projector"
+    ],
+    "answerIndex": 2,
+    "explanation": "টাচ স্ক্রিন একইসাথে ইনপুট ও আউটপুট ডিভাইস হিসেবে কাজ করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-7",
+    "categoryId": "ict",
+    "subTopic": "number_system",
+    "difficulty": "hard",
+    "question": "ডেসিমেল ৫৫-এর সমতুল্য অক্টাল সংখ্যা কোনটি?",
+    "options": [
+      "৫৫",
+      "৬৭",
+      "৭৭",
+      "৮৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "৫৫ ÷ ৮ = ৬ ভাগশেষ ৭, তাই অক্টালে (৬৭)₈।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-8",
+    "categoryId": "ict",
+    "subTopic": "software",
+    "difficulty": "medium",
+    "question": "নিচের কোনটি সিস্টেম সফটওয়্যার নয়?",
+    "options": [
+      "Linux",
+      "Android",
+      "Mozilla Firefox",
+      "Apple iOS"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mozilla Firefox একটি অ্যাপ্লিকেশন সফটওয়্যার (ব্রাউজার), সিস্টেম সফটওয়্যার নয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-9",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
+    "question": "ইন্টারনেটে তথ্য আদান-প্রদানের নিরাপত্তা নিশ্চিত করে কোন প্রোটোকল?",
+    "options": [
+      "FTP",
+      "HTTPS",
+      "TCP",
+      "DNS"
+    ],
+    "answerIndex": 1,
+    "explanation": "HTTPS এনক্রিপশনের মাধ্যমে নিরাপদ তথ্য আদান-প্রদান নিশ্চিত করে।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  },
+  {
+    "id": "py44-ict-10",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
+    "question": "এক মেশিন থেকে অন্য মেশিনে ই-মেইল স্থানান্তরে কোন প্রোটোকল ব্যবহৃত হয়?",
+    "options": [
+      "FTP",
+      "RPC",
+      "SNMP",
+      "SMTP"
+    ],
+    "answerIndex": 3,
+    "explanation": "ই-মেইল প্রেরণে SMTP (Simple Mail Transfer Protocol) ব্যবহৃত হয়।",
+    "year": 44,
+    "source": "44th BCS (2022)"
+  }
+]
