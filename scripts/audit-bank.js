@@ -1,5 +1,5 @@
 const fs = require('fs'), path = require('path');
-const dir = path.join(__dirname, 'question-bank');
+const dir = path.join(__dirname, '..', 'question-bank');
 let all = [];
 for (const f of fs.readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   const arr = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));

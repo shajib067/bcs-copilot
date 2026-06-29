@@ -4,7 +4,12 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"অগ্নিবীণা\" কাব্যগ্রন্থের রচয়িতা কে?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জসীম উদ্‌দীন", "সুকান্ত ভট্টাচার্য"],
+    "options": [
+      "জসীম উদ্‌দীন",
+      "কাজী নজরুল ইসলাম",
+      "সুকান্ত ভট্টাচার্য",
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
     "answerIndex": 1,
     "explanation": "\"অগ্নিবীণা\" কাজী নজরুল ইসলামের প্রথম কাব্যগ্রন্থ, প্রকাশিত হয় ১৯২২ সালে।"
   },
@@ -13,7 +18,12 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"পদ্মা নদীর মাঝি\" উপন্যাসের রচয়িতা কে?",
-    "options": ["মানিক বন্দ্যোপাধ্যায়", "তারাশঙ্কর বন্দ্যোপাধ্যায়", "বিভূতিভূষণ বন্দ্যোপাধ্যায়", "শরৎচন্দ্র চট্টোপাধ্যায়"],
+    "options": [
+      "মানিক বন্দ্যোপাধ্যায়",
+      "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
     "answerIndex": 0,
     "explanation": "\"পদ্মা নদীর মাঝি\" মানিক বন্দ্যোপাধ্যায়ের রচিত উপন্যাস, প্রকাশিত হয় ১৯৩৬ সালে।"
   },
@@ -22,8 +32,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"চর্যাপদ\" আবিষ্কার করেন কে?",
-    "options": ["হরপ্রসাদ শাস্ত্রী", "সুনীতিকুমার চট্টোপাধ্যায়", "মুহম্মদ শহীদুল্লাহ", "দীনেশচন্দ্র সেন"],
-    "answerIndex": 0,
+    "options": [
+      "সুনীতিকুমার চট্টোপাধ্যায়",
+      "মুহম্মদ শহীদুল্লাহ",
+      "দীনেশচন্দ্র সেন",
+      "হরপ্রসাদ শাস্ত্রী"
+    ],
+    "answerIndex": 3,
     "explanation": "মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রাজদরবার থেকে চর্যাপদ আবিষ্কার করেন।"
   },
   {
@@ -31,8 +46,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "বাংলা ভাষার প্রথম মুসলিম কবি কে?",
-    "options": ["শাহ মুহাম্মদ সগীর", "আলাওল", "দৌলত কাজী", "সৈয়দ সুলতান"],
-    "answerIndex": 0,
+    "options": [
+      "আলাওল",
+      "সৈয়দ সুলতান",
+      "শাহ মুহাম্মদ সগীর",
+      "দৌলত কাজী"
+    ],
+    "answerIndex": 2,
     "explanation": "শাহ মুহাম্মদ সগীর বাংলা ভাষার প্রথম মুসলিম কবি; তাঁর রচিত কাব্য \"ইউসুফ-জুলেখা\"।"
   },
   {
@@ -40,7 +60,12 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"কপালকুণ্ডলা\" কোন ধরনের রচনা?",
-    "options": ["উপন্যাস", "নাটক", "কাব্যগ্রন্থ", "প্রবন্ধ"],
+    "options": [
+      "উপন্যাস",
+      "কাব্যগ্রন্থ",
+      "নাটক",
+      "প্রবন্ধ"
+    ],
     "answerIndex": 0,
     "explanation": "\"কপালকুণ্ডলা\" বঙ্কিমচন্দ্র চট্টোপাধ্যায় রচিত রোমান্টিক উপন্যাস (১৮৬৬)।"
   },
@@ -49,7 +74,12 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "বাংলা সাহিত্যের প্রথম সার্থক উপন্যাস কোনটি?",
-    "options": ["দুর্গেশনন্দিনী", "আনন্দমঠ", "কৃষ্ণকান্তের উইল", "বিষবৃক্ষ"],
+    "options": [
+      "দুর্গেশনন্দিনী",
+      "বিষবৃক্ষ",
+      "আনন্দমঠ",
+      "কৃষ্ণকান্তের উইল"
+    ],
     "answerIndex": 0,
     "explanation": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের \"দুর্গেশনন্দিনী\" (১৮৬৫) বাংলা সাহিত্যের প্রথম সার্থক উপন্যাস।"
   },
@@ -58,8 +88,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "জাতীয় কবি কাজী নজরুল ইসলাম কত সালে জন্মগ্রহণ করেন?",
-    "options": ["১৮৯৯", "১৯০১", "১৯০৫", "১৯০৩"],
-    "answerIndex": 0,
+    "options": [
+      "১৯০১",
+      "১৯০৩",
+      "১৯০৫",
+      "১৮৯৯"
+    ],
+    "answerIndex": 3,
     "explanation": "কাজী নজরুল ইসলাম ১৮৯৯ সালের ২৪ মে (১১ জ্যৈষ্ঠ ১৩০৬) পশ্চিমবঙ্গের চুরুলিয়ায় জন্মগ্রহণ করেন।"
   },
   {
@@ -67,8 +102,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "রবীন্দ্রনাথ ঠাকুর কোন গ্রন্থের জন্য নোবেল পুরস্কার পান?",
-    "options": ["গীতাঞ্জলি", "সোনার তরী", "চিত্রা", "বলাকা"],
-    "answerIndex": 0,
+    "options": [
+      "বলাকা",
+      "চিত্রা",
+      "সোনার তরী",
+      "গীতাঞ্জলি"
+    ],
+    "answerIndex": 3,
     "explanation": "রবীন্দ্রনাথ ১৯১৩ সালে \"গীতাঞ্জলি\" (Song Offerings) কাব্যের জন্য সাহিত্যে নোবেল পুরস্কার লাভ করেন।"
   },
   {
@@ -76,8 +116,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"নকশী কাঁথার মাঠ\" কাব্যের রচয়িতা কে?",
-    "options": ["জসীম উদ্‌দীন", "জীবনানন্দ দাশ", "কাজী নজরুল ইসলাম", "সুকান্ত ভট্টাচার্য"],
-    "answerIndex": 0,
+    "options": [
+      "জীবনানন্দ দাশ",
+      "সুকান্ত ভট্টাচার্য",
+      "জসীম উদ্‌দীন",
+      "কাজী নজরুল ইসলাম"
+    ],
+    "answerIndex": 2,
     "explanation": "পল্লীকবি জসীম উদ্‌দীনের বিখ্যাত কাব্য \"নকশী কাঁথার মাঠ\" প্রকাশিত হয় ১৯২৯ সালে।"
   },
   {
@@ -85,8 +130,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "বাংলা গদ্যের জনক কে?",
-    "options": ["ঈশ্বরচন্দ্র বিদ্যাসাগর", "রাজা রামমোহন রায়", "বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "প্রমথ চৌধুরী"],
-    "answerIndex": 0,
+    "options": [
+      "প্রমথ চৌধুরী",
+      "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "রাজা রামমোহন রায়",
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "answerIndex": 1,
     "explanation": "ঈশ্বরচন্দ্র বিদ্যাসাগরকে বাংলা গদ্যের জনক বলা হয়; তিনি গদ্যে যতিচিহ্নের প্রচলন করেন।"
   },
   {
@@ -94,8 +144,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"বিদ্রোহী\" কবিতাটি প্রথম কোন পত্রিকায় প্রকাশিত হয়?",
-    "options": ["বিজলী", "সবুজপত্র", "ধূমকেতু", "কল্লোল"],
-    "answerIndex": 0,
+    "options": [
+      "সবুজপত্র",
+      "বিজলী",
+      "কল্লোল",
+      "ধূমকেতু"
+    ],
+    "answerIndex": 1,
     "explanation": "নজরুলের \"বিদ্রোহী\" কবিতা ১৯২২ সালে \"বিজলী\" পত্রিকায় প্রথম প্রকাশিত হয়।"
   },
   {
@@ -103,8 +158,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"একুশে ফেব্রুয়ারি\" নিয়ে রচিত \"আমার ভাইয়ের রক্তে রাঙানো\" গানটির রচয়িতা কে?",
-    "options": ["আব্দুল গাফফার চৌধুরী", "আলতাফ মাহমুদ", "আবু জাফর ওবায়দুল্লাহ", "শামসুর রাহমান"],
-    "answerIndex": 0,
+    "options": [
+      "আলতাফ মাহমুদ",
+      "আবু জাফর ওবায়দুল্লাহ",
+      "শামসুর রাহমান",
+      "আব্দুল গাফফার চৌধুরী"
+    ],
+    "answerIndex": 3,
     "explanation": "অমর একুশের এই গানের রচয়িতা আব্দুল গাফফার চৌধুরী; সুর করেন আলতাফ মাহমুদ।"
   },
   {
@@ -112,8 +172,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"সঞ্চয়িতা\" কার কবিতা সংকলন?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জীবনানন্দ দাশ", "সত্যেন্দ্রনাথ দত্ত"],
-    "answerIndex": 0,
+    "options": [
+      "কাজী নজরুল ইসলাম",
+      "জীবনানন্দ দাশ",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "সত্যেন্দ্রনাথ দত্ত"
+    ],
+    "answerIndex": 2,
     "explanation": "\"সঞ্চয়িতা\" রবীন্দ্রনাথ ঠাকুরের কবিতার সংকলন; নজরুলেরও একই নামে \"সঞ্চিতা\" রয়েছে।"
   },
   {
@@ -121,8 +186,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"কবর\" কবিতাটি কার রচনা?",
-    "options": ["জসীম উদ্‌দীন", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জীবনানন্দ দাশ"],
-    "answerIndex": 0,
+    "options": [
+      "জীবনানন্দ দাশ",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "কাজী নজরুল ইসলাম",
+      "জসীম উদ্‌দীন"
+    ],
+    "answerIndex": 3,
     "explanation": "\"কবর\" পল্লীকবি জসীম উদ্‌দীনের বিখ্যাত কবিতা, প্রকাশিত হয় কল্লোল পত্রিকায়।"
   },
   {
@@ -130,8 +200,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"মহাশ্মশান\" মহাকাব্যের রচয়িতা কে?",
-    "options": ["কায়কোবাদ", "মাইকেল মধুসূদন দত্ত", "হেমচন্দ্র বন্দ্যোপাধ্যায়", "নবীনচন্দ্র সেন"],
-    "answerIndex": 0,
+    "options": [
+      "নবীনচন্দ্র সেন",
+      "কায়কোবাদ",
+      "হেমচন্দ্র বন্দ্যোপাধ্যায়",
+      "মাইকেল মধুসূদন দত্ত"
+    ],
+    "answerIndex": 1,
     "explanation": "\"মহাশ্মশান\" মহাকাব্যটির রচয়িতা কায়কোবাদ (কাজেম আলী কোরেশী)।"
   },
   {
@@ -139,7 +214,12 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "বাংলা সাহিত্যে \"ছন্দের জাদুকর\" বলা হয় কাকে?",
-    "options": ["সত্যেন্দ্রনাথ দত্ত", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জীবনানন্দ দাশ"],
+    "options": [
+      "সত্যেন্দ্রনাথ দত্ত",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "জীবনানন্দ দাশ",
+      "কাজী নজরুল ইসলাম"
+    ],
     "answerIndex": 0,
     "explanation": "সত্যেন্দ্রনাথ দত্তকে ছন্দের বৈচিত্র্যের জন্য \"ছন্দের জাদুকর\" বলা হয়।"
   },
@@ -148,8 +228,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"মেঘনাদবধ কাব্য\" কে রচনা করেন?",
-    "options": ["মাইকেল মধুসূদন দত্ত", "বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "ঈশ্বরচন্দ্র গুপ্ত", "হেমচন্দ্র বন্দ্যোপাধ্যায়"],
-    "answerIndex": 0,
+    "options": [
+      "ঈশ্বরচন্দ্র গুপ্ত",
+      "মাইকেল মধুসূদন দত্ত",
+      "হেমচন্দ্র বন্দ্যোপাধ্যায়",
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "answerIndex": 1,
     "explanation": "\"মেঘনাদবধ কাব্য\" (১৮৬১) মাইকেল মধুসূদন দত্তের রচিত অমিত্রাক্ষর ছন্দের মহাকাব্য।"
   },
   {
@@ -157,8 +242,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "বাংলা ভাষায় অমিত্রাক্ষর ছন্দের প্রবর্তক কে?",
-    "options": ["মাইকেল মধুসূদন দত্ত", "রবীন্দ্রনাথ ঠাকুর", "ঈশ্বরচন্দ্র বিদ্যাসাগর", "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"],
-    "answerIndex": 0,
+    "options": [
+      "রবীন্দ্রনাথ ঠাকুর",
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "মাইকেল মধুসূদন দত্ত"
+    ],
+    "answerIndex": 3,
     "explanation": "মাইকেল মধুসূদন দত্ত বাংলা সাহিত্যে অমিত্রাক্ষর ছন্দের প্রবর্তন করেন।"
   },
   {
@@ -166,8 +256,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"সোনার তরী\" কাব্যগ্রন্থটি কার লেখা?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "জীবনানন্দ দাশ", "মাইকেল মধুসূদন দত্ত"],
-    "answerIndex": 0,
+    "options": [
+      "কাজী নজরুল ইসলাম",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "জীবনানন্দ দাশ",
+      "মাইকেল মধুসূদন দত্ত"
+    ],
+    "answerIndex": 1,
     "explanation": "\"সোনার তরী\" রবীন্দ্রনাথ ঠাকুরের কাব্যগ্রন্থ, প্রকাশিত ১৮৯৪ সালে।"
   },
   {
@@ -175,8 +270,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"লালসালু\" উপন্যাসের লেখক কে?",
-    "options": ["সৈয়দ ওয়ালীউল্লাহ", "শওকত ওসমান", "আবু ইসহাক", "আলাউদ্দিন আল আজাদ"],
-    "answerIndex": 0,
+    "options": [
+      "আবু ইসহাক",
+      "শওকত ওসমান",
+      "আলাউদ্দিন আল আজাদ",
+      "সৈয়দ ওয়ালীউল্লাহ"
+    ],
+    "answerIndex": 3,
     "explanation": "\"লালসালু\" (১৯৪৮) সৈয়দ ওয়ালীউল্লাহর বিখ্যাত উপন্যাস।"
   },
   {
@@ -184,8 +284,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"আরেক ফাল্গুন\" উপন্যাসের রচয়িতা কে?",
-    "options": ["জহির রায়হান", "শহীদুল্লাহ কায়সার", "আবু ইসহাক", "শওকত ওসমান"],
-    "answerIndex": 0,
+    "options": [
+      "আবু ইসহাক",
+      "শহীদুল্লাহ কায়সার",
+      "শওকত ওসমান",
+      "জহির রায়হান"
+    ],
+    "answerIndex": 3,
     "explanation": "ভাষা আন্দোলন-ভিত্তিক \"আরেক ফাল্গুন\" উপন্যাসটি জহির রায়হানের রচনা।"
   },
   {
@@ -193,8 +298,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"গীতাঞ্জলি\" ইংরেজিতে অনুবাদ করেন কে?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর নিজে", "ডব্লিউ বি ইয়েটস", "এজরা পাউন্ড", "টি এস এলিয়ট"],
-    "answerIndex": 0,
+    "options": [
+      "এজরা পাউন্ড",
+      "ডব্লিউ বি ইয়েটস",
+      "টি এস এলিয়ট",
+      "রবীন্দ্রনাথ ঠাকুর নিজে"
+    ],
+    "answerIndex": 3,
     "explanation": "রবীন্দ্রনাথ নিজেই \"গীতাঞ্জলি\"-র ইংরেজি অনুবাদ করেন; ভূমিকা লেখেন ডব্লিউ বি ইয়েটস।"
   },
   {
@@ -202,8 +312,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"নীল দর্পণ\" নাটকটি কে রচনা করেন?",
-    "options": ["দীনবন্ধু মিত্র", "মাইকেল মধুসূদন দত্ত", "গিরিশচন্দ্র ঘোষ", "রামনারায়ণ তর্করত্ন"],
-    "answerIndex": 0,
+    "options": [
+      "গিরিশচন্দ্র ঘোষ",
+      "দীনবন্ধু মিত্র",
+      "রামনারায়ণ তর্করত্ন",
+      "মাইকেল মধুসূদন দত্ত"
+    ],
+    "answerIndex": 1,
     "explanation": "নীলকর সাহেবদের অত্যাচার নিয়ে \"নীল দর্পণ\" নাটকটি দীনবন্ধু মিত্র রচনা করেন (১৮৬০)।"
   },
   {
@@ -211,8 +326,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"সারে জাঁহাসে আচ্ছা\" গানের রচয়িতা কে?",
-    "options": ["আল্লামা ইকবাল", "রবীন্দ্রনাথ ঠাকুর", "কাজী নজরুল ইসলাম", "বঙ্কিমচন্দ্র"],
-    "answerIndex": 0,
+    "options": [
+      "রবীন্দ্রনাথ ঠাকুর",
+      "কাজী নজরুল ইসলাম",
+      "বঙ্কিমচন্দ্র",
+      "আল্লামা ইকবাল"
+    ],
+    "answerIndex": 3,
     "explanation": "\"সারে জাঁহাসে আচ্ছা\" গানটি কবি মুহাম্মদ ইকবালের রচনা।"
   },
   {
@@ -220,8 +340,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "নিচের কোনটি শুদ্ধ বানান?",
-    "options": ["মুমূর্ষু", "মুমুর্ষু", "মূমুর্ষু", "মুমূর্ষূ"],
-    "answerIndex": 0,
+    "options": [
+      "মুমুর্ষু",
+      "মূমুর্ষু",
+      "মুমূর্ষূ",
+      "মুমূর্ষু"
+    ],
+    "answerIndex": 3,
     "explanation": "শুদ্ধ বানান \"মুমূর্ষু\"।"
   },
   {
@@ -229,8 +354,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"যিনি বক্তৃতা দানে পটু\" — এক কথায় কী হবে?",
-    "options": ["বাগ্মী", "বক্তা", "সুবক্তা", "বাচাল"],
-    "answerIndex": 0,
+    "options": [
+      "বক্তা",
+      "বাচাল",
+      "সুবক্তা",
+      "বাগ্মী"
+    ],
+    "answerIndex": 3,
     "explanation": "যিনি বক্তৃতা দানে পটু তিনি \"বাগ্মী\"।"
   },
   {
@@ -238,8 +368,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"হাত-ভারি\" বাগধারাটির অর্থ কী?",
-    "options": ["কৃপণ", "দাতা", "দুর্বল", "পরিশ্রমী"],
-    "answerIndex": 0,
+    "options": [
+      "দাতা",
+      "পরিশ্রমী",
+      "কৃপণ",
+      "দুর্বল"
+    ],
+    "answerIndex": 2,
     "explanation": "\"হাত-ভারি\" বাগধারার অর্থ কৃপণ বা ব্যয়কুণ্ঠ।"
   },
   {
@@ -247,8 +382,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"চাঁদ\" শব্দের সমার্থক শব্দ কোনটি নয়?",
-    "options": ["তপন", "শশী", "বিধু", "ইন্দু"],
-    "answerIndex": 0,
+    "options": [
+      "বিধু",
+      "তপন",
+      "শশী",
+      "ইন্দু"
+    ],
+    "answerIndex": 1,
     "explanation": "তপন অর্থ সূর্য; শশী, বিধু, ইন্দু সবই চাঁদের সমার্থক।"
   },
   {
@@ -256,8 +396,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"পরাজয়\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["পরা + জয়", "পর + জয়", "পরাঃ + জয়", "পরি + জয়"],
-    "answerIndex": 0,
+    "options": [
+      "পর + জয়",
+      "পরি + জয়",
+      "পরা + জয়",
+      "পরাঃ + জয়"
+    ],
+    "answerIndex": 2,
     "explanation": "\"পরাজয়\" = পরা + জয়।"
   },
   {
@@ -265,7 +410,12 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "বাংলা বর্ণমালায় স্বরবর্ণ কয়টি?",
-    "options": ["১১টি", "১০টি", "৯টি", "৭টি"],
+    "options": [
+      "১১টি",
+      "৯টি",
+      "৭টি",
+      "১০টি"
+    ],
     "answerIndex": 0,
     "explanation": "বাংলা বর্ণমালায় স্বরবর্ণ ১১টি এবং ব্যঞ্জনবর্ণ ৩৯টি।"
   },
@@ -274,8 +424,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"ঢাকা প্রকাশ\" পত্রিকার সম্পাদক কে ছিলেন?",
-    "options": ["কৃষ্ণচন্দ্র মজুমদার", "ঈশ্বরচন্দ্র গুপ্ত", "প্যারীচাঁদ মিত্র", "কালীপ্রসন্ন সিংহ"],
-    "answerIndex": 0,
+    "options": [
+      "কালীপ্রসন্ন সিংহ",
+      "কৃষ্ণচন্দ্র মজুমদার",
+      "প্যারীচাঁদ মিত্র",
+      "ঈশ্বরচন্দ্র গুপ্ত"
+    ],
+    "answerIndex": 1,
     "explanation": "\"ঢাকা প্রকাশ\" (১৮৬১) পত্রিকার সম্পাদক ছিলেন কৃষ্ণচন্দ্র মজুমদার।"
   },
   {
@@ -283,8 +438,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"হাজার বছর ধরে\" উপন্যাসের লেখক কে?",
-    "options": ["জহির রায়হান", "আবু ইসহাক", "শওকত আলী", "হাসান আজিজুল হক"],
-    "answerIndex": 0,
+    "options": [
+      "আবু ইসহাক",
+      "জহির রায়হান",
+      "হাসান আজিজুল হক",
+      "শওকত আলী"
+    ],
+    "answerIndex": 1,
     "explanation": "\"হাজার বছর ধরে\" উপন্যাসটি জহির রায়হানের রচনা, যা আদমজী পুরস্কার পায়।"
   },
   {
@@ -292,8 +452,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"সূর্য দীঘল বাড়ী\" উপন্যাসের রচয়িতা কে?",
-    "options": ["আবু ইসহাক", "শওকত ওসমান", "আলাউদ্দিন আল আজাদ", "সৈয়দ ওয়ালীউল্লাহ"],
-    "answerIndex": 0,
+    "options": [
+      "আলাউদ্দিন আল আজাদ",
+      "সৈয়দ ওয়ালীউল্লাহ",
+      "শওকত ওসমান",
+      "আবু ইসহাক"
+    ],
+    "answerIndex": 3,
     "explanation": "\"সূর্য দীঘল বাড়ী\" আবু ইসহাকের বিখ্যাত উপন্যাস।"
   },
   {
@@ -301,7 +466,12 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "প্রমথ চৌধুরী সম্পাদিত পত্রিকার নাম কী?",
-    "options": ["সবুজপত্র", "কল্লোল", "ভারতী", "প্রবাসী"],
+    "options": [
+      "সবুজপত্র",
+      "প্রবাসী",
+      "কল্লোল",
+      "ভারতী"
+    ],
     "answerIndex": 0,
     "explanation": "প্রমথ চৌধুরী \"সবুজপত্র\" (১৯১৪) পত্রিকা সম্পাদনা করেন এবং চলিত গদ্যরীতির প্রচলন ঘটান।"
   },
@@ -310,8 +480,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "\"বনলতা সেন\" কবিতার রচয়িতা কে?",
-    "options": ["জীবনানন্দ দাশ", "রবীন্দ্রনাথ ঠাকুর", "সুধীন্দ্রনাথ দত্ত", "বিষ্ণু দে"],
-    "answerIndex": 0,
+    "options": [
+      "বিষ্ণু দে",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "সুধীন্দ্রনাথ দত্ত",
+      "জীবনানন্দ দাশ"
+    ],
+    "answerIndex": 3,
     "explanation": "\"বনলতা সেন\" আধুনিক বাংলা কবিতার অন্যতম শ্রেষ্ঠ কবি জীবনানন্দ দাশের রচনা।"
   },
   {
@@ -319,8 +494,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"কবর\" নাটকটি কে রচনা করেন?",
-    "options": ["মুনীর চৌধুরী", "নুরুল মোমেন", "আসকার ইবনে শাইখ", "সাঈদ আহমদ"],
-    "answerIndex": 0,
+    "options": [
+      "নুরুল মোমেন",
+      "মুনীর চৌধুরী",
+      "সাঈদ আহমদ",
+      "আসকার ইবনে শাইখ"
+    ],
+    "answerIndex": 1,
     "explanation": "ভাষা আন্দোলন-ভিত্তিক \"কবর\" নাটকটি মুনীর চৌধুরী জেলে বসে রচনা করেন (১৯৫৩)।"
   },
   {
@@ -328,8 +508,13 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"বিষাদ-সিন্ধু\" কার রচনা?",
-    "options": ["মীর মশাররফ হোসেন", "কায়কোবাদ", "ইসমাইল হোসেন সিরাজী", "মোজাম্মেল হক"],
-    "answerIndex": 0,
+    "options": [
+      "ইসমাইল হোসেন সিরাজী",
+      "কায়কোবাদ",
+      "মোজাম্মেল হক",
+      "মীর মশাররফ হোসেন"
+    ],
+    "answerIndex": 3,
     "explanation": "\"বিষাদ-সিন্ধু\" মীর মশাররফ হোসেনের রচিত কারবালার ঘটনাভিত্তিক গদ্যকাব্য।"
   },
   {
@@ -337,8 +522,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "\"অন্ধকারে এক ফোঁটা আলো\" — এটি কোন অলংকার?",
-    "options": ["বিরোধাভাস", "উপমা", "রূপক", "অনুপ্রাস"],
-    "answerIndex": 2,
+    "options": [
+      "রূপক",
+      "অনুপ্রাস",
+      "বিরোধাভাস",
+      "উপমা"
+    ],
+    "answerIndex": 0,
     "explanation": "এখানে আলোকে আশা/মুক্তির রূপ দেওয়া হয়েছে — এটি রূপক অলংকার।"
   },
   {
@@ -346,7 +536,12 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"তেল মাথায় তেল দেওয়া\" বাগধারার অর্থ কী?",
-    "options": ["যার আছে তাকে আরও দেওয়া", "তোষামোদ করা", "অপচয় করা", "অলস হওয়া"],
+    "options": [
+      "যার আছে তাকে আরও দেওয়া",
+      "তোষামোদ করা",
+      "অপচয় করা",
+      "অলস হওয়া"
+    ],
     "answerIndex": 0,
     "explanation": "\"তেল মাথায় তেল দেওয়া\" অর্থ যার ইতিমধ্যে আছে তাকেই আরও দেওয়া।"
   },
@@ -355,7 +550,12 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "বাংলা একাডেমি প্রতিষ্ঠিত হয় কত সালে?",
-    "options": ["১৯৫৫", "১৯৫২", "১৯৫৬", "১৯৬০"],
+    "options": [
+      "১৯৫৫",
+      "১৯৫২",
+      "১৯৬০",
+      "১৯৫৬"
+    ],
     "answerIndex": 0,
     "explanation": "বাংলা একাডেমি ১৯৫৫ সালের ৩ ডিসেম্বর প্রতিষ্ঠিত হয়।"
   },
@@ -364,7 +564,12 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"গায়ক\" শব্দটির প্রকৃতি ও প্রত্যয় কোনটি?",
-    "options": ["গৈ + অক", "গা + য়ক", "গায় + ক", "গান + অক"],
+    "options": [
+      "গৈ + অক",
+      "গান + অক",
+      "গায় + ক",
+      "গা + য়ক"
+    ],
     "answerIndex": 0,
     "explanation": "\"গায়ক\" = গৈ (√গৈ) + অক প্রত্যয়।"
   },
@@ -373,8 +578,13 @@
     "categoryId": "bangla",
     "difficulty": "easy",
     "question": "নিচের কোনটি তৎসম শব্দ?",
-    "options": ["চন্দ্র", "চাঁদ", "জোছনা", "আকাশ"],
-    "answerIndex": 0,
+    "options": [
+      "জোছনা",
+      "চাঁদ",
+      "আকাশ",
+      "চন্দ্র"
+    ],
+    "answerIndex": 3,
     "explanation": "\"চন্দ্র\" সংস্কৃত থেকে অপরিবর্তিতভাবে আসা তৎসম শব্দ।"
   },
   {
@@ -382,7 +592,12 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"পথের পাঁচালী\" উপন্যাসের লেখক কে?",
-    "options": ["বিভূতিভূষণ বন্দ্যোপাধ্যায়", "তারাশঙ্কর বন্দ্যোপাধ্যায়", "মানিক বন্দ্যোপাধ্যায়", "সতীনাথ ভাদুড়ী"],
+    "options": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+      "সতীনাথ ভাদুড়ী",
+      "মানিক বন্দ্যোপাধ্যায়",
+      "তারাশঙ্কর বন্দ্যোপাধ্যায়"
+    ],
     "answerIndex": 0,
     "explanation": "\"পথের পাঁচালী\" বিভূতিভূষণ বন্দ্যোপাধ্যায়ের রচনা; সত্যজিৎ রায় এটি চলচ্চিত্রায়িত করেন।"
   },
@@ -391,8 +606,13 @@
     "categoryId": "bangla",
     "difficulty": "hard",
     "question": "ভাষা আন্দোলনের উপর লেখা \"একুশের গল্প\" এর রচয়িতা কে?",
-    "options": ["জহির রায়হান", "শওকত ওসমান", "হাসান হাফিজুর রহমান", "আনিসুজ্জামান"],
-    "answerIndex": 0,
+    "options": [
+      "আনিসুজ্জামান",
+      "শওকত ওসমান",
+      "হাসান হাফিজুর রহমান",
+      "জহির রায়হান"
+    ],
+    "answerIndex": 3,
     "explanation": "\"একুশের গল্প\" জহির রায়হানের রচনা।"
   },
   {
@@ -400,18 +620,27 @@
     "categoryId": "bangla",
     "difficulty": "medium",
     "question": "\"সমকাল\" সাহিত্য পত্রিকার সম্পাদক কে ছিলেন?",
-    "options": ["সিকান্দার আবু জাফর", "আহসান হাবীব", "শামসুর রাহমান", "বুদ্ধদেব বসু"],
-    "answerIndex": 0,
+    "options": [
+      "শামসুর রাহমান",
+      "সিকান্দার আবু জাফর",
+      "আহসান হাবীব",
+      "বুদ্ধদেব বসু"
+    ],
+    "answerIndex": 1,
     "explanation": "\"সমকাল\" পত্রিকার সম্পাদক ছিলেন কবি সিকান্দার আবু জাফর।"
   },
-
   {
     "id": "en-1",
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Who is the author of \"Hamlet\"?",
-    "options": ["William Shakespeare", "Christopher Marlowe", "John Milton", "Geoffrey Chaucer"],
-    "answerIndex": 0,
+    "options": [
+      "John Milton",
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Geoffrey Chaucer"
+    ],
+    "answerIndex": 1,
     "explanation": "\"Hamlet\" is a tragedy written by William Shakespeare around 1599-1601."
   },
   {
@@ -419,8 +648,13 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Choose the correct spelling:",
-    "options": ["Accommodation", "Acommodation", "Accomodation", "Acomodation"],
-    "answerIndex": 0,
+    "options": [
+      "Acomodation",
+      "Acommodation",
+      "Accomodation",
+      "Accommodation"
+    ],
+    "answerIndex": 3,
     "explanation": "The correct spelling is \"Accommodation\" — double \"c\" and double \"m\"."
   },
   {
@@ -428,7 +662,12 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "The synonym of \"Benevolent\" is:",
-    "options": ["Malicious", "Kind", "Cruel", "Selfish"],
+    "options": [
+      "Selfish",
+      "Kind",
+      "Cruel",
+      "Malicious"
+    ],
     "answerIndex": 1,
     "explanation": "\"Benevolent\" means well-meaning and kindly; its closest synonym is \"Kind\"."
   },
@@ -437,7 +676,12 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Identify the part of speech of the underlined word: \"She runs quickly.\"",
-    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "options": [
+      "Verb",
+      "Adjective",
+      "Adverb",
+      "Noun"
+    ],
     "answerIndex": 2,
     "explanation": "\"Quickly\" modifies the verb \"runs\" and is therefore an adverb."
   },
@@ -446,8 +690,13 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Who wrote \"Paradise Lost\"?",
-    "options": ["William Wordsworth", "John Milton", "John Keats", "Lord Byron"],
-    "answerIndex": 1,
+    "options": [
+      "John Keats",
+      "William Wordsworth",
+      "John Milton",
+      "Lord Byron"
+    ],
+    "answerIndex": 2,
     "explanation": "\"Paradise Lost\" is an epic poem in blank verse by John Milton, published in 1667."
   },
   {
@@ -455,8 +704,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the correct passive: \"They built this house in 1990.\"",
-    "options": ["This house was built in 1990.", "This house is built in 1990.", "This house has been built in 1990.", "This house had built in 1990."],
-    "answerIndex": 0,
+    "options": [
+      "This house has been built in 1990.",
+      "This house had built in 1990.",
+      "This house is built in 1990.",
+      "This house was built in 1990."
+    ],
+    "answerIndex": 3,
     "explanation": "Simple past active becomes \"was/were + past participle\": \"This house was built in 1990.\""
   },
   {
@@ -464,7 +718,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The antonym of \"Frugal\" is:",
-    "options": ["Extravagant", "Economical", "Thrifty", "Careful"],
+    "options": [
+      "Extravagant",
+      "Economical",
+      "Thrifty",
+      "Careful"
+    ],
     "answerIndex": 0,
     "explanation": "\"Frugal\" means careful with money; its opposite is \"Extravagant\"."
   },
@@ -473,8 +732,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Fill in the blank: \"He has been living here ___ 2010.\"",
-    "options": ["since", "for", "from", "at"],
-    "answerIndex": 0,
+    "options": [
+      "from",
+      "since",
+      "for",
+      "at"
+    ],
+    "answerIndex": 1,
     "explanation": "\"Since\" is used with a point of time (2010); \"for\" is used with a period."
   },
   {
@@ -482,8 +746,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the correctly punctuated sentence:",
-    "options": ["It's a beautiful day, isn't it?", "Its a beautiful day, isn't it?", "It's a beautiful day, isnt it?", "Its' a beautiful day, isn't it?"],
-    "answerIndex": 0,
+    "options": [
+      "It's a beautiful day, isnt it?",
+      "Its' a beautiful day, isn't it?",
+      "It's a beautiful day, isn't it?",
+      "Its a beautiful day, isn't it?"
+    ],
+    "answerIndex": 2,
     "explanation": "\"It's\" = it is; the tag question \"isn't it?\" needs the apostrophe in \"isn't\"."
   },
   {
@@ -491,7 +760,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The idiom \"to bite the dust\" means:",
-    "options": ["to die or fail", "to eat quickly", "to clean up", "to get angry"],
+    "options": [
+      "to die or fail",
+      "to get angry",
+      "to eat quickly",
+      "to clean up"
+    ],
     "answerIndex": 0,
     "explanation": "\"To bite the dust\" means to die, fail, or be defeated."
   },
@@ -500,8 +774,13 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "What is the plural of \"Crisis\"?",
-    "options": ["Crises", "Crisises", "Crisis", "Crisi"],
-    "answerIndex": 0,
+    "options": [
+      "Crisises",
+      "Crisi",
+      "Crises",
+      "Crisis"
+    ],
+    "answerIndex": 2,
     "explanation": "Words ending in \"-is\" form the plural with \"-es\": crisis → crises."
   },
   {
@@ -509,8 +788,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the correct form: \"Neither of the boys ___ present.\"",
-    "options": ["was", "were", "are", "have"],
-    "answerIndex": 0,
+    "options": [
+      "have",
+      "are",
+      "was",
+      "were"
+    ],
+    "answerIndex": 2,
     "explanation": "\"Neither\" takes a singular verb: \"Neither of the boys was present.\""
   },
   {
@@ -518,7 +802,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "\"A person who studies the stars\" is called a/an:",
-    "options": ["Astronomer", "Astrologer", "Astronaut", "Geologist"],
+    "options": [
+      "Astronomer",
+      "Astronaut",
+      "Geologist",
+      "Astrologer"
+    ],
     "answerIndex": 0,
     "explanation": "An astronomer scientifically studies celestial bodies; an astrologer predicts using stars."
   },
@@ -527,8 +816,13 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "Who wrote the play \"The Importance of Being Earnest\"?",
-    "options": ["Oscar Wilde", "George Bernard Shaw", "Henrik Ibsen", "Samuel Beckett"],
-    "answerIndex": 0,
+    "options": [
+      "George Bernard Shaw",
+      "Samuel Beckett",
+      "Oscar Wilde",
+      "Henrik Ibsen"
+    ],
+    "answerIndex": 2,
     "explanation": "\"The Importance of Being Earnest\" (1895) is a comedy by Oscar Wilde."
   },
   {
@@ -536,8 +830,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Identify the correct sentence:",
-    "options": ["One of my friends is a doctor.", "One of my friends are a doctor.", "One of my friend is a doctor.", "One of my friend are doctor."],
-    "answerIndex": 0,
+    "options": [
+      "One of my friend are doctor.",
+      "One of my friend is a doctor.",
+      "One of my friends are a doctor.",
+      "One of my friends is a doctor."
+    ],
+    "answerIndex": 3,
     "explanation": "\"One of + plural noun\" takes a singular verb: \"One of my friends is a doctor.\""
   },
   {
@@ -545,7 +844,12 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "The word \"Honest\" begins with a:",
-    "options": ["silent consonant", "vowel sound", "silent vowel", "diphthong"],
+    "options": [
+      "silent consonant",
+      "vowel sound",
+      "silent vowel",
+      "diphthong"
+    ],
     "answerIndex": 1,
     "explanation": "In \"honest\" the 'h' is silent, so it begins with a vowel sound — hence \"an honest man\"."
   },
@@ -554,7 +858,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Change to indirect speech: He said, \"I am busy.\"",
-    "options": ["He said that he was busy.", "He said that he is busy.", "He said that I was busy.", "He says that he was busy."],
+    "options": [
+      "He said that he was busy.",
+      "He said that he is busy.",
+      "He said that I was busy.",
+      "He says that he was busy."
+    ],
     "answerIndex": 0,
     "explanation": "Present tense changes to past in reported speech: \"He said that he was busy.\""
   },
@@ -563,7 +872,12 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "\"Romantic Movement\" in English literature is mainly associated with which century?",
-    "options": ["Late 18th to early 19th century", "16th century", "20th century", "14th century"],
+    "options": [
+      "Late 18th to early 19th century",
+      "14th century",
+      "16th century",
+      "20th century"
+    ],
     "answerIndex": 0,
     "explanation": "The Romantic Movement flourished from the late 18th to the early 19th century (Wordsworth, Coleridge, etc.)."
   },
@@ -572,8 +886,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the correct preposition: \"He is good ___ mathematics.\"",
-    "options": ["at", "in", "on", "with"],
-    "answerIndex": 0,
+    "options": [
+      "in",
+      "with",
+      "on",
+      "at"
+    ],
+    "answerIndex": 3,
     "explanation": "We say good \"at\" a skill or subject: \"good at mathematics\"."
   },
   {
@@ -581,7 +900,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The synonym of \"Candid\" is:",
-    "options": ["Frank", "Secretive", "Rude", "Shy"],
+    "options": [
+      "Frank",
+      "Rude",
+      "Shy",
+      "Secretive"
+    ],
     "answerIndex": 0,
     "explanation": "\"Candid\" means open and honest; its synonym is \"Frank\"."
   },
@@ -590,8 +914,13 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Which is an abstract noun?",
-    "options": ["Honesty", "Table", "Dog", "River"],
-    "answerIndex": 0,
+    "options": [
+      "Dog",
+      "Table",
+      "River",
+      "Honesty"
+    ],
+    "answerIndex": 3,
     "explanation": "\"Honesty\" names a quality, not a physical object — it is an abstract noun."
   },
   {
@@ -599,8 +928,13 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "Who is known as the \"Father of English Poetry\"?",
-    "options": ["Geoffrey Chaucer", "John Milton", "William Shakespeare", "Edmund Spenser"],
-    "answerIndex": 0,
+    "options": [
+      "Edmund Spenser",
+      "John Milton",
+      "William Shakespeare",
+      "Geoffrey Chaucer"
+    ],
+    "answerIndex": 3,
     "explanation": "Geoffrey Chaucer, author of \"The Canterbury Tales\", is called the Father of English Poetry."
   },
   {
@@ -608,7 +942,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Fill in: \"If I ___ rich, I would help the poor.\"",
-    "options": ["were", "was", "am", "had"],
+    "options": [
+      "were",
+      "was",
+      "am",
+      "had"
+    ],
     "answerIndex": 0,
     "explanation": "In a second conditional, use \"were\" for all subjects: \"If I were rich...\""
   },
@@ -617,8 +956,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The phrase \"null and void\" means:",
-    "options": ["invalid", "very important", "newly made", "partly true"],
-    "answerIndex": 0,
+    "options": [
+      "very important",
+      "newly made",
+      "partly true",
+      "invalid"
+    ],
+    "answerIndex": 3,
     "explanation": "\"Null and void\" is a legal phrase meaning having no legal force; invalid."
   },
   {
@@ -626,7 +970,12 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Choose the correct comparative: \"This box is ___ than that one.\"",
-    "options": ["heavier", "heavyer", "more heavy", "heaviest"],
+    "options": [
+      "heavier",
+      "more heavy",
+      "heaviest",
+      "heavyer"
+    ],
     "answerIndex": 0,
     "explanation": "\"Heavy\" → \"heavier\" (y changes to i before -er)."
   },
@@ -635,7 +984,12 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "\"Brevity is the soul of wit\" is a quotation from which play?",
-    "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+    "options": [
+      "Hamlet",
+      "King Lear",
+      "Macbeth",
+      "Othello"
+    ],
     "answerIndex": 0,
     "explanation": "The line is spoken by Polonius in Shakespeare's \"Hamlet\"."
   },
@@ -644,8 +998,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Identify the gerund: \"Swimming is good exercise.\"",
-    "options": ["Swimming", "is", "good", "exercise"],
-    "answerIndex": 0,
+    "options": [
+      "good",
+      "is",
+      "exercise",
+      "Swimming"
+    ],
+    "answerIndex": 3,
     "explanation": "\"Swimming\" is a verb form (-ing) used as a noun (subject) — a gerund."
   },
   {
@@ -653,8 +1012,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The antonym of \"Transparent\" is:",
-    "options": ["Opaque", "Clear", "Visible", "Pure"],
-    "answerIndex": 0,
+    "options": [
+      "Visible",
+      "Opaque",
+      "Clear",
+      "Pure"
+    ],
+    "answerIndex": 1,
     "explanation": "\"Transparent\" lets light through; its opposite is \"Opaque\"."
   },
   {
@@ -662,8 +1026,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the correct article: \"She is ___ honourable lady.\"",
-    "options": ["an", "a", "the", "no article"],
-    "answerIndex": 0,
+    "options": [
+      "no article",
+      "the",
+      "a",
+      "an"
+    ],
+    "answerIndex": 3,
     "explanation": "\"Honourable\" begins with a silent 'h' (vowel sound), so \"an\" is used."
   },
   {
@@ -671,8 +1040,13 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "\"Pride and Prejudice\" was written by:",
-    "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
-    "answerIndex": 0,
+    "options": [
+      "Charlotte Brontë",
+      "George Eliot",
+      "Jane Austen",
+      "Emily Brontë"
+    ],
+    "answerIndex": 2,
     "explanation": "\"Pride and Prejudice\" (1813) is a novel by Jane Austen."
   },
   {
@@ -680,8 +1054,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Fill in the blank: \"I look forward to ___ from you.\"",
-    "options": ["hearing", "hear", "heard", "be hearing"],
-    "answerIndex": 0,
+    "options": [
+      "heard",
+      "hearing",
+      "be hearing",
+      "hear"
+    ],
+    "answerIndex": 1,
     "explanation": "\"Look forward to\" is followed by a gerund: \"to hearing\"."
   },
   {
@@ -689,8 +1068,13 @@
     "categoryId": "english",
     "difficulty": "easy",
     "question": "Which word is a collective noun?",
-    "options": ["Flock", "Sheep", "Bird", "Wing"],
-    "answerIndex": 0,
+    "options": [
+      "Sheep",
+      "Bird",
+      "Flock",
+      "Wing"
+    ],
+    "answerIndex": 2,
     "explanation": "\"Flock\" denotes a group (of sheep/birds) — a collective noun."
   },
   {
@@ -698,8 +1082,13 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "The correct meaning of the idiom \"once in a blue moon\":",
-    "options": ["very rarely", "very often", "at night", "during winter"],
-    "answerIndex": 0,
+    "options": [
+      "very often",
+      "very rarely",
+      "at night",
+      "during winter"
+    ],
+    "answerIndex": 1,
     "explanation": "\"Once in a blue moon\" means something that happens very rarely."
   },
   {
@@ -707,7 +1096,12 @@
     "categoryId": "english",
     "difficulty": "medium",
     "question": "Choose the right word: \"The teacher gave us a ___ assignment.\"",
-    "options": ["challenging", "challenge", "challenged", "challenges"],
+    "options": [
+      "challenging",
+      "challenges",
+      "challenged",
+      "challenge"
+    ],
     "answerIndex": 0,
     "explanation": "An adjective is needed before \"assignment\"; \"challenging\" is the adjective."
   },
@@ -716,8 +1110,13 @@
     "categoryId": "english",
     "difficulty": "hard",
     "question": "Who wrote the novel \"1984\"?",
-    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H. G. Wells"],
-    "answerIndex": 0,
+    "options": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Aldous Huxley",
+      "H. G. Wells"
+    ],
+    "answerIndex": 1,
     "explanation": "\"1984\" (1949), a dystopian novel, was written by George Orwell."
   }
 ]

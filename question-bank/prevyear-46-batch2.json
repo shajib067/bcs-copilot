@@ -1,170 +1,716 @@
 [
-  { "id": "py46-bd-4", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "medium",
+  {
+    "id": "py46-bd-4",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "পাহাড়পুরের ‘সোমপুর মহাবিহার’ কোন শাসন আমলের স্থাপত্য নিদর্শন?",
-    "options": ["মৌর্য", "গুপ্ত", "পাল", "চন্দ্র"], "answerIndex": 2,
-    "explanation": "পাহাড়পুরের সোমপুর মহাবিহার পাল আমলের স্থাপত্যকীর্তি।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-5", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "মৌর্য",
+      "গুপ্ত",
+      "পাল",
+      "চন্দ্র"
+    ],
+    "answerIndex": 2,
+    "explanation": "পাহাড়পুরের সোমপুর মহাবিহার পাল আমলের স্থাপত্যকীর্তি।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-5",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "মুজিবনগর সরকারকে গার্ড অব অনার প্রদানে নেতৃত্ব দেন কে?",
-    "options": ["মাহবুব উদ্দিন আহমেদ", "আব্দুল খালেক", "মোহাম্মদ সোলায়মান", "শৈলেন্দ্র কিশোর চৌধুরী"], "answerIndex": 0,
-    "explanation": "মুজিবনগর সরকারকে গার্ড অব অনার প্রদানে নেতৃত্ব দেন মাহবুব উদ্দিন আহমেদ।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-6", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "মাহবুব উদ্দিন আহমেদ",
+      "আব্দুল খালেক",
+      "মোহাম্মদ সোলায়মান",
+      "শৈলেন্দ্র কিশোর চৌধুরী"
+    ],
+    "answerIndex": 0,
+    "explanation": "মুজিবনগর সরকারকে গার্ড অব অনার প্রদানে নেতৃত্ব দেন মাহবুব উদ্দিন আহমেদ।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-6",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "ঐতিহাসিক ছয়-দফায় কোন দুটি বিষয় কেন্দ্রীয় সরকারের হাতে রাখার প্রস্তাব ছিল?",
-    "options": ["অর্থ ও পররাষ্ট্র", "বৈদেশিক বাণিজ্য ও প্রতিরক্ষা", "প্রতিরক্ষা ও পররাষ্ট্র", "স্বরাষ্ট্র ও পরিকল্পনা"], "answerIndex": 2,
-    "explanation": "ছয়-দফায় প্রতিরক্ষা ও পররাষ্ট্র কেন্দ্রীয় সরকারের হাতে রাখার প্রস্তাব ছিল।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-7", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "প্রতিরক্ষা ও পররাষ্ট্র",
+      "স্বরাষ্ট্র ও পরিকল্পনা",
+      "বৈদেশিক বাণিজ্য ও প্রতিরক্ষা",
+      "অর্থ ও পররাষ্ট্র"
+    ],
+    "answerIndex": 0,
+    "explanation": "ছয়-দফায় প্রতিরক্ষা ও পররাষ্ট্র কেন্দ্রীয় সরকারের হাতে রাখার প্রস্তাব ছিল।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-7",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "বাংলাদেশের কোন বিভাগে জনসংখ্যার ঘনত্ব সবচেয়ে কম?",
-    "options": ["সিলেট", "খুলনা", "বরিশাল", "রংপুর"], "answerIndex": 2,
-    "explanation": "বিভাগগুলোর মধ্যে বরিশাল বিভাগে জনসংখ্যার ঘনত্ব সবচেয়ে কম।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-8", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "medium",
+    "options": [
+      "বরিশাল",
+      "রংপুর",
+      "সিলেট",
+      "খুলনা"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিভাগগুলোর মধ্যে বরিশাল বিভাগে জনসংখ্যার ঘনত্ব সবচেয়ে কম।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-8",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "medium",
     "question": "ট্রেডিং কর্পোরেশন অব বাংলাদেশ (TCB) কোন মন্ত্রণালয়ের আওতাভুক্ত?",
-    "options": ["শিল্প", "বাণিজ্য", "অর্থ", "পরিকল্পনা"], "answerIndex": 1,
-    "explanation": "TCB বাণিজ্য মন্ত্রণালয়ের আওতাভুক্ত।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-9", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "medium",
+    "options": [
+      "বাণিজ্য",
+      "শিল্প",
+      "পরিকল্পনা",
+      "অর্থ"
+    ],
+    "answerIndex": 0,
+    "explanation": "TCB বাণিজ্য মন্ত্রণালয়ের আওতাভুক্ত।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-9",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "medium",
     "question": "বাংলাদেশ সরকার কোন উৎস থেকে সর্বোচ্চ রাজস্ব আয় করে?",
-    "options": ["ভূমি রাজস্ব", "আয়কর", "মূল্য সংযোজন কর", "আমদানি শুল্ক"], "answerIndex": 2,
-    "explanation": "বাংলাদেশ সরকারের সর্বোচ্চ রাজস্ব আসে মূল্য সংযোজন কর (ভ্যাট) থেকে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-10", "categoryId": "bd_affairs", "subTopic": "ethnography", "difficulty": "medium",
+    "options": [
+      "আমদানি শুল্ক",
+      "মূল্য সংযোজন কর",
+      "আয়কর",
+      "ভূমি রাজস্ব"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশ সরকারের সর্বোচ্চ রাজস্ব আসে মূল্য সংযোজন কর (ভ্যাট) থেকে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-10",
+    "categoryId": "bd_affairs",
+    "subTopic": "ethnography",
+    "difficulty": "medium",
     "question": "মারমা সম্প্রদায়ের সবচেয়ে বড় উৎসবের নাম কী?",
-    "options": ["বিজু", "সাংগ্রাই", "রাশ", "বাইশু"], "answerIndex": 1,
-    "explanation": "মারমাদের সবচেয়ে বড় উৎসব ‘সাংগ্রাই’।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-11", "categoryId": "bd_affairs", "subTopic": "constitution", "difficulty": "medium",
+    "options": [
+      "বাইশু",
+      "সাংগ্রাই",
+      "বিজু",
+      "রাশ"
+    ],
+    "answerIndex": 1,
+    "explanation": "মারমাদের সবচেয়ে বড় উৎসব ‘সাংগ্রাই’।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-11",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
     "question": "বাংলাদেশের পররাষ্ট্রনীতি সংক্রান্ত নির্দেশনা সংবিধানের কোন অনুচ্ছেদে আছে?",
-    "options": ["২৫", "২৬", "২৭", "২৮"], "answerIndex": 0,
-    "explanation": "সংবিধানের ২৫ অনুচ্ছেদে পররাষ্ট্রনীতির মূলনীতি উল্লেখ আছে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-12", "categoryId": "bd_affairs", "subTopic": "ethnography", "difficulty": "medium",
+    "options": [
+      "২৭",
+      "২৫",
+      "২৬",
+      "২৮"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংবিধানের ২৫ অনুচ্ছেদে পররাষ্ট্রনীতির মূলনীতি উল্লেখ আছে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-12",
+    "categoryId": "bd_affairs",
+    "subTopic": "ethnography",
+    "difficulty": "medium",
     "question": "মাতৃপ্রধান পরিবার ব্যবস্থা কোন নৃগোষ্ঠীতে প্রচলিত?",
-    "options": ["গারো", "সাঁওতাল", "মণিপুরি", "চাকমা"], "answerIndex": 0,
-    "explanation": "গারো সমাজে মাতৃপ্রধান (মাতৃতান্ত্রিক) পরিবার ব্যবস্থা প্রচলিত।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-13", "categoryId": "bd_affairs", "subTopic": "constitution", "difficulty": "medium",
+    "options": [
+      "গারো",
+      "সাঁওতাল",
+      "মণিপুরি",
+      "চাকমা"
+    ],
+    "answerIndex": 0,
+    "explanation": "গারো সমাজে মাতৃপ্রধান (মাতৃতান্ত্রিক) পরিবার ব্যবস্থা প্রচলিত।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-13",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "medium",
     "question": "অ্যাটর্নি জেনারেল রাষ্ট্রের কোন বিভাগের কর্মকর্তা?",
-    "options": ["বিচার বিভাগ", "নির্বাহী বিভাগ", "আইন বিভাগ", "মন্ত্রিপরিষদ বিভাগ"], "answerIndex": 1,
-    "explanation": "অ্যাটর্নি জেনারেল নির্বাহী বিভাগের কর্মকর্তা।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-14", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "নির্বাহী বিভাগ",
+      "মন্ত্রিপরিষদ বিভাগ",
+      "বিচার বিভাগ",
+      "আইন বিভাগ"
+    ],
+    "answerIndex": 0,
+    "explanation": "অ্যাটর্নি জেনারেল নির্বাহী বিভাগের কর্মকর্তা।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-14",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "বাংলাদেশে কোন নদী কার্পজাতীয় মাছের রেণুর প্রধান উৎস?",
-    "options": ["পদ্মা", "হালদা", "সালদা", "কুমার"], "answerIndex": 1,
-    "explanation": "হালদা নদী কার্পজাতীয় মাছের প্রাকৃতিক রেণুর প্রধান উৎস।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-15", "categoryId": "bd_affairs", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "হালদা",
+      "কুমার",
+      "পদ্মা",
+      "সালদা"
+    ],
+    "answerIndex": 0,
+    "explanation": "হালদা নদী কার্পজাতীয় মাছের প্রাকৃতিক রেণুর প্রধান উৎস।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-15",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "ব-দ্বীপ পরিকল্পনা ২১০০-এ কয়টি ভৌগোলিক হটস্পট নির্ধারণ করা হয়েছে?",
-    "options": ["৬", "৭", "৮", "৯"], "answerIndex": 0,
-    "explanation": "বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এ ৬টি ভৌগোলিক হটস্পট নির্ধারণ করা হয়েছে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-16", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "৭",
+      "৮",
+      "৬",
+      "৯"
+    ],
+    "answerIndex": 2,
+    "explanation": "বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০-এ ৬টি ভৌগোলিক হটস্পট নির্ধারণ করা হয়েছে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-16",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "বাংলাদেশের সংবিধান প্রণয়ন কমিটির একমাত্র নারী সদস্য কে ছিলেন?",
-    "options": ["সাজেদা চৌধুরী", "নুরজাহান মোর্শেদ", "রাজিয়া বানু", "রাফিয়া আক্তার ডলি"], "answerIndex": 2,
-    "explanation": "সংবিধান প্রণয়ন কমিটির একমাত্র নারী সদস্য ছিলেন রাজিয়া বানু।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-17", "categoryId": "bd_affairs", "subTopic": "science_tech", "difficulty": "medium",
+    "options": [
+      "নুরজাহান মোর্শেদ",
+      "রাজিয়া বানু",
+      "সাজেদা চৌধুরী",
+      "রাফিয়া আক্তার ডলি"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংবিধান প্রণয়ন কমিটির একমাত্র নারী সদস্য ছিলেন রাজিয়া বানু।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-17",
+    "categoryId": "bd_affairs",
+    "subTopic": "science_tech",
+    "difficulty": "medium",
     "question": "কৃষ্ণগহ্বর (Black Hole) নিয়ে গবেষণা করেছেন কোন বাঙালি বিজ্ঞানী?",
-    "options": ["কুদরত-ই-খুদা", "জামাল নজরুল ইসলাম", "কাজী মোতাহার হোসেন", "আব্দুল মতিন চৌধুরী"], "answerIndex": 1,
-    "explanation": "কৃষ্ণগহ্বর নিয়ে গবেষণা করেছেন পদার্থবিজ্ঞানী জামাল নজরুল ইসলাম।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-18", "categoryId": "bd_affairs", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "জামাল নজরুল ইসলাম",
+      "কুদরত-ই-খুদা",
+      "আব্দুল মতিন চৌধুরী",
+      "কাজী মোতাহার হোসেন"
+    ],
+    "answerIndex": 0,
+    "explanation": "কৃষ্ণগহ্বর নিয়ে গবেষণা করেছেন পদার্থবিজ্ঞানী জামাল নজরুল ইসলাম।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-18",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "বাংলাদেশের দ্বিতীয় প্রেক্ষিত পরিকল্পনার (Perspective Plan) মেয়াদ কবে শেষ হবে?",
-    "options": ["২০৩১", "২০৩৫", "২০৪১", "২০৪৫"], "answerIndex": 2,
-    "explanation": "দ্বিতীয় প্রেক্ষিত পরিকল্পনার মেয়াদ ২০২১–২০৪১; শেষ হবে ২০৪১ সালে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-19", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "২০৩১",
+      "২০৩৫",
+      "২০৪৫",
+      "২০৪১"
+    ],
+    "answerIndex": 3,
+    "explanation": "দ্বিতীয় প্রেক্ষিত পরিকল্পনার মেয়াদ ২০২১–২০৪১; শেষ হবে ২০৪১ সালে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-19",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "বাংলাদেশের নবীনতম নদী কোনটি?",
-    "options": ["পদ্মা", "যমুনা", "মেঘনা", "জিঞ্জিরাম"], "answerIndex": 1,
-    "explanation": "যমুনা বাংলাদেশের নবীনতম নদী হিসেবে বিবেচিত।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-20", "categoryId": "bd_affairs", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "মেঘনা",
+      "জিঞ্জিরাম",
+      "যমুনা",
+      "পদ্মা"
+    ],
+    "answerIndex": 2,
+    "explanation": "যমুনা বাংলাদেশের নবীনতম নদী হিসেবে বিবেচিত।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-20",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "‘মুজিব: একটি জাতির রূপকার’ চলচ্চিত্রের পরিচালক কে?",
-    "options": ["শিবু সিরিল", "শ্যাম বেনেগাল", "গুরু দত্ত", "বিশাল ভরদ্বাজ"], "answerIndex": 1,
-    "explanation": "চলচ্চিত্রটির পরিচালক ভারতীয় নির্মাতা শ্যাম বেনেগাল।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-21", "categoryId": "bd_affairs", "subTopic": "constitution", "difficulty": "hard",
+    "options": [
+      "শিবু সিরিল",
+      "বিশাল ভরদ্বাজ",
+      "গুরু দত্ত",
+      "শ্যাম বেনেগাল"
+    ],
+    "answerIndex": 3,
+    "explanation": "চলচ্চিত্রটির পরিচালক ভারতীয় নির্মাতা শ্যাম বেনেগাল।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-21",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "hard",
     "question": "সংবিধানের কোন অনুচ্ছেদ অনুযায়ী রাষ্ট্রপতি প্রধান বিচারপতি নিয়োগ দেন?",
-    "options": ["৯৫", "৯৬", "৯৭", "৯৮"], "answerIndex": 0,
-    "explanation": "সংবিধানের ৯৫ অনুচ্ছেদ অনুযায়ী রাষ্ট্রপতি প্রধান বিচারপতি নিয়োগ দেন।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-22", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "৯৮",
+      "৯৫",
+      "৯৭",
+      "৯৬"
+    ],
+    "answerIndex": 1,
+    "explanation": "সংবিধানের ৯৫ অনুচ্ছেদ অনুযায়ী রাষ্ট্রপতি প্রধান বিচারপতি নিয়োগ দেন।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-22",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "১৯৫৪ সালের প্রাদেশিক নির্বাচনে যুক্তফ্রন্ট কতটি আসনে জয়লাভ করেছিল?",
-    "options": ["২১৯", "২২১", "২২৩", "২২৫"], "answerIndex": 2,
-    "explanation": "১৯৫৪ সালের নির্বাচনে যুক্তফ্রন্ট ২২৩টি আসনে জয়লাভ করে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-bd-23", "categoryId": "bd_affairs", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "২১৯",
+      "২২৫",
+      "২২৩",
+      "২২১"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৯৫৪ সালের নির্বাচনে যুক্তফ্রন্ট ২২৩টি আসনে জয়লাভ করে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-bd-23",
+    "categoryId": "bd_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "বাংলাদেশ প্রথম ওয়ানডে ও টেস্ট সিরিজ জয় করে কোন দেশের বিপক্ষে?",
-    "options": ["পাকিস্তান", "জিম্বাবুয়ে", "ভারত", "দক্ষিণ আফ্রিকা"], "answerIndex": 1,
-    "explanation": "বাংলাদেশ তার প্রথম ওয়ানডে ও টেস্ট সিরিজ জয় করে জিম্বাবুয়ের বিপক্ষে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-4", "categoryId": "intl_affairs", "subTopic": "days", "difficulty": "easy",
+    "options": [
+      "পাকিস্তান",
+      "জিম্বাবুয়ে",
+      "দক্ষিণ আফ্রিকা",
+      "ভারত"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশ তার প্রথম ওয়ানডে ও টেস্ট সিরিজ জয় করে জিম্বাবুয়ের বিপক্ষে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-4",
+    "categoryId": "intl_affairs",
+    "subTopic": "days",
+    "difficulty": "easy",
     "question": "বিশ্ব শরণার্থী দিবস কোন তারিখে পালিত হয়?",
-    "options": ["৫ জুন", "১০ জুন", "২০ জুন", "২৫ জুন"], "answerIndex": 2,
-    "explanation": "প্রতি বছর ২০ জুন বিশ্ব শরণার্থী দিবস পালিত হয়।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-5", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "১০ জুন",
+      "২৫ জুন",
+      "৫ জুন",
+      "২০ জুন"
+    ],
+    "answerIndex": 3,
+    "explanation": "প্রতি বছর ২০ জুন বিশ্ব শরণার্থী দিবস পালিত হয়।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-5",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "জাতিসংঘ মাদক ও অপরাধবিষয়ক সংস্থা (UNODC)-এর সদর দপ্তর কোথায়?",
-    "options": ["রোম", "ভিয়েনা", "জেনেভা", "নিউইয়র্ক"], "answerIndex": 1,
-    "explanation": "UNODC-এর সদর দপ্তর অস্ট্রিয়ার ভিয়েনায়।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-6", "categoryId": "intl_affairs", "subTopic": "bd_relations", "difficulty": "medium",
+    "options": [
+      "ভিয়েনা",
+      "নিউইয়র্ক",
+      "রোম",
+      "জেনেভা"
+    ],
+    "answerIndex": 0,
+    "explanation": "UNODC-এর সদর দপ্তর অস্ট্রিয়ার ভিয়েনায়।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "bd_relations",
+    "difficulty": "medium",
     "question": "বাংলাদেশ-ভারত স্থল সীমান্ত সম্পর্কিত প্রটোকলটি কত সালে স্বাক্ষরিত হয়?",
-    "options": ["১৯৭৪", "২০১১", "২০১৩", "২০১৫"], "answerIndex": 1,
-    "explanation": "স্থল সীমান্ত চুক্তির প্রটোকল ২০১১ সালে স্বাক্ষরিত হয় (অনুসমর্থন ২০১৫)।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-7", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "easy",
+    "options": [
+      "২০১১",
+      "২০১৩",
+      "১৯৭৪",
+      "২০১৫"
+    ],
+    "answerIndex": 0,
+    "explanation": "স্থল সীমান্ত চুক্তির প্রটোকল ২০১১ সালে স্বাক্ষরিত হয় (অনুসমর্থন ২০১৫)।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "easy",
     "question": "আলেপ্পো শহরটি কোন দেশে অবস্থিত?",
-    "options": ["ইরান", "ইরাক", "জর্ডান", "সিরিয়া"], "answerIndex": 3,
-    "explanation": "আলেপ্পো সিরিয়ার একটি প্রাচীন শহর।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-8", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "hard",
+    "options": [
+      "সিরিয়া",
+      "ইরান",
+      "ইরাক",
+      "জর্ডান"
+    ],
+    "answerIndex": 0,
+    "explanation": "আলেপ্পো সিরিয়ার একটি প্রাচীন শহর।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "hard",
     "question": "‘২০৩০ সালের মধ্যে দরিদ্র মানুষের সংখ্যা অর্ধেকে নামিয়ে আনা’ — এটি SDG-এর কোন অভীষ্ট?",
-    "options": ["টার্গেট ১.১", "টার্গেট ১.২", "টার্গেট ১.৩", "টার্গেট ১.৪"], "answerIndex": 1,
-    "explanation": "এটি টেকসই উন্নয়ন লক্ষ্যমাত্রার টার্গেট ১.২।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-9", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "টার্গেট ১.২",
+      "টার্গেট ১.১",
+      "টার্গেট ১.৪",
+      "টার্গেট ১.৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "এটি টেকসই উন্নয়ন লক্ষ্যমাত্রার টার্গেট ১.২।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "‘বৈশ্বিক উন্নয়ন উদ্যোগ’ (Global Development Initiative)-এর প্রস্তাবক কোন দেশ?",
-    "options": ["চীন", "জাপান", "ডেনমার্ক", "সুইডেন"], "answerIndex": 0,
-    "explanation": "‘বৈশ্বিক উন্নয়ন উদ্যোগ’-এর প্রস্তাবক চীন।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-10", "categoryId": "intl_affairs", "subTopic": "bd_relations", "difficulty": "medium",
+    "options": [
+      "জাপান",
+      "ডেনমার্ক",
+      "সুইডেন",
+      "চীন"
+    ],
+    "answerIndex": 3,
+    "explanation": "‘বৈশ্বিক উন্নয়ন উদ্যোগ’-এর প্রস্তাবক চীন।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "bd_relations",
+    "difficulty": "medium",
     "question": "বাংলাদেশ কত সালে আন্তর্জাতিক শ্রম সংস্থার (ILO) সদস্যপদ লাভ করে?",
-    "options": ["১৯৭২", "১৯৭৩", "১৯৭৪", "১৯৭৫"], "answerIndex": 0,
-    "explanation": "বাংলাদেশ ১৯৭২ সালে ILO-এর সদস্যপদ লাভ করে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-11", "categoryId": "intl_affairs", "subTopic": "environment", "difficulty": "easy",
+    "options": [
+      "১৯৭২",
+      "১৯৭৩",
+      "১৯৭৫",
+      "১৯৭৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "বাংলাদেশ ১৯৭২ সালে ILO-এর সদস্যপদ লাভ করে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-11",
+    "categoryId": "intl_affairs",
+    "subTopic": "environment",
+    "difficulty": "easy",
     "question": "কপ-২৮ (COP28) সম্মেলনটি কী বিষয়ক?",
-    "options": ["শরণার্থীর অধিকার", "জ্বালানি নিরাপত্তা", "সমুদ্রসীমা", "জলবায়ু পরিবর্তন"], "answerIndex": 3,
-    "explanation": "কপ-২৮ জলবায়ু পরিবর্তন বিষয়ক জাতিসংঘ সম্মেলন।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-12", "categoryId": "intl_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "সমুদ্রসীমা",
+      "শরণার্থীর অধিকার",
+      "জ্বালানি নিরাপত্তা",
+      "জলবায়ু পরিবর্তন"
+    ],
+    "answerIndex": 3,
+    "explanation": "কপ-২৮ জলবায়ু পরিবর্তন বিষয়ক জাতিসংঘ সম্মেলন।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-12",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "‘বার বিধি’ (The Twelve Tables) কী?",
-    "options": ["রোমান আইনের ভিত্তি", "স্থাপত্যের নির্দেশনা", "ফুটবলের নিয়মাবলি", "একটি দেশি খেলা"], "answerIndex": 0,
-    "explanation": "‘দ্য টুয়েলভ টেবলস’ প্রাচীন রোমান আইনের ভিত্তি।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-13", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "রোমান আইনের ভিত্তি",
+      "ফুটবলের নিয়মাবলি",
+      "একটি দেশি খেলা",
+      "স্থাপত্যের নির্দেশনা"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘দ্য টুয়েলভ টেবলস’ প্রাচীন রোমান আইনের ভিত্তি।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-13",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "সিয়াচেন হিমবাহ কোন দুটি দেশের মধ্যে অবস্থিত?",
-    "options": ["ভারত ও চীন", "নেপাল ও চীন", "পাকিস্তান ও চীন", "ভারত ও পাকিস্তান"], "answerIndex": 3,
-    "explanation": "সিয়াচেন হিমবাহ ভারত ও পাকিস্তানের মধ্যে অবস্থিত একটি বিরোধপূর্ণ অঞ্চল।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-14", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "ভারত ও চীন",
+      "পাকিস্তান ও চীন",
+      "নেপাল ও চীন",
+      "ভারত ও পাকিস্তান"
+    ],
+    "answerIndex": 3,
+    "explanation": "সিয়াচেন হিমবাহ ভারত ও পাকিস্তানের মধ্যে অবস্থিত একটি বিরোধপূর্ণ অঞ্চল।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-14",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "টেকসই উন্নয়ন লক্ষ্যমাত্রার (SDG) চতুর্থ লক্ষ্য কোনটি?",
-    "options": ["দারিদ্র বিমোচন", "মানসম্মত শিক্ষা", "জলবায়ু কার্যক্রম", "শান্তি ও ন্যায়বিচার"], "answerIndex": 1,
-    "explanation": "SDG-এর চতুর্থ লক্ষ্য হলো ‘মানসম্মত শিক্ষা’।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-15", "categoryId": "intl_affairs", "subTopic": "environment", "difficulty": "hard",
+    "options": [
+      "মানসম্মত শিক্ষা",
+      "শান্তি ও ন্যায়বিচার",
+      "জলবায়ু কার্যক্রম",
+      "দারিদ্র বিমোচন"
+    ],
+    "answerIndex": 0,
+    "explanation": "SDG-এর চতুর্থ লক্ষ্য হলো ‘মানসম্মত শিক্ষা’।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-15",
+    "categoryId": "intl_affairs",
+    "subTopic": "environment",
+    "difficulty": "hard",
     "question": "জীব নিরাপত্তা (Biosafety) সংক্রান্ত আন্তর্জাতিক প্রটোকল কোনটি?",
-    "options": ["কার্টাগেনা প্রটোকল", "মন্ট্রিল প্রটোকল", "কিয়োটো প্রটোকল", "প্যারিস চুক্তি"], "answerIndex": 0,
-    "explanation": "জৈব নিরাপত্তা সংক্রান্ত আন্তর্জাতিক চুক্তি হলো কার্টাগেনা প্রটোকল।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-16", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "কিয়োটো প্রটোকল",
+      "মন্ট্রিল প্রটোকল",
+      "প্যারিস চুক্তি",
+      "কার্টাগেনা প্রটোকল"
+    ],
+    "answerIndex": 3,
+    "explanation": "জৈব নিরাপত্তা সংক্রান্ত আন্তর্জাতিক চুক্তি হলো কার্টাগেনা প্রটোকল।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-16",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "আন্তর্জাতিক বিচার আদালতের (ICJ) সভাপতির মেয়াদ কত বছর?",
-    "options": ["২ বছর", "৩ বছর", "৬ বছর", "৯ বছর"], "answerIndex": 1,
-    "explanation": "ICJ-এর সভাপতির মেয়াদ ৩ বছর।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-int-17", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "৯ বছর",
+      "২ বছর",
+      "৩ বছর",
+      "৬ বছর"
+    ],
+    "answerIndex": 2,
+    "explanation": "ICJ-এর সভাপতির মেয়াদ ৩ বছর।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-int-17",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "ন্যাটোর কোন ধারায় যৌথ নিরাপত্তার ধারণা ব্যক্ত হয়েছে?",
-    "options": ["আর্টিকেল ২", "আর্টিকেল ৩", "আর্টিকেল ৪", "আর্টিকেল ৫"], "answerIndex": 3,
-    "explanation": "উত্তর আটলান্টিক চুক্তির আর্টিকেল ৫-এ যৌথ নিরাপত্তার ধারণা ব্যক্ত হয়েছে।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-1", "categoryId": "geography", "subTopic": "bangladesh", "difficulty": "medium",
+    "options": [
+      "আর্টিকেল ৩",
+      "আর্টিকেল ৪",
+      "আর্টিকেল ২",
+      "আর্টিকেল ৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "উত্তর আটলান্টিক চুক্তির আর্টিকেল ৫-এ যৌথ নিরাপত্তার ধারণা ব্যক্ত হয়েছে।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-1",
+    "categoryId": "geography",
+    "subTopic": "bangladesh",
+    "difficulty": "medium",
     "question": "হিলি স্থলবন্দর বাংলাদেশের কোথায় অবস্থিত?",
-    "options": ["বিরামপুর, দিনাজপুর", "হাকিমপুর, দিনাজপুর", "ঘোড়াঘাট, দিনাজপুর", "পাঁচবিবি, জয়পুরহাট"], "answerIndex": 1,
-    "explanation": "হিলি স্থলবন্দর দিনাজপুরের হাকিমপুর উপজেলায় অবস্থিত।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-2", "categoryId": "geography", "subTopic": "earth", "difficulty": "hard",
+    "options": [
+      "পাঁচবিবি, জয়পুরহাট",
+      "ঘোড়াঘাট, দিনাজপুর",
+      "বিরামপুর, দিনাজপুর",
+      "হাকিমপুর, দিনাজপুর"
+    ],
+    "answerIndex": 3,
+    "explanation": "হিলি স্থলবন্দর দিনাজপুরের হাকিমপুর উপজেলায় অবস্থিত।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-2",
+    "categoryId": "geography",
+    "subTopic": "earth",
+    "difficulty": "hard",
     "question": "ঢাকার পূর্বদিকে দ্রাঘিমার পার্থক্য ৪৫°; ঢাকায় মধ্যাহ্ন ১২:০০ হলে ঐ স্থানের স্থানীয় সময় কত?",
-    "options": ["সকাল ০৯:০০", "বিকাল ০৩:০০", "সন্ধ্যা ০৬:০০", "রাত ০৯:০০"], "answerIndex": 1,
-    "explanation": "প্রতি ১৫° = ১ ঘণ্টা; পূর্বে ৪৫° = ৩ ঘণ্টা এগিয়ে, তাই বিকাল ০৩:০০।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-3", "categoryId": "geography", "subTopic": "earth", "difficulty": "medium",
+    "options": [
+      "সকাল ০৯:০০",
+      "রাত ০৯:০০",
+      "বিকাল ০৩:০০",
+      "সন্ধ্যা ০৬:০০"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রতি ১৫° = ১ ঘণ্টা; পূর্বে ৪৫° = ৩ ঘণ্টা এগিয়ে, তাই বিকাল ০৩:০০।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-3",
+    "categoryId": "geography",
+    "subTopic": "earth",
+    "difficulty": "medium",
     "question": "কোন দুটি প্লেটের সংযোগস্থল বরাবর মাউন্ট এভারেস্ট অবস্থিত?",
-    "options": ["ইন্ডিয়ান ও ইউরেশিয়ান", "ইন্ডিয়ান ও বার্মিজ", "ইন্ডিয়ান ও আফ্রিকান", "বার্মিজ ও ইউরেশিয়ান"], "answerIndex": 0,
-    "explanation": "মাউন্ট এভারেস্ট ইন্ডিয়ান ও ইউরেশিয়ান প্লেটের সংঘর্ষস্থলে অবস্থিত।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-4", "categoryId": "geography", "subTopic": "climate", "difficulty": "hard",
+    "options": [
+      "ইন্ডিয়ান ও ইউরেশিয়ান",
+      "বার্মিজ ও ইউরেশিয়ান",
+      "ইন্ডিয়ান ও আফ্রিকান",
+      "ইন্ডিয়ান ও বার্মিজ"
+    ],
+    "answerIndex": 0,
+    "explanation": "মাউন্ট এভারেস্ট ইন্ডিয়ান ও ইউরেশিয়ান প্লেটের সংঘর্ষস্থলে অবস্থিত।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-4",
+    "categoryId": "geography",
+    "subTopic": "climate",
+    "difficulty": "hard",
     "question": "ট্রপোমন্ডলে উচ্চতা বৃদ্ধির সাথে বায়ুর তাপমাত্রা গড়ে কত হারে হ্রাস পায়?",
-    "options": ["৫.৫° সে/কিমি", "৬.৫° সে/কিমি", "৭.৫° সে/কিমি", "৮.৫° সে/কিমি"], "answerIndex": 1,
-    "explanation": "ট্রপোমন্ডলে স্বাভাবিক ল্যাপস রেট প্রায় ৬.৫° সেলসিয়াস/কিলোমিটার।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-5", "categoryId": "geography", "subTopic": "earth", "difficulty": "medium",
+    "options": [
+      "৫.৫° সে/কিমি",
+      "৬.৫° সে/কিমি",
+      "৮.৫° সে/কিমি",
+      "৭.৫° সে/কিমি"
+    ],
+    "answerIndex": 1,
+    "explanation": "ট্রপোমন্ডলে স্বাভাবিক ল্যাপস রেট প্রায় ৬.৫° সেলসিয়াস/কিলোমিটার।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-5",
+    "categoryId": "geography",
+    "subTopic": "earth",
+    "difficulty": "medium",
     "question": "নিরক্ষীয় তল থেকে উত্তর মেরুর কৌণিক দূরত্ব কত?",
-    "options": ["৪৫°", "৯০°", "১৮০°", "৩৬০°"], "answerIndex": 1,
-    "explanation": "নিরক্ষরেখা থেকে মেরুর কৌণিক দূরত্ব ৯০°।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-6", "categoryId": "geography", "subTopic": "disaster", "difficulty": "medium",
+    "options": [
+      "৩৬০°",
+      "৯০°",
+      "১৮০°",
+      "৪৫°"
+    ],
+    "answerIndex": 1,
+    "explanation": "নিরক্ষরেখা থেকে মেরুর কৌণিক দূরত্ব ৯০°।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-6",
+    "categoryId": "geography",
+    "subTopic": "disaster",
+    "difficulty": "medium",
     "question": "জাপানি শব্দ ‘সুনামি’র আক্ষরিক অর্থ কী?",
-    "options": ["বিশালাকৃতির ঢেউ", "সামুদ্রিক ঢেউ", "জলোচ্ছ্বাস", "পোতাশ্রয়ের ঢেউ"], "answerIndex": 3,
-    "explanation": "‘সুনামি’ শব্দের অর্থ পোতাশ্রয়ের (harbour) ঢেউ।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-7", "categoryId": "geography", "subTopic": "disaster", "difficulty": "easy",
+    "options": [
+      "পোতাশ্রয়ের ঢেউ",
+      "জলোচ্ছ্বাস",
+      "বিশালাকৃতির ঢেউ",
+      "সামুদ্রিক ঢেউ"
+    ],
+    "answerIndex": 0,
+    "explanation": "‘সুনামি’ শব্দের অর্থ পোতাশ্রয়ের (harbour) ঢেউ।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-7",
+    "categoryId": "geography",
+    "subTopic": "disaster",
+    "difficulty": "easy",
     "question": "নিচের কোনটি বৈশ্বিক উষ্ণায়নের কারণে ঝুঁকিপূর্ণ নয়?",
-    "options": ["মরুকরণ", "বন্যা", "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি", "ভূমিকম্প"], "answerIndex": 3,
-    "explanation": "ভূমিকম্প ভূ-অভ্যন্তরীণ কারণে ঘটে; বৈশ্বিক উষ্ণায়নের সাথে এটি সম্পর্কিত নয়।", "year": 46, "source": "46th BCS (2024)" },
-  { "id": "py46-geo-8", "categoryId": "geography", "subTopic": "disaster", "difficulty": "medium",
+    "options": [
+      "ভূমিকম্প",
+      "মরুকরণ",
+      "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি",
+      "বন্যা"
+    ],
+    "answerIndex": 0,
+    "explanation": "ভূমিকম্প ভূ-অভ্যন্তরীণ কারণে ঘটে; বৈশ্বিক উষ্ণায়নের সাথে এটি সম্পর্কিত নয়।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  },
+  {
+    "id": "py46-geo-8",
+    "categoryId": "geography",
+    "subTopic": "disaster",
+    "difficulty": "medium",
     "question": "নিচের কোনটি কৃষি-আবহাওয়াজনিত আপদ (Hazard)?",
-    "options": ["ভূমিকম্প", "ভূমিধস", "সুনামি", "খরা"], "answerIndex": 3,
-    "explanation": "খরা একটি কৃষি-আবহাওয়াজনিত আপদ।", "year": 46, "source": "46th BCS (2024)" }
+    "options": [
+      "ভূমিকম্প",
+      "ভূমিধস",
+      "সুনামি",
+      "খরা"
+    ],
+    "answerIndex": 3,
+    "explanation": "খরা একটি কৃষি-আবহাওয়াজনিত আপদ।",
+    "year": 46,
+    "source": "46th BCS (2024)"
+  }
 ]

@@ -1,254 +1,947 @@
 [
-  { "id": "f9-bn-1", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+  {
+    "id": "f9-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"পবন\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["পো + অন", "প + বন", "পব + ন", "পো + বন"], "answerIndex": 0,
-    "explanation": "\"পবন\" = পো + অন।" },
-  { "id": "f9-bn-2", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "প + বন",
+      "পব + ন",
+      "পো + বন",
+      "পো + অন"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"পবন\" = পো + অন।"
+  },
+  {
+    "id": "f9-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"পুতুল নাচের ইতিকথা\" উপন্যাসের রচয়িতা কে?",
-    "options": ["মানিক বন্দ্যোপাধ্যায়", "বিভূতিভূষণ", "তারাশঙ্কর", "শরৎচন্দ্র"], "answerIndex": 0,
-    "explanation": "\"পুতুল নাচের ইতিকথা\" মানিক বন্দ্যোপাধ্যায়ের উপন্যাস।" },
-  { "id": "f9-bn-3", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "তারাশঙ্কর",
+      "শরৎচন্দ্র",
+      "বিভূতিভূষণ",
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"পুতুল নাচের ইতিকথা\" মানিক বন্দ্যোপাধ্যায়ের উপন্যাস।"
+  },
+  {
+    "id": "f9-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"ময়মনসিংহ গীতিকা\" সংগ্রহ করেন কে?",
-    "options": ["দীনেশচন্দ্র সেন", "হরপ্রসাদ শাস্ত্রী", "চন্দ্রকুমার দে", "জসীম উদ্‌দীন"], "answerIndex": 0,
-    "explanation": "\"ময়মনসিংহ গীতিকা\" সংকলন ও সম্পাদনা করেন দীনেশচন্দ্র সেন।" },
-  { "id": "f9-bn-4", "categoryId": "bangla", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "চন্দ্রকুমার দে",
+      "জসীম উদ্‌দীন",
+      "হরপ্রসাদ শাস্ত্রী",
+      "দীনেশচন্দ্র সেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"ময়মনসিংহ গীতিকা\" সংকলন ও সম্পাদনা করেন দীনেশচন্দ্র সেন।"
+  },
+  {
+    "id": "f9-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "\"থাকুরমার ঝুলি\" কে সংকলন করেন?",
-    "options": ["দক্ষিণারঞ্জন মিত্র মজুমদার", "উপেন্দ্রকিশোর রায়চৌধুরী", "সুকুমার রায়", "অবনীন্দ্রনাথ ঠাকুর"], "answerIndex": 0,
-    "explanation": "\"ঠাকুরমার ঝুলি\" রূপকথা সংকলন করেন দক্ষিণারঞ্জন মিত্র মজুমদার।" },
-  { "id": "f9-bn-5", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "সুকুমার রায়",
+      "অবনীন্দ্রনাথ ঠাকুর",
+      "দক্ষিণারঞ্জন মিত্র মজুমদার",
+      "উপেন্দ্রকিশোর রায়চৌধুরী"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"ঠাকুরমার ঝুলি\" রূপকথা সংকলন করেন দক্ষিণারঞ্জন মিত্র মজুমদার।"
+  },
+  {
+    "id": "f9-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"আরোগ্য নিকেতন\" উপন্যাসের রচয়িতা কে?",
-    "options": ["তারাশঙ্কর বন্দ্যোপাধ্যায়", "মানিক", "বিভূতিভূষণ", "সমরেশ বসু"], "answerIndex": 0,
-    "explanation": "\"আরোগ্য নিকেতন\" তারাশঙ্কর বন্দ্যোপাধ্যায়ের উপন্যাস।" },
-  { "id": "f9-bn-6", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+      "বিভূতিভূষণ",
+      "সমরেশ বসু",
+      "মানিক"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"আরোগ্য নিকেতন\" তারাশঙ্কর বন্দ্যোপাধ্যায়ের উপন্যাস।"
+  },
+  {
+    "id": "f9-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"গবেষণা\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["গো + এষণা", "গব + এষণা", "গবে + ষণা", "গৌ + এষণা"], "answerIndex": 0,
-    "explanation": "\"গবেষণা\" = গো + এষণা।" },
-  { "id": "f9-bn-7", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "গব + এষণা",
+      "গৌ + এষণা",
+      "গবে + ষণা",
+      "গো + এষণা"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"গবেষণা\" = গো + এষণা।"
+  },
+  {
+    "id": "f9-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"রবীন্দ্র\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["রবি + ইন্দ্র", "রব + ইন্দ্র", "রবী + ইন্দ্র", "রবি + এন্দ্র"], "answerIndex": 0,
-    "explanation": "\"রবীন্দ্র\" = রবি + ইন্দ্র।" },
-  { "id": "f9-bn-8", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "রবি + ইন্দ্র",
+      "রব + ইন্দ্র",
+      "রবি + এন্দ্র",
+      "রবী + ইন্দ্র"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"রবীন্দ্র\" = রবি + ইন্দ্র।"
+  },
+  {
+    "id": "f9-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"মহৌষধ\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["মহা + ঔষধ", "মহ + ঔষধ", "মহৌ + ষধ", "মহা + ওষধ"], "answerIndex": 0,
-    "explanation": "\"মহৌষধ\" = মহা + ঔষধ।" },
-  { "id": "f9-bn-9", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "মহৌ + ষধ",
+      "মহা + ঔষধ",
+      "মহ + ঔষধ",
+      "মহা + ওষধ"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"মহৌষধ\" = মহা + ঔষধ।"
+  },
+  {
+    "id": "f9-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"চতুষ্পদ\" কোন সমাস?",
-    "options": ["বহুব্রীহি", "দ্বিগু", "দ্বন্দ্ব", "কর্মধারয়"], "answerIndex": 0,
-    "explanation": "\"চার পদ যার\" = চতুষ্পদ — বহুব্রীহি সমাস।" },
-  { "id": "f9-bn-10", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "বহুব্রীহি",
+      "কর্মধারয়",
+      "দ্বন্দ্ব",
+      "দ্বিগু"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"চার পদ যার\" = চতুষ্পদ — বহুব্রীহি সমাস।"
+  },
+  {
+    "id": "f9-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"মণিকাঞ্চন যোগ\" বাগধারার অর্থ কী?",
-    "options": ["উপযুক্ত মিলন", "দামি গয়না", "সোনা-রূপা", "দুর্লভ ঘটনা"], "answerIndex": 0,
-    "explanation": "\"মণিকাঞ্চন যোগ\" অর্থ উপযুক্ত বা যথাযথ মিলন।" },
-  { "id": "f9-bn-11", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "দুর্লভ ঘটনা",
+      "সোনা-রূপা",
+      "উপযুক্ত মিলন",
+      "দামি গয়না"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"মণিকাঞ্চন যোগ\" অর্থ উপযুক্ত বা যথাযথ মিলন।"
+  },
+  {
+    "id": "f9-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"ভরাডুবি\" বাগধারার অর্থ কী?",
-    "options": ["সর্বনাশ", "নৌকাডুবি", "ব্যর্থতা", "দুঃখ"], "answerIndex": 0,
-    "explanation": "\"ভরাডুবি\" অর্থ সর্বনাশ।" },
-  { "id": "f9-bn-12", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "নৌকাডুবি",
+      "সর্বনাশ",
+      "দুঃখ",
+      "ব্যর্থতা"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"ভরাডুবি\" অর্থ সর্বনাশ।"
+  },
+  {
+    "id": "f9-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"হ্রাস\" শব্দের বিপরীত শব্দ কী?",
-    "options": ["বৃদ্ধি", "ক্ষয়", "কমতি", "ন্যূন"], "answerIndex": 0,
-    "explanation": "\"হ্রাস\"-এর বিপরীত \"বৃদ্ধি\"।" },
-  { "id": "f9-bn-13", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "ক্ষয়",
+      "ন্যূন",
+      "বৃদ্ধি",
+      "কমতি"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"হ্রাস\"-এর বিপরীত \"বৃদ্ধি\"।"
+  },
+  {
+    "id": "f9-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"যিনি বক্তৃতা দানে পটু\" — এক কথায় কী?",
-    "options": ["বাগ্মী", "বাচাল", "বক্তা", "সুবক্তা"], "answerIndex": 0,
-    "explanation": "বক্তৃতা দানে পটু ব্যক্তিকে \"বাগ্মী\" বলে।" },
-  { "id": "f9-en-1", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "বাচাল",
+      "সুবক্তা",
+      "বাগ্মী",
+      "বক্তা"
+    ],
+    "answerIndex": 2,
+    "explanation": "বক্তৃতা দানে পটু ব্যক্তিকে \"বাগ্মী\" বলে।"
+  },
+  {
+    "id": "f9-en-1",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Brave New World\" was written by:",
-    "options": ["Aldous Huxley", "George Orwell", "H. G. Wells", "Ray Bradbury"], "answerIndex": 0,
-    "explanation": "\"Brave New World\" (1932) is a dystopian novel by Aldous Huxley." },
-  { "id": "f9-en-2", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "H. G. Wells",
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Brave New World\" (1932) is a dystopian novel by Aldous Huxley."
+  },
+  {
+    "id": "f9-en-2",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who wrote \"The Importance of Being Earnest\"?",
-    "options": ["Oscar Wilde", "George Bernard Shaw", "Samuel Beckett", "J. M. Synge"], "answerIndex": 0,
-    "explanation": "\"The Importance of Being Earnest\" is a comedy by Oscar Wilde." },
-  { "id": "f9-en-3", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "George Bernard Shaw",
+      "Oscar Wilde",
+      "J. M. Synge",
+      "Samuel Beckett"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"The Importance of Being Earnest\" is a comedy by Oscar Wilde."
+  },
+  {
+    "id": "f9-en-3",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Ode to a Nightingale\" was written by:",
-    "options": ["John Keats", "P. B. Shelley", "Lord Byron", "William Wordsworth"], "answerIndex": 0,
-    "explanation": "\"Ode to a Nightingale\" is by John Keats." },
-  { "id": "f9-en-4", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "John Keats",
+      "P. B. Shelley",
+      "William Wordsworth",
+      "Lord Byron"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Ode to a Nightingale\" is by John Keats."
+  },
+  {
+    "id": "f9-en-4",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Kubla Khan\" was written by:",
-    "options": ["S. T. Coleridge", "William Wordsworth", "John Keats", "Robert Southey"], "answerIndex": 0,
-    "explanation": "\"Kubla Khan\" is a poem by Samuel Taylor Coleridge." },
-  { "id": "f9-en-5", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "Robert Southey",
+      "S. T. Coleridge",
+      "John Keats",
+      "William Wordsworth"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Kubla Khan\" is a poem by Samuel Taylor Coleridge."
+  },
+  {
+    "id": "f9-en-5",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who wrote the essay \"Of Studies\"?",
-    "options": ["Francis Bacon", "Charles Lamb", "Joseph Addison", "Samuel Johnson"], "answerIndex": 0,
-    "explanation": "\"Of Studies\" is an essay by Francis Bacon." },
-  { "id": "f9-en-6", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "Charles Lamb",
+      "Francis Bacon",
+      "Samuel Johnson",
+      "Joseph Addison"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Of Studies\" is an essay by Francis Bacon."
+  },
+  {
+    "id": "f9-en-6",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct: \"Neither of the boys ___ present.\"",
-    "options": ["was", "were", "are", "have"], "answerIndex": 0,
-    "explanation": "\"Neither\" is singular and takes a singular verb: \"was\"." },
-  { "id": "f9-en-7", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Neither\" is singular and takes a singular verb: \"was\"."
+  },
+  {
+    "id": "f9-en-7",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct preposition: \"He is junior ___ me.\"",
-    "options": ["to", "than", "from", "with"], "answerIndex": 0,
-    "explanation": "\"Junior\" takes the preposition \"to\", not \"than\"." },
-  { "id": "f9-en-8", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "medium",
+    "options": [
+      "than",
+      "with",
+      "to",
+      "from"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Junior\" takes the preposition \"to\", not \"than\"."
+  },
+  {
+    "id": "f9-en-8",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "medium",
     "question": "One word for \"the killing of a king\":",
-    "options": ["Regicide", "Homicide", "Genocide", "Patricide"], "answerIndex": 0,
-    "explanation": "Killing of a king is \"regicide\"." },
-  { "id": "f9-en-9", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "hard",
+    "options": [
+      "Regicide",
+      "Genocide",
+      "Patricide",
+      "Homicide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Killing of a king is \"regicide\"."
+  },
+  {
+    "id": "f9-en-9",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
     "question": "The antonym of \"Ascend\" is:",
-    "options": ["Descend", "Climb", "Rise", "Mount"], "answerIndex": 0,
-    "explanation": "\"Ascend\" means to go up; its opposite is \"Descend\"." },
-  { "id": "f9-en-10", "categoryId": "english", "subTopic": "idioms", "difficulty": "medium",
+    "options": [
+      "Descend",
+      "Mount",
+      "Rise",
+      "Climb"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Ascend\" means to go up; its opposite is \"Descend\"."
+  },
+  {
+    "id": "f9-en-10",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
     "question": "The idiom \"a blessing in disguise\" means:",
-    "options": ["a good thing that seemed bad at first", "a secret gift", "a hidden danger", "a false hope"], "answerIndex": 0,
-    "explanation": "It means something that seems bad but turns out to be good." },
-  { "id": "f9-en-11", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "hard",
+    "options": [
+      "a secret gift",
+      "a good thing that seemed bad at first",
+      "a false hope",
+      "a hidden danger"
+    ],
+    "answerIndex": 1,
+    "explanation": "It means something that seems bad but turns out to be good."
+  },
+  {
+    "id": "f9-en-11",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
     "question": "The phrase \"de facto\" means:",
-    "options": ["in fact / in reality", "by law", "for example", "after death"], "answerIndex": 0,
-    "explanation": "\"De facto\" (Latin) means existing in fact, whether or not legally recognised." },
-  { "id": "f9-en-12", "categoryId": "english", "subTopic": "grammar", "difficulty": "easy",
+    "options": [
+      "after death",
+      "by law",
+      "in fact / in reality",
+      "for example"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"De facto\" (Latin) means existing in fact, whether or not legally recognised."
+  },
+  {
+    "id": "f9-en-12",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "easy",
     "question": "Find the correctly spelt word:",
-    "options": ["Embarrass", "Embarass", "Embaras", "Embarras"], "answerIndex": 0,
-    "explanation": "The correct spelling is \"Embarrass\" (double r, double s)." },
-  { "id": "f9-bd-1", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "Embarras",
+      "Embarrass",
+      "Embarass",
+      "Embaras"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct spelling is \"Embarrass\" (double r, double s)."
+  },
+  {
+    "id": "f9-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "ছয় দফা দাবি কত সালে উত্থাপিত হয়?",
-    "options": ["১৯৬৬", "১৯৭০", "১৯৫২", "১৯৬৯"], "answerIndex": 0,
-    "explanation": "১৯৬৬ সালে শেখ মুজিবুর রহমান ছয় দফা দাবি উত্থাপন করেন।" },
-  { "id": "f9-bd-2", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "১৯৫২",
+      "১৯৬৬",
+      "১৯৭০",
+      "১৯৬৯"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯৬৬ সালে শেখ মুজিবুর রহমান ছয় দফা দাবি উত্থাপন করেন।"
+  },
+  {
+    "id": "f9-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "ঊনসত্তরের গণঅভ্যুত্থান কোন সালে সংঘটিত হয়?",
-    "options": ["১৯৬৯", "১৯৬৬", "১৯৭০", "১৯৭১"], "answerIndex": 0,
-    "explanation": "১৯৬৯ সালে আইয়ুববিরোধী গণঅভ্যুত্থান সংঘটিত হয়।" },
-  { "id": "f9-bd-3", "categoryId": "bd_affairs", "subTopic": "constitution", "difficulty": "hard",
+    "options": [
+      "১৯৭০",
+      "১৯৬৯",
+      "১৯৬৬",
+      "১৯৭১"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯৬৯ সালে আইয়ুববিরোধী গণঅভ্যুত্থান সংঘটিত হয়।"
+  },
+  {
+    "id": "f9-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "constitution",
+    "difficulty": "hard",
     "question": "বাংলাদেশের সংবিধানের মূল চারটি নীতির অন্তর্ভুক্ত কোনটি?",
-    "options": ["জাতীয়তাবাদ", "সামরিকতন্ত্র", "রাজতন্ত্র", "পুঁজিবাদ"], "answerIndex": 0,
-    "explanation": "মূল চার নীতি: জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতা।" },
-  { "id": "f9-bd-4", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "পুঁজিবাদ",
+      "সামরিকতন্ত্র",
+      "জাতীয়তাবাদ",
+      "রাজতন্ত্র"
+    ],
+    "answerIndex": 2,
+    "explanation": "মূল চার নীতি: জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতা।"
+  },
+  {
+    "id": "f9-bd-4",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "\"আমার সোনার বাংলা\" গানটি রবীন্দ্রনাথ কোন প্রেক্ষাপটে রচনা করেন?",
-    "options": ["১৯০৫-এর বঙ্গভঙ্গ বিরোধী আন্দোলন", "১৯৪৭-এর দেশভাগ", "১৯৫২-এর ভাষা আন্দোলন", "১৯৭১-এর মুক্তিযুদ্ধ"], "answerIndex": 0,
-    "explanation": "১৯০৫ সালের বঙ্গভঙ্গবিরোধী আন্দোলনের প্রেক্ষাপটে রবীন্দ্রনাথ গানটি রচনা করেন।" },
-  { "id": "f9-bd-5", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "hard",
+    "options": [
+      "১৯৪৭-এর দেশভাগ",
+      "১৯০৫-এর বঙ্গভঙ্গ বিরোধী আন্দোলন",
+      "১৯৫২-এর ভাষা আন্দোলন",
+      "১৯৭১-এর মুক্তিযুদ্ধ"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯০৫ সালের বঙ্গভঙ্গবিরোধী আন্দোলনের প্রেক্ষাপটে রবীন্দ্রনাথ গানটি রচনা করেন।"
+  },
+  {
+    "id": "f9-bd-5",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "hard",
     "question": "বাংলাদেশের প্রথম EPZ (রপ্তানি প্রক্রিয়াকরণ এলাকা) কোথায় স্থাপিত হয়?",
-    "options": ["চট্টগ্রাম", "ঢাকা", "মোংলা", "কুমিল্লা"], "answerIndex": 0,
-    "explanation": "বাংলাদেশের প্রথম EPZ চট্টগ্রামে স্থাপিত হয় (১৯৮৩)।" },
-  { "id": "f9-bd-6", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "medium",
+    "options": [
+      "কুমিল্লা",
+      "চট্টগ্রাম",
+      "মোংলা",
+      "ঢাকা"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশের প্রথম EPZ চট্টগ্রামে স্থাপিত হয় (১৯৮৩)।"
+  },
+  {
+    "id": "f9-bd-6",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "medium",
     "question": "বাংলাদেশের অর্থবছর কখন শুরু হয়?",
-    "options": ["১ জুলাই", "১ জানুয়ারি", "১ এপ্রিল", "১ অক্টোবর"], "answerIndex": 0,
-    "explanation": "বাংলাদেশের অর্থবছর ১ জুলাই থেকে শুরু হয়ে ৩০ জুন শেষ হয়।" },
-  { "id": "f9-bd-7", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "easy",
+    "options": [
+      "১ জানুয়ারি",
+      "১ এপ্রিল",
+      "১ অক্টোবর",
+      "১ জুলাই"
+    ],
+    "answerIndex": 3,
+    "explanation": "বাংলাদেশের অর্থবছর ১ জুলাই থেকে শুরু হয়ে ৩০ জুন শেষ হয়।"
+  },
+  {
+    "id": "f9-bd-7",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "easy",
     "question": "বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্রসৈকত কোনটি?",
-    "options": ["কক্সবাজার", "পতেঙ্গা", "কুয়াকাটা", "ইনানী"], "answerIndex": 0,
-    "explanation": "কক্সবাজার বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্রসৈকতগুলোর একটি।" },
-  { "id": "f9-bd-8", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "পতেঙ্গা",
+      "কুয়াকাটা",
+      "ইনানী",
+      "কক্সবাজার"
+    ],
+    "answerIndex": 3,
+    "explanation": "কক্সবাজার বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্রসৈকতগুলোর একটি।"
+  },
+  {
+    "id": "f9-bd-8",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "কুয়াকাটা সমুদ্রসৈকত কোন জেলায় অবস্থিত?",
-    "options": ["পটুয়াখালী", "বরগুনা", "ভোলা", "বরিশাল"], "answerIndex": 0,
-    "explanation": "কুয়াকাটা সমুদ্রসৈকত পটুয়াখালী জেলায় অবস্থিত।" },
-  { "id": "f9-bd-9", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "পটুয়াখালী",
+      "ভোলা",
+      "বরিশাল",
+      "বরগুনা"
+    ],
+    "answerIndex": 0,
+    "explanation": "কুয়াকাটা সমুদ্রসৈকত পটুয়াখালী জেলায় অবস্থিত।"
+  },
+  {
+    "id": "f9-bd-9",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "মুজিবনগর সরকার আনুষ্ঠানিকভাবে গঠিত হয় কত তারিখে?",
-    "options": ["১০ এপ্রিল ১৯৭১", "১৭ এপ্রিল ১৯৭১", "২৬ মার্চ ১৯৭১", "৭ মার্চ ১৯৭১"], "answerIndex": 0,
-    "explanation": "১০ এপ্রিল ১৯৭১ মুজিবনগর সরকার গঠিত হয় এবং ১৭ এপ্রিল শপথ গ্রহণ করে।" },
-  { "id": "f9-bd-10", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "২৬ মার্চ ১৯৭১",
+      "১০ এপ্রিল ১৯৭১",
+      "৭ মার্চ ১৯৭১",
+      "১৭ এপ্রিল ১৯৭১"
+    ],
+    "answerIndex": 1,
+    "explanation": "১০ এপ্রিল ১৯৭১ মুজিবনগর সরকার গঠিত হয় এবং ১৭ এপ্রিল শপথ গ্রহণ করে।"
+  },
+  {
+    "id": "f9-bd-10",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশের সংবিধান অনুযায়ী রাষ্ট্রভাষা কোনটি?",
-    "options": ["বাংলা", "বাংলা ও ইংরেজি", "উর্দু", "ইংরেজি"], "answerIndex": 0,
-    "explanation": "সংবিধানের ৩নং অনুচ্ছেদ অনুযায়ী প্রজাতন্ত্রের রাষ্ট্রভাষা বাংলা।" },
-  { "id": "f9-int-1", "categoryId": "intl_affairs", "subTopic": "space", "difficulty": "medium",
+    "options": [
+      "বাংলা ও ইংরেজি",
+      "উর্দু",
+      "ইংরেজি",
+      "বাংলা"
+    ],
+    "answerIndex": 3,
+    "explanation": "সংবিধানের ৩নং অনুচ্ছেদ অনুযায়ী প্রজাতন্ত্রের রাষ্ট্রভাষা বাংলা।"
+  },
+  {
+    "id": "f9-int-1",
+    "categoryId": "intl_affairs",
+    "subTopic": "space",
+    "difficulty": "medium",
     "question": "চাঁদে প্রথম পা রাখেন কে?",
-    "options": ["নিল আর্মস্ট্রং", "বাজ অলড্রিন", "ইউরি গ্যাগারিন", "মাইকেল কলিন্স"], "answerIndex": 0,
-    "explanation": "১৯৬৯ সালে অ্যাপোলো-১১ মিশনে নিল আর্মস্ট্রং প্রথম চাঁদে পা রাখেন।" },
-  { "id": "f9-int-2", "categoryId": "intl_affairs", "subTopic": "space", "difficulty": "medium",
+    "options": [
+      "বাজ অলড্রিন",
+      "মাইকেল কলিন্স",
+      "নিল আর্মস্ট্রং",
+      "ইউরি গ্যাগারিন"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৯৬৯ সালে অ্যাপোলো-১১ মিশনে নিল আর্মস্ট্রং প্রথম চাঁদে পা রাখেন।"
+  },
+  {
+    "id": "f9-int-2",
+    "categoryId": "intl_affairs",
+    "subTopic": "space",
+    "difficulty": "medium",
     "question": "মহাকাশে প্রথম মানুষ কে?",
-    "options": ["ইউরি গ্যাগারিন", "নিল আর্মস্ট্রং", "ভ্যালেন্তিনা তেরেশকোভা", "অ্যালান শেপার্ড"], "answerIndex": 0,
-    "explanation": "১৯৬১ সালে সোভিয়েত নভোচারী ইউরি গ্যাগারিন প্রথম মহাকাশে যান।" },
-  { "id": "f9-int-3", "categoryId": "intl_affairs", "subTopic": "books", "difficulty": "hard",
+    "options": [
+      "ইউরি গ্যাগারিন",
+      "ভ্যালেন্তিনা তেরেশকোভা",
+      "নিল আর্মস্ট্রং",
+      "অ্যালান শেপার্ড"
+    ],
+    "answerIndex": 0,
+    "explanation": "১৯৬১ সালে সোভিয়েত নভোচারী ইউরি গ্যাগারিন প্রথম মহাকাশে যান।"
+  },
+  {
+    "id": "f9-int-3",
+    "categoryId": "intl_affairs",
+    "subTopic": "books",
+    "difficulty": "hard",
     "question": "\"দ্য ওয়েলথ অব নেশনস\" গ্রন্থের লেখক কে?",
-    "options": ["অ্যাডাম স্মিথ", "কার্ল মার্কস", "ডেভিড রিকার্ডো", "কেইনস"], "answerIndex": 0,
-    "explanation": "\"The Wealth of Nations\" অর্থনীতির জনক অ্যাডাম স্মিথের রচনা।" },
-  { "id": "f9-int-4", "categoryId": "intl_affairs", "subTopic": "books", "difficulty": "hard",
+    "options": [
+      "ডেভিড রিকার্ডো",
+      "কার্ল মার্কস",
+      "কেইনস",
+      "অ্যাডাম স্মিথ"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"The Wealth of Nations\" অর্থনীতির জনক অ্যাডাম স্মিথের রচনা।"
+  },
+  {
+    "id": "f9-int-4",
+    "categoryId": "intl_affairs",
+    "subTopic": "books",
+    "difficulty": "hard",
     "question": "\"দাস ক্যাপিটাল\" গ্রন্থের রচয়িতা কে?",
-    "options": ["কার্ল মার্কস", "অ্যাডাম স্মিথ", "লেনিন", "এঙ্গেলস"], "answerIndex": 0,
-    "explanation": "\"Das Kapital\" কার্ল মার্কসের রচনা।" },
-  { "id": "f9-int-5", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "এঙ্গেলস",
+      "কার্ল মার্কস",
+      "লেনিন",
+      "অ্যাডাম স্মিথ"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Das Kapital\" কার্ল মার্কসের রচনা।"
+  },
+  {
+    "id": "f9-int-5",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "কিউবার রাজধানী কোনটি?",
-    "options": ["হাভানা", "সান্তিয়াগো", "কিংস্টন", "বোগোটা"], "answerIndex": 0,
-    "explanation": "কিউবার রাজধানী হাভানা।" },
-  { "id": "f9-int-6", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "সান্তিয়াগো",
+      "বোগোটা",
+      "হাভানা",
+      "কিংস্টন"
+    ],
+    "answerIndex": 2,
+    "explanation": "কিউবার রাজধানী হাভানা।"
+  },
+  {
+    "id": "f9-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "ওমানের রাজধানী কোনটি?",
-    "options": ["মাস্কাট", "দোহা", "মানামা", "সানা"], "answerIndex": 0,
-    "explanation": "ওমানের রাজধানী মাস্কাট।" },
-  { "id": "f9-int-7", "categoryId": "intl_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "দোহা",
+      "সানা",
+      "মাস্কাট",
+      "মানামা"
+    ],
+    "answerIndex": 2,
+    "explanation": "ওমানের রাজধানী মাস্কাট।"
+  },
+  {
+    "id": "f9-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "হিরোশিমায় পারমাণবিক বোমা ফেলা হয় কোন তারিখে?",
-    "options": ["৬ আগস্ট ১৯৪৫", "৯ আগস্ট ১৯৪৫", "১ সেপ্টেম্বর ১৯৩৯", "৭ ডিসেম্বর ১৯৪১"], "answerIndex": 0,
-    "explanation": "১৯৪৫ সালের ৬ আগস্ট হিরোশিমায় পারমাণবিক বোমা ফেলা হয়।" },
-  { "id": "f9-int-8", "categoryId": "intl_affairs", "subTopic": "landmarks", "difficulty": "medium",
+    "options": [
+      "১ সেপ্টেম্বর ১৯৩৯",
+      "৯ আগস্ট ১৯৪৫",
+      "৭ ডিসেম্বর ১৯৪১",
+      "৬ আগস্ট ১৯৪৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৯৪৫ সালের ৬ আগস্ট হিরোশিমায় পারমাণবিক বোমা ফেলা হয়।"
+  },
+  {
+    "id": "f9-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "landmarks",
+    "difficulty": "medium",
     "question": "\"বিগ বেন\" কোন শহরে অবস্থিত?",
-    "options": ["লন্ডন", "প্যারিস", "নিউইয়র্ক", "রোম"], "answerIndex": 0,
-    "explanation": "বিখ্যাত ঘড়ি-ঘণ্টা \"বিগ বেন\" লন্ডনে অবস্থিত।" },
-  { "id": "f9-int-9", "categoryId": "intl_affairs", "subTopic": "landmarks", "difficulty": "medium",
+    "options": [
+      "প্যারিস",
+      "নিউইয়র্ক",
+      "রোম",
+      "লন্ডন"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিখ্যাত ঘড়ি-ঘণ্টা \"বিগ বেন\" লন্ডনে অবস্থিত।"
+  },
+  {
+    "id": "f9-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "landmarks",
+    "difficulty": "medium",
     "question": "\"কলোসিয়াম\" কোন শহরে অবস্থিত?",
-    "options": ["রোম", "এথেন্স", "প্যারিস", "কায়রো"], "answerIndex": 0,
-    "explanation": "প্রাচীন অ্যাম্ফিথিয়েটার কলোসিয়াম ইতালির রোমে অবস্থিত।" },
-  { "id": "f9-int-10", "categoryId": "intl_affairs", "subTopic": "currency", "difficulty": "medium",
+    "options": [
+      "কায়রো",
+      "রোম",
+      "এথেন্স",
+      "প্যারিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রাচীন অ্যাম্ফিথিয়েটার কলোসিয়াম ইতালির রোমে অবস্থিত।"
+  },
+  {
+    "id": "f9-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "currency",
+    "difficulty": "medium",
     "question": "কুয়েতের মুদ্রার নাম কী?",
-    "options": ["দিনার", "রিয়াল", "দিরহাম", "পাউন্ড"], "answerIndex": 0,
-    "explanation": "কুয়েতের মুদ্রার নাম দিনার।" },
-  { "id": "f9-geo-1", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "পাউন্ড",
+      "দিরহাম",
+      "রিয়াল",
+      "দিনার"
+    ],
+    "answerIndex": 3,
+    "explanation": "কুয়েতের মুদ্রার নাম দিনার।"
+  },
+  {
+    "id": "f9-geo-1",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "\"রিং অব ফায়ার\" কোন মহাসাগরের চারপাশে অবস্থিত?",
-    "options": ["প্রশান্ত মহাসাগর", "আটলান্টিক", "ভারত মহাসাগর", "আর্কটিক"], "answerIndex": 0,
-    "explanation": "প্রশান্ত মহাসাগরের চারপাশে আগ্নেয়গিরি ও ভূমিকম্পপ্রবণ \"রিং অব ফায়ার\" অবস্থিত।" },
-  { "id": "f9-geo-2", "categoryId": "geography", "subTopic": "world", "difficulty": "hard",
+    "options": [
+      "আটলান্টিক",
+      "ভারত মহাসাগর",
+      "প্রশান্ত মহাসাগর",
+      "আর্কটিক"
+    ],
+    "answerIndex": 2,
+    "explanation": "প্রশান্ত মহাসাগরের চারপাশে আগ্নেয়গিরি ও ভূমিকম্পপ্রবণ \"রিং অব ফায়ার\" অবস্থিত।"
+  },
+  {
+    "id": "f9-geo-2",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "hard",
     "question": "কর্কটক্রান্তি রেখা বাংলাদেশের প্রায় কোন অংশ দিয়ে গেছে?",
-    "options": ["মধ্যভাগ", "উত্তর সীমান্ত", "দক্ষিণ উপকূল", "পূর্ব সীমান্ত"], "answerIndex": 0,
-    "explanation": "কর্কটক্রান্তি রেখা বাংলাদেশের প্রায় মধ্যভাগ দিয়ে অতিক্রম করেছে।" },
-  { "id": "f9-geo-3", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "দক্ষিণ উপকূল",
+      "পূর্ব সীমান্ত",
+      "মধ্যভাগ",
+      "উত্তর সীমান্ত"
+    ],
+    "answerIndex": 2,
+    "explanation": "কর্কটক্রান্তি রেখা বাংলাদেশের প্রায় মধ্যভাগ দিয়ে অতিক্রম করেছে।"
+  },
+  {
+    "id": "f9-geo-3",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "মাউন্ট ফুজি কোন দেশে অবস্থিত?",
-    "options": ["জাপান", "চীন", "নেপাল", "দক্ষিণ কোরিয়া"], "answerIndex": 0,
-    "explanation": "মাউন্ট ফুজি জাপানের সর্বোচ্চ পর্বত।" },
-  { "id": "f9-sc-1", "categoryId": "science", "subTopic": "physics", "difficulty": "hard",
+    "options": [
+      "দক্ষিণ কোরিয়া",
+      "জাপান",
+      "নেপাল",
+      "চীন"
+    ],
+    "answerIndex": 1,
+    "explanation": "মাউন্ট ফুজি জাপানের সর্বোচ্চ পর্বত।"
+  },
+  {
+    "id": "f9-sc-1",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "hard",
     "question": "তেজস্ক্রিয়তা আবিষ্কার করেন কে?",
-    "options": ["হেনরি বেকেরেল", "মাদাম কুরি", "রাদারফোর্ড", "আইনস্টাইন"], "answerIndex": 0,
-    "explanation": "হেনরি বেকেরেল তেজস্ক্রিয়তা আবিষ্কার করেন।" },
-  { "id": "f9-sc-2", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "রাদারফোর্ড",
+      "মাদাম কুরি",
+      "হেনরি বেকেরেল",
+      "আইনস্টাইন"
+    ],
+    "answerIndex": 2,
+    "explanation": "হেনরি বেকেরেল তেজস্ক্রিয়তা আবিষ্কার করেন।"
+  },
+  {
+    "id": "f9-sc-2",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "সর্বজনীন গ্রহীতা (Universal recipient) কোন রক্তের গ্রুপ?",
-    "options": ["AB পজিটিভ", "O নেগেটিভ", "A পজিটিভ", "B নেগেটিভ"], "answerIndex": 0,
-    "explanation": "AB পজিটিভ রক্তের গ্রুপকে সর্বজনীন গ্রহীতা বলা হয়।" },
-  { "id": "f9-sc-3", "categoryId": "science", "subTopic": "chemistry", "difficulty": "medium",
+    "options": [
+      "A পজিটিভ",
+      "AB পজিটিভ",
+      "O নেগেটিভ",
+      "B নেগেটিভ"
+    ],
+    "answerIndex": 1,
+    "explanation": "AB পজিটিভ রক্তের গ্রুপকে সর্বজনীন গ্রহীতা বলা হয়।"
+  },
+  {
+    "id": "f9-sc-3",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
     "question": "রূপার রাসায়নিক প্রতীক কী?",
-    "options": ["Ag", "Au", "Si", "Sr"], "answerIndex": 0,
-    "explanation": "রূপার প্রতীক Ag (ল্যাটিন Argentum)।" },
-  { "id": "f9-sc-4", "categoryId": "science", "subTopic": "biology", "difficulty": "hard",
+    "options": [
+      "Sr",
+      "Ag",
+      "Au",
+      "Si"
+    ],
+    "answerIndex": 1,
+    "explanation": "রূপার প্রতীক Ag (ল্যাটিন Argentum)।"
+  },
+  {
+    "id": "f9-sc-4",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "hard",
     "question": "ভিটামিন \"বি১\"-এর অভাবে কোন রোগ হয়?",
-    "options": ["বেরিবেরি", "স্কার্ভি", "রিকেটস", "রাতকানা"], "answerIndex": 0,
-    "explanation": "ভিটামিন B1 (থায়ামিন)-এর অভাবে বেরিবেরি রোগ হয়।" },
-  { "id": "f9-sc-5", "categoryId": "science", "subTopic": "chemistry", "difficulty": "easy",
+    "options": [
+      "রাতকানা",
+      "বেরিবেরি",
+      "স্কার্ভি",
+      "রিকেটস"
+    ],
+    "answerIndex": 1,
+    "explanation": "ভিটামিন B1 (থায়ামিন)-এর অভাবে বেরিবেরি রোগ হয়।"
+  },
+  {
+    "id": "f9-sc-5",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "easy",
     "question": "পিঁপড়ার কামড়ে কোন এসিড থাকে?",
-    "options": ["ফরমিক এসিড", "এসিটিক এসিড", "সাইট্রিক এসিড", "ল্যাকটিক এসিড"], "answerIndex": 0,
-    "explanation": "পিঁপড়ার দংশনে ফরমিক এসিড থাকে।" },
-  { "id": "f9-sc-6", "categoryId": "science", "subTopic": "physics", "difficulty": "medium",
+    "options": [
+      "সাইট্রিক এসিড",
+      "এসিটিক এসিড",
+      "ল্যাকটিক এসিড",
+      "ফরমিক এসিড"
+    ],
+    "answerIndex": 3,
+    "explanation": "পিঁপড়ার দংশনে ফরমিক এসিড থাকে।"
+  },
+  {
+    "id": "f9-sc-6",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "medium",
     "question": "বৈদ্যুতিক বাল্ব আবিষ্কার করেন কে?",
-    "options": ["টমাস এডিসন", "নিকোলা টেসলা", "মার্কনি", "গ্রাহাম বেল"], "answerIndex": 0,
-    "explanation": "টমাস আলভা এডিসন ব্যবহারযোগ্য বৈদ্যুতিক বাল্ব উদ্ভাবন করেন।" },
-  { "id": "f9-sc-7", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "টমাস এডিসন",
+      "গ্রাহাম বেল",
+      "নিকোলা টেসলা",
+      "মার্কনি"
+    ],
+    "answerIndex": 0,
+    "explanation": "টমাস আলভা এডিসন ব্যবহারযোগ্য বৈদ্যুতিক বাল্ব উদ্ভাবন করেন।"
+  },
+  {
+    "id": "f9-sc-7",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "মানবদেহে রক্ত উৎপন্ন হয় প্রধানত কোথায়?",
-    "options": ["অস্থিমজ্জা", "যকৃত", "প্লীহা", "হৃৎপিণ্ড"], "answerIndex": 0,
-    "explanation": "অস্থিমজ্জায় (bone marrow) লোহিত রক্তকণিকা উৎপন্ন হয়।" },
-  { "id": "f9-ict-1", "categoryId": "ict", "subTopic": "hardware", "difficulty": "hard",
+    "options": [
+      "প্লীহা",
+      "অস্থিমজ্জা",
+      "হৃৎপিণ্ড",
+      "যকৃত"
+    ],
+    "answerIndex": 1,
+    "explanation": "অস্থিমজ্জায় (bone marrow) লোহিত রক্তকণিকা উৎপন্ন হয়।"
+  },
+  {
+    "id": "f9-ict-1",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "hard",
     "question": "CPU-এর গাণিতিক ও যৌক্তিক কাজ সম্পন্ন করে কোন অংশ?",
-    "options": ["ALU", "কন্ট্রোল ইউনিট", "রেজিস্টার", "ক্যাশ"], "answerIndex": 0,
-    "explanation": "ALU (Arithmetic Logic Unit) গাণিতিক ও যৌক্তিক কাজ সম্পন্ন করে।" },
-  { "id": "f9-ict-2", "categoryId": "ict", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "ALU",
+      "ক্যাশ",
+      "রেজিস্টার",
+      "কন্ট্রোল ইউনিট"
+    ],
+    "answerIndex": 0,
+    "explanation": "ALU (Arithmetic Logic Unit) গাণিতিক ও যৌক্তিক কাজ সম্পন্ন করে।"
+  },
+  {
+    "id": "f9-ict-2",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "তথ্য আদান-প্রদানের গতিকে কী বলে?",
-    "options": ["ব্যান্ডউইথ", "বাইট", "পিক্সেল", "রেজল্যুশন"], "answerIndex": 0,
-    "explanation": "তথ্য স্থানান্তরের হার বা গতিকে ব্যান্ডউইথ বলে।" },
-  { "id": "f9-ict-3", "categoryId": "ict", "subTopic": "networking", "difficulty": "easy",
+    "options": [
+      "বাইট",
+      "পিক্সেল",
+      "ব্যান্ডউইথ",
+      "রেজল্যুশন"
+    ],
+    "answerIndex": 2,
+    "explanation": "তথ্য স্থানান্তরের হার বা গতিকে ব্যান্ডউইথ বলে।"
+  },
+  {
+    "id": "f9-ict-3",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "easy",
     "question": "FTP-এর পূর্ণরূপ কী?",
-    "options": ["File Transfer Protocol", "Fast Transfer Protocol", "File Transmission Process", "Folder Transfer Protocol"], "answerIndex": 0,
-    "explanation": "FTP = File Transfer Protocol।" },
-  { "id": "f9-ict-4", "categoryId": "ict", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "File Transfer Protocol",
+      "Folder Transfer Protocol",
+      "File Transmission Process",
+      "Fast Transfer Protocol"
+    ],
+    "answerIndex": 0,
+    "explanation": "FTP = File Transfer Protocol।"
+  },
+  {
+    "id": "f9-ict-4",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "অক্টাল সংখ্যা পদ্ধতির ভিত্তি কত?",
-    "options": ["৮", "১০", "২", "১৬"], "answerIndex": 0,
-    "explanation": "অক্টাল সংখ্যা পদ্ধতির ভিত্তি ৮।" },
-  { "id": "f9-ict-5", "categoryId": "ict", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "১০",
+      "১৬",
+      "৮",
+      "২"
+    ],
+    "answerIndex": 2,
+    "explanation": "অক্টাল সংখ্যা পদ্ধতির ভিত্তি ৮।"
+  },
+  {
+    "id": "f9-ict-5",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "প্রোগ্রামের ভুল খুঁজে সংশোধন করাকে কী বলে?",
-    "options": ["ডিবাগিং", "কম্পাইলিং", "কোডিং", "ফরম্যাটিং"], "answerIndex": 0,
-    "explanation": "প্রোগ্রামের ভুল (bug) খুঁজে সংশোধন করাকে ডিবাগিং বলে।" },
-  { "id": "f9-eth-1", "categoryId": "ethics", "subTopic": "values", "difficulty": "medium",
+    "options": [
+      "কম্পাইলিং",
+      "ডিবাগিং",
+      "ফরম্যাটিং",
+      "কোডিং"
+    ],
+    "answerIndex": 1,
+    "explanation": "প্রোগ্রামের ভুল (bug) খুঁজে সংশোধন করাকে ডিবাগিং বলে।"
+  },
+  {
+    "id": "f9-eth-1",
+    "categoryId": "ethics",
+    "subTopic": "values",
+    "difficulty": "medium",
     "question": "নিচের কোনটি অন্তর্নিহিত (intrinsic) মূল্যবোধ?",
-    "options": ["সততা", "টাকা", "ক্ষমতা", "পদমর্যাদা"], "answerIndex": 0,
-    "explanation": "সততা নিজেই একটি লক্ষ্য — এটি অন্তর্নিহিত মূল্যবোধ; টাকা/ক্ষমতা বাহ্যিক বা উপকরণমূলক।" },
-  { "id": "f9-eth-2", "categoryId": "ethics", "subTopic": "governance", "difficulty": "medium",
+    "options": [
+      "ক্ষমতা",
+      "সততা",
+      "পদমর্যাদা",
+      "টাকা"
+    ],
+    "answerIndex": 1,
+    "explanation": "সততা নিজেই একটি লক্ষ্য — এটি অন্তর্নিহিত মূল্যবোধ; টাকা/ক্ষমতা বাহ্যিক বা উপকরণমূলক।"
+  },
+  {
+    "id": "f9-eth-2",
+    "categoryId": "ethics",
+    "subTopic": "governance",
+    "difficulty": "medium",
     "question": "সরকারি কর্মচারীর জন্য \"নিরপেক্ষতা\" কেন গুরুত্বপূর্ণ?",
-    "options": ["পক্ষপাতহীন সেবা নিশ্চিত করতে", "নিজ দলকে সুবিধা দিতে", "তথ্য গোপন রাখতে", "ক্ষমতা বাড়াতে"], "answerIndex": 0,
-    "explanation": "নিরপেক্ষতা সব নাগরিকের প্রতি পক্ষপাতহীন ও ন্যায্য সেবা নিশ্চিত করে।" },
-  { "id": "f9-eth-3", "categoryId": "ethics", "subTopic": "values", "difficulty": "easy",
+    "options": [
+      "পক্ষপাতহীন সেবা নিশ্চিত করতে",
+      "তথ্য গোপন রাখতে",
+      "নিজ দলকে সুবিধা দিতে",
+      "ক্ষমতা বাড়াতে"
+    ],
+    "answerIndex": 0,
+    "explanation": "নিরপেক্ষতা সব নাগরিকের প্রতি পক্ষপাতহীন ও ন্যায্য সেবা নিশ্চিত করে।"
+  },
+  {
+    "id": "f9-eth-3",
+    "categoryId": "ethics",
+    "subTopic": "values",
+    "difficulty": "easy",
     "question": "\"অন্যের মতকে শ্রদ্ধা করা\" কোন গুণের পরিচায়ক?",
-    "options": ["সহনশীলতা", "একগুঁয়েমি", "স্বার্থপরতা", "অহংকার"], "answerIndex": 0,
-    "explanation": "অন্যের মত শ্রদ্ধা করা সহনশীলতার পরিচায়ক।" }
+    "options": [
+      "সহনশীলতা",
+      "স্বার্থপরতা",
+      "অহংকার",
+      "একগুঁয়েমি"
+    ],
+    "answerIndex": 0,
+    "explanation": "অন্যের মত শ্রদ্ধা করা সহনশীলতার পরিচায়ক।"
+  }
 ]

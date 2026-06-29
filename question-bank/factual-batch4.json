@@ -1,286 +1,1067 @@
 [
-  { "id": "f4-bn-1", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+  {
+    "id": "f4-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"বন্দে মাতরম\" সঙ্গীতটি কোন উপন্যাস থেকে নেওয়া?",
-    "options": ["আনন্দমঠ", "দুর্গেশনন্দিনী", "কপালকুণ্ডলা", "বিষবৃক্ষ"], "answerIndex": 0,
-    "explanation": "\"বন্দে মাতরম\" বঙ্কিমচন্দ্রের \"আনন্দমঠ\" উপন্যাস থেকে নেওয়া।" },
-  { "id": "f4-bn-2", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "দুর্গেশনন্দিনী",
+      "বিষবৃক্ষ",
+      "কপালকুণ্ডলা",
+      "আনন্দমঠ"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"বন্দে মাতরম\" বঙ্কিমচন্দ্রের \"আনন্দমঠ\" উপন্যাস থেকে নেওয়া।"
+  },
+  {
+    "id": "f4-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"শ্রীকৃষ্ণকীর্তন\" কাব্যের রচয়িতা কে?",
-    "options": ["বড়ু চণ্ডীদাস", "বিদ্যাপতি", "চণ্ডীদাস", "জ্ঞানদাস"], "answerIndex": 0,
-    "explanation": "\"শ্রীকৃষ্ণকীর্তন\" বড়ু চণ্ডীদাসের রচনা; চর্যাপদের পরবর্তী গুরুত্বপূর্ণ নিদর্শন।" },
-  { "id": "f4-bn-3", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "বড়ু চণ্ডীদাস",
+      "চণ্ডীদাস",
+      "জ্ঞানদাস",
+      "বিদ্যাপতি"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"শ্রীকৃষ্ণকীর্তন\" বড়ু চণ্ডীদাসের রচনা; চর্যাপদের পরবর্তী গুরুত্বপূর্ণ নিদর্শন।"
+  },
+  {
+    "id": "f4-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "বাংলা ভাষায় কারক কয় প্রকার?",
-    "options": ["৬", "৫", "৭", "৪"], "answerIndex": 0,
-    "explanation": "বাংলা ব্যাকরণে কারক ৬ প্রকার।" },
-  { "id": "f4-bn-4", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "৭",
+      "৪",
+      "৫",
+      "৬"
+    ],
+    "answerIndex": 3,
+    "explanation": "বাংলা ব্যাকরণে কারক ৬ প্রকার।"
+  },
+  {
+    "id": "f4-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "পদ প্রধানত কয় প্রকার?",
-    "options": ["৫", "৪", "৬", "৩"], "answerIndex": 0,
-    "explanation": "পদ ৫ প্রকার: বিশেষ্য, সর্বনাম, বিশেষণ, ক্রিয়া ও অব্যয়।" },
-  { "id": "f4-bn-5", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "৩",
+      "৬",
+      "৪",
+      "৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "পদ ৫ প্রকার: বিশেষ্য, সর্বনাম, বিশেষণ, ক্রিয়া ও অব্যয়।"
+  },
+  {
+    "id": "f4-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"দশানন\" শব্দটি কোন সমাস?",
-    "options": ["বহুব্রীহি", "দ্বন্দ্ব", "তৎপুরুষ", "কর্মধারয়"], "answerIndex": 0,
-    "explanation": "\"দশ আনন যার\" = দশানন (রাবণ) — বহুব্রীহি সমাস।" },
-  { "id": "f4-bn-6", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "easy",
+    "options": [
+      "কর্মধারয়",
+      "তৎপুরুষ",
+      "বহুব্রীহি",
+      "দ্বন্দ্ব"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"দশ আনন যার\" = দশানন (রাবণ) — বহুব্রীহি সমাস।"
+  },
+  {
+    "id": "f4-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "easy",
     "question": "\"উপকারীর উপকার স্বীকার করে যে\" — এক কথায় কী?",
-    "options": ["কৃতজ্ঞ", "কৃতঘ্ন", "অকৃতজ্ঞ", "উপকারী"], "answerIndex": 0,
-    "explanation": "উপকারীর উপকার স্বীকার করে যে সে \"কৃতজ্ঞ\"।" },
-  { "id": "f4-bn-7", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "কৃতজ্ঞ",
+      "অকৃতজ্ঞ",
+      "কৃতঘ্ন",
+      "উপকারী"
+    ],
+    "answerIndex": 0,
+    "explanation": "উপকারীর উপকার স্বীকার করে যে সে \"কৃতজ্ঞ\"।"
+  },
+  {
+    "id": "f4-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"যা বলা যায় না\" — এক কথায় কী?",
-    "options": ["অনির্বচনীয়", "অকথ্য", "অনুক্ত", "নির্বাক"], "answerIndex": 0,
-    "explanation": "যা বলা যায় না তা \"অনির্বচনীয়\"।" },
-  { "id": "f4-bn-8", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "নির্বাক",
+      "অনুক্ত",
+      "অনির্বচনীয়",
+      "অকথ্য"
+    ],
+    "answerIndex": 2,
+    "explanation": "যা বলা যায় না তা \"অনির্বচনীয়\"।"
+  },
+  {
+    "id": "f4-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"অগস্ত্য যাত্রা\" বাগধারার অর্থ কী?",
-    "options": ["চিরদিনের জন্য প্রস্থান", "দীর্ঘ ভ্রমণ", "শুভযাত্রা", "তীর্থযাত্রা"], "answerIndex": 0,
-    "explanation": "\"অগস্ত্য যাত্রা\" অর্থ চিরদিনের জন্য প্রস্থান।" },
-  { "id": "f4-bn-9", "categoryId": "bangla", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "চিরদিনের জন্য প্রস্থান",
+      "শুভযাত্রা",
+      "দীর্ঘ ভ্রমণ",
+      "তীর্থযাত্রা"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"অগস্ত্য যাত্রা\" অর্থ চিরদিনের জন্য প্রস্থান।"
+  },
+  {
+    "id": "f4-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "\"গোরা\" উপন্যাসের রচয়িতা কে?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর", "শরৎচন্দ্র", "বঙ্কিমচন্দ্র", "তারাশঙ্কর"], "answerIndex": 0,
-    "explanation": "\"গোরা\" রবীন্দ্রনাথ ঠাকুরের উপন্যাস।" },
-  { "id": "f4-bn-10", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "easy",
+    "options": [
+      "বঙ্কিমচন্দ্র",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "তারাশঙ্কর",
+      "শরৎচন্দ্র"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"গোরা\" রবীন্দ্রনাথ ঠাকুরের উপন্যাস।"
+  },
+  {
+    "id": "f4-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "easy",
     "question": "\"কাঁঠালের আমসত্ত্ব\" বাগধারার অর্থ কী?",
-    "options": ["অসম্ভব বস্তু", "সুস্বাদু খাবার", "মিষ্টি ফল", "দুর্লভ সম্পদ"], "answerIndex": 0,
-    "explanation": "\"কাঁঠালের আমসত্ত্ব\" অর্থ অসম্ভব বস্তু।" },
-  { "id": "f4-bn-11", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "অসম্ভব বস্তু",
+      "দুর্লভ সম্পদ",
+      "মিষ্টি ফল",
+      "সুস্বাদু খাবার"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"কাঁঠালের আমসত্ত্ব\" অর্থ অসম্ভব বস্তু।"
+  },
+  {
+    "id": "f4-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"কপোতাক্ষ নদ\" সনেটটি কার রচনা?",
-    "options": ["মাইকেল মধুসূদন দত্ত", "রবীন্দ্রনাথ", "জীবনানন্দ", "নজরুল"], "answerIndex": 0,
-    "explanation": "\"কপোতাক্ষ নদ\" মাইকেল মধুসূদন দত্তের বিখ্যাত সনেট।" },
-  { "id": "f4-bn-12", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "জীবনানন্দ",
+      "নজরুল",
+      "রবীন্দ্রনাথ",
+      "মাইকেল মধুসূদন দত্ত"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"কপোতাক্ষ নদ\" মাইকেল মধুসূদন দত্তের বিখ্যাত সনেট।"
+  },
+  {
+    "id": "f4-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"নৌকা\" শব্দটি কোন ভাষার?",
-    "options": ["তৎসম", "দেশি", "ফারসি", "ইংরেজি"], "answerIndex": 0,
-    "explanation": "\"নৌকা\" একটি তৎসম শব্দ।" },
-  { "id": "f4-bn-13", "categoryId": "bangla", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "দেশি",
+      "ফারসি",
+      "ইংরেজি",
+      "তৎসম"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"নৌকা\" একটি তৎসম শব্দ।"
+  },
+  {
+    "id": "f4-bn-13",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "\"ঘরে বাইরে\" উপন্যাসের লেখক কে?",
-    "options": ["রবীন্দ্রনাথ ঠাকুর", "শরৎচন্দ্র", "বঙ্কিমচন্দ্র", "মানিক"], "answerIndex": 0,
-    "explanation": "\"ঘরে বাইরে\" রবীন্দ্রনাথ ঠাকুরের উপন্যাস।" },
-  { "id": "f4-bn-14", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "শরৎচন্দ্র",
+      "মানিক",
+      "বঙ্কিমচন্দ্র",
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"ঘরে বাইরে\" রবীন্দ্রনাথ ঠাকুরের উপন্যাস।"
+  },
+  {
+    "id": "f4-bn-14",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"সমুদ্র\" শব্দের সমার্থক শব্দ কোনটি?",
-    "options": ["অর্ণব", "অনিল", "অনল", "অবনি"], "answerIndex": 0,
-    "explanation": "\"অর্ণব\" অর্থ সমুদ্র; অনিল=বায়ু, অনল=আগুন, অবনি=পৃথিবী।" },
-  { "id": "f4-en-1", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "অর্ণব",
+      "অনিল",
+      "অনল",
+      "অবনি"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"অর্ণব\" অর্থ সমুদ্র; অনিল=বায়ু, অনল=আগুন, অবনি=পৃথিবী।"
+  },
+  {
+    "id": "f4-en-1",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "Who wrote \"Wuthering Heights\"?",
-    "options": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "George Eliot"], "answerIndex": 0,
-    "explanation": "\"Wuthering Heights\" (1847) is the only novel by Emily Brontë." },
-  { "id": "f4-en-2", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "Jane Austen",
+      "George Eliot"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Wuthering Heights\" (1847) is the only novel by Emily Brontë."
+  },
+  {
+    "id": "f4-en-2",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who wrote \"Gulliver's Travels\"?",
-    "options": ["Jonathan Swift", "Daniel Defoe", "Henry Fielding", "Laurence Sterne"], "answerIndex": 0,
-    "explanation": "\"Gulliver's Travels\" is a satire by Jonathan Swift." },
-  { "id": "f4-en-3", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "Henry Fielding",
+      "Laurence Sterne",
+      "Jonathan Swift",
+      "Daniel Defoe"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Gulliver's Travels\" is a satire by Jonathan Swift."
+  },
+  {
+    "id": "f4-en-3",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who wrote \"Robinson Crusoe\"?",
-    "options": ["Daniel Defoe", "Jonathan Swift", "Charles Dickens", "Walter Scott"], "answerIndex": 0,
-    "explanation": "\"Robinson Crusoe\" is by Daniel Defoe." },
-  { "id": "f4-en-4", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "Jonathan Swift",
+      "Daniel Defoe",
+      "Charles Dickens",
+      "Walter Scott"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Robinson Crusoe\" is by Daniel Defoe."
+  },
+  {
+    "id": "f4-en-4",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who is known as the \"Poet of Nature\" in English literature?",
-    "options": ["William Wordsworth", "John Keats", "Lord Byron", "John Milton"], "answerIndex": 0,
-    "explanation": "William Wordsworth is called the Poet of Nature." },
-  { "id": "f4-en-5", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "John Milton",
+      "William Wordsworth",
+      "John Keats",
+      "Lord Byron"
+    ],
+    "answerIndex": 1,
+    "explanation": "William Wordsworth is called the Poet of Nature."
+  },
+  {
+    "id": "f4-en-5",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "Who wrote the play \"Doctor Faustus\"?",
-    "options": ["Christopher Marlowe", "Ben Jonson", "Shakespeare", "John Webster"], "answerIndex": 0,
-    "explanation": "\"Doctor Faustus\" is by Christopher Marlowe." },
-  { "id": "f4-en-6", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "Ben Jonson",
+      "Christopher Marlowe",
+      "Shakespeare",
+      "John Webster"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Doctor Faustus\" is by Christopher Marlowe."
+  },
+  {
+    "id": "f4-en-6",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Pygmalion\" was written by:",
-    "options": ["George Bernard Shaw", "Oscar Wilde", "Henrik Ibsen", "T. S. Eliot"], "answerIndex": 0,
-    "explanation": "\"Pygmalion\" is a play by George Bernard Shaw." },
-  { "id": "f4-en-7", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "Henrik Ibsen",
+      "Oscar Wilde",
+      "T. S. Eliot",
+      "George Bernard Shaw"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Pygmalion\" is a play by George Bernard Shaw."
+  },
+  {
+    "id": "f4-en-7",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct: \"The news ___ true.\"",
-    "options": ["is", "are", "were", "have"], "answerIndex": 0,
-    "explanation": "\"News\" is uncountable and takes a singular verb: \"is\"." },
-  { "id": "f4-en-8", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "have",
+      "are",
+      "were",
+      "is"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"News\" is uncountable and takes a singular verb: \"is\"."
+  },
+  {
+    "id": "f4-en-8",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Fill in: \"I wish I ___ a bird.\"",
-    "options": ["were", "was", "am", "be"], "answerIndex": 0,
-    "explanation": "After \"wish\" expressing unreality, use \"were\" for all subjects." },
-  { "id": "f4-en-9", "categoryId": "english", "subTopic": "idioms", "difficulty": "medium",
+    "options": [
+      "was",
+      "be",
+      "were",
+      "am"
+    ],
+    "answerIndex": 2,
+    "explanation": "After \"wish\" expressing unreality, use \"were\" for all subjects."
+  },
+  {
+    "id": "f4-en-9",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
     "question": "The idiom \"to burn the midnight oil\" means:",
-    "options": ["to study/work late at night", "to waste money", "to start a fire", "to sleep early"], "answerIndex": 0,
-    "explanation": "It means to work or study late into the night." },
-  { "id": "f4-en-10", "categoryId": "english", "subTopic": "idioms", "difficulty": "medium",
+    "options": [
+      "to sleep early",
+      "to study/work late at night",
+      "to waste money",
+      "to start a fire"
+    ],
+    "answerIndex": 1,
+    "explanation": "It means to work or study late into the night."
+  },
+  {
+    "id": "f4-en-10",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
     "question": "\"A white elephant\" means:",
-    "options": ["a costly but useless possession", "a rare animal", "a lucky charm", "a big success"], "answerIndex": 0,
-    "explanation": "\"A white elephant\" is a costly possession that is useless." },
-  { "id": "f4-en-11", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "medium",
+    "options": [
+      "a lucky charm",
+      "a rare animal",
+      "a big success",
+      "a costly but useless possession"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"A white elephant\" is a costly possession that is useless."
+  },
+  {
+    "id": "f4-en-11",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "medium",
     "question": "The synonym of \"Adversity\" is:",
-    "options": ["Hardship", "Fortune", "Comfort", "Wealth"], "answerIndex": 0,
-    "explanation": "\"Adversity\" means difficulty or misfortune — hardship." },
-  { "id": "f4-en-12", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "hard",
+    "options": [
+      "Comfort",
+      "Fortune",
+      "Hardship",
+      "Wealth"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Adversity\" means difficulty or misfortune — hardship."
+  },
+  {
+    "id": "f4-en-12",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
     "question": "The Latin phrase \"status quo\" means:",
-    "options": ["the existing state of affairs", "good faith", "the other way round", "by the fact itself"], "answerIndex": 0,
-    "explanation": "\"Status quo\" means the existing or current state of affairs." },
-  { "id": "f4-en-13", "categoryId": "english", "subTopic": "grammar", "difficulty": "easy",
+    "options": [
+      "good faith",
+      "by the fact itself",
+      "the other way round",
+      "the existing state of affairs"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Status quo\" means the existing or current state of affairs."
+  },
+  {
+    "id": "f4-en-13",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "easy",
     "question": "Which is the correct spelling?",
-    "options": ["Privilege", "Privilage", "Priviledge", "Privelege"], "answerIndex": 0,
-    "explanation": "The correct spelling is \"Privilege\"." },
-  { "id": "f4-en-14", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "Privilage",
+      "Privilege",
+      "Priviledge",
+      "Privelege"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct spelling is \"Privilege\"."
+  },
+  {
+    "id": "f4-en-14",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct preposition: \"He died ___ cholera.\"",
-    "options": ["of", "from", "by", "with"], "answerIndex": 0,
-    "explanation": "We say die \"of\" a disease: \"died of cholera\"." },
-  { "id": "f4-bd-1", "categoryId": "bd_affairs", "subTopic": "infrastructure", "difficulty": "medium",
+    "options": [
+      "by",
+      "of",
+      "from",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "We say die \"of\" a disease: \"died of cholera\"."
+  },
+  {
+    "id": "f4-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "infrastructure",
+    "difficulty": "medium",
     "question": "বঙ্গবন্ধু (কর্ণফুলী) টানেল কোন নদীর নিচ দিয়ে নির্মিত?",
-    "options": ["কর্ণফুলী", "মেঘনা", "যমুনা", "পদ্মা"], "answerIndex": 0,
-    "explanation": "বঙ্গবন্ধু টানেল চট্টগ্রামে কর্ণফুলী নদীর নিচ দিয়ে নির্মিত; এটি দক্ষিণ এশিয়ার প্রথম নদীর তলদেশীয় সড়ক টানেল।" },
-  { "id": "f4-bd-2", "categoryId": "bd_affairs", "subTopic": "infrastructure", "difficulty": "medium",
+    "options": [
+      "যমুনা",
+      "কর্ণফুলী",
+      "মেঘনা",
+      "পদ্মা"
+    ],
+    "answerIndex": 1,
+    "explanation": "বঙ্গবন্ধু টানেল চট্টগ্রামে কর্ণফুলী নদীর নিচ দিয়ে নির্মিত; এটি দক্ষিণ এশিয়ার প্রথম নদীর তলদেশীয় সড়ক টানেল।"
+  },
+  {
+    "id": "f4-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "infrastructure",
+    "difficulty": "medium",
     "question": "বঙ্গবন্ধু টানেল কত সালে উদ্বোধন করা হয়?",
-    "options": ["২০২৩", "২০২২", "২০২১", "২০২৪"], "answerIndex": 0,
-    "explanation": "বঙ্গবন্ধু (কর্ণফুলী) টানেল ২০২৩ সালের ২৮ অক্টোবর উদ্বোধন করা হয়।" },
-  { "id": "f4-bd-3", "categoryId": "bd_affairs", "subTopic": "achievements", "difficulty": "medium",
+    "options": [
+      "২০২৩",
+      "২০২১",
+      "২০২২",
+      "২০২৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "বঙ্গবন্ধু (কর্ণফুলী) টানেল ২০২৩ সালের ২৮ অক্টোবর উদ্বোধন করা হয়।"
+  },
+  {
+    "id": "f4-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "achievements",
+    "difficulty": "medium",
     "question": "বাংলাদেশের প্রথম নোবেল বিজয়ী কে?",
-    "options": ["ড. মুহাম্মদ ইউনূস", "অমর্ত্য সেন", "রবীন্দ্রনাথ", "অরুন্ধতী রায়"], "answerIndex": 0,
-    "explanation": "ড. মুহাম্মদ ইউনূস ২০০৬ সালে শান্তিতে নোবেল পুরস্কার পান (গ্রামীণ ব্যাংকসহ)।" },
-  { "id": "f4-bd-4", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "easy",
+    "options": [
+      "ড. মুহাম্মদ ইউনূস",
+      "অরুন্ধতী রায়",
+      "অমর্ত্য সেন",
+      "রবীন্দ্রনাথ"
+    ],
+    "answerIndex": 0,
+    "explanation": "ড. মুহাম্মদ ইউনূস ২০০৬ সালে শান্তিতে নোবেল পুরস্কার পান (গ্রামীণ ব্যাংকসহ)।"
+  },
+  {
+    "id": "f4-bd-4",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "easy",
     "question": "পাটকে কী বলা হয়?",
-    "options": ["সোনালি আঁশ", "সাদা সোনা", "সবুজ সোনা", "তরল সোনা"], "answerIndex": 0,
-    "explanation": "পাটকে \"সোনালি আঁশ\" বলা হয়।" },
-  { "id": "f4-bd-5", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "hard",
+    "options": [
+      "সাদা সোনা",
+      "তরল সোনা",
+      "সোনালি আঁশ",
+      "সবুজ সোনা"
+    ],
+    "answerIndex": 2,
+    "explanation": "পাটকে \"সোনালি আঁশ\" বলা হয়।"
+  },
+  {
+    "id": "f4-bd-5",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
     "question": "পার্বত্য চট্টগ্রামের বৃহত্তম ক্ষুদ্র নৃগোষ্ঠী কোনটি?",
-    "options": ["চাকমা", "মারমা", "ত্রিপুরা", "তঞ্চঙ্গ্যা"], "answerIndex": 0,
-    "explanation": "চাকমা পার্বত্য চট্টগ্রামের বৃহত্তম ক্ষুদ্র নৃগোষ্ঠী।" },
-  { "id": "f4-bd-6", "categoryId": "bd_affairs", "subTopic": "infrastructure", "difficulty": "medium",
+    "options": [
+      "মারমা",
+      "তঞ্চঙ্গ্যা",
+      "চাকমা",
+      "ত্রিপুরা"
+    ],
+    "answerIndex": 2,
+    "explanation": "চাকমা পার্বত্য চট্টগ্রামের বৃহত্তম ক্ষুদ্র নৃগোষ্ঠী।"
+  },
+  {
+    "id": "f4-bd-6",
+    "categoryId": "bd_affairs",
+    "subTopic": "infrastructure",
+    "difficulty": "medium",
     "question": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র কোন জেলায় অবস্থিত?",
-    "options": ["পাবনা", "নাটোর", "সিরাজগঞ্জ", "কুষ্টিয়া"], "answerIndex": 0,
-    "explanation": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র পাবনা জেলার ঈশ্বরদীতে অবস্থিত।" },
-  { "id": "f4-bd-7", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "পাবনা",
+      "কুষ্টিয়া",
+      "নাটোর",
+      "সিরাজগঞ্জ"
+    ],
+    "answerIndex": 0,
+    "explanation": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র পাবনা জেলার ঈশ্বরদীতে অবস্থিত।"
+  },
+  {
+    "id": "f4-bd-7",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশের জাতীয় মসজিদের নাম কী?",
-    "options": ["বায়তুল মোকাররম", "ষাট গম্বুজ মসজিদ", "তারা মসজিদ", "চকবাজার মসজিদ"], "answerIndex": 0,
-    "explanation": "বায়তুল মোকাররম বাংলাদেশের জাতীয় মসজিদ।" },
-  { "id": "f4-bd-8", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "চকবাজার মসজিদ",
+      "বায়তুল মোকাররম",
+      "তারা মসজিদ",
+      "ষাট গম্বুজ মসজিদ"
+    ],
+    "answerIndex": 1,
+    "explanation": "বায়তুল মোকাররম বাংলাদেশের জাতীয় মসজিদ।"
+  },
+  {
+    "id": "f4-bd-8",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "মুক্তিযুদ্ধের সময় ১০ নম্বর সেক্টর কীসের জন্য নির্ধারিত ছিল?",
-    "options": ["নৌ কমান্ডো", "বিমান বাহিনী", "গেরিলা", "চিকিৎসা"], "answerIndex": 0,
-    "explanation": "১০ নম্বর সেক্টর ছিল নৌ-কমান্ডোদের জন্য, যার নির্দিষ্ট কোনো সেক্টর কমান্ডার ছিল না।" },
-  { "id": "f4-bd-9", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "গেরিলা",
+      "নৌ কমান্ডো",
+      "বিমান বাহিনী",
+      "চিকিৎসা"
+    ],
+    "answerIndex": 1,
+    "explanation": "১০ নম্বর সেক্টর ছিল নৌ-কমান্ডোদের জন্য, যার নির্দিষ্ট কোনো সেক্টর কমান্ডার ছিল না।"
+  },
+  {
+    "id": "f4-bd-9",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী কে?",
-    "options": ["খালেদা জিয়া", "শেখ হাসিনা", "সাজেদা চৌধুরী", "মতিয়া চৌধুরী"], "answerIndex": 0,
-    "explanation": "১৯৯১ সালে খালেদা জিয়া বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী হন।" },
-  { "id": "f4-bd-10", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "মতিয়া চৌধুরী",
+      "শেখ হাসিনা",
+      "খালেদা জিয়া",
+      "সাজেদা চৌধুরী"
+    ],
+    "answerIndex": 2,
+    "explanation": "১৯৯১ সালে খালেদা জিয়া বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী হন।"
+  },
+  {
+    "id": "f4-bd-10",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "বাংলাদেশের চা উৎপাদনের প্রধান অঞ্চল কোনটি?",
-    "options": ["সিলেট", "রাঙ্গামাটি", "দিনাজপুর", "বরিশাল"], "answerIndex": 0,
-    "explanation": "সিলেট অঞ্চল বাংলাদেশের প্রধান চা উৎপাদন এলাকা।" },
-  { "id": "f4-bd-11", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "সিলেট",
+      "দিনাজপুর",
+      "বরিশাল",
+      "রাঙ্গামাটি"
+    ],
+    "answerIndex": 0,
+    "explanation": "সিলেট অঞ্চল বাংলাদেশের প্রধান চা উৎপাদন এলাকা।"
+  },
+  {
+    "id": "f4-bd-11",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "মুক্তিযুদ্ধকালীন বিমান বাহিনীর কোড নাম কী ছিল?",
-    "options": ["কিলো ফ্লাইট", "অপারেশন জ্যাকপট", "অপারেশন সার্চলাইট", "ক্র্যাক প্লাটুন"], "answerIndex": 0,
-    "explanation": "মুক্তিযুদ্ধে গঠিত বাংলাদেশ বিমান বাহিনীর কোড নাম ছিল \"কিলো ফ্লাইট\"।" },
-  { "id": "f4-bd-12", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "কিলো ফ্লাইট",
+      "ক্র্যাক প্লাটুন",
+      "অপারেশন সার্চলাইট",
+      "অপারেশন জ্যাকপট"
+    ],
+    "answerIndex": 0,
+    "explanation": "মুক্তিযুদ্ধে গঠিত বাংলাদেশ বিমান বাহিনীর কোড নাম ছিল \"কিলো ফ্লাইট\"।"
+  },
+  {
+    "id": "f4-bd-12",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "\"অপারেশন জ্যাকপট\" কীসের সাথে সম্পর্কিত?",
-    "options": ["নৌ কমান্ডোদের অভিযান", "বিমান হামলা", "স্থল যুদ্ধ", "কূটনৈতিক তৎপরতা"], "answerIndex": 0,
-    "explanation": "\"অপারেশন জ্যাকপট\" ছিল ১৯৭১ সালে নৌ-কমান্ডোদের সফল অভিযান।" },
-  { "id": "f4-int-1", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "বিমান হামলা",
+      "নৌ কমান্ডোদের অভিযান",
+      "স্থল যুদ্ধ",
+      "কূটনৈতিক তৎপরতা"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"অপারেশন জ্যাকপট\" ছিল ১৯৭১ সালে নৌ-কমান্ডোদের সফল অভিযান।"
+  },
+  {
+    "id": "f4-int-1",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "পাকিস্তানের রাজধানী কোনটি?",
-    "options": ["ইসলামাবাদ", "করাচি", "লাহোর", "রাওয়ালপিন্ডি"], "answerIndex": 0,
-    "explanation": "পাকিস্তানের রাজধানী ইসলামাবাদ।" },
-  { "id": "f4-int-2", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "hard",
+    "options": [
+      "করাচি",
+      "ইসলামাবাদ",
+      "লাহোর",
+      "রাওয়ালপিন্ডি"
+    ],
+    "answerIndex": 1,
+    "explanation": "পাকিস্তানের রাজধানী ইসলামাবাদ।"
+  },
+  {
+    "id": "f4-int-2",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "hard",
     "question": "শ্রীলঙ্কার প্রশাসনিক রাজধানী কোনটি?",
-    "options": ["শ্রী জয়াবর্ধনেপুরা কোট্টে", "কলম্বো", "ক্যান্ডি", "গল"], "answerIndex": 0,
-    "explanation": "শ্রীলঙ্কার প্রশাসনিক রাজধানী শ্রী জয়াবর্ধনেপুরা কোট্টে; কলম্বো বাণিজ্যিক রাজধানী।" },
-  { "id": "f4-int-3", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "কলম্বো",
+      "শ্রী জয়াবর্ধনেপুরা কোট্টে",
+      "গল",
+      "ক্যান্ডি"
+    ],
+    "answerIndex": 1,
+    "explanation": "শ্রীলঙ্কার প্রশাসনিক রাজধানী শ্রী জয়াবর্ধনেপুরা কোট্টে; কলম্বো বাণিজ্যিক রাজধানী।"
+  },
+  {
+    "id": "f4-int-3",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "মালদ্বীপের রাজধানী কোনটি?",
-    "options": ["মালে", "কলম্বো", "থিম্পু", "ঢাকা"], "answerIndex": 0,
-    "explanation": "মালদ্বীপের রাজধানী মালে।" },
-  { "id": "f4-int-4", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "থিম্পু",
+      "কলম্বো",
+      "মালে",
+      "ঢাকা"
+    ],
+    "answerIndex": 2,
+    "explanation": "মালদ্বীপের রাজধানী মালে।"
+  },
+  {
+    "id": "f4-int-4",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "OIC-এর সদর দপ্তর কোথায়?",
-    "options": ["জেদ্দা", "মক্কা", "রিয়াদ", "তেহরান"], "answerIndex": 0,
-    "explanation": "ইসলামি সহযোগিতা সংস্থা (OIC)-এর সদর দপ্তর সৌদি আরবের জেদ্দায়।" },
-  { "id": "f4-int-5", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "জেদ্দা",
+      "রিয়াদ",
+      "মক্কা",
+      "তেহরান"
+    ],
+    "answerIndex": 0,
+    "explanation": "ইসলামি সহযোগিতা সংস্থা (OIC)-এর সদর দপ্তর সৌদি আরবের জেদ্দায়।"
+  },
+  {
+    "id": "f4-int-5",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "SAARC-এর সদর দপ্তর কোথায়?",
-    "options": ["কাঠমান্ডু", "ঢাকা", "নয়াদিল্লি", "ইসলামাবাদ"], "answerIndex": 0,
-    "explanation": "SAARC-এর সদর দপ্তর নেপালের কাঠমান্ডুতে।" },
-  { "id": "f4-int-6", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "ইসলামাবাদ",
+      "নয়াদিল্লি",
+      "ঢাকা",
+      "কাঠমান্ডু"
+    ],
+    "answerIndex": 3,
+    "explanation": "SAARC-এর সদর দপ্তর নেপালের কাঠমান্ডুতে।"
+  },
+  {
+    "id": "f4-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "ASEAN-এর সদর দপ্তর কোথায়?",
-    "options": ["জাকার্তা", "ব্যাংকক", "ম্যানিলা", "সিঙ্গাপুর"], "answerIndex": 0,
-    "explanation": "ASEAN-এর সদর দপ্তর ইন্দোনেশিয়ার জাকার্তায়।" },
-  { "id": "f4-int-7", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "hard",
+    "options": [
+      "ম্যানিলা",
+      "ব্যাংকক",
+      "সিঙ্গাপুর",
+      "জাকার্তা"
+    ],
+    "answerIndex": 3,
+    "explanation": "ASEAN-এর সদর দপ্তর ইন্দোনেশিয়ার জাকার্তায়।"
+  },
+  {
+    "id": "f4-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "hard",
     "question": "NATO-এর সদর দপ্তর কোথায়?",
-    "options": ["ব্রাসেলস", "ওয়াশিংটন", "প্যারিস", "লন্ডন"], "answerIndex": 0,
-    "explanation": "NATO-এর সদর দপ্তর বেলজিয়ামের ব্রাসেলসে।" },
-  { "id": "f4-int-8", "categoryId": "intl_affairs", "subTopic": "currency", "difficulty": "medium",
+    "options": [
+      "ব্রাসেলস",
+      "ওয়াশিংটন",
+      "প্যারিস",
+      "লন্ডন"
+    ],
+    "answerIndex": 0,
+    "explanation": "NATO-এর সদর দপ্তর বেলজিয়ামের ব্রাসেলসে।"
+  },
+  {
+    "id": "f4-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "currency",
+    "difficulty": "medium",
     "question": "চীনের মুদ্রার নাম কী?",
-    "options": ["ইউয়ান (রেনমিনবি)", "ইয়েন", "ওন", "রুপি"], "answerIndex": 0,
-    "explanation": "চীনের মুদ্রার নাম ইউয়ান (রেনমিনবি)।" },
-  { "id": "f4-int-9", "categoryId": "intl_affairs", "subTopic": "currency", "difficulty": "medium",
+    "options": [
+      "ওন",
+      "ইউয়ান (রেনমিনবি)",
+      "ইয়েন",
+      "রুপি"
+    ],
+    "answerIndex": 1,
+    "explanation": "চীনের মুদ্রার নাম ইউয়ান (রেনমিনবি)।"
+  },
+  {
+    "id": "f4-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "currency",
+    "difficulty": "medium",
     "question": "থাইল্যান্ডের মুদ্রার নাম কী?",
-    "options": ["বাত", "রিঙ্গিত", "রুপিয়া", "ডং"], "answerIndex": 0,
-    "explanation": "থাইল্যান্ডের মুদ্রার নাম বাত (Baht)।" },
-  { "id": "f4-int-10", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "বাত",
+      "রিঙ্গিত",
+      "রুপিয়া",
+      "ডং"
+    ],
+    "answerIndex": 0,
+    "explanation": "থাইল্যান্ডের মুদ্রার নাম বাত (Baht)।"
+  },
+  {
+    "id": "f4-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "মিয়ানমারের রাজধানী কোনটি?",
-    "options": ["নেপিদো", "ইয়াঙ্গুন", "মান্দালয়", "বাগো"], "answerIndex": 0,
-    "explanation": "মিয়ানমারের রাজধানী নেপিদো (পূর্বে ইয়াঙ্গুন ছিল)।" },
-  { "id": "f4-int-11", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "hard",
+    "options": [
+      "নেপিদো",
+      "মান্দালয়",
+      "বাগো",
+      "ইয়াঙ্গুন"
+    ],
+    "answerIndex": 0,
+    "explanation": "মিয়ানমারের রাজধানী নেপিদো (পূর্বে ইয়াঙ্গুন ছিল)।"
+  },
+  {
+    "id": "f4-int-11",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "hard",
     "question": "ইউরোপীয় ইউনিয়নের সদর দপ্তর কোথায়?",
-    "options": ["ব্রাসেলস", "প্যারিস", "বার্লিন", "রোম"], "answerIndex": 0,
-    "explanation": "ইউরোপীয় ইউনিয়নের প্রধান সদর দপ্তর ব্রাসেলসে।" },
-  { "id": "f4-int-12", "categoryId": "intl_affairs", "subTopic": "currency", "difficulty": "easy",
+    "options": [
+      "ব্রাসেলস",
+      "বার্লিন",
+      "রোম",
+      "প্যারিস"
+    ],
+    "answerIndex": 0,
+    "explanation": "ইউরোপীয় ইউনিয়নের প্রধান সদর দপ্তর ব্রাসেলসে।"
+  },
+  {
+    "id": "f4-int-12",
+    "categoryId": "intl_affairs",
+    "subTopic": "currency",
+    "difficulty": "easy",
     "question": "ভারতের মুদ্রার নাম কী?",
-    "options": ["রুপি", "টাকা", "রুপিয়া", "রিঙ্গিত"], "answerIndex": 0,
-    "explanation": "ভারতের মুদ্রার নাম রুপি।" },
-  { "id": "f4-geo-1", "categoryId": "geography", "subTopic": "world", "difficulty": "hard",
+    "options": [
+      "টাকা",
+      "রিঙ্গিত",
+      "রুপি",
+      "রুপিয়া"
+    ],
+    "answerIndex": 2,
+    "explanation": "ভারতের মুদ্রার নাম রুপি।"
+  },
+  {
+    "id": "f4-geo-1",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "hard",
     "question": "মূল মধ্যরেখা (Prime Meridian) কোন স্থানের উপর দিয়ে গেছে?",
-    "options": ["গ্রিনিচ", "প্যারিস", "নিউইয়র্ক", "টোকিও"], "answerIndex": 0,
-    "explanation": "মূল মধ্যরেখা (০° দ্রাঘিমা) লন্ডনের গ্রিনিচের উপর দিয়ে গেছে।" },
-  { "id": "f4-geo-2", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "টোকিও",
+      "গ্রিনিচ",
+      "নিউইয়র্ক",
+      "প্যারিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "মূল মধ্যরেখা (০° দ্রাঘিমা) লন্ডনের গ্রিনিচের উপর দিয়ে গেছে।"
+  },
+  {
+    "id": "f4-geo-2",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "পৃথিবীর বৃহত্তম ব-দ্বীপ কোনটি?",
-    "options": ["বাংলাদেশের গঙ্গা-ব্রহ্মপুত্র ব-দ্বীপ", "নীল নদের ব-দ্বীপ", "আমাজন ব-দ্বীপ", "মিসিসিপি ব-দ্বীপ"], "answerIndex": 0,
-    "explanation": "গঙ্গা-ব্রহ্মপুত্র-মেঘনা ব-দ্বীপ (বাংলাদেশ) পৃথিবীর বৃহত্তম ব-দ্বীপ।" },
-  { "id": "f4-geo-3", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "মিসিসিপি ব-দ্বীপ",
+      "বাংলাদেশের গঙ্গা-ব্রহ্মপুত্র ব-দ্বীপ",
+      "নীল নদের ব-দ্বীপ",
+      "আমাজন ব-দ্বীপ"
+    ],
+    "answerIndex": 1,
+    "explanation": "গঙ্গা-ব্রহ্মপুত্র-মেঘনা ব-দ্বীপ (বাংলাদেশ) পৃথিবীর বৃহত্তম ব-দ্বীপ।"
+  },
+  {
+    "id": "f4-geo-3",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "ওজোন স্তর বায়ুমণ্ডলের কোন স্তরে অবস্থিত?",
-    "options": ["স্ট্রাটোস্ফিয়ার", "ট্রপোস্ফিয়ার", "মেসোস্ফিয়ার", "থার্মোস্ফিয়ার"], "answerIndex": 0,
-    "explanation": "ওজোন স্তর স্ট্রাটোস্ফিয়ারে অবস্থিত এবং সূর্যের অতিবেগুনি রশ্মি শোষণ করে।" },
-  { "id": "f4-geo-4", "categoryId": "geography", "subTopic": "world", "difficulty": "hard",
+    "options": [
+      "মেসোস্ফিয়ার",
+      "থার্মোস্ফিয়ার",
+      "স্ট্রাটোস্ফিয়ার",
+      "ট্রপোস্ফিয়ার"
+    ],
+    "answerIndex": 2,
+    "explanation": "ওজোন স্তর স্ট্রাটোস্ফিয়ারে অবস্থিত এবং সূর্যের অতিবেগুনি রশ্মি শোষণ করে।"
+  },
+  {
+    "id": "f4-geo-4",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "hard",
     "question": "পৃথিবীর দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
-    "options": ["কে-টু", "কাঞ্চনজঙ্ঘা", "মাকালু", "লোৎসে"], "answerIndex": 0,
-    "explanation": "কে-টু (K2, ৮,৬১১ মিটার) পৃথিবীর দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।" },
-  { "id": "f4-sc-1", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "কে-টু",
+      "কাঞ্চনজঙ্ঘা",
+      "মাকালু",
+      "লোৎসে"
+    ],
+    "answerIndex": 0,
+    "explanation": "কে-টু (K2, ৮,৬১১ মিটার) পৃথিবীর দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।"
+  },
+  {
+    "id": "f4-sc-1",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "মানবদেহের দীর্ঘতম হাড় কোনটি?",
-    "options": ["ফিমার", "টিবিয়া", "হিউমেরাস", "স্টেপিস"], "answerIndex": 0,
-    "explanation": "ঊরুর হাড় ফিমার মানবদেহের দীর্ঘতম হাড়।" },
-  { "id": "f4-sc-2", "categoryId": "science", "subTopic": "biology", "difficulty": "hard",
+    "options": [
+      "ফিমার",
+      "হিউমেরাস",
+      "টিবিয়া",
+      "স্টেপিস"
+    ],
+    "answerIndex": 0,
+    "explanation": "ঊরুর হাড় ফিমার মানবদেহের দীর্ঘতম হাড়।"
+  },
+  {
+    "id": "f4-sc-2",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "hard",
     "question": "সর্বজনীন রক্তদাতা কোন রক্তের গ্রুপ?",
-    "options": ["O নেগেটিভ", "AB পজিটিভ", "A পজিটিভ", "B নেগেটিভ"], "answerIndex": 0,
-    "explanation": "O নেগেটিভ রক্তের গ্রুপকে সর্বজনীন দাতা বলা হয়।" },
-  { "id": "f4-sc-3", "categoryId": "science", "subTopic": "chemistry", "difficulty": "medium",
+    "options": [
+      "A পজিটিভ",
+      "B নেগেটিভ",
+      "AB পজিটিভ",
+      "O নেগেটিভ"
+    ],
+    "answerIndex": 3,
+    "explanation": "O নেগেটিভ রক্তের গ্রুপকে সর্বজনীন দাতা বলা হয়।"
+  },
+  {
+    "id": "f4-sc-3",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
     "question": "প্রকৃতিতে সবচেয়ে কঠিন পদার্থ কোনটি?",
-    "options": ["হীরা", "লোহা", "গ্রানাইট", "স্বর্ণ"], "answerIndex": 0,
-    "explanation": "হীরা (Diamond) প্রকৃতিতে সবচেয়ে কঠিন পদার্থ।" },
-  { "id": "f4-sc-4", "categoryId": "science", "subTopic": "chemistry", "difficulty": "hard",
+    "options": [
+      "গ্রানাইট",
+      "হীরা",
+      "লোহা",
+      "স্বর্ণ"
+    ],
+    "answerIndex": 1,
+    "explanation": "হীরা (Diamond) প্রকৃতিতে সবচেয়ে কঠিন পদার্থ।"
+  },
+  {
+    "id": "f4-sc-4",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "hard",
     "question": "ভূত্বকে সবচেয়ে বেশি পরিমাণে কোন মৌল রয়েছে?",
-    "options": ["অক্সিজেন", "সিলিকন", "অ্যালুমিনিয়াম", "লোহা"], "answerIndex": 0,
-    "explanation": "ভূত্বকে সর্বাধিক মৌল অক্সিজেন (প্রায় ৪৬%)।" },
-  { "id": "f4-sc-5", "categoryId": "science", "subTopic": "physics", "difficulty": "medium",
+    "options": [
+      "অ্যালুমিনিয়াম",
+      "সিলিকন",
+      "লোহা",
+      "অক্সিজেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "ভূত্বকে সর্বাধিক মৌল অক্সিজেন (প্রায় ৪৬%)।"
+  },
+  {
+    "id": "f4-sc-5",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "medium",
     "question": "এক্স-রে কে আবিষ্কার করেন?",
-    "options": ["রন্টজেন", "মাদাম কুরি", "আইনস্টাইন", "নিউটন"], "answerIndex": 0,
-    "explanation": "উইলহেম রন্টজেন ১৮৯৫ সালে এক্স-রে আবিষ্কার করেন।" },
-  { "id": "f4-sc-6", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "আইনস্টাইন",
+      "মাদাম কুরি",
+      "নিউটন",
+      "রন্টজেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "উইলহেম রন্টজেন ১৮৯৫ সালে এক্স-রে আবিষ্কার করেন।"
+  },
+  {
+    "id": "f4-sc-6",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "ম্যালেরিয়া রোগ কোন মশার মাধ্যমে ছড়ায়?",
-    "options": ["অ্যানোফিলিস", "এডিস", "কিউলেক্স", "মাছি"], "answerIndex": 0,
-    "explanation": "স্ত্রী অ্যানোফিলিস মশার মাধ্যমে ম্যালেরিয়া ছড়ায়।" },
-  { "id": "f4-sc-7", "categoryId": "science", "subTopic": "biology", "difficulty": "easy",
+    "options": [
+      "কিউলেক্স",
+      "অ্যানোফিলিস",
+      "মাছি",
+      "এডিস"
+    ],
+    "answerIndex": 1,
+    "explanation": "স্ত্রী অ্যানোফিলিস মশার মাধ্যমে ম্যালেরিয়া ছড়ায়।"
+  },
+  {
+    "id": "f4-sc-7",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "easy",
     "question": "ডেঙ্গু জ্বর কোন মশার মাধ্যমে ছড়ায়?",
-    "options": ["এডিস", "অ্যানোফিলিস", "কিউলেক্স", "ফ্রুট ফ্লাই"], "answerIndex": 0,
-    "explanation": "এডিস মশার মাধ্যমে ডেঙ্গু ভাইরাস ছড়ায়।" },
-  { "id": "f4-ict-1", "categoryId": "ict", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "অ্যানোফিলিস",
+      "কিউলেক্স",
+      "এডিস",
+      "ফ্রুট ফ্লাই"
+    ],
+    "answerIndex": 2,
+    "explanation": "এডিস মশার মাধ্যমে ডেঙ্গু ভাইরাস ছড়ায়।"
+  },
+  {
+    "id": "f4-ict-1",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "ই-মেইল আবিষ্কার করেন কে?",
-    "options": ["রে টমলিনসন", "টিম বার্নার্স-লি", "বিল গেটস", "ভিন্ট সার্ফ"], "answerIndex": 0,
-    "explanation": "রে টমলিনসন ১৯৭১ সালে ই-মেইল উদ্ভাবন করেন এবং \"@\" চিহ্ন ব্যবহার করেন।" },
-  { "id": "f4-ict-2", "categoryId": "ict", "subTopic": "general", "difficulty": "easy",
+    "options": [
+      "রে টমলিনসন",
+      "টিম বার্নার্স-লি",
+      "ভিন্ট সার্ফ",
+      "বিল গেটস"
+    ],
+    "answerIndex": 0,
+    "explanation": "রে টমলিনসন ১৯৭১ সালে ই-মেইল উদ্ভাবন করেন এবং \"@\" চিহ্ন ব্যবহার করেন।"
+  },
+  {
+    "id": "f4-ict-2",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "easy",
     "question": "মাইক্রোসফটের প্রতিষ্ঠাতা কে?",
-    "options": ["বিল গেটস", "স্টিভ জবস", "মার্ক জাকারবার্গ", "ল্যারি পেজ"], "answerIndex": 0,
-    "explanation": "বিল গেটস (ও পল অ্যালেন) মাইক্রোসফট প্রতিষ্ঠা করেন।" },
-  { "id": "f4-ict-3", "categoryId": "ict", "subTopic": "software", "difficulty": "medium",
+    "options": [
+      "মার্ক জাকারবার্গ",
+      "ল্যারি পেজ",
+      "স্টিভ জবস",
+      "বিল গেটস"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিল গেটস (ও পল অ্যালেন) মাইক্রোসফট প্রতিষ্ঠা করেন।"
+  },
+  {
+    "id": "f4-ict-3",
+    "categoryId": "ict",
+    "subTopic": "software",
+    "difficulty": "medium",
     "question": "অ্যাপলের প্রতিষ্ঠাতাদের একজন কে?",
-    "options": ["স্টিভ জবস", "বিল গেটস", "টিম বার্নার্স-লি", "ল্যারি পেজ"], "answerIndex": 0,
-    "explanation": "স্টিভ জবস (ও স্টিভ ওজনিয়াক) অ্যাপল প্রতিষ্ঠা করেন।" },
-  { "id": "f4-ict-4", "categoryId": "ict", "subTopic": "general", "difficulty": "hard",
+    "options": [
+      "টিম বার্নার্স-লি",
+      "স্টিভ জবস",
+      "বিল গেটস",
+      "ল্যারি পেজ"
+    ],
+    "answerIndex": 1,
+    "explanation": "স্টিভ জবস (ও স্টিভ ওজনিয়াক) অ্যাপল প্রতিষ্ঠা করেন।"
+  },
+  {
+    "id": "f4-ict-4",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "hard",
     "question": "১ গিগাবাইট (GB) সমান কত মেগাবাইট (MB)?",
-    "options": ["১০২৪", "১০০০", "৫১২", "২০৪৮"], "answerIndex": 0,
-    "explanation": "১ GB = ১০২৪ MB।" },
-  { "id": "f4-ict-5", "categoryId": "ict", "subTopic": "general", "difficulty": "hard",
+    "options": [
+      "২০৪৮",
+      "১০২৪",
+      "১০০০",
+      "৫১২"
+    ],
+    "answerIndex": 1,
+    "explanation": "১ GB = ১০২৪ MB।"
+  },
+  {
+    "id": "f4-ict-5",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "hard",
     "question": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি কত?",
-    "options": ["১৬", "১০", "৮", "২"], "answerIndex": 0,
-    "explanation": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি ১৬।" },
-  { "id": "f4-eth-1", "categoryId": "ethics", "subTopic": "governance", "difficulty": "medium",
+    "options": [
+      "২",
+      "৮",
+      "১৬",
+      "১০"
+    ],
+    "answerIndex": 2,
+    "explanation": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি ১৬।"
+  },
+  {
+    "id": "f4-eth-1",
+    "categoryId": "ethics",
+    "subTopic": "governance",
+    "difficulty": "medium",
     "question": "সিটিজেন চার্টার (নাগরিক সনদ) কীসের সাথে সম্পর্কিত?",
-    "options": ["সেবার মান ও জবাবদিহিতা নিশ্চিত", "কর আদায়", "নির্বাচন", "বিচার"], "answerIndex": 0,
-    "explanation": "সিটিজেন চার্টার সরকারি সেবার মান, সময় ও জবাবদিহিতা নিশ্চিত করে।" },
-  { "id": "f4-eth-2", "categoryId": "ethics", "subTopic": "values", "difficulty": "easy",
+    "options": [
+      "সেবার মান ও জবাবদিহিতা নিশ্চিত",
+      "কর আদায়",
+      "বিচার",
+      "নির্বাচন"
+    ],
+    "answerIndex": 0,
+    "explanation": "সিটিজেন চার্টার সরকারি সেবার মান, সময় ও জবাবদিহিতা নিশ্চিত করে।"
+  },
+  {
+    "id": "f4-eth-2",
+    "categoryId": "ethics",
+    "subTopic": "values",
+    "difficulty": "easy",
     "question": "নিচের কোনটি নৈতিক মূল্যবোধ?",
-    "options": ["সত্যবাদিতা", "প্রতারণা", "লোভ", "হিংসা"], "answerIndex": 0,
-    "explanation": "সত্যবাদিতা একটি ইতিবাচক নৈতিক মূল্যবোধ।" },
-  { "id": "f4-eth-3", "categoryId": "ethics", "subTopic": "governance", "difficulty": "hard",
+    "options": [
+      "সত্যবাদিতা",
+      "প্রতারণা",
+      "লোভ",
+      "হিংসা"
+    ],
+    "answerIndex": 0,
+    "explanation": "সত্যবাদিতা একটি ইতিবাচক নৈতিক মূল্যবোধ।"
+  },
+  {
+    "id": "f4-eth-3",
+    "categoryId": "ethics",
+    "subTopic": "governance",
+    "difficulty": "hard",
     "question": "সুশাসনের ধারণায় \"স্বচ্ছতা\" বলতে কী বোঝায়?",
-    "options": ["তথ্যের অবাধ প্রবাহ ও প্রকাশ্যতা", "গোপনীয়তা", "কেন্দ্রীকরণ", "একনায়কত্ব"], "answerIndex": 0,
-    "explanation": "স্বচ্ছতা মানে সিদ্ধান্ত ও তথ্যের অবাধ প্রবাহ, যা জনগণ যাচাই করতে পারে।" }
+    "options": [
+      "একনায়কত্ব",
+      "কেন্দ্রীকরণ",
+      "তথ্যের অবাধ প্রবাহ ও প্রকাশ্যতা",
+      "গোপনীয়তা"
+    ],
+    "answerIndex": 2,
+    "explanation": "স্বচ্ছতা মানে সিদ্ধান্ত ও তথ্যের অবাধ প্রবাহ, যা জনগণ যাচাই করতে পারে।"
+  }
 ]

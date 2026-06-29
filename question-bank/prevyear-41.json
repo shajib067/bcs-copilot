@@ -6,12 +6,12 @@
     "difficulty": "hard",
     "question": "বাংলা ভাষায় প্রথম অভিধান সংকলন করেন কে?",
     "options": [
+      "হরিচরণ বন্দ্যোপাধ্যায়",
       "রামচন্দ্র বিদ্যাবাগীশ",
       "রাজশেখর বসু",
-      "হরিচরণ বন্দ্যোপাধ্যায়",
       "অশোক মুখোপাধ্যায়"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "বাংলা ভাষায় প্রথম অভিধান সংকলন করেন রামচন্দ্র বিদ্যাবাগীশ।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -23,12 +23,12 @@
     "difficulty": "medium",
     "question": "‘সবকিছু নষ্টদের অধিকারে যাবে’ গ্রন্থটির রচয়িতা কে?",
     "options": [
-      "সৈয়দ আলী আহসান",
       "সুকান্ত ভট্টাচার্য",
       "হুমায়ুন আজাদ",
-      "নির্মলেন্দু গুণ"
+      "নির্মলেন্দু গুণ",
+      "সৈয়দ আলী আহসান"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "‘সবকিছু নষ্টদের অধিকারে যাবে’ হুমায়ুন আজাদের রচনা।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -40,9 +40,9 @@
     "difficulty": "hard",
     "question": "তেভাগা আন্দোলনকেন্দ্রিক উপন্যাস কোনটি?",
     "options": [
+      "ক্রীতদাসের হাসি",
       "অক্টোপাস",
       "কালো বরফ",
-      "ক্রীতদাসের হাসি",
       "নাঢ়াই"
     ],
     "answerIndex": 3,
@@ -58,11 +58,11 @@
     "question": "ব্রিটিশ সরকার নজরুলের কোন গ্রন্থটি সর্বপ্রথম বাজেয়াপ্ত করে?",
     "options": [
       "বিষের বাঁশি",
-      "যুগবাণী",
       "ভাঙার গান",
+      "যুগবাণী",
       "প্রলয় শিখা"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "নজরুলের ‘যুগবাণী’ প্রবন্ধগ্রন্থটি সর্বপ্রথম বাজেয়াপ্ত হয়।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -74,12 +74,12 @@
     "difficulty": "hard",
     "question": "ইংরেজি ভাষায় জীবনানন্দ দাশের ওপর গ্রন্থ লিখেছেন কে?",
     "options": [
+      "অরুন্ধতী রায়",
       "ডব্লিউ বি ইয়েটস",
       "ক্লিনটন বি সিলি",
-      "অরুন্ধতী রায়",
       "অমিতাভ ঘোষ"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "ক্লিনটন বি সিলি জীবনানন্দ দাশের ওপর ‘A Poet Apart’ গ্রন্থটি রচনা করেন।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -91,12 +91,12 @@
     "difficulty": "hard",
     "question": "‘গ্রামবার্ত্তা প্রকাশিকা’ পত্রিকাটি কোথা থেকে প্রকাশিত হতো?",
     "options": [
-      "ঢাকার পল্টন",
       "নওগাঁর পতিসর",
       "কুষ্টিয়ার কুমারখালী",
+      "ঢাকার পল্টন",
       "ময়মনসিংহের ত্রিশাল"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "কাঙাল হরিনাথ মজুমদার সম্পাদিত ‘গ্রামবার্ত্তা প্রকাশিকা’ কুষ্টিয়ার কুমারখালী থেকে প্রকাশিত হতো।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -108,12 +108,12 @@
     "difficulty": "medium",
     "question": "বাংলা জীবনী সাহিত্যের ধারা কাকে কেন্দ্র করে গড়ে ওঠে?",
     "options": [
-      "শ্রীচৈতন্যদেব",
       "কাহ্নপা",
-      "বিদ্যাপতি",
-      "রামকৃষ্ণ পরমহংস"
+      "শ্রীচৈতন্যদেব",
+      "রামকৃষ্ণ পরমহংস",
+      "বিদ্যাপতি"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "বাংলা জীবনী সাহিত্যের ধারা শ্রীচৈতন্যদেবকে কেন্দ্র করে গড়ে ওঠে।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -142,12 +142,12 @@
     "difficulty": "medium",
     "question": "পাঁচালিকার হিসেবে সর্বাধিক খ্যাতি কার ছিল?",
     "options": [
+      "রামরাম বসু",
       "দাশরথি রায়",
-      "রামনিধি গুপ্ত",
       "ফকির গরীবুল্লাহ",
-      "রামরাম বসু"
+      "রামনিধি গুপ্ত"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "পাঁচালিকার হিসেবে দাশরথি রায়ের খ্যাতি ছিল সর্বাধিক।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -159,12 +159,12 @@
     "difficulty": "medium",
     "question": "চারণকবি হিসেবে বিখ্যাত কে?",
     "options": [
+      "মুকুন্দ দাস",
       "আলাওল",
       "চন্দ্রাবতী",
-      "মুকুন্দ দাস",
       "মুক্তারাম চক্রবর্তী"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "মুকুন্দ দাস চারণকবি হিসেবে বিখ্যাত।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -176,12 +176,12 @@
     "difficulty": "medium",
     "question": "রবীন্দ্রনাথের ‘নষ্টনীড়’ গল্পের একটি বিখ্যাত চরিত্র কোনটি?",
     "options": [
-      "বিনোদিনী",
+      "চারুলতা",
       "হৈমন্তী",
-      "আশালতা",
-      "চারুলতা"
+      "বিনোদিনী",
+      "আশালতা"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "‘নষ্টনীড়’ গল্পের বিখ্যাত চরিত্র চারুলতা।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -193,9 +193,9 @@
     "difficulty": "hard",
     "question": "চর্যাপদের টীকাকার কে?",
     "options": [
+      "হরপ্রসাদ শাস্ত্রী",
       "মীননাথ",
       "প্রবোধচন্দ্র বাগচী",
-      "হরপ্রসাদ শাস্ত্রী",
       "মুনিদত্ত"
     ],
     "answerIndex": 3,
@@ -210,12 +210,12 @@
     "difficulty": "hard",
     "question": "ঊনসত্তরের গণ-অভ্যুত্থানের পটভূমিকায় লেখা উপন্যাস কোনটি?",
     "options": [
-      "ভূমিপুত্র",
+      "চিলেকোঠার সেপাই",
       "মাটির জাহাজ",
-      "কাঁটাতারে প্রজাপতি",
-      "চিলেকোঠার সেপাই"
+      "ভূমিপুত্র",
+      "কাঁটাতারে প্রজাপতি"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "আখতারুজ্জামান ইলিয়াসের ‘চিলেকোঠার সেপাই’ ঊনসত্তরের গণ-অভ্যুত্থানের পটভূমিকায় লেখা।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -227,10 +227,10 @@
     "difficulty": "medium",
     "question": "বিধবার প্রেম নিয়ে রচিত উপন্যাস কোনটি?",
     "options": [
-      "শেষ প্রশ্ন",
+      "কপালকুণ্ডলা",
       "চোখের বালি",
-      "কুহেলিকা",
-      "কপালকুণ্ডলা"
+      "শেষ প্রশ্ন",
+      "কুহেলিকা"
     ],
     "answerIndex": 1,
     "explanation": "রবীন্দ্রনাথের ‘চোখের বালি’ বিধবার প্রেম নিয়ে রচিত উপন্যাস।",
@@ -245,9 +245,9 @@
     "question": "জেলে জীবনকেন্দ্রিক উপন্যাস কোনটি?",
     "options": [
       "গঙ্গা",
-      "পুতুলনাচের ইতিকথা",
+      "গৃহদাহ",
       "হাঁসুলী বাঁকের উপকথা",
-      "গৃহদাহ"
+      "পুতুলনাচের ইতিকথা"
     ],
     "answerIndex": 0,
     "explanation": "সমরেশ বসুর ‘গঙ্গা’ জেলে জীবনকেন্দ্রিক উপন্যাস।",
@@ -263,10 +263,10 @@
     "options": [
       "সমরেশ মজুমদার",
       "শওকত ওসমান",
-      "সমরেশ বসু",
-      "আলাউদ্দিন আল আজাদ"
+      "আলাউদ্দিন আল আজাদ",
+      "সমরেশ বসু"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "‘কালকূট’ সমরেশ বসুর ছদ্মনাম।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -278,12 +278,12 @@
     "difficulty": "medium",
     "question": "‘পরানের গহীন ভিতর’ কাব্যের কবি কে?",
     "options": [
-      "অসীম সাহা",
-      "অরুণ বসু",
       "আবু জাফর ওবায়দুল্লাহ",
-      "সৈয়দ শামসুল হক"
+      "অরুণ বসু",
+      "সৈয়দ শামসুল হক",
+      "অসীম সাহা"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "‘পরানের গহীন ভিতর’ কাব্যের কবি সৈয়দ শামসুল হক।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -312,12 +312,12 @@
     "difficulty": "medium",
     "question": "নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে কী বলে?",
     "options": [
-      "যৌগিক ধ্বনি",
-      "অক্ষর",
+      "মৌলিক স্বরধ্বনি",
       "বর্ণ",
-      "মৌলিক স্বরধ্বনি"
+      "যৌগিক ধ্বনি",
+      "অক্ষর"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "এক প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে অক্ষর বলে।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -329,12 +329,12 @@
     "difficulty": "hard",
     "question": "‘প্রচুর + য = প্রাচুর্য’ — এটি কোন প্রত্যয়?",
     "options": [
-      "কৃৎ প্রত্যয়",
-      "তদ্ধিত প্রত্যয়",
       "বাংলা কৃৎ প্রত্যয়",
-      "সংস্কৃত কৃৎ প্রত্যয়"
+      "সংস্কৃত কৃৎ প্রত্যয়",
+      "তদ্ধিত প্রত্যয়",
+      "কৃৎ প্রত্যয়"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "‘প্রাচুর্য’ তদ্ধিত প্রত্যয়ের উদাহরণ।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -346,12 +346,12 @@
     "difficulty": "hard",
     "question": "উপমান কর্মধারয় সমাসের উদাহরণ কোনটি?",
     "options": [
-      "শশব্যস্ত",
       "কালচক্র",
-      "পরাণপাখি",
-      "নীলকণ্ঠ"
+      "শশব্যস্ত",
+      "নীলকণ্ঠ",
+      "পরাণপাখি"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "‘শশব্যস্ত’ (শশকের ন্যায় ব্যস্ত) উপমান কর্মধারয় সমাসের উদাহরণ।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -363,12 +363,12 @@
     "difficulty": "hard",
     "question": "অপিনিহিতির উদাহরণ কোনটি?",
     "options": [
+      "অলাবু > লাউ",
       "জন্ম > জম্ম",
-      "আজি > আইজ",
       "ডেস্ক > ডেসক",
-      "অলাবু > লাউ"
+      "আজি > আইজ"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "‘আজি > আইজ’ অপিনিহিতির উদাহরণ (পরের ই-কার আগে উচ্চারণ)।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -381,11 +381,11 @@
     "question": "‘কুসীদজীবী’ বলতে কাদের বোঝায়?",
     "options": [
       "চারণকবি",
-      "সাপুড়ে",
       "সুদখোর",
+      "সাপুড়ে",
       "কৃষিজীবী"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "‘কুসীদজীবী’ অর্থ সুদের কারবারি বা সুদখোর।",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -397,12 +397,12 @@
     "difficulty": "medium",
     "question": "Which word can be used as both singular and plural?",
     "options": [
-      "wood",
       "issue",
-      "fish",
-      "light"
+      "wood",
+      "light",
+      "fish"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "‘Fish’ can be both singular and plural.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -414,12 +414,12 @@
     "difficulty": "medium",
     "question": "‘The old man was tired of walking.’ Here ‘walking’ is a/an:",
     "options": [
-      "present participle",
-      "adjective",
       "common noun",
-      "gerund"
+      "present participle",
+      "gerund",
+      "adjective"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "After a preposition (‘of’), ‘walking’ is a gerund.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -431,12 +431,12 @@
     "difficulty": "medium",
     "question": "‘I will not let you go.’ Here ‘go’ is a/an:",
     "options": [
-      "infinitive",
       "gerund",
-      "participle",
-      "verbal noun"
+      "infinitive",
+      "verbal noun",
+      "participle"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "After ‘let’ the bare infinitive ‘go’ is used.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -448,10 +448,10 @@
     "difficulty": "medium",
     "question": "‘Call me if you have any problems regarding your work.’ Here ‘regarding’ is a/an:",
     "options": [
+      "conjunction",
       "gerund",
-      "apposition",
       "preposition",
-      "conjunction"
+      "apposition"
     ],
     "answerIndex": 2,
     "explanation": "‘Regarding’ (meaning ‘about’) functions as a preposition.",
@@ -465,8 +465,8 @@
     "difficulty": "medium",
     "question": "‘It’s time to go home.’ Here ‘home’ is a/an:",
     "options": [
-      "noun",
       "verb",
+      "noun",
       "adjective",
       "adverb"
     ],
@@ -482,12 +482,12 @@
     "difficulty": "hard",
     "question": "Which of the following is of common gender?",
     "options": [
-      "king",
       "sovereign",
       "emperor",
-      "queen"
+      "queen",
+      "king"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "‘Sovereign’ can refer to either a king or a queen, so it is common gender.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -500,11 +500,11 @@
     "question": "Choose the word opposite in meaning to ‘terse’:",
     "options": [
       "concise",
-      "detailed",
       "expressive",
-      "brief"
+      "brief",
+      "detailed"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "‘Terse’ means brief; its opposite is ‘detailed’.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -516,12 +516,12 @@
     "difficulty": "easy",
     "question": "What is the noun form of the word ‘know’?",
     "options": [
-      "knowing",
-      "knowledge",
       "knowledgeable",
-      "known"
+      "knowing",
+      "known",
+      "knowledge"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "The noun form of ‘know’ is ‘knowledge’.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -533,12 +533,12 @@
     "difficulty": "medium",
     "question": "‘Give somebody a piece of your mind’ means to:",
     "options": [
-      "tell someone you are very angry with them",
       "say exactly what you think calmly",
-      "help someone return to normal",
-      "give somebody mental peace"
+      "tell someone you are very angry with them",
+      "give somebody mental peace",
+      "help someone return to normal"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "The idiom means to angrily tell someone what you think of their behaviour.",
     "year": 41,
     "source": "41st BCS (2021)"
@@ -550,9 +550,9 @@
     "difficulty": "medium",
     "question": "When Ushashi entered ___ the room, everybody stopped talking.",
     "options": [
-      "into",
       "in",
       "to",
+      "into",
       "no preposition required"
     ],
     "answerIndex": 3,
@@ -568,9 +568,9 @@
     "question": "‘...we arrived at the classroom door.’ Here the verb ‘arrived’ is:",
     "options": [
       "intransitive",
+      "defective",
       "transitive",
-      "causative",
-      "defective"
+      "causative"
     ],
     "answerIndex": 0,
     "explanation": "‘Arrive’ takes no object, so it is an intransitive verb.",
@@ -603,8 +603,8 @@
     "options": [
       "গারো",
       "চাকমা",
-      "সাঁওতাল",
-      "মারমা"
+      "মারমা",
+      "সাঁওতাল"
     ],
     "answerIndex": 0,
     "explanation": "নেত্রকোনার বিরিশিরি অঞ্চলে গারো নৃগোষ্ঠীর বসবাস।",
@@ -619,9 +619,9 @@
     "question": "অবিভক্ত বাংলার সর্বপ্রথম রাজা কাকে বলা হয়?",
     "options": [
       "শশাঙ্ক",
-      "ধর্মপাল",
+      "বল্লাল সেন",
       "লক্ষ্মণ সেন",
-      "বল্লাল সেন"
+      "ধর্মপাল"
     ],
     "answerIndex": 0,
     "explanation": "অবিভক্ত বাংলার সর্বপ্রথম স্বাধীন রাজা হিসেবে শশাঙ্ককে গণ্য করা হয়।",
@@ -635,10 +635,10 @@
     "difficulty": "medium",
     "question": "‘সুশাসন চারটি স্তম্ভের ওপর নির্ভরশীল’ — এই অভিমত কোন সংস্থার?",
     "options": [
-      "জাতিসংঘ",
+      "এডিবি",
       "ইউএনডিপি",
       "বিশ্বব্যাংক",
-      "এডিবি"
+      "জাতিসংঘ"
     ],
     "answerIndex": 2,
     "explanation": "বিশ্বব্যাংক সুশাসনের চারটি স্তম্ভের কথা উল্লেখ করেছে।",
@@ -652,9 +652,9 @@
     "difficulty": "easy",
     "question": "সভ্যতার অন্যতম প্রতিচ্ছবি হলো কোনটি?",
     "options": [
-      "সুশাসন",
       "রাষ্ট্র",
       "নৈতিকতা",
+      "সুশাসন",
       "সমাজ"
     ],
     "answerIndex": 3,

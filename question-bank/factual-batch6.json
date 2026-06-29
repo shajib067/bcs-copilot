@@ -1,262 +1,977 @@
 [
-  { "id": "f6-bn-1", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+  {
+    "id": "f6-bn-1",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"পদ্মাবতী\" কাব্যের রচয়িতা কে?",
-    "options": ["আলাওল", "দৌলত কাজী", "শাহ মুহাম্মদ সগীর", "সৈয়দ সুলতান"], "answerIndex": 0,
-    "explanation": "আরাকান রাজসভার কবি আলাওল \"পদ্মাবতী\" রচনা করেন।" },
-  { "id": "f6-bn-2", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "সৈয়দ সুলতান",
+      "দৌলত কাজী",
+      "আলাওল",
+      "শাহ মুহাম্মদ সগীর"
+    ],
+    "answerIndex": 2,
+    "explanation": "আরাকান রাজসভার কবি আলাওল \"পদ্মাবতী\" রচনা করেন।"
+  },
+  {
+    "id": "f6-bn-2",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"অন্নদামঙ্গল\" কাব্যের রচয়িতা কে?",
-    "options": ["ভারতচন্দ্র রায়গুণাকর", "মুকুন্দরাম", "বিজয় গুপ্ত", "কানাহরি দত্ত"], "answerIndex": 0,
-    "explanation": "\"অন্নদামঙ্গল\" ভারতচন্দ্র রায়গুণাকরের রচনা।" },
-  { "id": "f6-bn-3", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "কানাহরি দত্ত",
+      "বিজয় গুপ্ত",
+      "মুকুন্দরাম",
+      "ভারতচন্দ্র রায়গুণাকর"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"অন্নদামঙ্গল\" ভারতচন্দ্র রায়গুণাকরের রচনা।"
+  },
+  {
+    "id": "f6-bn-3",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"চণ্ডীমঙ্গল\" কাব্যের জন্য বিখ্যাত কবি কে?",
-    "options": ["মুকুন্দরাম চক্রবর্তী", "ভারতচন্দ্র", "বিজয় গুপ্ত", "ঘনরাম চক্রবর্তী"], "answerIndex": 0,
-    "explanation": "\"কবিকঙ্কণ\" মুকুন্দরাম চক্রবর্তী \"চণ্ডীমঙ্গল\" রচনা করেন।" },
-  { "id": "f6-bn-4", "categoryId": "bangla", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "বিজয় গুপ্ত",
+      "মুকুন্দরাম চক্রবর্তী",
+      "ভারতচন্দ্র",
+      "ঘনরাম চক্রবর্তী"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"কবিকঙ্কণ\" মুকুন্দরাম চক্রবর্তী \"চণ্ডীমঙ্গল\" রচনা করেন।"
+  },
+  {
+    "id": "f6-bn-4",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "\"বীরাঙ্গনা কাব্য\" কে রচনা করেন?",
-    "options": ["মাইকেল মধুসূদন দত্ত", "রবীন্দ্রনাথ", "নবীনচন্দ্র সেন", "হেমচন্দ্র"], "answerIndex": 0,
-    "explanation": "\"বীরাঙ্গনা কাব্য\" মাইকেল মধুসূদন দত্তের পত্রকাব্য।" },
-  { "id": "f6-bn-5", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "মাইকেল মধুসূদন দত্ত",
+      "হেমচন্দ্র",
+      "নবীনচন্দ্র সেন",
+      "রবীন্দ্রনাথ"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"বীরাঙ্গনা কাব্য\" মাইকেল মধুসূদন দত্তের পত্রকাব্য।"
+  },
+  {
+    "id": "f6-bn-5",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"সংস্কৃত\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["সম্ + কৃত", "সং + কৃত", "সমঃ + কৃত", "সন + কৃত"], "answerIndex": 0,
-    "explanation": "\"সংস্কৃত\" = সম্ + কৃত।" },
-  { "id": "f6-bn-6", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "সম্ + কৃত",
+      "সং + কৃত",
+      "সমঃ + কৃত",
+      "সন + কৃত"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"সংস্কৃত\" = সম্ + কৃত।"
+  },
+  {
+    "id": "f6-bn-6",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"উন্নয়ন\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["উৎ + নয়ন", "উন + নয়ন", "উন্ন + অয়ন", "উৎ + অয়ন"], "answerIndex": 0,
-    "explanation": "\"উন্নয়ন\" = উৎ + নয়ন।" },
-  { "id": "f6-bn-7", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "উন্ন + অয়ন",
+      "উৎ + অয়ন",
+      "উৎ + নয়ন",
+      "উন + নয়ন"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"উন্নয়ন\" = উৎ + নয়ন।"
+  },
+  {
+    "id": "f6-bn-7",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"পরীক্ষা\" শব্দের সন্ধি বিচ্ছেদ কোনটি?",
-    "options": ["পরি + ঈক্ষা", "পরী + ক্ষা", "পরি + ইক্ষা", "পর + ঈক্ষা"], "answerIndex": 0,
-    "explanation": "\"পরীক্ষা\" = পরি + ঈক্ষা।" },
-  { "id": "f6-bn-8", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "পরি + ঈক্ষা",
+      "পর + ঈক্ষা",
+      "পরী + ক্ষা",
+      "পরি + ইক্ষা"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"পরীক্ষা\" = পরি + ঈক্ষা।"
+  },
+  {
+    "id": "f6-bn-8",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"যে শুনেই মনে রাখতে পারে\" — এক কথায় কী?",
-    "options": ["শ্রুতিধর", "মেধাবী", "স্মরণশীল", "বুদ্ধিমান"], "answerIndex": 0,
-    "explanation": "যে শুনেই মনে রাখতে পারে সে \"শ্রুতিধর\"।" },
-  { "id": "f6-bn-9", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "স্মরণশীল",
+      "বুদ্ধিমান",
+      "শ্রুতিধর",
+      "মেধাবী"
+    ],
+    "answerIndex": 2,
+    "explanation": "যে শুনেই মনে রাখতে পারে সে \"শ্রুতিধর\"।"
+  },
+  {
+    "id": "f6-bn-9",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"ভোজন করার ইচ্ছা\" — এক কথায় কী?",
-    "options": ["বুভুক্ষা", "ক্ষুধা", "জিঘাংসা", "লিপ্সা"], "answerIndex": 0,
-    "explanation": "ভোজন করার ইচ্ছা = \"বুভুক্ষা\"।" },
-  { "id": "f6-bn-10", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "hard",
+    "options": [
+      "লিপ্সা",
+      "ক্ষুধা",
+      "বুভুক্ষা",
+      "জিঘাংসা"
+    ],
+    "answerIndex": 2,
+    "explanation": "ভোজন করার ইচ্ছা = \"বুভুক্ষা\"।"
+  },
+  {
+    "id": "f6-bn-10",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "hard",
     "question": "\"ঢাকের কাঠি\" বাগধারার অর্থ কী?",
-    "options": ["তোষামোদকারী", "নেতা", "ঢাকি", "অলস ব্যক্তি"], "answerIndex": 0,
-    "explanation": "\"ঢাকের কাঠি\" অর্থ তোষামোদকারী বা মোসাহেব।" },
-  { "id": "f6-bn-11", "categoryId": "bangla", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "অলস ব্যক্তি",
+      "ঢাকি",
+      "তোষামোদকারী",
+      "নেতা"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"ঢাকের কাঠি\" অর্থ তোষামোদকারী বা মোসাহেব।"
+  },
+  {
+    "id": "f6-bn-11",
+    "categoryId": "bangla",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "\"ভিজে বিড়াল\" বাগধারার অর্থ কী?",
-    "options": ["কপট", "ভীতু", "ভেজা প্রাণী", "দুর্বল"], "answerIndex": 0,
-    "explanation": "\"ভিজে বিড়াল\" অর্থ কপট বা ভণ্ড।" },
-  { "id": "f6-bn-12", "categoryId": "bangla", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "দুর্বল",
+      "কপট",
+      "ভেজা প্রাণী",
+      "ভীতু"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"ভিজে বিড়াল\" অর্থ কপট বা ভণ্ড।"
+  },
+  {
+    "id": "f6-bn-12",
+    "categoryId": "bangla",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "বৈষ্ণব পদাবলির আদি রচয়িতাদের একজন কে?",
-    "options": ["বিদ্যাপতি", "ভারতচন্দ্র", "মুকুন্দরাম", "আলাওল"], "answerIndex": 0,
-    "explanation": "বিদ্যাপতি ও চণ্ডীদাস বৈষ্ণব পদাবলির আদি রচয়িতাদের অন্যতম।" },
-  { "id": "f6-en-1", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "বিদ্যাপতি",
+      "আলাওল",
+      "মুকুন্দরাম",
+      "ভারতচন্দ্র"
+    ],
+    "answerIndex": 0,
+    "explanation": "বিদ্যাপতি ও চণ্ডীদাস বৈষ্ণব পদাবলির আদি রচয়িতাদের অন্যতম।"
+  },
+  {
+    "id": "f6-en-1",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "Who wrote the tragedy \"Othello\"?",
-    "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Webster"], "answerIndex": 0,
-    "explanation": "\"Othello\" is a tragedy by William Shakespeare." },
-  { "id": "f6-en-2", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster",
+      "William Shakespeare"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Othello\" is a tragedy by William Shakespeare."
+  },
+  {
+    "id": "f6-en-2",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Lord of the Flies\" was written by:",
-    "options": ["William Golding", "George Orwell", "Aldous Huxley", "Ernest Hemingway"], "answerIndex": 0,
-    "explanation": "\"Lord of the Flies\" (1954) is by William Golding." },
-  { "id": "f6-en-3", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ernest Hemingway",
+      "William Golding"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Lord of the Flies\" (1954) is by William Golding."
+  },
+  {
+    "id": "f6-en-3",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"Heart of Darkness\" was written by:",
-    "options": ["Joseph Conrad", "E. M. Forster", "D. H. Lawrence", "Thomas Hardy"], "answerIndex": 0,
-    "explanation": "\"Heart of Darkness\" is a novella by Joseph Conrad." },
-  { "id": "f6-en-4", "categoryId": "english", "subTopic": "literature", "difficulty": "hard",
+    "options": [
+      "Joseph Conrad",
+      "Thomas Hardy",
+      "E. M. Forster",
+      "D. H. Lawrence"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Heart of Darkness\" is a novella by Joseph Conrad."
+  },
+  {
+    "id": "f6-en-4",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "hard",
     "question": "\"War and Peace\" was written by:",
-    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev"], "answerIndex": 0,
-    "explanation": "\"War and Peace\" is by the Russian author Leo Tolstoy." },
-  { "id": "f6-en-5", "categoryId": "english", "subTopic": "literature", "difficulty": "medium",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Ivan Turgenev",
+      "Anton Chekhov"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"War and Peace\" is by the Russian author Leo Tolstoy."
+  },
+  {
+    "id": "f6-en-5",
+    "categoryId": "english",
+    "subTopic": "literature",
+    "difficulty": "medium",
     "question": "\"Ozymandias\" is a famous sonnet by:",
-    "options": ["P. B. Shelley", "John Keats", "Lord Byron", "William Blake"], "answerIndex": 0,
-    "explanation": "\"Ozymandias\" was written by Percy Bysshe Shelley." },
-  { "id": "f6-en-6", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "P. B. Shelley",
+      "John Keats",
+      "William Blake",
+      "Lord Byron"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Ozymandias\" was written by Percy Bysshe Shelley."
+  },
+  {
+    "id": "f6-en-6",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct: \"The number of students ___ increasing.\"",
-    "options": ["is", "are", "were", "have"], "answerIndex": 0,
-    "explanation": "\"The number of\" takes a singular verb: \"is\"." },
-  { "id": "f6-en-7", "categoryId": "english", "subTopic": "grammar", "difficulty": "medium",
+    "options": [
+      "are",
+      "have",
+      "were",
+      "is"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"The number of\" takes a singular verb: \"is\"."
+  },
+  {
+    "id": "f6-en-7",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "medium",
     "question": "Choose the correct preposition: \"He is married ___ a doctor.\"",
-    "options": ["to", "with", "by", "from"], "answerIndex": 0,
-    "explanation": "We say married \"to\" someone." },
-  { "id": "f6-en-8", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "medium",
+    "options": [
+      "with",
+      "to",
+      "by",
+      "from"
+    ],
+    "answerIndex": 1,
+    "explanation": "We say married \"to\" someone."
+  },
+  {
+    "id": "f6-en-8",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "medium",
     "question": "One word for \"one who loves mankind\":",
-    "options": ["Philanthropist", "Misanthrope", "Egoist", "Pessimist"], "answerIndex": 0,
-    "explanation": "A lover of mankind is a \"philanthropist\"." },
-  { "id": "f6-en-9", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "hard",
+    "options": [
+      "Philanthropist",
+      "Pessimist",
+      "Egoist",
+      "Misanthrope"
+    ],
+    "answerIndex": 0,
+    "explanation": "A lover of mankind is a \"philanthropist\"."
+  },
+  {
+    "id": "f6-en-9",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
     "question": "The synonym of \"Pragmatic\" is:",
-    "options": ["Practical", "Idealistic", "Theoretical", "Emotional"], "answerIndex": 0,
-    "explanation": "\"Pragmatic\" means dealing with things practically." },
-  { "id": "f6-en-10", "categoryId": "english", "subTopic": "idioms", "difficulty": "medium",
+    "options": [
+      "Idealistic",
+      "Practical",
+      "Emotional",
+      "Theoretical"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Pragmatic\" means dealing with things practically."
+  },
+  {
+    "id": "f6-en-10",
+    "categoryId": "english",
+    "subTopic": "idioms",
+    "difficulty": "medium",
     "question": "The idiom \"to read between the lines\" means:",
-    "options": ["to understand hidden meaning", "to read fast", "to skip lines", "to read aloud"], "answerIndex": 0,
-    "explanation": "It means to perceive a meaning that is implied but not stated." },
-  { "id": "f6-en-11", "categoryId": "english", "subTopic": "vocabulary", "difficulty": "hard",
+    "options": [
+      "to read aloud",
+      "to read fast",
+      "to understand hidden meaning",
+      "to skip lines"
+    ],
+    "answerIndex": 2,
+    "explanation": "It means to perceive a meaning that is implied but not stated."
+  },
+  {
+    "id": "f6-en-11",
+    "categoryId": "english",
+    "subTopic": "vocabulary",
+    "difficulty": "hard",
     "question": "The phrase \"carte blanche\" means:",
-    "options": ["complete freedom to act", "a blank page", "good manners", "a social blunder"], "answerIndex": 0,
-    "explanation": "\"Carte blanche\" means full discretionary power or freedom." },
-  { "id": "f6-en-12", "categoryId": "english", "subTopic": "grammar", "difficulty": "easy",
+    "options": [
+      "complete freedom to act",
+      "a blank page",
+      "a social blunder",
+      "good manners"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Carte blanche\" means full discretionary power or freedom."
+  },
+  {
+    "id": "f6-en-12",
+    "categoryId": "english",
+    "subTopic": "grammar",
+    "difficulty": "easy",
     "question": "What is the correct spelling?",
-    "options": ["Maintenance", "Maintainance", "Maintenence", "Maintinance"], "answerIndex": 0,
-    "explanation": "The correct spelling is \"Maintenance\"." },
-  { "id": "f6-bd-1", "categoryId": "bd_affairs", "subTopic": "liberation_war", "difficulty": "hard",
+    "options": [
+      "Maintenence",
+      "Maintinance",
+      "Maintainance",
+      "Maintenance"
+    ],
+    "answerIndex": 3,
+    "explanation": "The correct spelling is \"Maintenance\"."
+  },
+  {
+    "id": "f6-bd-1",
+    "categoryId": "bd_affairs",
+    "subTopic": "liberation_war",
+    "difficulty": "hard",
     "question": "স্বাধীন বাংলাদেশের পতাকা প্রথম উত্তোলন করা হয় কোন তারিখে?",
-    "options": ["২ মার্চ ১৯৭১", "৭ মার্চ ১৯৭১", "২৬ মার্চ ১৯৭১", "১৬ ডিসেম্বর ১৯৭১"], "answerIndex": 0,
-    "explanation": "১৯৭১ সালের ২ মার্চ ঢাকা বিশ্ববিদ্যালয়ে প্রথম পতাকা উত্তোলন করা হয়।" },
-  { "id": "f6-bd-2", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "medium",
+    "options": [
+      "৭ মার্চ ১৯৭১",
+      "১৬ ডিসেম্বর ১৯৭১",
+      "২৬ মার্চ ১৯৭১",
+      "২ মার্চ ১৯৭১"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৯৭১ সালের ২ মার্চ ঢাকা বিশ্ববিদ্যালয়ে প্রথম পতাকা উত্তোলন করা হয়।"
+  },
+  {
+    "id": "f6-bd-2",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "medium",
     "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কোন তারিখে শাহাদাত বরণ করেন?",
-    "options": ["১৫ আগস্ট ১৯৭৫", "৭ মার্চ ১৯৭৫", "৩ নভেম্বর ১৯৭৫", "২৬ মার্চ ১৯৭৫"], "answerIndex": 0,
-    "explanation": "১৯৭৫ সালের ১৫ আগস্ট বঙ্গবন্ধু সপরিবারে নিহত হন।" },
-  { "id": "f6-bd-3", "categoryId": "bd_affairs", "subTopic": "liberation_war", "difficulty": "medium",
+    "options": [
+      "৩ নভেম্বর ১৯৭৫",
+      "৭ মার্চ ১৯৭৫",
+      "২৬ মার্চ ১৯৭৫",
+      "১৫ আগস্ট ১৯৭৫"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৯৭৫ সালের ১৫ আগস্ট বঙ্গবন্ধু সপরিবারে নিহত হন।"
+  },
+  {
+    "id": "f6-bd-3",
+    "categoryId": "bd_affairs",
+    "subTopic": "liberation_war",
+    "difficulty": "medium",
     "question": "পাকিস্তানি বাহিনীর আত্মসমর্পণ অনুষ্ঠান কোথায় হয়?",
-    "options": ["রেসকোর্স ময়দান, ঢাকা", "পল্টন ময়দান", "কুর্মিটোলা", "তেজগাঁও"], "answerIndex": 0,
-    "explanation": "১৬ ডিসেম্বর ১৯৭১ ঢাকার রেসকোর্স ময়দানে আত্মসমর্পণ দলিল স্বাক্ষরিত হয়।" },
-  { "id": "f6-bd-4", "categoryId": "bd_affairs", "subTopic": "liberation_war", "difficulty": "hard",
+    "options": [
+      "পল্টন ময়দান",
+      "তেজগাঁও",
+      "কুর্মিটোলা",
+      "রেসকোর্স ময়দান, ঢাকা"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৬ ডিসেম্বর ১৯৭১ ঢাকার রেসকোর্স ময়দানে আত্মসমর্পণ দলিল স্বাক্ষরিত হয়।"
+  },
+  {
+    "id": "f6-bd-4",
+    "categoryId": "bd_affairs",
+    "subTopic": "liberation_war",
+    "difficulty": "hard",
     "question": "মুক্তিযুদ্ধ কত মাস স্থায়ী হয়?",
-    "options": ["৯ মাস", "৭ মাস", "১১ মাস", "৬ মাস"], "answerIndex": 0,
-    "explanation": "১৯৭১ সালের ২৬ মার্চ থেকে ১৬ ডিসেম্বর পর্যন্ত প্রায় ৯ মাস মুক্তিযুদ্ধ চলে।" },
-  { "id": "f6-bd-5", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "৬ মাস",
+      "৯ মাস",
+      "১১ মাস",
+      "৭ মাস"
+    ],
+    "answerIndex": 1,
+    "explanation": "১৯৭১ সালের ২৬ মার্চ থেকে ১৬ ডিসেম্বর পর্যন্ত প্রায় ৯ মাস মুক্তিযুদ্ধ চলে।"
+  },
+  {
+    "id": "f6-bd-5",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশের জাতীয় প্রতীকে কোন ফুল রয়েছে?",
-    "options": ["শাপলা", "গোলাপ", "পদ্ম", "জবা"], "answerIndex": 0,
-    "explanation": "জাতীয় প্রতীকে পানিতে ভাসমান শাপলা ফুল রয়েছে।" },
-  { "id": "f6-bd-6", "categoryId": "bd_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "পদ্ম",
+      "গোলাপ",
+      "শাপলা",
+      "জবা"
+    ],
+    "answerIndex": 2,
+    "explanation": "জাতীয় প্রতীকে পানিতে ভাসমান শাপলা ফুল রয়েছে।"
+  },
+  {
+    "id": "f6-bd-6",
+    "categoryId": "bd_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "মুজিবনগর সরকারের অর্থমন্ত্রী কে ছিলেন?",
-    "options": ["এম মনসুর আলী", "তাজউদ্দীন আহমদ", "খন্দকার মোশতাক", "এ এইচ এম কামারুজ্জামান"], "answerIndex": 0,
-    "explanation": "মুজিবনগর সরকারের অর্থমন্ত্রী ছিলেন এম মনসুর আলী।" },
-  { "id": "f6-bd-7", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "এম মনসুর আলী",
+      "এ এইচ এম কামারুজ্জামান",
+      "খন্দকার মোশতাক",
+      "তাজউদ্দীন আহমদ"
+    ],
+    "answerIndex": 0,
+    "explanation": "মুজিবনগর সরকারের অর্থমন্ত্রী ছিলেন এম মনসুর আলী।"
+  },
+  {
+    "id": "f6-bd-7",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "ময়মনসিংহ অঞ্চলের প্রধান ক্ষুদ্র নৃগোষ্ঠী কোনটি?",
-    "options": ["গারো", "চাকমা", "সাঁওতাল", "মারমা"], "answerIndex": 0,
-    "explanation": "গারো ক্ষুদ্র নৃগোষ্ঠী মূলত ময়মনসিংহ (নেত্রকোনা, টাঙ্গাইল) অঞ্চলে বাস করে।" },
-  { "id": "f6-bd-8", "categoryId": "bd_affairs", "subTopic": "economy", "difficulty": "medium",
+    "options": [
+      "চাকমা",
+      "সাঁওতাল",
+      "মারমা",
+      "গারো"
+    ],
+    "answerIndex": 3,
+    "explanation": "গারো ক্ষুদ্র নৃগোষ্ঠী মূলত ময়মনসিংহ (নেত্রকোনা, টাঙ্গাইল) অঞ্চলে বাস করে।"
+  },
+  {
+    "id": "f6-bd-8",
+    "categoryId": "bd_affairs",
+    "subTopic": "economy",
+    "difficulty": "medium",
     "question": "বাংলাদেশের প্রথম বাজেট (১৯৭২-৭৩) কে পেশ করেন?",
-    "options": ["তাজউদ্দীন আহমদ", "শেখ মুজিব", "এম মনসুর আলী", "এ এম এ মুহিত"], "answerIndex": 0,
-    "explanation": "বাংলাদেশের প্রথম বাজেট অর্থমন্ত্রী তাজউদ্দীন আহমদ পেশ করেন।" },
-  { "id": "f6-bd-9", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "easy",
+    "options": [
+      "এ এম এ মুহিত",
+      "এম মনসুর আলী",
+      "শেখ মুজিব",
+      "তাজউদ্দীন আহমদ"
+    ],
+    "answerIndex": 3,
+    "explanation": "বাংলাদেশের প্রথম বাজেট অর্থমন্ত্রী তাজউদ্দীন আহমদ পেশ করেন।"
+  },
+  {
+    "id": "f6-bd-9",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "easy",
     "question": "বিজয় দিবস কোন তারিখে পালিত হয়?",
-    "options": ["১৬ ডিসেম্বর", "২৬ মার্চ", "২১ ফেব্রুয়ারি", "১৪ ডিসেম্বর"], "answerIndex": 0,
-    "explanation": "১৬ ডিসেম্বর বাংলাদেশের বিজয় দিবস।" },
-  { "id": "f6-bd-10", "categoryId": "bd_affairs", "subTopic": "geography", "difficulty": "hard",
+    "options": [
+      "২১ ফেব্রুয়ারি",
+      "২৬ মার্চ",
+      "১৪ ডিসেম্বর",
+      "১৬ ডিসেম্বর"
+    ],
+    "answerIndex": 3,
+    "explanation": "১৬ ডিসেম্বর বাংলাদেশের বিজয় দিবস।"
+  },
+  {
+    "id": "f6-bd-10",
+    "categoryId": "bd_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
     "question": "বাংলাদেশের গভীর সমুদ্রবন্দর নির্মিত হচ্ছে কোথায়?",
-    "options": ["মাতারবাড়ী", "মোংলা", "বেনাপোল", "আশুগঞ্জ"], "answerIndex": 0,
-    "explanation": "কক্সবাজারের মাতারবাড়ীতে বাংলাদেশের প্রথম গভীর সমুদ্রবন্দর নির্মিত হচ্ছে।" },
-  { "id": "f6-bd-11", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "মোংলা",
+      "আশুগঞ্জ",
+      "বেনাপোল",
+      "মাতারবাড়ী"
+    ],
+    "answerIndex": 3,
+    "explanation": "কক্সবাজারের মাতারবাড়ীতে বাংলাদেশের প্রথম গভীর সমুদ্রবন্দর নির্মিত হচ্ছে।"
+  },
+  {
+    "id": "f6-bd-11",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশের সর্বোচ্চ সামরিক খেতাব কোনটি?",
-    "options": ["বীরশ্রেষ্ঠ", "বীর উত্তম", "বীর বিক্রম", "বীর প্রতীক"], "answerIndex": 0,
-    "explanation": "মুক্তিযুদ্ধে সর্বোচ্চ সামরিক খেতাব \"বীরশ্রেষ্ঠ\"।" },
-  { "id": "f6-bd-12", "categoryId": "bd_affairs", "subTopic": "national", "difficulty": "medium",
+    "options": [
+      "বীরশ্রেষ্ঠ",
+      "বীর উত্তম",
+      "বীর প্রতীক",
+      "বীর বিক্রম"
+    ],
+    "answerIndex": 0,
+    "explanation": "মুক্তিযুদ্ধে সর্বোচ্চ সামরিক খেতাব \"বীরশ্রেষ্ঠ\"।"
+  },
+  {
+    "id": "f6-bd-12",
+    "categoryId": "bd_affairs",
+    "subTopic": "national",
+    "difficulty": "medium",
     "question": "বাংলাদেশ মেট্রোরেল প্রথম চালু হয় কোন শহরে?",
-    "options": ["ঢাকা", "চট্টগ্রাম", "খুলনা", "রাজশাহী"], "answerIndex": 0,
-    "explanation": "বাংলাদেশের প্রথম মেট্রোরেল ঢাকায় চালু হয় (২০২২)।" },
-  { "id": "f6-int-1", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "medium",
+    "options": [
+      "খুলনা",
+      "ঢাকা",
+      "রাজশাহী",
+      "চট্টগ্রাম"
+    ],
+    "answerIndex": 1,
+    "explanation": "বাংলাদেশের প্রথম মেট্রোরেল ঢাকায় চালু হয় (২০২২)।"
+  },
+  {
+    "id": "f6-int-1",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "medium",
     "question": "সুয়েজ খাল কোন দুটি সাগরকে সংযুক্ত করেছে?",
-    "options": ["ভূমধ্যসাগর ও লোহিত সাগর", "আটলান্টিক ও প্রশান্ত", "কৃষ্ণ সাগর ও কাস্পিয়ান", "আরব সাগর ও লোহিত সাগর"], "answerIndex": 0,
-    "explanation": "মিশরের সুয়েজ খাল ভূমধ্যসাগর ও লোহিত সাগরকে সংযুক্ত করেছে।" },
-  { "id": "f6-int-2", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "hard",
+    "options": [
+      "আরব সাগর ও লোহিত সাগর",
+      "ভূমধ্যসাগর ও লোহিত সাগর",
+      "কৃষ্ণ সাগর ও কাস্পিয়ান",
+      "আটলান্টিক ও প্রশান্ত"
+    ],
+    "answerIndex": 1,
+    "explanation": "মিশরের সুয়েজ খাল ভূমধ্যসাগর ও লোহিত সাগরকে সংযুক্ত করেছে।"
+  },
+  {
+    "id": "f6-int-2",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
     "question": "পানামা খাল কোন দুটি মহাসাগরকে সংযুক্ত করেছে?",
-    "options": ["আটলান্টিক ও প্রশান্ত", "ভারত ও প্রশান্ত", "আটলান্টিক ও আর্কটিক", "ভারত ও আটলান্টিক"], "answerIndex": 0,
-    "explanation": "পানামা খাল আটলান্টিক ও প্রশান্ত মহাসাগরকে সংযুক্ত করেছে।" },
-  { "id": "f6-int-3", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "আটলান্টিক ও প্রশান্ত",
+      "ভারত ও আটলান্টিক",
+      "আটলান্টিক ও আর্কটিক",
+      "ভারত ও প্রশান্ত"
+    ],
+    "answerIndex": 0,
+    "explanation": "পানামা খাল আটলান্টিক ও প্রশান্ত মহাসাগরকে সংযুক্ত করেছে।"
+  },
+  {
+    "id": "f6-int-3",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "গ্রিসের রাজধানী কোনটি?",
-    "options": ["এথেন্স", "রোম", "স্পার্টা", "ক্রিট"], "answerIndex": 0,
-    "explanation": "গ্রিসের রাজধানী এথেন্স।" },
-  { "id": "f6-int-4", "categoryId": "intl_affairs", "subTopic": "capitals", "difficulty": "medium",
+    "options": [
+      "রোম",
+      "এথেন্স",
+      "ক্রিট",
+      "স্পার্টা"
+    ],
+    "answerIndex": 1,
+    "explanation": "গ্রিসের রাজধানী এথেন্স।"
+  },
+  {
+    "id": "f6-int-4",
+    "categoryId": "intl_affairs",
+    "subTopic": "capitals",
+    "difficulty": "medium",
     "question": "ইরানের রাজধানী কোনটি?",
-    "options": ["তেহরান", "ইস্পাহান", "শিরাজ", "তাবরিজ"], "answerIndex": 0,
-    "explanation": "ইরানের রাজধানী তেহরান।" },
-  { "id": "f6-int-5", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "hard",
+    "options": [
+      "শিরাজ",
+      "ইস্পাহান",
+      "তাবরিজ",
+      "তেহরান"
+    ],
+    "answerIndex": 3,
+    "explanation": "ইরানের রাজধানী তেহরান।"
+  },
+  {
+    "id": "f6-int-5",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
     "question": "\"নীল নদের দান\" বলা হয় কোন দেশকে?",
-    "options": ["মিশর", "সুদান", "ইথিওপিয়া", "লিবিয়া"], "answerIndex": 0,
-    "explanation": "ঐতিহাসিক হেরোডোটাস মিশরকে \"নীল নদের দান\" বলেছেন।" },
-  { "id": "f6-int-6", "categoryId": "intl_affairs", "subTopic": "organizations", "difficulty": "medium",
+    "options": [
+      "সুদান",
+      "মিশর",
+      "ইথিওপিয়া",
+      "লিবিয়া"
+    ],
+    "answerIndex": 1,
+    "explanation": "ঐতিহাসিক হেরোডোটাস মিশরকে \"নীল নদের দান\" বলেছেন।"
+  },
+  {
+    "id": "f6-int-6",
+    "categoryId": "intl_affairs",
+    "subTopic": "organizations",
+    "difficulty": "medium",
     "question": "UNICEF-এর সদর দপ্তর কোথায়?",
-    "options": ["নিউইয়র্ক", "জেনেভা", "প্যারিস", "রোম"], "answerIndex": 0,
-    "explanation": "জাতিসংঘ শিশু তহবিল (UNICEF)-এর সদর দপ্তর নিউইয়র্কে।" },
-  { "id": "f6-int-7", "categoryId": "intl_affairs", "subTopic": "history", "difficulty": "hard",
+    "options": [
+      "প্যারিস",
+      "জেনেভা",
+      "নিউইয়র্ক",
+      "রোম"
+    ],
+    "answerIndex": 2,
+    "explanation": "জাতিসংঘ শিশু তহবিল (UNICEF)-এর সদর দপ্তর নিউইয়র্কে।"
+  },
+  {
+    "id": "f6-int-7",
+    "categoryId": "intl_affairs",
+    "subTopic": "history",
+    "difficulty": "hard",
     "question": "ভার্সাই চুক্তি কত সালে স্বাক্ষরিত হয়?",
-    "options": ["১৯১৯", "১৯১৪", "১৯৪৫", "১৯৩৯"], "answerIndex": 0,
-    "explanation": "প্রথম বিশ্বযুদ্ধের পর ১৯১৯ সালে ভার্সাই চুক্তি স্বাক্ষরিত হয়।" },
-  { "id": "f6-int-8", "categoryId": "intl_affairs", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "১৯১৯",
+      "১৯৩৯",
+      "১৯৪৫",
+      "১৯১৪"
+    ],
+    "answerIndex": 0,
+    "explanation": "প্রথম বিশ্বযুদ্ধের পর ১৯১৯ সালে ভার্সাই চুক্তি স্বাক্ষরিত হয়।"
+  },
+  {
+    "id": "f6-int-8",
+    "categoryId": "intl_affairs",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "নোবেল পুরস্কার কয়টি ক্ষেত্রে দেওয়া হয়?",
-    "options": ["৬", "৫", "৪", "৭"], "answerIndex": 0,
-    "explanation": "নোবেল পুরস্কার ৬টি ক্ষেত্রে: পদার্থ, রসায়ন, চিকিৎসা, সাহিত্য, শান্তি ও অর্থনীতি।" },
-  { "id": "f6-int-9", "categoryId": "intl_affairs", "subTopic": "currency", "difficulty": "medium",
+    "options": [
+      "৫",
+      "৬",
+      "৪",
+      "৭"
+    ],
+    "answerIndex": 1,
+    "explanation": "নোবেল পুরস্কার ৬টি ক্ষেত্রে: পদার্থ, রসায়ন, চিকিৎসা, সাহিত্য, শান্তি ও অর্থনীতি।"
+  },
+  {
+    "id": "f6-int-9",
+    "categoryId": "intl_affairs",
+    "subTopic": "currency",
+    "difficulty": "medium",
     "question": "নেপালের মুদ্রার নাম কী?",
-    "options": ["রুপি", "টাকা", "নগুলট্রাম", "রিয়াল"], "answerIndex": 0,
-    "explanation": "নেপালের মুদ্রার নাম রুপি (নেপালি রুপি)।" },
-  { "id": "f6-int-10", "categoryId": "intl_affairs", "subTopic": "geography", "difficulty": "hard",
+    "options": [
+      "রিয়াল",
+      "টাকা",
+      "রুপি",
+      "নগুলট্রাম"
+    ],
+    "answerIndex": 2,
+    "explanation": "নেপালের মুদ্রার নাম রুপি (নেপালি রুপি)।"
+  },
+  {
+    "id": "f6-int-10",
+    "categoryId": "intl_affairs",
+    "subTopic": "geography",
+    "difficulty": "hard",
     "question": "\"প্রাচ্যের ভেনিস\" বলা হয় কোন শহরকে?",
-    "options": ["ব্যাংকক", "টোকিও", "সিঙ্গাপুর", "হংকং"], "answerIndex": 0,
-    "explanation": "খালবেষ্টিত ব্যাংককে \"প্রাচ্যের ভেনিস\" বলা হয়।" },
-  { "id": "f6-geo-1", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "টোকিও",
+      "ব্যাংকক",
+      "হংকং",
+      "সিঙ্গাপুর"
+    ],
+    "answerIndex": 1,
+    "explanation": "খালবেষ্টিত ব্যাংককে \"প্রাচ্যের ভেনিস\" বলা হয়।"
+  },
+  {
+    "id": "f6-geo-1",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "পৃথিবীর বৃহত্তম উপদ্বীপ কোনটি?",
-    "options": ["আরব উপদ্বীপ", "ভারত উপদ্বীপ", "বলকান", "স্ক্যান্ডিনেভিয়া"], "answerIndex": 0,
-    "explanation": "আরব উপদ্বীপ পৃথিবীর বৃহত্তম উপদ্বীপ।" },
-  { "id": "f6-geo-2", "categoryId": "geography", "subTopic": "world", "difficulty": "hard",
+    "options": [
+      "স্ক্যান্ডিনেভিয়া",
+      "ভারত উপদ্বীপ",
+      "আরব উপদ্বীপ",
+      "বলকান"
+    ],
+    "answerIndex": 2,
+    "explanation": "আরব উপদ্বীপ পৃথিবীর বৃহত্তম উপদ্বীপ।"
+  },
+  {
+    "id": "f6-geo-2",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "hard",
     "question": "\"পৃথিবীর ছাদ\" বলা হয় কোন অঞ্চলকে?",
-    "options": ["পামির মালভূমি/তিব্বত", "হিমালয়", "আল্পস", "আন্দিজ"], "answerIndex": 0,
-    "explanation": "উচ্চতার কারণে পামির/তিব্বত মালভূমিকে \"পৃথিবীর ছাদ\" বলা হয়।" },
-  { "id": "f6-geo-3", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "আল্পস",
+      "পামির মালভূমি/তিব্বত",
+      "আন্দিজ",
+      "হিমালয়"
+    ],
+    "answerIndex": 1,
+    "explanation": "উচ্চতার কারণে পামির/তিব্বত মালভূমিকে \"পৃথিবীর ছাদ\" বলা হয়।"
+  },
+  {
+    "id": "f6-geo-3",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "গ্রেট ব্যারিয়ার রিফ কোন দেশের উপকূলে অবস্থিত?",
-    "options": ["অস্ট্রেলিয়া", "ব্রাজিল", "ইন্দোনেশিয়া", "ফিলিপাইন"], "answerIndex": 0,
-    "explanation": "বিশ্বের বৃহত্তম প্রবাল প্রাচীর গ্রেট ব্যারিয়ার রিফ অস্ট্রেলিয়ার উপকূলে।" },
-  { "id": "f6-geo-4", "categoryId": "geography", "subTopic": "world", "difficulty": "medium",
+    "options": [
+      "ব্রাজিল",
+      "ইন্দোনেশিয়া",
+      "ফিলিপাইন",
+      "অস্ট্রেলিয়া"
+    ],
+    "answerIndex": 3,
+    "explanation": "বিশ্বের বৃহত্তম প্রবাল প্রাচীর গ্রেট ব্যারিয়ার রিফ অস্ট্রেলিয়ার উপকূলে।"
+  },
+  {
+    "id": "f6-geo-4",
+    "categoryId": "geography",
+    "subTopic": "world",
+    "difficulty": "medium",
     "question": "পৃথিবীর শীতলতম মহাদেশ কোনটি?",
-    "options": ["অ্যান্টার্কটিকা", "এশিয়া", "ইউরোপ", "উত্তর আমেরিকা"], "answerIndex": 0,
-    "explanation": "অ্যান্টার্কটিকা পৃথিবীর শীতলতম, শুষ্কতম ও বায়ুপ্রবাহপূর্ণ মহাদেশ।" },
-  { "id": "f6-sc-1", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "ইউরোপ",
+      "উত্তর আমেরিকা",
+      "এশিয়া",
+      "অ্যান্টার্কটিকা"
+    ],
+    "answerIndex": 3,
+    "explanation": "অ্যান্টার্কটিকা পৃথিবীর শীতলতম, শুষ্কতম ও বায়ুপ্রবাহপূর্ণ মহাদেশ।"
+  },
+  {
+    "id": "f6-sc-1",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "যক্ষ্মা (TB) রোগের জীবাণু আবিষ্কার করেন কে?",
-    "options": ["রবার্ট কচ", "লুই পাস্তুর", "ফ্লেমিং", "জেনার"], "answerIndex": 0,
-    "explanation": "রবার্ট কচ যক্ষ্মার ব্যাকটেরিয়া আবিষ্কার করেন।" },
-  { "id": "f6-sc-2", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "জেনার",
+      "রবার্ট কচ",
+      "লুই পাস্তুর",
+      "ফ্লেমিং"
+    ],
+    "answerIndex": 1,
+    "explanation": "রবার্ট কচ যক্ষ্মার ব্যাকটেরিয়া আবিষ্কার করেন।"
+  },
+  {
+    "id": "f6-sc-2",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "গুটিবসন্তের টিকা আবিষ্কার করেন কে?",
-    "options": ["এডওয়ার্ড জেনার", "লুই পাস্তুর", "রবার্ট কচ", "ফ্লেমিং"], "answerIndex": 0,
-    "explanation": "এডওয়ার্ড জেনার গুটিবসন্তের (স্মলপক্স) টিকা আবিষ্কার করেন।" },
-  { "id": "f6-sc-3", "categoryId": "science", "subTopic": "chemistry", "difficulty": "hard",
+    "options": [
+      "রবার্ট কচ",
+      "এডওয়ার্ড জেনার",
+      "ফ্লেমিং",
+      "লুই পাস্তুর"
+    ],
+    "answerIndex": 1,
+    "explanation": "এডওয়ার্ড জেনার গুটিবসন্তের (স্মলপক্স) টিকা আবিষ্কার করেন।"
+  },
+  {
+    "id": "f6-sc-3",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "hard",
     "question": "মহাবিশ্বে সবচেয়ে বেশি পরিমাণে কোন মৌল রয়েছে?",
-    "options": ["হাইড্রোজেন", "অক্সিজেন", "হিলিয়াম", "কার্বন"], "answerIndex": 0,
-    "explanation": "মহাবিশ্বে সর্বাধিক মৌল হাইড্রোজেন।" },
-  { "id": "f6-sc-4", "categoryId": "science", "subTopic": "biology", "difficulty": "medium",
+    "options": [
+      "হিলিয়াম",
+      "অক্সিজেন",
+      "কার্বন",
+      "হাইড্রোজেন"
+    ],
+    "answerIndex": 3,
+    "explanation": "মহাবিশ্বে সর্বাধিক মৌল হাইড্রোজেন।"
+  },
+  {
+    "id": "f6-sc-4",
+    "categoryId": "science",
+    "subTopic": "biology",
+    "difficulty": "medium",
     "question": "এইডস (AIDS) রোগের জন্য দায়ী কোনটি?",
-    "options": ["HIV ভাইরাস", "ব্যাকটেরিয়া", "ছত্রাক", "প্রোটোজোয়া"], "answerIndex": 0,
-    "explanation": "এইডস হয় HIV ভাইরাসের কারণে।" },
-  { "id": "f6-sc-5", "categoryId": "science", "subTopic": "chemistry", "difficulty": "medium",
+    "options": [
+      "প্রোটোজোয়া",
+      "HIV ভাইরাস",
+      "ছত্রাক",
+      "ব্যাকটেরিয়া"
+    ],
+    "answerIndex": 1,
+    "explanation": "এইডস হয় HIV ভাইরাসের কারণে।"
+  },
+  {
+    "id": "f6-sc-5",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "medium",
     "question": "পাকস্থলীতে কোন এসিড থাকে?",
-    "options": ["হাইড্রোক্লোরিক এসিড", "সাইট্রিক এসিড", "এসিটিক এসিড", "ল্যাকটিক এসিড"], "answerIndex": 0,
-    "explanation": "পাকস্থলীতে হাইড্রোক্লোরিক এসিড (HCl) থাকে।" },
-  { "id": "f6-sc-6", "categoryId": "science", "subTopic": "physics", "difficulty": "hard",
+    "options": [
+      "এসিটিক এসিড",
+      "হাইড্রোক্লোরিক এসিড",
+      "সাইট্রিক এসিড",
+      "ল্যাকটিক এসিড"
+    ],
+    "answerIndex": 1,
+    "explanation": "পাকস্থলীতে হাইড্রোক্লোরিক এসিড (HCl) থাকে।"
+  },
+  {
+    "id": "f6-sc-6",
+    "categoryId": "science",
+    "subTopic": "physics",
+    "difficulty": "hard",
     "question": "বাতাসে শব্দের গতি আনুমানিক কত (২০° সে.)?",
-    "options": ["প্রায় ৩৪৩ মি/সে", "প্রায় ১৫০০ মি/সে", "প্রায় ৩০ মি/সে", "প্রায় ৩×১০⁸ মি/সে"], "answerIndex": 0,
-    "explanation": "সাধারণ তাপমাত্রায় বাতাসে শব্দের গতি প্রায় ৩৪৩ মিটার/সেকেন্ড।" },
-  { "id": "f6-sc-7", "categoryId": "science", "subTopic": "chemistry", "difficulty": "easy",
+    "options": [
+      "প্রায় ৩×১০⁸ মি/সে",
+      "প্রায় ৩৪৩ মি/সে",
+      "প্রায় ১৫০০ মি/সে",
+      "প্রায় ৩০ মি/সে"
+    ],
+    "answerIndex": 1,
+    "explanation": "সাধারণ তাপমাত্রায় বাতাসে শব্দের গতি প্রায় ৩৪৩ মিটার/সেকেন্ড।"
+  },
+  {
+    "id": "f6-sc-7",
+    "categoryId": "science",
+    "subTopic": "chemistry",
+    "difficulty": "easy",
     "question": "লেবুতে কোন এসিড থাকে?",
-    "options": ["সাইট্রিক এসিড", "এসিটিক এসিড", "ল্যাকটিক এসিড", "টারটারিক এসিড"], "answerIndex": 0,
-    "explanation": "লেবুতে সাইট্রিক এসিড থাকে।" },
-  { "id": "f6-ict-1", "categoryId": "ict", "subTopic": "networking", "difficulty": "medium",
+    "options": [
+      "সাইট্রিক এসিড",
+      "টারটারিক এসিড",
+      "ল্যাকটিক এসিড",
+      "এসিটিক এসিড"
+    ],
+    "answerIndex": 0,
+    "explanation": "লেবুতে সাইট্রিক এসিড থাকে।"
+  },
+  {
+    "id": "f6-ict-1",
+    "categoryId": "ict",
+    "subTopic": "networking",
+    "difficulty": "medium",
     "question": "TCP-এর পূর্ণরূপ কী?",
-    "options": ["Transmission Control Protocol", "Transfer Control Protocol", "Transmission Connection Protocol", "Total Control Protocol"], "answerIndex": 0,
-    "explanation": "TCP = Transmission Control Protocol।" },
-  { "id": "f6-ict-2", "categoryId": "ict", "subTopic": "general", "difficulty": "easy",
+    "options": [
+      "Total Control Protocol",
+      "Transmission Connection Protocol",
+      "Transmission Control Protocol",
+      "Transfer Control Protocol"
+    ],
+    "answerIndex": 2,
+    "explanation": "TCP = Transmission Control Protocol।"
+  },
+  {
+    "id": "f6-ict-2",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "easy",
     "question": "OTP-এর পূর্ণরূপ কী?",
-    "options": ["One Time Password", "Online Transaction Process", "Open Transfer Protocol", "One Token Pin"], "answerIndex": 0,
-    "explanation": "OTP = One Time Password।" },
-  { "id": "f6-ict-3", "categoryId": "ict", "subTopic": "hardware", "difficulty": "medium",
+    "options": [
+      "Online Transaction Process",
+      "Open Transfer Protocol",
+      "One Time Password",
+      "One Token Pin"
+    ],
+    "answerIndex": 2,
+    "explanation": "OTP = One Time Password।"
+  },
+  {
+    "id": "f6-ict-3",
+    "categoryId": "ict",
+    "subTopic": "hardware",
+    "difficulty": "medium",
     "question": "LED-এর পূর্ণরূপ কী?",
-    "options": ["Light Emitting Diode", "Low Energy Display", "Light Electronic Device", "Linear Emitting Diode"], "answerIndex": 0,
-    "explanation": "LED = Light Emitting Diode।" },
-  { "id": "f6-ict-4", "categoryId": "ict", "subTopic": "general", "difficulty": "medium",
+    "options": [
+      "Low Energy Display",
+      "Light Emitting Diode",
+      "Light Electronic Device",
+      "Linear Emitting Diode"
+    ],
+    "answerIndex": 1,
+    "explanation": "LED = Light Emitting Diode।"
+  },
+  {
+    "id": "f6-ict-4",
+    "categoryId": "ict",
+    "subTopic": "general",
+    "difficulty": "medium",
     "question": "ফেসবুকের প্রতিষ্ঠাতা কে?",
-    "options": ["মার্ক জাকারবার্গ", "বিল গেটস", "ল্যারি পেজ", "জ্যাক ডরসি"], "answerIndex": 0,
-    "explanation": "মার্ক জাকারবার্গ ফেসবুক প্রতিষ্ঠা করেন (২০০৪)।" },
-  { "id": "f6-ict-5", "categoryId": "ict", "subTopic": "software", "difficulty": "hard",
+    "options": [
+      "ল্যারি পেজ",
+      "মার্ক জাকারবার্গ",
+      "বিল গেটস",
+      "জ্যাক ডরসি"
+    ],
+    "answerIndex": 1,
+    "explanation": "মার্ক জাকারবার্গ ফেসবুক প্রতিষ্ঠা করেন (২০০৪)।"
+  },
+  {
+    "id": "f6-ict-5",
+    "categoryId": "ict",
+    "subTopic": "software",
+    "difficulty": "hard",
     "question": "SQL মূলত কী কাজে ব্যবহৃত হয়?",
-    "options": ["ডাটাবেজ পরিচালনা", "ওয়েব ডিজাইন", "ছবি সম্পাদনা", "অপারেটিং সিস্টেম"], "answerIndex": 0,
-    "explanation": "SQL (Structured Query Language) ডাটাবেজ পরিচালনায় ব্যবহৃত হয়।" },
-  { "id": "f6-eth-1", "categoryId": "ethics", "subTopic": "values", "difficulty": "medium",
+    "options": [
+      "অপারেটিং সিস্টেম",
+      "ডাটাবেজ পরিচালনা",
+      "ওয়েব ডিজাইন",
+      "ছবি সম্পাদনা"
+    ],
+    "answerIndex": 1,
+    "explanation": "SQL (Structured Query Language) ডাটাবেজ পরিচালনায় ব্যবহৃত হয়।"
+  },
+  {
+    "id": "f6-eth-1",
+    "categoryId": "ethics",
+    "subTopic": "values",
+    "difficulty": "medium",
     "question": "নিচের কোনটি ধর্মীয় মূল্যবোধের উদাহরণ?",
-    "options": ["সহনশীলতা ও পরোপকার", "দুর্নীতি", "প্রতিহিংসা", "অহংকার"], "answerIndex": 0,
-    "explanation": "সহনশীলতা ও পরোপকার ধর্মীয় ও নৈতিক মূল্যবোধের উদাহরণ।" },
-  { "id": "f6-eth-2", "categoryId": "ethics", "subTopic": "governance", "difficulty": "hard",
+    "options": [
+      "অহংকার",
+      "দুর্নীতি",
+      "প্রতিহিংসা",
+      "সহনশীলতা ও পরোপকার"
+    ],
+    "answerIndex": 3,
+    "explanation": "সহনশীলতা ও পরোপকার ধর্মীয় ও নৈতিক মূল্যবোধের উদাহরণ।"
+  },
+  {
+    "id": "f6-eth-2",
+    "categoryId": "ethics",
+    "subTopic": "governance",
+    "difficulty": "hard",
     "question": "জবাবদিহিতা প্রধানত কয় ধরনের?",
-    "options": ["২ (উল্লম্ব ও অনুভূমিক)", "৩", "১", "৪"], "answerIndex": 0,
-    "explanation": "জবাবদিহিতা সাধারণত দুই ধরনের: উল্লম্ব (vertical) ও অনুভূমিক (horizontal)।" },
-  { "id": "f6-eth-3", "categoryId": "ethics", "subTopic": "governance", "difficulty": "medium",
+    "options": [
+      "২ (উল্লম্ব ও অনুভূমিক)",
+      "৪",
+      "১",
+      "৩"
+    ],
+    "answerIndex": 0,
+    "explanation": "জবাবদিহিতা সাধারণত দুই ধরনের: উল্লম্ব (vertical) ও অনুভূমিক (horizontal)।"
+  },
+  {
+    "id": "f6-eth-3",
+    "categoryId": "ethics",
+    "subTopic": "governance",
+    "difficulty": "medium",
     "question": "সুশাসনে \"সাড়াদান\" (Responsiveness) বলতে কী বোঝায়?",
-    "options": ["জনগণের চাহিদায় দ্রুত সাড়া দেওয়া", "কর বৃদ্ধি", "তথ্য গোপন", "ক্ষমতা কেন্দ্রীকরণ"], "answerIndex": 0,
-    "explanation": "সাড়াদান মানে যৌক্তিক সময়ে নাগরিকের চাহিদা ও সেবায় প্রতিষ্ঠানের সাড়া দেওয়া।" }
+    "options": [
+      "জনগণের চাহিদায় দ্রুত সাড়া দেওয়া",
+      "কর বৃদ্ধি",
+      "তথ্য গোপন",
+      "ক্ষমতা কেন্দ্রীকরণ"
+    ],
+    "answerIndex": 0,
+    "explanation": "সাড়াদান মানে যৌক্তিক সময়ে নাগরিকের চাহিদা ও সেবায় প্রতিষ্ঠানের সাড়া দেওয়া।"
+  }
 ]

@@ -6,12 +6,12 @@
     "difficulty": "medium",
     "question": "ট্রান্সপারেন্সি ইন্টারন্যাশনালের সদর দপ্তর কোথায়?",
     "options": [
-      "ফ্রান্স",
       "জার্মানি",
-      "নেদারল্যান্ডস",
-      "হাঙ্গেরি"
+      "ফ্রান্স",
+      "হাঙ্গেরি",
+      "নেদারল্যান্ডস"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "ট্রান্সপারেন্সি ইন্টারন্যাশনালের সদর দপ্তর জার্মানির বার্লিনে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -23,12 +23,12 @@
     "difficulty": "medium",
     "question": "UNFCCC-এর মূল আলোচ্য বিষয় কী?",
     "options": [
-      "জীবাশ্ম জ্বালানির ব্যবহার নিয়ন্ত্রণ",
       "গ্রিনহাউস গ্যাসের নিঃসরণ ও প্রশমন",
       "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি",
-      "বৈশ্বিক মরুকরণ"
+      "বৈশ্বিক মরুকরণ",
+      "জীবাশ্ম জ্বালানির ব্যবহার নিয়ন্ত্রণ"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "UNFCCC মূলত গ্রিনহাউস গ্যাসের নিঃসরণ হ্রাস ও জলবায়ু পরিবর্তন প্রশমন নিয়ে কাজ করে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -40,12 +40,12 @@
     "difficulty": "medium",
     "question": "‘World Development Report’ কোন সংস্থার বার্ষিক প্রকাশনা?",
     "options": [
-      "UNDP",
-      "বিশ্বব্যাংক",
       "IMF",
-      "BRICS"
+      "BRICS",
+      "বিশ্বব্যাংক",
+      "UNDP"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "‘World Development Report’ বিশ্বব্যাংকের বার্ষিক প্রকাশনা।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -57,10 +57,10 @@
     "difficulty": "easy",
     "question": "‘The Lady with the Lamp’ নামে কে পরিচিত?",
     "options": [
-      "হেলেন কেলার",
+      "সরোজিনী নাইডু",
       "ফ্লোরেন্স নাইটিঙ্গেল",
       "মাদার তেরেসা",
-      "সরোজিনী নাইডু"
+      "হেলেন কেলার"
     ],
     "answerIndex": 1,
     "explanation": "আধুনিক নার্সিংয়ের পথিকৃৎ ফ্লোরেন্স নাইটিঙ্গেল ‘The Lady with the Lamp’ নামে পরিচিত।",
@@ -74,12 +74,12 @@
     "difficulty": "medium",
     "question": "নিচের কোন দেশটি বিরোধপূর্ণ দক্ষিণ চীন সাগরের দাবিদার নয়?",
     "options": [
-      "মালয়েশিয়া",
-      "ফিলিপাইন",
       "ভিয়েতনাম",
-      "কম্বোডিয়া"
+      "মালয়েশিয়া",
+      "কম্বোডিয়া",
+      "ফিলিপাইন"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "কম্বোডিয়া দক্ষিণ চীন সাগরের জলসীমার দাবিদার নয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -91,12 +91,12 @@
     "difficulty": "medium",
     "question": "নাথু লা গিরিপথ কোন দুটি দেশকে সংযুক্ত করেছে?",
     "options": [
-      "ভারত-নেপাল",
-      "ভারত-পাকিস্তান",
+      "ভারত-ভুটান",
       "ভারত-চীন",
-      "ভারত-ভুটান"
+      "ভারত-পাকিস্তান",
+      "ভারত-নেপাল"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "নাথু লা গিরিপথ ভারত ও চীনকে সংযুক্ত করেছে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -109,9 +109,9 @@
     "question": "‘আকাবা’ একটি কী?",
     "options": [
       "সমুদ্রবন্দর",
+      "নদীবন্দর",
       "বিমানবন্দর",
-      "স্থলবন্দর",
-      "নদীবন্দর"
+      "স্থলবন্দর"
     ],
     "answerIndex": 0,
     "explanation": "আকাবা জর্ডানের একমাত্র সমুদ্রবন্দর।",
@@ -125,12 +125,12 @@
     "difficulty": "medium",
     "question": "মায়া সভ্যতা কোথায় গড়ে উঠেছিল?",
     "options": [
-      "উত্তর আমেরিকা",
-      "দক্ষিণ আমেরিকা",
       "মধ্য আফ্রিকা",
-      "মধ্য আমেরিকা"
+      "মধ্য আমেরিকা",
+      "উত্তর আমেরিকা",
+      "দক্ষিণ আমেরিকা"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "মায়া সভ্যতা মধ্য আমেরিকায় গড়ে উঠেছিল।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -142,10 +142,10 @@
     "difficulty": "easy",
     "question": "বিশ্ব মানবাধিকার দিবস কোন তারিখে পালিত হয়?",
     "options": [
-      "৮ ডিসেম্বর",
-      "১০ ডিসেম্বর",
       "১১ ডিসেম্বর",
-      "১৩ ডিসেম্বর"
+      "১০ ডিসেম্বর",
+      "১৩ ডিসেম্বর",
+      "৮ ডিসেম্বর"
     ],
     "answerIndex": 1,
     "explanation": "প্রতি বছর ১০ ডিসেম্বর বিশ্ব মানবাধিকার দিবস পালিত হয়।",
@@ -159,10 +159,10 @@
     "difficulty": "hard",
     "question": "বাংলাদেশের কোথায় প্লাইস্টোসিন কালের সোপান দেখা যায়?",
     "options": [
-      "বান্দরবান",
+      "বরিশাল",
       "কুষ্টিয়া",
       "কুমিল্লা",
-      "বরিশাল"
+      "বান্দরবান"
     ],
     "answerIndex": 2,
     "explanation": "কুমিল্লার লালমাই পাহাড় অঞ্চলে প্লাইস্টোসিন কালের সোপান দেখা যায়।",
@@ -176,12 +176,12 @@
     "difficulty": "easy",
     "question": "নিচের কোন দেশের সাথে বাংলাদেশের আন্তর্জাতিক সীমান্ত রয়েছে?",
     "options": [
-      "চীন",
       "পাকিস্তান",
+      "মিয়ানমার",
       "থাইল্যান্ড",
-      "মিয়ানমার"
+      "চীন"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "ভারত ছাড়া কেবল মিয়ানমারের সাথে বাংলাদেশের স্থল সীমান্ত রয়েছে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -194,11 +194,11 @@
     "question": "বাংলাদেশের কোন অঞ্চলে আকস্মিক (flash) বন্যা হয়?",
     "options": [
       "দক্ষিণ-পশ্চিমাঞ্চল",
+      "উত্তর-পূর্বাঞ্চল",
       "পশ্চিমাঞ্চল",
-      "উত্তর-পশ্চিমাঞ্চল",
-      "উত্তর-পূর্বাঞ্চল"
+      "উত্তর-পশ্চিমাঞ্চল"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "হাওর-অধ্যুষিত উত্তর-পূর্বাঞ্চলে আকস্মিক বন্যা হয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -210,9 +210,9 @@
     "difficulty": "hard",
     "question": "‘সোয়াচ অব নো গ্রাউন্ড’ কী?",
     "options": [
+      "একটি দ্বীপ",
       "একটি দেশ",
       "ম্যানগ্রোভ বন",
-      "একটি দ্বীপ",
       "সাবমেরিন ক্যানিয়ন"
     ],
     "answerIndex": 3,
@@ -227,12 +227,12 @@
     "difficulty": "easy",
     "question": "কোন বনাঞ্চল প্রতিনিয়ত লবণাক্ত পানিতে প্লাবিত হয়?",
     "options": [
+      "ম্যানগ্রোভ বন",
       "পার্বত্য বন",
       "শালবন",
-      "মধুপুর বন",
-      "ম্যানগ্রোভ বন"
+      "মধুপুর বন"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "উপকূলীয় ম্যানগ্রোভ বন জোয়ারের লবণাক্ত পানিতে প্লাবিত হয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -244,10 +244,10 @@
     "difficulty": "easy",
     "question": "বাংলাদেশের কোন দ্বীপ ‘প্রবালদ্বীপ’ নামে পরিচিত?",
     "options": [
-      "নিঝুম দ্বীপ",
+      "কুতুবদিয়া",
       "সেন্ট মার্টিন",
       "হাতিয়া",
-      "কুতুবদিয়া"
+      "নিঝুম দ্বীপ"
     ],
     "answerIndex": 1,
     "explanation": "সেন্ট মার্টিন বাংলাদেশের একমাত্র প্রবালদ্বীপ।",
@@ -261,12 +261,12 @@
     "difficulty": "medium",
     "question": "বাংলাদেশের কোন জেলা কয়লা সমৃদ্ধ?",
     "options": [
-      "সিলেট",
       "কুমিল্লা",
+      "দিনাজপুর",
       "রাজশাহী",
-      "দিনাজপুর"
+      "সিলেট"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "দিনাজপুর জেলায় (বড়পুকুরিয়া) কয়লার বড় মজুদ রয়েছে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -278,12 +278,12 @@
     "difficulty": "hard",
     "question": "₈O¹⁷ আইসোটোপে নিউট্রনের সংখ্যা কত?",
     "options": [
-      "৮",
       "৯",
+      "২৫",
       "১৭",
-      "২৫"
+      "৮"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "নিউট্রন সংখ্যা = ভর সংখ্যা − প্রোটন সংখ্যা = ১৭ − ৮ = ৯।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -295,12 +295,12 @@
     "difficulty": "medium",
     "question": "প্রোটিন তৈরি হয় কী দিয়ে?",
     "options": [
-      "ফ্যাটি এসিড",
       "সাইট্রিক এসিড",
       "অ্যামিনো এসিড",
+      "ফ্যাটি এসিড",
       "অক্সালিক এসিড"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "প্রোটিনের গাঠনিক একক অ্যামিনো এসিড।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -312,12 +312,12 @@
     "difficulty": "hard",
     "question": "সালোকসংশ্লেষণে সূর্যালোককে রাসায়নিক শক্তিতে রূপান্তরের কর্মদক্ষতা প্রায় কত?",
     "options": [
+      "১০০%",
       "০%",
       "৩-৬%",
-      "১০-১৫%",
-      "১০০%"
+      "১০-১৫%"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "সালোকসংশ্লেষণের কার্যকর শক্তি রূপান্তর দক্ষতা প্রায় ৩-৬%।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -346,10 +346,10 @@
     "difficulty": "hard",
     "question": "পানির অণু একটি—",
     "options": [
-      "প্যারাচুম্বক",
-      "ডায়াচুম্বক",
       "ফেরোচুম্বক",
-      "অ্যান্টিফেরোচুম্বক"
+      "ডায়াচুম্বক",
+      "অ্যান্টিফেরোচুম্বক",
+      "প্যারাচুম্বক"
     ],
     "answerIndex": 1,
     "explanation": "পানির অণু ডায়াচুম্বক পদার্থ।",
@@ -398,11 +398,11 @@
     "question": "নিচের কোন রোগটি DNA ভাইরাসঘটিত?",
     "options": [
       "ডেঙ্গু",
+      "পোলিও",
       "স্মলপক্স",
-      "কোভিড-১৯",
-      "পোলিও"
+      "কোভিড-১৯"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "স্মলপক্স (গুটিবসন্ত) একটি DNA ভাইরাসঘটিত রোগ।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -414,12 +414,12 @@
     "difficulty": "hard",
     "question": "ট্রপিক্যাল সাইক্লোন সৃষ্টির জন্য সাগরপৃষ্ঠের ন্যূনতম তাপমাত্রা কত হওয়া দরকার?",
     "options": [
-      "২৬.৫° সে.",
       "৩৫° সে.",
-      "৩৭.৫° সে.",
-      "৪০.৫° সে."
+      "৪০.৫° সে.",
+      "২৬.৫° সে.",
+      "৩৭.৫° সে."
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "ট্রপিক্যাল সাইক্লোন সৃষ্টির জন্য সাগরপৃষ্ঠের তাপমাত্রা অন্তত প্রায় ২৬.৫° সেলসিয়াস হতে হয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -431,12 +431,12 @@
     "difficulty": "medium",
     "question": "নিচের কোনটি অ্যান্টিভাইরাস সফটওয়্যার নয়?",
     "options": [
-      "Oracle",
-      "McAfee",
       "Norton",
-      "Kaspersky"
+      "Kaspersky",
+      "McAfee",
+      "Oracle"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "Oracle একটি ডেটাবেজ সিস্টেম; অ্যান্টিভাইরাস নয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -448,12 +448,12 @@
     "difficulty": "medium",
     "question": "RFID বলতে কী বোঝায়?",
     "options": [
-      "Random Frequency Identification",
       "Radio Frequency Information",
       "Radio Frequency Identification",
-      "Random Frequency Information"
+      "Random Frequency Information",
+      "Random Frequency Identification"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "RFID = Radio Frequency Identification।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -466,9 +466,9 @@
     "question": "কোন মাধ্যমে তথ্য আদান-প্রদানে আলোর পালস ব্যবহৃত হয়?",
     "options": [
       "তামার তার",
-      "কো-এক্সিয়াল ক্যাবল",
+      "ওয়্যারলেস মিডিয়া",
       "অপটিক্যাল ফাইবার",
-      "ওয়্যারলেস মিডিয়া"
+      "কো-এক্সিয়াল ক্যাবল"
     ],
     "answerIndex": 2,
     "explanation": "অপটিক্যাল ফাইবারে আলোর পালস ব্যবহার করে তথ্য প্রেরণ করা হয়।",
@@ -482,12 +482,12 @@
     "difficulty": "easy",
     "question": "ই-মেইল ঠিকানায় অবশ্যই কোন চিহ্ন থাকে?",
     "options": [
-      "$",
       "#",
       "&",
-      "@"
+      "@",
+      "$"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "প্রতিটি ই-মেইল ঠিকানায় ‘@’ চিহ্ন থাকে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -499,12 +499,12 @@
     "difficulty": "medium",
     "question": "DNS সার্ভারের কাজ কী?",
     "options": [
-      "Email-কে IP-তে রূপান্তর",
       "Domain Name-কে IP address-এ রূপান্তর",
+      "IP-কে Email-এ রূপান্তর",
       "MAC Address-কে IP-তে রূপান্তর",
-      "IP-কে Email-এ রূপান্তর"
+      "Email-কে IP-তে রূপান্তর"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "DNS সার্ভার ডোমেইন নামকে সংশ্লিষ্ট IP address-এ রূপান্তর করে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -516,12 +516,12 @@
     "difficulty": "medium",
     "question": "নিচের কোনটি ওপেন সোর্স DBMS?",
     "options": [
-      "MySQL",
       "Microsoft SQL Server",
-      "Microsoft Access",
-      "Oracle"
+      "Oracle",
+      "MySQL",
+      "Microsoft Access"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "MySQL একটি ওপেন সোর্স ডেটাবেজ ম্যানেজমেন্ট সিস্টেম।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -550,12 +550,12 @@
     "difficulty": "easy",
     "question": "নিচের কোনটি একটি প্রতিষ্ঠানের ওয়েব ঠিকানা নির্দেশ করে?",
     "options": [
-      "http",
-      "www",
       "URL",
+      "www",
+      "http",
       "HTML"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "URL (Uniform Resource Locator) একটি ওয়েব ঠিকানা নির্দেশ করে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -568,11 +568,11 @@
     "question": "কোন প্রযুক্তি ‘Pay as You Go’ সার্ভিস মডেল অনুসরণ করে?",
     "options": [
       "Internet of Things",
-      "Cloud Computing",
       "Client-Server System",
-      "Big Data Analytics"
+      "Big Data Analytics",
+      "Cloud Computing"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "ক্লাউড কম্পিউটিং ব্যবহারভিত্তিক ‘Pay as You Go’ মডেল অনুসরণ করে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -601,12 +601,12 @@
     "difficulty": "hard",
     "question": "নিচের কোন Job Scheduling Policy স্টারভেশন থেকে মুক্ত?",
     "options": [
-      "Priority Scheduling",
       "Shortest Job First",
-      "Round-Robin",
-      "Youngest Job First"
+      "Priority Scheduling",
+      "Youngest Job First",
+      "Round-Robin"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Round-Robin সবাইকে সমান সময় দেয় বলে স্টারভেশন থেকে মুক্ত।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -618,12 +618,12 @@
     "difficulty": "medium",
     "question": "নিচের কোন মেমোরির অ্যাক্সেস টাইম সবচেয়ে কম?",
     "options": [
-      "Register",
-      "SSD",
+      "Cache memory",
       "RAM",
-      "Cache memory"
+      "Register",
+      "SSD"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "রেজিস্টারের অ্যাক্সেস টাইম সবচেয়ে কম (দ্রুততম)।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -635,12 +635,12 @@
     "difficulty": "medium",
     "question": "‘কর্তব্যের জন্য কর্তব্য’ ধারণার প্রবর্তক কে?",
     "options": [
-      "ইমানুয়েল কান্ট",
+      "অ্যারিস্টটল",
       "হার্বার্ট স্পেন্সার",
       "বার্ট্রান্ড রাসেল",
-      "অ্যারিস্টটল"
+      "ইমানুয়েল কান্ট"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "‘কর্তব্যের জন্য কর্তব্য’ (duty for duty’s sake) ধারণার প্রবর্তক ইমানুয়েল কান্ট।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -652,12 +652,12 @@
     "difficulty": "medium",
     "question": "কোন নৈতিক মতবাদ সর্বোচ্চ সুখের ওপর গুরুত্ব দেয়?",
     "options": [
-      "আত্মস্বার্থবাদ",
-      "পরার্থবাদ",
       "পূর্ণতাবাদ",
-      "উপযোগবাদ"
+      "উপযোগবাদ",
+      "পরার্থবাদ",
+      "আত্মস্বার্থবাদ"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "উপযোগবাদ (Utilitarianism) ‘সর্বাধিক মানুষের সর্বাধিক সুখ’-এর ওপর গুরুত্ব দেয়।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -669,12 +669,12 @@
     "difficulty": "medium",
     "question": "বাংলাদেশে ‘জাতীয় শুদ্ধাচার কৌশল’ কত সালে প্রণয়ন করা হয়?",
     "options": [
-      "২০১০",
       "২০১১",
-      "২০১২",
-      "২০১৩"
+      "২০১০",
+      "২০১৩",
+      "২০১২"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "বাংলাদেশে জাতীয় শুদ্ধাচার কৌশল প্রণীত হয় ২০১২ সালে।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -686,9 +686,9 @@
     "difficulty": "medium",
     "question": "বিশ্বব্যাংকের মতে সুশাসনের উপাদান কতটি?",
     "options": [
-      "৩টি",
-      "৪টি",
       "৫টি",
+      "৪টি",
+      "৩টি",
       "৬টি"
     ],
     "answerIndex": 1,
@@ -703,10 +703,10 @@
     "difficulty": "hard",
     "question": "‘শাসক মহৎগুণসম্পন্ন হলে আইন নিষ্প্রয়োজন, না হলে আইন অকার্যকর’— উক্তিটি কার?",
     "options": [
-      "সক্রেটিস",
-      "প্লেটো",
       "অ্যারিস্টটল",
-      "বেন্থাম"
+      "প্লেটো",
+      "বেন্থাম",
+      "সক্রেটিস"
     ],
     "answerIndex": 1,
     "explanation": "এই উক্তিটি গ্রিক দার্শনিক প্লেটোর।",
@@ -720,12 +720,12 @@
     "difficulty": "medium",
     "question": "সুশাসনের মূল ভিত্তি কী?",
     "options": [
-      "মূল্যবোধ",
-      "আইনের শাসন",
       "গণতন্ত্র",
+      "আইনের শাসন",
+      "মূল্যবোধ",
       "আমলাতন্ত্র"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "সুশাসনের মূল ভিত্তি গণতন্ত্র।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -737,12 +737,12 @@
     "difficulty": "medium",
     "question": "নৈতিক মূল্যবোধের প্রধান উৎস কোনটি?",
     "options": [
-      "সমাজ",
       "নৈতিক চেতনা",
+      "সমাজ",
       "রাষ্ট্র",
       "ধর্ম"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "নৈতিক মূল্যবোধের প্রধান উৎস সমাজ।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -756,10 +756,10 @@
     "options": [
       "ইমানুয়েল কান্ট",
       "টমাস হবস",
-      "জন স্টুয়ার্ট মিল",
-      "জেরেমি বেন্থাম"
+      "জেরেমি বেন্থাম",
+      "জন স্টুয়ার্ট মিল"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "‘On Liberty’ গ্রন্থের লেখক জন স্টুয়ার্ট মিল।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -771,12 +771,12 @@
     "difficulty": "medium",
     "question": "উৎপত্তিগত অর্থে ‘Governance’ শব্দটি কোন ভাষা থেকে এসেছে?",
     "options": [
+      "ফারসি",
       "ল্যাটিন",
-      "গ্রিক",
       "হিব্রু",
-      "ফারসি"
+      "গ্রিক"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "‘Governance’ শব্দটি গ্রিক ‘kybernan’ থেকে উদ্ভূত।",
     "year": 43,
     "source": "43rd BCS (2021)"
@@ -788,12 +788,12 @@
     "difficulty": "hard",
     "question": "‘Human Society in Ethics and Politics’ গ্রন্থের লেখক কে?",
     "options": [
-      "প্লেটো",
       "রুশো",
       "বার্ট্রান্ড রাসেল",
+      "প্লেটো",
       "জন স্টুয়ার্ট মিল"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "‘Human Society in Ethics and Politics’ গ্রন্থের লেখক বার্ট্রান্ড রাসেল।",
     "year": 43,
     "source": "43rd BCS (2021)"
