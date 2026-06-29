@@ -31,15 +31,19 @@ export default function PreviousYearsScreen({ navigation }) {
         </Text>
 
         <Pressable
-          onPress={() => open({ prevYear: 'all', count: ALL_SESSION, title: 'All Previous Years', locked: !isPremium })}
+          onPress={() => open({ prevYear: 'all', count: ALL_SESSION, title: 'All Previous Years', locked: false })}
           style={({ pressed }) => [styles.allCard, pressed && { opacity: 0.9 }]}
         >
           <Text style={styles.allEmoji}>🗂️</Text>
           <View style={{ flex: 1 }}>
             <Text style={styles.allTitle}>All Previous Years</Text>
-            <Text style={styles.allSub}>{ALL_SESSION} mixed questions from every exam</Text>
+            <Text style={styles.allSub}>
+              {isPremium
+                ? `${ALL_SESSION} mixed questions from every exam`
+                : 'A mixed sample from your free set'}
+            </Text>
           </View>
-          <Text style={styles.allChevron}>{isPremium ? '›' : '🔒'}</Text>
+          <Text style={styles.allChevron}>›</Text>
         </Pressable>
 
         <Text style={styles.sectionLabel}>By exam</Text>

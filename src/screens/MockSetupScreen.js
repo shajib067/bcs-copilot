@@ -2,7 +2,6 @@ import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { usePremium } from '../monetization/premium';
-import { FREE_MOCK_COUNTS } from '../monetization/config';
 
 // BCS preliminary: 200 questions, 120 minutes, 0.5 negative marking.
 // Practice modes keep the same ~0.6 min/question pace.
@@ -15,12 +14,7 @@ const PRACTICE = [
 
 export default function MockSetupScreen({ navigation }) {
   const { isPremium } = usePremium();
-  const locked = (count) => !isPremium && !FREE_MOCK_COUNTS.includes(count);
   const start = (count, durationMin) => {
-    if (locked(count)) {
-      navigation.navigate('Paywall');
-      return;
-    }
     navigation.navigate('MockTest', { count, durationMin });
   };
 
@@ -44,7 +38,7 @@ export default function MockSetupScreen({ navigation }) {
               {FULL.count} questions • {FULL.durationMin} min • {FULL.subtitle}
             </Text>
           </View>
-          <Text style={styles.fullChevron}>{locked(FULL.count) ? '🔒' : '›'}</Text>
+          <Text style={styles.fullChevron}>›</Text>
         </Pressable>
 
         <Text style={styles.sectionLabel}>Quick practice</Text>
@@ -57,15 +51,16 @@ export default function MockSetupScreen({ navigation }) {
             >
               <Text style={styles.practiceCount}>{p.count}</Text>
               <Text style={styles.practiceLabel}>questions</Text>
-              <Text style={styles.practiceTime}>{locked(p.count) ? '🔒 Premium' : p.durationMin + ' min'}</Text>
+              <Text style={styles.practiceTime}>{p.durationMin} min</Text>
             </Pressable>
           ))}
         </View>
 
         <View style={styles.note}>
           <Text style={styles.noteText}>
-            Tip: take a few quick practices to warm up, then attempt a full 200-question mock under
-            real time pressure to simulate exam day.
+            {isPremium
+              ? "Tip: take a few quick practices to warm up, then attempt a full 200-question mock under real time pressure to simulate exam day."
+              : 'Free mocks draw from your free question set. Unlock Premium to take mocks across all 2,000+ questions.'}
           </Text>
         </View>
       </ScrollView>
