@@ -13,7 +13,7 @@
 import { inflate } from 'pako';
 import { ENCODED_BANK } from './bank.generated';
 import { CATEGORIES, TOTAL_MARKS } from './categories';
-import { FREE_QUESTIONS_PER_CATEGORY } from '../monetization/config';
+import { FREE_QUESTIONS_PER_CATEGORY, FREE_RECENT_EXAM_PREVIEW } from '../monetization/config';
 
 // Base64 -> Uint8Array. Implemented directly so we don't depend on
 // atob/Buffer being present in the JS engine (e.g. Hermes).
@@ -85,10 +85,11 @@ export function getPreviousYearExams() {
 }
 
 // A practice session of previous-year questions: a specific year, or 'all'.
-export function getPreviousYearSession(yearOrAll, count) {
-  const pool = QUESTIONS.filter(
+export function getPreviousYearSession(yearOrAll, count, { freeOnly = false } = {}) {
+  let pool = QUESTIONS.filter(
     (q) => q.source && q.year && (yearOrAll === 'all' || q.year === yearOrAll)
   );
+  if (freeOnly) pool = pool.filter((q) => FREE_QUESTION_IDS.has(q.id));
   return sample(pool, count || pool.length);
 }
 
@@ -113,11 +114,18 @@ function buildFreeIds() {
       perCat[q.categoryId] += 1;
     }
   }
-  // Plus the most recent previous-year exam, as a free taste.
+  // Plus a small preview of the most recent previous-year exam.
   const exams = getPreviousYearExams();
   if (exams.length) {
     const freeYear = exams[0].year;
-    for (const q of QUESTIONS) if (q.year === freeYear) ids.add(q.id);
+    let taken = 0;
+    for (const q of QUESTIONS) {
+      if (q.year === freeYear) {
+        if (taken >= FREE_RECENT_EXAM_PREVIEW) break;
+        ids.add(q.id);
+        taken += 1;
+      }
+    }
   }
   return ids;
 }

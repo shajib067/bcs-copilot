@@ -16,7 +16,7 @@ export default function PracticeScreen({ route, navigation }) {
   const isPrevYear = prevYear !== undefined && prevYear !== null;
   const category = categoryId ? getCategoryById(categoryId) : null;
   const questions = useMemo(() => {
-    if (isPrevYear) return getPreviousYearSession(prevYear, count);
+    if (isPrevYear) return getPreviousYearSession(prevYear, count, { freeOnly: !isPremium });
     const freeOnly = !isPremium;
     if (daily) return getDailyChallenge(daily, count || 20, { freeOnly });
     if (weakCategories && weakCategories.length) {

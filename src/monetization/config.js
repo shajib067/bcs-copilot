@@ -12,7 +12,11 @@ export const REVENUECAT_API_KEY = '';
 // Free users get a capped number of questions per subject (a taste of every
 // category). Everything beyond this pool is premium — enforced everywhere
 // (practice, mocks, search, saved) so there's no backdoor to free answers.
-export const FREE_QUESTIONS_PER_CATEGORY = 10;
+export const FREE_QUESTIONS_PER_CATEGORY = 8;
+
+// Free preview of the most-recent previous-year exam (the rest, and all older
+// exams, are premium). Keeps the free taste small but representative.
+export const FREE_RECENT_EXAM_PREVIEW = 15;
 
 // Mock lengths available to free users (others require premium).
 export const FREE_MOCK_COUNTS = [25];

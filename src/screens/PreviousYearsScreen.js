@@ -3,6 +3,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import { getPreviousYearExams } from '../data/questions';
 import { usePremium } from '../monetization/premium';
+import { FREE_RECENT_EXAM_PREVIEW } from '../monetization/config';
 
 const ALL_SESSION = 50; // mixed "all years" session length
 
@@ -56,12 +57,16 @@ export default function PreviousYearsScreen({ navigation }) {
                 </View>
                 <View style={{ flex: 1 }}>
                   <Text style={styles.examTitle}>{e.source}</Text>
-                  <Text style={styles.examMeta}>{e.count} questions</Text>
+                  <Text style={styles.examMeta}>
+                    {e.year === freeYear && !isPremium
+                      ? `${FREE_RECENT_EXAM_PREVIEW} free • ${e.count} total`
+                      : `${e.count} questions`}
+                  </Text>
                 </View>
                 {locked ? (
                   <Text style={styles.lock}>🔒</Text>
                 ) : e.year === freeYear && !isPremium ? (
-                  <Text style={styles.freeTag}>FREE</Text>
+                  <Text style={styles.freeTag}>{FREE_RECENT_EXAM_PREVIEW} FREE</Text>
                 ) : (
                   <Text style={styles.chevron}>›</Text>
                 )}
