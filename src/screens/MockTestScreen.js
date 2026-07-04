@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { View, Text, StyleSheet, ScrollView, Pressable, BackHandler } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, Pressable, BackHandler, AppState } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors, spacing, radius } from '../theme/colors';
 import OptionButton from '../components/OptionButton';
@@ -21,21 +21,33 @@ export default function MockTestScreen({ navigation, route }) {
   const [answers, setAnswers] = useState({}); // { qId: optionIndex }
   const [secondsLeft, setSecondsLeft] = useState(durationMin * 60);
   const submittedRef = useRef(false);
+  const endTimeRef = useRef(Date.now() + durationMin * 60 * 1000);
   const interstitial = useInterstitial();
 
-  // Timer
+  // Timer — anchored to wall-clock time so it keeps counting real elapsed time
+  // even if the app is backgrounded or the screen is locked (like a real exam).
   useEffect(() => {
+    const tick = () => {
+      const remaining = Math.max(0, Math.round((endTimeRef.current - Date.now()) / 1000));
+      setSecondsLeft(remaining);
+      if (remaining <= 0) {
+        submit(true);
+        return false;
+      }
+      return true;
+    };
+    tick();
     const t = setInterval(() => {
-      setSecondsLeft((s) => {
-        if (s <= 1) {
-          clearInterval(t);
-          submit(true);
-          return 0;
-        }
-        return s - 1;
-      });
+      if (!tick()) clearInterval(t);
     }, 1000);
-    return () => clearInterval(t);
+    // Recompute immediately when the app returns to the foreground.
+    const appSub = AppState.addEventListener('change', (state) => {
+      if (state === 'active') tick();
+    });
+    return () => {
+      clearInterval(t);
+      appSub.remove();
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
