@@ -16,8 +16,8 @@ try {
 // null, Google's TEST ads are served (safe to ship-test, no revenue, no risk
 // of policy strikes from clicking your own live ads).
 const REAL = {
-  bannerAndroid: null, // 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX'
-  interstitialAndroid: null, // 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX'
+  bannerAndroid: 'ca-app-pub-4704051067222321/3377490847',
+  interstitialAndroid: 'ca-app-pub-4704051067222321/6839856619',
 };
 
 export const adsAvailable = () => Boolean(Ads);
