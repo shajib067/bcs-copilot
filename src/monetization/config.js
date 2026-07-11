@@ -7,7 +7,7 @@ export const ENTITLEMENT_ID = 'premium';
 
 // RevenueCat public SDK key. Leave empty to run in "local" mode (no real
 // purchases — useful for Expo Go and pre-store testing). Fill in before release.
-export const REVENUECAT_API_KEY = '';
+export const REVENUECAT_API_KEY = 'goog_GIiuMVBkorJIdaROVQyIlwrvmkI';
 
 // Free users get a capped number of questions per subject (a taste of every
 // category). Everything beyond this pool is premium — enforced everywhere
