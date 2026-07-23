@@ -41,7 +41,12 @@
         }
       ]
     ],
-    "description": "Offline BCS preliminary exam preparation: 1,400+ practice MCQs, full 200-question mock exam with negative marking, and performance analytics.",
-    "primaryColor": "#006A4E"
+    "description": "Offline BCS preliminary exam prep: 2,000+ curated MCQs, full mock exam with negative marking, previous-year sets, and performance analytics.",
+    "primaryColor": "#006A4E",
+    "extra": {
+      "eas": {
+        "projectId": "03355d96-9e6f-43f5-9094-fce1c7712f5d"
+      }
+    }
   }
 }
