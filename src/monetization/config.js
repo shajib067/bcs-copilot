@@ -22,10 +22,9 @@ export const FREE_RECENT_EXAM_PREVIEW = 15;
 export const FREE_MOCK_COUNTS = [25];
 
 export const PREMIUM_BENEFITS = [
-  'All 2,000+ meticulously curated questions',
-  'Previous-year questions from past BCS exams',
-  'Full 200-question mock exam (real BCS format)',
+  'All 2,011 meticulously curated questions across 10 subjects',
+  '550+ verified previous-year questions (37th–46th BCS)',
+  'Full 200-question mock exam — real BCS format & timer',
   '50 & 100-question practice mocks',
-  'Complete performance analytics & weak-area insights',
   'No ads',
 ];
