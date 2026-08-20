@@ -105,7 +105,20 @@ export function getQuestionsByIds(ids) {
 function buildFreeIds() {
   const ids = new Set();
   const perCat = {};
-  // First N original (non-previous-year) questions of each category.
+
+  // Pass 1: prefer previous-year questions (real BCS exam questions).
+  // These feel authentic and match what aspirants expect.
+  for (const q of QUESTIONS) {
+    if (!q.year) continue;
+    perCat[q.categoryId] = perCat[q.categoryId] || 0;
+    if (perCat[q.categoryId] < FREE_QUESTIONS_PER_CATEGORY) {
+      ids.add(q.id);
+      perCat[q.categoryId] += 1;
+    }
+  }
+
+  // Pass 2: for categories with no previous-year questions (math, mental),
+  // fill remaining slots from generated questions.
   for (const q of QUESTIONS) {
     if (q.year) continue;
     perCat[q.categoryId] = perCat[q.categoryId] || 0;
@@ -114,6 +127,7 @@ function buildFreeIds() {
       perCat[q.categoryId] += 1;
     }
   }
+
   // Plus a small preview of the most recent previous-year exam.
   const exams = getPreviousYearExams();
   if (exams.length) {
